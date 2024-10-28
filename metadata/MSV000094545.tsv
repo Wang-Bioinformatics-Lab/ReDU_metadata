@@ -1,0 +1,79 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	SampleCollectionMethod	SampleExtractionMethod	InternalStandardsUsed	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	SubjectIdentifierAsRecorded	AgeInYears	BiologicalSex	UBERONBodyPartName	TermsofPosition	HealthStatus	DOIDCommonName	ComorbidityListDOIDIndex	SampleCollectionDateandTime	Country	HumanPopulationDensity	LatitudeandLongitude	DepthorAltitudeMeters	qiita_sample_name
+MSV000094545	AV-A19.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-A19-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-A20.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-A20-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-A24.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-A24-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-A5.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-A5-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-A6.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-A6-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-A7.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-A7r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-B11.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-B11-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-B20.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-B20-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-B21.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-B21-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-B22.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-B22-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-B4.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-B4-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-B5.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-B5r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-C11.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-C16.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-C21.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-C24.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-C4.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-C5.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-D1.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-D13.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-D13r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-D14.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-D14-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-D1-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-D20.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-D20-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-D21.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-D21-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	AV-D9.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	AV-D9-r.mzXML	plant	plant_NOS	41378|Avicennia germinans	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	blank_2-13-22.mzXML	blank_analysis	blank_analysis		2024				6530A Q-TOF LC/MS|MS:1002786																
+MSV000094545	no-injection_9-3-22.mzXML	blank_analysis	blank_analysis		2024				6530A Q-TOF LC/MS|MS:1002786																
+MSV000094545	no-injection_9-4-22.mzXML	blank_analysis	blank_analysis		2024				6530A Q-TOF LC/MS|MS:1002786																
+MSV000094545	no-injection_9-8-22.mzXML	blank_analysis	blank_analysis		2024				6530A Q-TOF LC/MS|MS:1002786																
+MSV000094545	RM-A17.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-A17-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-A22.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-A22-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-A3.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-A3-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-A4.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-A4-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-B1.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-B16.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-B16-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-B19.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-B19-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-B1-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-B7.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-B7r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-C16.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-C2.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-C20.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-C2-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-C3.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-D24.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-D24r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-D6.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-D6-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-D7.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-D7-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	RM-D9.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						stem										
+MSV000094545	RM-D9-r.mzXML	plant	plant_NOS	40031|Rhizophora mangle	2024				6530A Q-TOF LC/MS|MS:1002786						root										
+MSV000094545	wash_9-8-22-1.mzXML	blank_analysis	blank_analysis		2024				6530A Q-TOF LC/MS|MS:1002786																
+MSV000094545	wash-2-13-22-1.mzXML	blank_analysis	blank_analysis		2024				6530A Q-TOF LC/MS|MS:1002786																
+MSV000094545	wash-2-13-22-2.mzXML	blank_analysis	blank_analysis		2024				6530A Q-TOF LC/MS|MS:1002786																
