@@ -1,0 +1,113 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	SampleCollectionMethod	SampleExtractionMethod	InternalStandardsUsed	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	SubjectIdentifierAsRecorded	AgeInYears	BiologicalSex	UBERONBodyPartName	TermsofPosition	HealthStatus	DOIDCommonName	ComorbidityListDOIDIndex	SampleCollectionDateandTime	Country	HumanPopulationDensity	LatitudeandLongitude	DepthorAltitudeMeters	qiita_sample_name	Unnamed: 26	Unnamed: 27	Unnamed: 28
+MSV000090145	ELS-01-10 Sol_GC6_01_18949.mzML	blank_analysis	blank_analysis																									
+MSV000090145	ELS-01-10 Sol_GC6_01_18963.mzML	blank_analysis	blank_analysis																									
+MSV000090145	ELS-01-22 80-Solvent_RA2_01_21905.mzML	blank_analysis	blank_analysis																									
+MSV000090145	ELS-01-22 80-Solvent_RA2_01_21926.mzML	blank_analysis	blank_analysis																									
+MSV000090145	ELS-01-22 80-Solvent_RA2_01_21943.mzML	blank_analysis	blank_analysis																									
+MSV000090145	ELS-01-22 80-Solvent_RA2_01_21960.mzML	blank_analysis	blank_analysis																									
+MSV000090145	ELS-01-22 80-Solvent_RA2_01_21980.mzML	blank_analysis	blank_analysis																									
+MSV000090145	ELS-01-22 80-Solvent_RA2_01_21985.mzML	blank_analysis	blank_analysis																									
+MSV000090145	ELS-01-22 80-Solvent_RA2_01_21990.mzML	blank_analysis	blank_analysis																									
+MSV000090145	ELS-01-22 1-Nrep03-Root_GA3_01_21906.mzML	plant	plant_NOS	76336|Nicotiana repanda											root													
+MSV000090145	ELS-01-22 10-Npan03-Root_GB4_01_21915.mzML	plant	plant_NOS	62141|Nicotiana paniculata											root													
+MSV000090145	ELS-01-22 11-Npal03-Root_GB5_01_21916.mzML	plant	plant_NOS	49453|Nicotiana palmeri											root													
+MSV000090145	ELS-01-22 12-Ngoo03-Root_GB6_01_21917.mzML	plant	plant_NOS	200305|Nicotiana goodspeedii											root													
+MSV000090145	ELS-01-22 13-Nset03-Root_GB7_01_21918.mzML	plant	plant_NOS	NA|Nicotiana setchelli											root													
+MSV000090145	ELS-01-22 14-Nrus03-Root_GB8_01_21919.mzML	plant	plant_NOS	4093|Nicotiana rustica											root													
+MSV000090145	ELS-01-22 15-Ntab03-Root_GC1_01_21920.mzML	plant	plant_NOS	4097|Nicotiana tabacum											root													
+MSV000090145	ELS-01-22 16-Ncle03-Root_GC2_01_21921.mzML	plant	plant_NOS	81866|Nicotiana clevelandii											root													
+MSV000090145	ELS-01-22 17-Ngla03-Root_GC3_01_21922.mzML	plant	plant_NOS	4090|Nicotiana glauca											root													
+MSV000090145	ELS-01-22 18-Nplu03-Root_GC4_01_21923.mzML	plant	plant_NOS	4092|Nicotiana plumbaginifolia											root													
+MSV000090145	ELS-01-22 19-Natt03-Root_GC5_01_21924.mzML	plant	plant_NOS	49451|Nicotiana attenuata											root													
+MSV000090145	ELS-01-22 2-Nsto03-Root_GA4_01_21907.mzML	plant	plant_NOS	118710|Nicotiana stocktonii											root													
+MSV000090145	ELS-01-22 20-Nben03-Root_GC6_01_21925.mzML	plant	plant_NOS	4100|Nicotiana benthamiana											root													
+MSV000090145	ELS-01-22 3-Nnes03-Root_GA5_01_21908.mzML	plant	plant_NOS	200321|Nicotiana nesophila											root													
+MSV000090145	ELS-01-22 4-Nsyl03-Root_GA6_01_21909.mzML	plant	plant_NOS	4096|Nicotiana sylvestris											root													
+MSV000090145	ELS-01-22 5-Nobt03-Root_GA7_01_21910.mzML	plant	plant_NOS	200316|Nicotiana obtusifolia											root													
+MSV000090145	ELS-01-22 6-Nnud03-Root_GA8_01_21911.mzML	plant	plant_NOS	49452|Nicotiana nudicaulis											root													
+MSV000090145	ELS-01-22 7-Nglu03-Root_GB1_01_21912.mzML	plant	plant_NOS	35889|Nicotiana glutinosa											root													
+MSV000090145	ELS-01-22 8-Nrxs03-Root_GB2_01_21913.mzML	plant	plant_NOS	NA|Nicotiana repanda x sylvestris											root													
+MSV000090145	ELS-01-22 9-Nwut03-Root_GB3_01_21914.mzML	plant	plant_NOS	NA|Nicotiana wuttkei											root													
+MSV000090145	ELS-01-22 21-Nrep03-MeJ_GC7_01_21981.mzML	plant	plant_NOS	76336|Nicotiana repanda											leaf													
+MSV000090145	ELS-01-22 22-Nsto03-MeJ_GC8_01_21982.mzML	plant	plant_NOS	118710|Nicotiana stocktonii											leaf													
+MSV000090145	ELS-01-22 23-Nnes03-MeJ_GD1_01_21983.mzML	plant	plant_NOS	200321|Nicotiana nesophila											leaf													
+MSV000090145	ELS-01-22 24-Nsyl03-MeJ_GD2_01_21927.mzML	plant	plant_NOS	4096|Nicotiana sylvestris											leaf													
+MSV000090145	ELS-01-22 25-Nobt03-MeJ_GD3_01_21928.mzML	plant	plant_NOS	200316|Nicotiana obtusifolia											leaf													
+MSV000090145	ELS-01-22 26-Nnud03-MeJ_GD4_01_21929.mzML	plant	plant_NOS	49452|Nicotiana nudicaulis											leaf													
+MSV000090145	ELS-01-22 27-Nglu03-MeJ_GD5_01_21930.mzML	plant	plant_NOS	35889|Nicotiana glutinosa											leaf													
+MSV000090145	ELS-01-22 28-Nrxs03-MeJ_GD6_01_21984.mzML	plant	plant_NOS	NA|Nicotiana repanda x sylvestris											leaf													
+MSV000090145	ELS-01-22 29-Nwut03-MeJ_GD7_01_21931.mzML	plant	plant_NOS	NA|Nicotiana wuttkei											leaf													
+MSV000090145	ELS-01-22 30-Npan03-MeJ_GD8_01_21932.mzML	plant	plant_NOS	62141|Nicotiana paniculata											leaf													
+MSV000090145	ELS-01-22 31-Npal03-MeJ_GE1_01_21933.mzML	plant	plant_NOS	49453|Nicotiana palmeri											leaf													
+MSV000090145	ELS-01-22 32-Ngoo03-MeJ_GE2_01_21934.mzML	plant	plant_NOS	200305|Nicotiana goodspeedii											leaf													
+MSV000090145	ELS-01-22 33-Nset03-MeJ_GE3_01_21935.mzML	plant	plant_NOS	NA|Nicotiana setchelli											leaf													
+MSV000090145	ELS-01-22 34-Nrus03-MeJ_GE4_01_21936.mzML	plant	plant_NOS	4093|Nicotiana rustica											leaf													
+MSV000090145	ELS-01-22 35-Ntab03-MeJ_GE5_01_21937.mzML	plant	plant_NOS	4097|Nicotiana tabacum											leaf													
+MSV000090145	ELS-01-22 36-Ncle03-MeJ_GE6_01_21938.mzML	plant	plant_NOS	81866|Nicotiana clevelandii											leaf													
+MSV000090145	ELS-01-22 37-Ngla03-MeJ_GE7_01_21939.mzML	plant	plant_NOS	4090|Nicotiana glauca											leaf													
+MSV000090145	ELS-01-22 38-Nplu03-MeJ_GE8_01_21940.mzML	plant	plant_NOS	4092|Nicotiana plumbaginifolia											leaf													
+MSV000090145	ELS-01-22 39-Natt03-MeJ_BA1_01_21941.mzML	plant	plant_NOS	49451|Nicotiana attenuata											leaf													
+MSV000090145	ELS-01-22 40-Nben03-MeJ_BA2_01_21942.mzML	plant	plant_NOS	4100|Nicotiana benthamiana											leaf													
+MSV000090145	ELS-01-22 41-Nrep03-Ctrl_BA3_01_21986.mzML	plant	plant_NOS	76336|Nicotiana repanda											leaf													
+MSV000090145	ELS-01-22 42-Nsto03-Ctrl_BA4_01_21987.mzML	plant	plant_NOS	118710|Nicotiana stocktonii											leaf													
+MSV000090145	ELS-01-22 43-Nnes03-Ctrl_BA5_01_21988.mzML	plant	plant_NOS	200321|Nicotiana nesophila											leaf													
+MSV000090145	ELS-01-22 44-Nsyl03-Ctrl_BA6_01_21944.mzML	plant	plant_NOS	4096|Nicotiana sylvestris											leaf													
+MSV000090145	ELS-01-22 45-Nobt03-Ctrl_BA7_01_21945.mzML	plant	plant_NOS	200316|Nicotiana obtusifolia											leaf													
+MSV000090145	ELS-01-22 46-Nnud03-Ctrl_BA8_01_21946.mzML	plant	plant_NOS	49452|Nicotiana nudicaulis											leaf													
+MSV000090145	ELS-01-22 47-Nglu03-Ctrl_BB1_01_21947.mzML	plant	plant_NOS	35889|Nicotiana glutinosa											leaf													
+MSV000090145	ELS-01-22 48-Nrxs03-Ctrl_BB2_01_21989.mzML	plant	plant_NOS	NA|Nicotiana repanda x sylvestris											leaf													
+MSV000090145	ELS-01-22 49-Nwut03-Ctrl_BB3_01_21948.mzML	plant	plant_NOS	NA|Nicotiana wuttkei											leaf													
+MSV000090145	ELS-01-22 50-Npan03-Ctrl_BB4_01_21949.mzML	plant	plant_NOS	62141|Nicotiana paniculata											leaf													
+MSV000090145	ELS-01-22 51-Npal03-Ctrl_BB5_01_21950.mzML	plant	plant_NOS	49453|Nicotiana palmeri											leaf													
+MSV000090145	ELS-01-22 52-Ngoo03-Ctrl_BB6_01_21951.mzML	plant	plant_NOS	200305|Nicotiana goodspeedii											leaf													
+MSV000090145	ELS-01-22 53-Nset03-Ctrl_BB7_01_21952.mzML	plant	plant_NOS	NA|Nicotiana setchelli											leaf													
+MSV000090145	ELS-01-22 54-Nrus03-Ctrl_BB8_01_21953.mzML	plant	plant_NOS	4093|Nicotiana rustica											leaf													
+MSV000090145	ELS-01-22 55-Ntab03-Ctrl_BC1_01_21954.mzML	plant	plant_NOS	4097|Nicotiana tabacum											leaf													
+MSV000090145	ELS-01-22 56-Ncle03-Ctrl_BC2_01_21955.mzML	plant	plant_NOS	81866|Nicotiana clevelandii											leaf													
+MSV000090145	ELS-01-22 57-Ngla03-Ctrl_BC3_01_21956.mzML	plant	plant_NOS	4090|Nicotiana glauca											leaf													
+MSV000090145	ELS-01-22 58-Nplu03-Ctrl_BC4_01_21957.mzML	plant	plant_NOS	4092|Nicotiana plumbaginifolia											leaf													
+MSV000090145	ELS-01-22 59-Natt03-Ctrl_BC5_01_21958.mzML	plant	plant_NOS	49451|Nicotiana attenuata											leaf													
+MSV000090145	ELS-01-22 60-Nben03-Ctrl_BC6_01_21959.mzML	plant	plant_NOS	4100|Nicotiana benthamiana											leaf													
+MSV000090145	ELS-01-07 Nnes_GA6_01_18434.mzML	plant	plant_NOS	76336|Nicotiana repanda											Exudate													
+MSV000090145	ELS-01-07 Nrep_GA4_01_18430.mzML	plant	plant_NOS	200321|Nicotiana nesophila											Exudate													
+MSV000090145	ELS-01-07 Nrxs01_GB2_01_18442.mzML	plant	plant_NOS	NA|Nicotiana repanda x sylvestris											Exudate													
+MSV000090145	ELS-01-07 Nsto_GA5_01_18432.mzML	plant	plant_NOS	118710|Nicotiana stocktonii											Exudate													
+MSV000090145	ELS-01-07 Ntab01_GC1_01_18456.mzML	plant	plant_NOS	4097|Nicotiana tabacum											Exudate													
+MSV000090145	ELS-01-08 Nglu02_GA6_01_18956.mzML	plant	plant_NOS	35889|Nicotiana glutinosa											Exudate													
+MSV000090145	ELS-01-10 Nben02_GC1_01_18978.mzML	plant	plant_NOS	4100|Nicotiana benthamiana											Exudate													
+MSV000090145	ELS-01-10 Ncle02_GB5_01_18970.mzML	plant	plant_NOS	81866|Nicotiana clevelandii											Exudate													
+MSV000090145	ELS-01-10 Ngla02_GB6_01_18972.mzML	plant	plant_NOS	4090|Nicotiana glauca											Exudate													
+MSV000090145	ELS-01-10 Ngoo02_GB2_01_18964.mzML	plant	plant_NOS	200305|Nicotiana goodspeedii											Exudate													
+MSV000090145	ELS-01-10 Nnatt02_GB8_01_18976.mzML	plant	plant_NOS	49451|Nicotiana attenuata											Exudate													
+MSV000090145	ELS-01-10 Nnes_GC5_01_18986.mzML	plant	plant_NOS	200321|Nicotiana nesophila											Exudate													
+MSV000090145	ELS-01-10 Nnud02_GA5_01_18954.mzML	plant	plant_NOS	49452|Nicotiana nudicaulis											Exudate													
+MSV000090145	ELS-01-10 Nobt02_GA4_01_18952.mzML	plant	plant_NOS	200316|Nicotiana obtusifolia											Exudate													
+MSV000090145	ELS-01-10 Npal02_GB1_01_18962.mzML	plant	plant_NOS	49453|Nicotiana palmeri											Exudate													
+MSV000090145	ELS-01-10 Npan02_GA8_01_18960.mzML	plant	plant_NOS	62141|Nicotiana paniculata											Exudate													
+MSV000090145	ELS-01-10 Nplu02_GB7_01_18974.mzML	plant	plant_NOS	4092|Nicotiana plumbaginifolia											Exudate													
+MSV000090145	ELS-01-10 Nrep_GC3_01_18982.mzML	plant	plant_NOS	76336|Nicotiana repanda											Exudate													
+MSV000090145	ELS-01-10 Nrus02mf_GC2_01_18980.mzML	plant	plant_NOS	4093|Nicotiana rustica											Exudate													
+MSV000090145	ELS-01-10 Nrus02_GB4_01_18968.mzML	plant	plant_NOS	4093|Nicotiana rustica											Exudate													
+MSV000090145	ELS-01-10 Nset02_GB3_01_18966.mzML	plant	plant_NOS	NA|Nicotiana setchelli											Exudate													
+MSV000090145	ELS-01-10 Nsto_GC4_01_18984.mzML	plant	plant_NOS	118710|Nicotiana stocktonii											Exudate													
+MSV000090145	ELS-01-10 Nsyl02_GA3_01_18950.mzML	plant	plant_NOS	4096|Nicotiana sylvestris											Exudate													
+MSV000090145	ELS-01-10 Nwut02_GA7_01_18958.mzML	plant	plant_NOS	NA|Nicotiana wuttkei											Exudate													
+MSV000090145	ELS-01-22 61-Nrep03-Calyx_BC7_01_21961.mzML	plant	plant_NOS	76336|Nicotiana repanda											calyx													
+MSV000090145	ELS-01-22 62-Nsto03-Calyx_BC8_01_21962.mzML	plant	plant_NOS	118710|Nicotiana stocktonii											calyx													
+MSV000090145	ELS-01-22 63-Nnes03-Calyx_BD1_01_21963.mzML	plant	plant_NOS	200321|Nicotiana nesophila											calyx													
+MSV000090145	ELS-01-22 64-Nsyl03-Calyx_BD2_01_21964.mzML	plant	plant_NOS	4096|Nicotiana sylvestris											calyx													
+MSV000090145	ELS-01-22 65-Nobt03-Calyx_BD3_01_21965.mzML	plant	plant_NOS	200316|Nicotiana obtusifolia											calyx													
+MSV000090145	ELS-01-22 66-Nnud03-Calyx_BD4_01_21966.mzML	plant	plant_NOS	49452|Nicotiana nudicaulis											calyx													
+MSV000090145	ELS-01-22 67-Nglu03-Calyx_BD5_01_21967.mzML	plant	plant_NOS	35889|Nicotiana glutinosa											calyx													
+MSV000090145	ELS-01-22 68-Nrxs03-Calyx_BD6_01_21968.mzML	plant	plant_NOS	NA|Nicotiana repanda x sylvestris											calyx													
+MSV000090145	ELS-01-22 69-Nwut03-Calyx_BD7_01_21969.mzML	plant	plant_NOS	NA|Nicotiana wuttkei											calyx													
+MSV000090145	ELS-01-22 70-Npan03-Calyx_BD8_01_21970.mzML	plant	plant_NOS	62141|Nicotiana paniculata											calyx													
+MSV000090145	ELS-01-22 71-Npal03-Calyx_BE1_01_21971.mzML	plant	plant_NOS	49453|Nicotiana palmeri											calyx													
+MSV000090145	ELS-01-22 72-Ngoo03-Calyx_BE2_01_21972.mzML	plant	plant_NOS	200305|Nicotiana goodspeedii											calyx													
+MSV000090145	ELS-01-22 73-Nrus03-Calyx_BE3_01_21973.mzML	plant	plant_NOS	4093|Nicotiana rustica											calyx													
+MSV000090145	ELS-01-22 74-Ntab03-Calyx_BE4_01_21974.mzML	plant	plant_NOS	4097|Nicotiana tabacum											calyx													
+MSV000090145	ELS-01-22 75-Ncle03-Calyx_BE5_01_21975.mzML	plant	plant_NOS	81866|Nicotiana clevelandii											calyx													
+MSV000090145	ELS-01-22 76-Ngla03-Calyx_BE6_01_21976.mzML	plant	plant_NOS	4090|Nicotiana glauca											calyx													
+MSV000090145	ELS-01-22 77-Nplu03-Calyx_BE7_01_21977.mzML	plant	plant_NOS	4092|Nicotiana plumbaginifolia											calyx													
+MSV000090145	ELS-01-22 78-Natt03-Calyx_BE8_01_21978.mzML	plant	plant_NOS	49451|Nicotiana attenuata											calyx													
+MSV000090145	ELS-01-22 79-Nben03-Calyx_RA1_01_21979.mzML	plant	plant_NOS	4100|Nicotiana benthamiana											calyx													
