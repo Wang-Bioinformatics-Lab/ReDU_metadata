@@ -1,0 +1,408 @@
+MassiveID	filename	SampleType	NCBITaxonomy	MassSpectrometer	BiologicalSex	AgeInYears	UBERONBodyPartName	HealthStatus	DOIDCommonName	Ethnicity	SocialEconomicalStatus	ATTRIBUTE_HumanPopulationDensity
+MSV000082221	Blank_no_inj_GA1_01_28002.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28015.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28028.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28041.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28056.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28069.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28082.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28095.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28109.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28112.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28211.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28214.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28227.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28240.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28253.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28268.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28282.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28295.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28308.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28323.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28326.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28332.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28338.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28349.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28360.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28373.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28394.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28405.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Blank_no_inj_GA1_01_28417.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	PLCL17523_RC8_01_28036.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17524_RB2_01_28017.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL17528_RA12_01_28014.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17532_RG2_01_28084.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL17534_BG2_01_28186.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL17539_BC10_01_28359.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17693_BE3_01_28163.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17695_RA5_01_28007.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL17696_RG9_01_28091.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17710_BC2_01_28138.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17712_BE2_01_28162.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL17712_RC12_01_28040.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17718_RF5_01_28074.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17719_RF7_01_28076.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17720_RB8_01_28023.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17725_RA8_01_28010.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17842_RD7_01_28048.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17858_BF9_01_28181.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17860_RC4_01_28032.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL17871_RD5_01_28046.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18228_RC2_01_28030.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18230_RH7_01_28101.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18231_BG10_01_28404.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18235_RB9_01_28024.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18236_BB6_01_28130.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18250_RH12_01_28106.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18257_BC7_01_28143.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18260_RB5_01_28020.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18266_BH2_01_28198.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18269_RE11_01_28067.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18273_BD6_01_28154.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18276_RE4_01_28060.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18278_RD6_01_28047.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18279_BE5_01_28165.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18281_BF5_01_28177.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18283_BE8_01_28168.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18284_BA10_01_28337.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18290_BA3_01_28115.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18291_BG9_01_28193.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18293_RE8_01_28064.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18294_BE10_01_28383.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18295_BE7_01_28167.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18302_RA2_01_28004.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18303_RD11_01_28052.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18752_RE3_01_28059.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18755_RG6_01_28088.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18757_BE11_01_28171.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18758_RG7_01_28089.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18761_RF12_01_28081.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18776_RD4_01_28045.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18788_BG11_01_28195.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18791_BA8_01_28120.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18794_BC6_01_28142.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18795_RB3_01_28018.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18796_RF10_01_28079.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18800_BC3_01_28139.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18813_RA10_01_28224.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18816_RE5_01_28061.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18818_BG12_01_28196.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18823_RE9_01_28065.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18824_RE10_01_28066.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18827_RH8_01_28102.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18832_BA2_01_28114.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18839_RF2_01_28071.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18850_BD7_01_28155.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18852_RG8_01_28090.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18857_RE6_01_28062.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18860_BF10_01_28393.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18864_RA7_01_28009.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18867_BA10_01_28122.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18870_RH4_01_28099.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18880_RF4_01_28073.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18881_BD5_01_28153.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18883_BH9_01_28205.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18886_BC4_01_28140.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18887_RF6_01_28075.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18890_RG3_01_28085.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18891_RB7_01_28022.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18893_RH6_01_28100.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18894_BA9_01_28121.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18904_RC9_01_28037.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18906_RH3_01_28098.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL18909_RA3_01_28005.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL18911_RF11_01_28080.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19006_BC9_01_28145.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19009_BA4_01_28116.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19011_BB4_01_28128.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19014_RH2_01_28097.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19017_BD10_01_28158.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19021_RA6_01_28008.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19024_BD2_01_28150.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19219_BH7_01_28203.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19246_BE10_01_28170.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19273_BG5_01_28189.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19276_RH11_01_28105.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19278_BH3_01_28199.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19283_RD9_01_28050.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19286_RC11_01_28251.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19291_RD10_01_28051.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19460_RA11_01_28225.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19578_RB4_01_28019.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19579_RC7_01_28035.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19580_BB3_01_28127.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19591_RB6_01_28021.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19593_RD3_01_28044.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19598_RF9_01_28078.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19600_BD10_01_28370.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19603_BH8_01_28204.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19604_RA9_01_28011.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19611_RD2_01_28043.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19613_RE7_01_28063.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19615_BD9_01_28369.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19620_BF6_01_28178.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19621_RE2_01_28058.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19621_RF8_01_28077.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19621_RG11_01_28093.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19625_RA10_01_28012.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19626_RC3_01_28031.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19628_BB2_01_28126.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19631_RF3_01_28072.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19689_RB10_01_28025.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19696_BB8_01_28132.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19698_RA4_01_28006.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19699_BE4_01_28164.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19700_RB12_01_28027.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19702_BH12_01_28208.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19707_BB9_01_28133.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19708_BG6_01_28190.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19714_BA7_01_28119.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19715_RC10_01_28038.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19718_BD3_01_28151.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19726_BC10_01_28146.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19730_BD2_01_28362.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19866_BF3_01_28175.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19942_BB3_01_28341.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19947.1_BE9_01_28382.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19988_BE12_01_28172.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19990_BG4_01_28188.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19991_BA12_01_28124.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19995_RF11_01_28293.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL19997_BF2_01_28385.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL19999_RH9_01_28103.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20000_RH11_01_28319.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20003_BF12_01_28184.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20047_RH10_01_28318.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20051_BC5_01_28141.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20053_RG11_01_28306.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20066_RB10_01_28237.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20075_RE11_01_28280.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20076_RE12_01_28281.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20079_BA2_01_28328.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20080_BA3_01_28329.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20088_BA5_01_28117.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20093_BG7_01_28191.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20099_RE12_01_28068.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20100_RG5_01_28087.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20116_RA12_01_28226.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20120_RE10_01_28279.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20123_RG10_01_28305.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20124_RD12_01_28265.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20129_RB12_01_28239.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20131_BB10_01_28348.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20134_RH9_01_28317.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20141_BE2_01_28375.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20144_BG2_01_28396.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20145_RF12_01_28294.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20155_BB2_01_28340.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20156_BC2_01_28351.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20158_BH2_01_28407.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20166_BB10_01_28134.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20427_RD11_01_28264.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20431_RC12_01_28252.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20434_BH11_01_28207.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20503_RD8_01_28049.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20507_BB11_01_28135.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20511_RC6_01_28034.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20518_RB8_01_28235.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20531_BB12_01_28136.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20533_RA2_01_28216.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20538_BF11_01_28183.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20541_RB11_01_28238.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20935_BA11_01_28123.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20936_RG4_01_28086.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20940_BD11_01_28159.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20947_BC12_01_28148.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20952_RG9_01_28304.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20955_RG10_01_28092.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20960_RC10_01_28250.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20963_RA11_01_28013.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20966_RB11_01_28026.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20968_RC11_01_28039.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20973_RH10_01_28104.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20974_RC5_01_28033.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20980_BH10_01_28206.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20981_BG10_01_28194.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL20983_BF8_01_28180.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL20993_RD10_01_28263.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21373_BC8_01_28144.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21376_BB5_01_28129.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21383_RE9_01_28278.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21384_BD8_01_28156.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21385_BA6_01_28118.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21392_RC8_01_28248.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21394_RG3_01_28298.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21395_BD12_01_28160.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21419_BG8_01_28192.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21427.1_BE5_01_28378.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21429_BF7_01_28179.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21431_BE6_01_28166.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21433_RG12_01_28094.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21437_RD9_01_28262.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21445_BC11_01_28147.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21449_RA8_01_28222.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21452_RC4_01_28244.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21469_RH5_01_28313.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21472_BH6_01_28202.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21473_RH4_01_28312.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21474_RA7_01_28221.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21475_RA5_01_28219.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21485_BF4_01_28176.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21487_RA3_01_28217.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21490_BB7_01_28131.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21491_BC9_01_28358.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21492_RH3_01_28311.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21514_RB5_01_28232.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21521_RB6_01_28233.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21525_BD9_01_28157.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21528_RA6_01_28220.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21529_RF10_01_28292.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21532_RC5_01_28245.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL215476_BH5_01_28201.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21549_BE9_01_28169.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21551_RF9_01_28291.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21552_BD4_01_28152.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL21555_RD12_01_28053.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21559_BF10_01_28182.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21561_BG3_01_28187.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL21562_RG5_01_28300.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22074_BH4_01_28200.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22077_RF4_01_28286.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22081.1_RG12_01_28307.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22135_RG4_01_28299.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22139_RF2_01_28284.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22140_RG2_01_28297.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22142_RH6_01_28314.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22147_RG8_01_28303.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22150_RG6_01_28301.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22156_RD3_01_28256.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22166_RE8_01_28277.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22178_RA4_01_28218.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22184_RE3_01_28271.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22194_BF2_01_28174.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22203_RC7_01_28247.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22204_RC3_01_28243.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22214_RH2_01_28310.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22221_RH8_01_28316.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22223_RA9_01_28223.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22224_RF7_01_28289.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22229_RD5_01_28258.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22230_RB4_01_28231.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22243_RE7_01_28276.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22244_RE2_01_28270.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22247_RF6_01_28288.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22249_RC9_01_28249.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22251_RF3_01_28285.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	not applicable	not specified	feces	not applicable	not applicable	not specified	not specified	Urban
+MSV000082221	PLCL22324.1_BF6_01_28389.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22325.1_BH6_01_28411.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22327.1_BG7_01_28401.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22328.1_BB7_01_28345.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22332.1_BG5_01_28399.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22334.1_BA6_01_28333.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22342.1_BC8_01_28357.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22343.1_BD6_01_28366.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22654_RD8_01_28261.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL22668_RF8_01_28290.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL22998_RD6_01_28259.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23003_RD2_01_28255.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23016_RH7_01_28315.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23020_RE6_01_28275.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23022_RE4_01_28272.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23033_RC6_01_28246.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23035_RG7_01_28302.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23039_RD7_01_28260.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23041_RF5_01_28287.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23044_RD4_01_28257.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23046_RB2_01_28229.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23050_BD3_01_28363.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23075_RB3_01_28230.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23082_RB9_01_28236.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23134.1_BC6_01_28355.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23143_BD4_01_28364.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23145_RC2_01_28242.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23147_BC3_01_28352.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23160_BG3_01_28397.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23170_BC4_01_28353.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23175_BE4_01_28377.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23176_RB7_01_28234.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23362_RE5_01_28274.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23389_BB4_01_28342.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23394_BH3_01_28408.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23408_BF3_01_28386.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23433_BE3_01_28376.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23458_BA4_01_28330.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23459_BF4_01_28387.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23460.3_BD5_01_28365.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23461.1_BB6_01_28344.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL23466_BG4_01_28398.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23467_BB5_01_28343.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23482.1_BF5_01_28388.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL23490_BC5_01_28354.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL24015_BA5_01_28331.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL24018_BH4_01_28409.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL24883.1_BG9_01_28403.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL24908.1_BH9_01_28414.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL24919.1_BG6_01_28400.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL24920.1_BH7_01_28412.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL24922.1_BE6_01_28379.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25732.1_BA9_01_28336.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25735.1_BA7_01_28334.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL25736.1_BE8_01_28381.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL25738.1_BC7_01_28356.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25744.1_RH12_01_28320.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL25745.1_BD8_01_28368.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL25751.1_BF8_01_28391.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25761.1_BB9_01_28347.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL25765.1_BF7_01_28390.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25768.1_BE7_01_28380.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25771.1_BG8_01_28402.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25772.1_BD7_01_28367.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL25773.1_BF9_01_28392.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25775.1_BA8_01_28335.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	male	not specified	feces	unhealthy (NOS)	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25781.1_BH5_01_28410.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	PLCL25785.1_BB8_01_28346.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	PLCL25792.1_BH8_01_28413.mzML	biofluid	9606|Homo sapiens	impact|MS:1002077	female	not specified	feces	unhealthy (NOS)	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	SolventBlank1_1_RA1_01_28003.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank1_2_RB1_01_28016.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	SolventBlank1_3_RC1_01_28029.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	SolventBlank1_4_RD1_01_28042.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	SolventBlank1_5_RE1_01_28057.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank1_6_RF1_01_28070.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	SolventBlank1_7_RG1_01_28083.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	SolventBlank1_8_RH1_01_28096.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	SolventBlank2_1_BA1_01_28113.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank2_2_BB1_01_28125.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	SolventBlank2_3_BC1_01_28137.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank2_4_BD1_01_28149.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank2_5_BE1_01_28161.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank2_6_BF1_01_28173.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank2_7_BG1_01_28185.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank2_8_BH1_01_28197.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank3_1_RA1_01_28215.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	ulcerative colitis	not specified	not specified	Urban
+MSV000082221	SolventBlank3_2_RB1_01_28228.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	Crohn's disease	not specified	not specified	Urban
+MSV000082221	SolventBlank3_3_RC1_01_28241.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank3_4_RD1_01_28254.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank3_5_RE1_01_28269.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank3_5_repeat_RE1_01_28273.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank3_6_RF1_01_28283.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank3_7_RG1_01_28296.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank3_8_RH1_01_28309.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank4_1_BA1_01_28327.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank4_2_BB1_01_28339.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank4_3_BC1_01_28350.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank4_4_BD1_01_28361.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank4_5_BE1_01_28374.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank4_6_BF1_01_28384.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank4_7_BG1_01_28395.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	SolventBlank4_8_BH1_01_28406.mzML	blank	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_1_1_GA2_01_28001.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_1_1_GA2_01_28111.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_1_2_GA2_01_28055.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_1_2_GA2_01_28108.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_1_2_GA2_01_28210.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_3_1_GA2_01_28213.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_3_2_GA2_01_28267.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_3_3_GA2_01_28322.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_4_1_GA2_01_28325.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_4_2_GA2_01_28372.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable
+MSV000082221	Std_Mix_4_3_GA2_01_28416.mzML	QC	not applicable	impact|MS:1002077	not applicable	not specified	not applicable	not applicable	not applicable	not specified	not specified	not applicable

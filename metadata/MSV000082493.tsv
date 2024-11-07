@@ -1,0 +1,810 @@
+MassiveID	filename	SampleType	NCBITaxonomy	MassSpectrometer	BiologicalSex	AgeInYears	UBERONBodyPartName	HealthStatus	DOIDCommonName	Ethnicity	Social_Economical_Status
+MSV000082493	calcurve_6mix_1_GA1_01_29204.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_6mix_2_GA1_01_29266.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_6mix_1_GA1_01_28493.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_6mix_2_GA1_01_28603.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_6mix_1_GA1_01_28604.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_6mix_2_GA1_01_28712.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_6mix_1_GA1_01_28713.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_6mix_2_GA1_01_28820.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_6mix_1_GA1_01_28821.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_6mix_2_GA1_01_28928.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_6mix_1_GA1_01_29268.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_6mix_2_GA1_01_29363.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_6mix_1_GA1_01_28932.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_6mix_2_GA1_01_29039.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_6mix_2_GA1_01_29097.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_6mix_2_GA1_01_29203.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate9_6mix_1_GA1_01_29041.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate9_6mix_2_GA1_01_29095.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_stdmixA_1_GE1_01_28494.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_stdmixA_1_GE1_01_28605.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_stdmixA_1_GE1_01_28714.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_stdmixA_1_GE1_01_28822.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_stdmixA_1_GE1_01_28933.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_stdmixA_1_GE1_01_29098.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate9_stdmixA_1_GE1_01_29042.mzML	QC	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_swab_RH11_01_28600.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_swab_RH11_01_28709.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_swab_RH11_01_28817.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_swab_RH11_01_28925.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_swab_RH11_01_29036.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_10_GA1_01_29267.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_1_GA1_01_29205.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_2_GA1_01_29211.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_3_GA1_01_29217.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_4_GA1_01_29223.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_5_GA1_01_29229.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_6_GA1_01_29235.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_7_GA1_01_29241.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_8_GA1_01_29247.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_8_GA1_01_29253.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_8_GA1_01_29259.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	calcurve_blk_LCMSsolvent_9_GA1_01_29265.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_LCMSsolvent_1_GA1_01_28495.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_LCMSsolvent_2_GA1_01_28511.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_LCMSsolvent_3_GA1_01_28524.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_LCMSsolvent_4_GA1_01_28537.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_LCMSsolvent_5_GA1_01_28550.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_LCMSsolvent_6_GA1_01_28563.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_LCMSsolvent_7_GA1_01_28576.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_LCMSsolvent_8_GA1_01_28589.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_LCMSsolvent_9_GA1_01_28602.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_LCMSsolvent_1_GA1_01_28606.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_LCMSsolvent_2_GA1_01_28619.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_LCMSsolvent_3_GA1_01_28632.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_LCMSsolvent_4_GA1_01_28645.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_LCMSsolvent_5_GA1_01_28658.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_LCMSsolvent_6_GA1_01_28671.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_LCMSsolvent_7_GA1_01_28684.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_LCMSsolvent_8_GA1_01_28698.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_LCMSsolvent_9_GA1_01_28711.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_LCMSsolvent_1_GA1_01_28715.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_LCMSsolvent_2_GA1_01_28728.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_LCMSsolvent_3_GA1_01_28741.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_LCMSsolvent_4_GA1_01_28754.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_LCMSsolvent_5_GA1_01_28767.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_LCMSsolvent_6_GA1_01_28780.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_LCMSsolvent_7_GA1_01_28793.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_LCMSsolvent_8_GA1_01_28806.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_LCMSsolvent_9_GA1_01_28819.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_LCMSsolvent_1_GA1_01_28823.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_LCMSsolvent_2_GA1_01_28836.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_LCMSsolvent_3_GA1_01_28849.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_LCMSsolvent_4_GA1_01_28862.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_LCMSsolvent_5_GA1_01_28875.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_LCMSsolvent_6_GA1_01_28888.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_LCMSsolvent_7_GA1_01_28901.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_LCMSsolvent_8_GA1_01_28914.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_LCMSsolvent_9_GA1_01_28927.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_10_GA1_01_29361.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_11_GA1_01_29364.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_1_GA1_01_29269.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_2_GA1_01_29282.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_3_GA1_01_29286.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_4_GA1_01_29287.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_5_GA1_01_29300.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_5b_GA1_01_29304.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_6_GA1_01_29314.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_7_GA1_01_29327.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_8_GA1_01_29340.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate5and7_blk_LCMSsolvent_9_GA1_01_29353.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_LCMSsolvent_1_GA1_01_28934.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_LCMSsolvent_2_GA1_01_28948.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_LCMSsolvent_3_GA1_01_28961.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_LCMSsolvent_4_GA1_01_28974.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_LCMSsolvent_5_GA1_01_28987.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_LCMSsolvent_6_GA1_01_28999.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_LCMSsolvent_7_GA1_01_29012.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_LCMSsolvent_8_GA1_01_29025.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_LCMSsolvent_9_GA1_01_29038.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_blk_LCMSsolvent_1_GA1_01_29099.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_blk_LCMSsolvent_2_GA1_01_29112.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_blk_LCMSsolvent_3_GA1_01_29125.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_blk_LCMSsolvent_4_GA1_01_29138.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_blk_LCMSsolvent_5_GA1_01_29151.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_blk_LCMSsolvent_6_GA1_01_29164.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_blk_LCMSsolvent_7_GA1_01_29177.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_blk_LCMSsolvent_8_GA1_01_29190.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate8_blk_LCMSsolvent_9_GA1_01_29202.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate9_blk_LCMSsolvent_10_GA1_01_29096.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate9_blk_LCMSsolvent_1_GA1_01_29043.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate9_blk_LCMSsolvent_2_GA1_01_29056.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate9_blk_LCMSsolvent_3_GA1_01_29069.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate9_blk_LCMSsolvent_4_GA1_01_29082.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate9_blk_LCMSsolvent_9_GA1_01_29094.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate1_blk_resuspension_RH12_01_28601.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate2_blk_resuspension_RH12_01_28710.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate3_blk_resuspension_RH12_01_28818.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate4_blk_resuspension_RH12_01_28926.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	plate6_blk_resuspension_RH12_01_29037.mzML	blank	not applicable	impact HD|MS:1002667	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000082493	DM000076030_RB4_01_29305.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076052_RE7_01_28994.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076075_RA7_01_29294.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076115_RF4_01_29003.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076121_RA10_01_28944.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076146_RF10_01_29009.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076842_RC2_01_28963.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076854_RG1_01_29013.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076855_RB5_01_28953.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076857_RC11_01_29325.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076859_RB9_01_29310.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076880_RB12_01_28960.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076888_RD4_01_29331.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076892_RG2_01_29014.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076904_RA12_01_29299.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076907_RA6_01_28940.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076913_RH2_01_29027.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076936_RC5_01_29319.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076963_RB12_01_29313.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076986_RH1_01_29026.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076995_RC1_01_28962.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076996_RE6_01_28993.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077160_RC3_01_29317.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077168_RF7_01_29360.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077169_RB11_01_29312.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077181_RF6_01_29005.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077212_RC4_01_29318.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077213_RE11_01_29351.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077218_RG7_01_29019.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077227_RE3_01_29343.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077233_RB10_01_29311.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077333_RE12_01_28998.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077344_RH5_01_29030.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077355_RC2_01_29316.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077366_RE8_01_28995.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077377_RF2_01_29355.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077388_RC10_01_29324.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077399_RG10_01_29022.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077410_RG5_01_29017.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077421_RF12_01_29011.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077443_RE10_01_28947.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077454_RB2_01_29302.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077465_RB3_01_29303.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078116_RH7_01_29032.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078127_RE7_01_29347.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078138_RD11_01_29338.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078149_RA8_01_29295.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078160_RA9_01_28943.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078171_RE3_01_28990.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078182_RE10_01_29350.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078193_RE1_01_29341.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078204_RD9_01_29336.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078215_RB4_01_28952.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078226_RB10_01_28958.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078237_RG11_01_29023.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078259_RH9_01_29034.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078362_RC7_01_29321.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078453_RD12_01_29339.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078464_RA4_01_28938.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078475_RB2_01_28950.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078486_RC9_01_28970.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078497_RE2_01_28989.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078519_RF7_01_29006.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078530_RC8_01_29322.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078541_RD7_01_28981.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078552_RA7_01_28941.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078643_RA5_01_28939.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078654_RE8_01_29348.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078665_RA1_01_28935.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078676_RE9_01_29349.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078687_RE5_01_28992.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078698_RA4_01_29291.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085694_RF8_01_29007.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085705_RD8_01_28982.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085716_RA9_01_29296.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085727_RF9_01_29008.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085738_RE11_01_28997.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085749_RE9_01_28996.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085760_RB9_01_28957.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085771_RD2_01_28976.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085782_RB7_01_29308.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085884_RC8_01_28969.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085905_RE12_01_29352.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085906_RD8_01_29335.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085907_RB1_01_29301.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085908_RB11_01_28959.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085909_RB6_01_28954.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085955_RD11_01_28985.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086066_RD10_01_29337.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086077_RC3_01_28964.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086088_RC9_01_29323.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086099_RB7_01_28955.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086110_RA6_01_29293.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086121_RD3_01_29330.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086132_RC5_01_28966.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086143_RD6_01_28980.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086154_RB8_01_29309.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086165_RA11_01_28945.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086176_RE2_01_29342.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086187_RE4_01_29344.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086198_RD5_01_29332.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086209_RG9_01_29021.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086220_RA10_01_29297.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086231_RD12_01_28986.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086242_RG4_01_29016.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086253_RC10_01_28971.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086264_RD9_01_28983.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086275_RB3_01_28951.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086286_RB8_01_28956.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086297_RB1_01_28949.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086308_RF1_01_29354.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086319_RA2_01_28936.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086330_RD2_01_29329.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086341_RB6_01_29307.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086352_RD7_01_29334.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086363_RH4_01_29029.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086374_RA5_01_29292.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086473_RG6_01_29018.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086484_RA8_01_28942.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086506_RF4_01_29357.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086517_RD10_01_28984.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087772_RE4_01_28991.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087783_RF2_01_29001.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087944_RH10_01_29035.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087955_RA11_01_29298.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087966_RC12_01_28973.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087977_RD1_01_28975.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087988_RC6_01_29320.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088010_RC12_01_29326.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088021_RG3_01_29015.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088032_RC1_01_29315.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088043_RD4_01_28978.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088054_RA3_01_29290.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088065_RH6_01_29031.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088076_RC11_01_28972.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088087_RD5_01_28979.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088098_RF3_01_29002.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088209_RD3_01_28977.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088300_RD6_01_29333.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088402_RC7_01_28968.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088413_RH8_01_29033.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088424_RF6_01_29359.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088573_RE1_01_28988.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088672_RG8_01_29020.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088763_RB5_01_29306.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088854_RE6_01_29346.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088865_RD1_01_29328.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088876_RE5_01_29345.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088887_RC4_01_28965.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088898_RG12_01_29024.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089019_RF1_01_29000.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089110_RA2_01_29289.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089137_RF5_01_29358.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091118_RA3_01_28937.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091129_RF11_01_29010.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091140_RA1_01_29288.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091151_RF5_01_29004.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091162_RC6_01_28967.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091173_RA12_01_28946.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091184_RH3_01_29028.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	feces	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076026_RF7_01_28895.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076029_RG5_01_28581.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076031_RG1_01_28577.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076073_RG6_01_28582.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076083_RB11_01_28630.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076087_RG4_01_29273.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076098_RE5_01_28880.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076105_RB11_01_28522.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076111_RD1_01_28863.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076141_RF11_01_28574.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076148_RA5_01_28720.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076856_RH3_01_28592.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076860_RE9_01_28667.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076861_RG2_01_28686.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076871_RC6_01_28638.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076874_RB12_01_28740.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076878_RA2_01_28825.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076891_RF3_01_28674.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076899_RH3_01_29285.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076909_RD3_01_28865.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076912_RH1_01_28590.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076920_RD6_01_28651.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076937_RD7_01_28761.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076941_RF5_01_28785.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076965_RF9_01_28680.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076967_RC5_01_28854.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077005_RE1_01_28768.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077127_RA7_01_28613.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077136_RA3_01_28718.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077140_RG11_01_29280.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077148_RG7_01_28583.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077155_RH1_01_28915.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077200_RC4_01_28636.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077203_RH1_01_28807.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077214_RB2_01_28621.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077234_RG3_01_28579.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077240_RE10_01_28560.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077269_RF12_01_28900.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077283_RD4_01_28866.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077291_RC6_01_28747.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077294_RA10_01_28616.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077303_RG2_01_28795.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077313_RB4_01_28840.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077324_RD4_01_28758.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077335_RA9_01_28832.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077346_RA6_01_28612.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077357_RD2_01_28756.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077368_RA1_01_28607.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077379_RH1_01_29283.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077390_RC5_01_28746.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077401_RB11_01_28739.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077412_RF1_01_28672.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077423_RF3_01_28566.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077434_RF11_01_28899.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077445_RB10_01_28738.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077456_RE1_01_28659.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077467_RC7_01_28531.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077477_RF2_01_28565.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077487_RE2_01_28660.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077497_RH10_01_28816.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077507_RG1_01_28902.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077517_RH10_01_28708.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077527_RE7_01_28557.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077537_RC4_01_28528.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077547_RE8_01_28775.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077557_RA10_01_28833.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077567_RC1_01_28742.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077577_RB6_01_28734.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077587_RC12_01_28753.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077597_RC8_01_28857.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077607_RD12_01_28874.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077617_RC8_01_28640.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077627_RH6_01_28920.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077637_RF2_01_28673.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077647_RF6_01_28677.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077657_RA7_01_28505.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077667_RB7_01_28843.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077677_RB3_01_28514.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077687_RE8_01_28883.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077697_RE12_01_28779.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077707_RE1_01_28551.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077717_RD3_01_28757.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077727_RH4_01_28593.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077737_RF4_01_28675.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077747_RD10_01_28655.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077767_RD9_01_28546.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077777_RA4_01_28719.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077787_RA11_01_28509.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077797_RA11_01_28726.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077807_RG4_01_28688.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077817_RC11_01_28860.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077827_RA4_01_28827.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077837_RA11_01_28834.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077847_RH9_01_28707.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077857_RC1_01_28850.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077867_RC9_01_28641.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077877_RE2_01_28552.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077887_RD12_01_28549.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077897_RC7_01_28748.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077907_RB1_01_28620.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077917_RF11_01_28791.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077937_RE11_01_28669.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077947_RH4_01_28702.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077957_RF8_01_28788.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077967_RH2_01_28591.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077977_RA8_01_28506.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077987_RB5_01_28516.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000077997_RA2_01_28608.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078007_RE4_01_28662.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078017_RH9_01_28598.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078027_redo_RA2_01_28500.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078037_RG2_01_29271.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078047_RE3_01_28878.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078057_RG1_01_28685.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078067_RA10_01_28508.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078077_RB3_01_28839.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078087_RF2_01_28890.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078097_RA5_01_28503.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078107_RF6_01_28569.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078118_RG12_01_28697.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078129_RG12_01_28913.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078140_RH5_01_28811.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078151_RE7_01_28665.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078162_RF2_01_28782.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078173_RD12_01_28657.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078184_RH4_01_28810.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078195_RD2_01_28539.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078206_RE7_01_28774.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078217_RH8_01_28814.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078228_RC1_01_28525.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078239_RD11_01_28873.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078250_RB8_01_28519.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078273_RG6_01_28690.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078283_RG7_01_28800.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078303_RF1_01_28889.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078313_RD7_01_28544.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078323_RE6_01_28556.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078333_RH3_01_28917.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078343_RC3_01_28852.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078353_RE3_01_28661.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078364_RF9_01_28897.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078374_RG8_01_29277.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078384_RE5_01_28663.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078394_RE8_01_28666.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078404_RF7_01_28787.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078414_RE4_01_28771.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078424_RG11_01_28804.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078434_RD3_01_28540.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078444_RD11_01_28548.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078455_RA12_01_28835.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078466_RF6_01_28786.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078477_RE12_01_28670.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078488_RE10_01_28668.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078499_RE9_01_28884.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078510_RH8_01_28922.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078521_RC12_01_28861.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078532_RE10_01_28777.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078543_RD10_01_28872.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078554_RA7_01_28722.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078564_RC11_01_28535.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078574_RH1_01_28699.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078584_RH3_01_28701.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078594_RD4_01_28541.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078604_RB2_01_28838.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078614_RH2_01_28700.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078624_RA10_01_28725.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078634_RE12_01_28887.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078645_RG10_01_28803.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078656_RB1_01_28837.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078667_RD8_01_28653.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078678_RD8_01_28870.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078689_RA8_01_28831.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085605_RB8_01_28627.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085615_RD6_01_28868.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085625_RD1_01_28755.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085635_RC2_01_28851.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085645_RC9_01_28858.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085655_RH10_01_28924.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085665_RC3_01_28635.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085675_RB5_01_28733.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085685_RG4_01_28580.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085696_RC8_01_28749.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085707_RG11_01_28696.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085718_RE2_01_28877.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085729_RA12_01_28727.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085740_RA12_01_28510.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085751_RB3_01_28731.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085762_RA9_01_28724.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085773_RC6_01_28530.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085784_RG1_01_29270.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085795_RB5_01_28624.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085805_RF10_01_28573.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085815_RF12_01_28575.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085825_RC11_01_28752.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085835_RF9_01_28572.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085845_RF7_01_28570.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085855_RE1_01_28876.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085865_RF8_01_28571.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085875_RG7_01_28692.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085886_RG9_01_28694.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085896_RC4_01_28853.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085916_RA6_01_28829.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085926_RG3_01_28904.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085975_RE11_01_28561.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085977_RG12_01_28588.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085987_RB4_01_28623.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085997_RG11_01_28912.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086007_RG8_01_28584.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086017_RG4_01_28797.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086027_RA9_01_28615.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086037_RF10_01_28790.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086047_RB10_01_28846.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086057_RC7_01_28639.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086068_RF7_01_28678.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086079_RF4_01_28892.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086090_RG7_01_29276.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086101_RA6_01_28504.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086112_RF6_01_28894.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086123_RB10_01_28629.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086134_RG1_01_28794.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086145_RE9_01_28776.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086156_RG3_01_28796.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086167_RH6_01_28812.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086178_RB1_01_28512.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086189_RF4_01_28567.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086200_RD3_01_28648.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086211_RE12_01_28562.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086222_RG9_01_28585.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086233_RA4_01_28610.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086255_RG10_01_28586.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086266_RG11_01_28587.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086277_RC3_01_28744.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086299_RE11_01_28778.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086310_RE5_01_28555.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086321_RG12_01_28805.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086332_RB9_01_28737.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086343_RG6_01_28907.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086354_RF5_01_28676.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086365_RB8_01_28844.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086376_RB2_01_28513.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086387_RF4_01_28784.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086398_RH7_01_28705.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086409_RD4_01_28649.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086420_RG2_01_28903.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086431_RG3_01_29272.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086442_RC5_01_28529.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086453_RE4_01_28879.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086464_RH3_01_28809.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086486_RB7_01_28626.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086497_RB2_01_28730.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086508_RD7_01_28869.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086519_RA11_01_28617.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086530_RC10_01_28642.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086541_RD10_01_28764.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086551_RB12_01_28523.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087693_RB12_01_28631.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087703_RE5_01_28772.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087713_RB6_01_28842.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087723_RG2_01_28578.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087733_RC4_01_28745.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087743_RA3_01_28609.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087753_RB12_01_28848.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087763_RA5_01_28611.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087774_RH6_01_28595.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087785_RG9_01_28802.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087795_RF9_01_28789.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087805_RB1_01_28729.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087815_RH9_01_28815.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087825_RB9_01_28845.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087835_RE7_01_28882.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087845_RF12_01_28683.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087855_RG4_01_28905.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087865_RA7_01_28830.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087875_RB9_01_28628.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087885_RH2_01_28916.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087895_RG8_01_28693.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087905_RH7_01_28921.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087915_RC8_01_28532.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087925_RH5_01_28703.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087935_RG5_01_28798.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087946_RC2_01_28743.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087957_RD8_01_28545.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087968_RB5_01_28841.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087979_RF8_01_28896.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000087990_RF10_01_28681.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088001_RA1_01_28716.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088012_RA9_01_28507.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088023_RE6_01_28664.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088034_RB9_01_28520.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088045_RH7_01_28596.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088056_RB4_01_28515.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088067_RH5_01_28594.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088078_RH8_01_28706.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088089_RF3_01_28891.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088120_RH10_01_28599.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088130_RF11_01_28682.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088140_RA12_01_28618.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088150_RC10_01_28751.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088160_RD5_01_28650.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088170_RD9_01_28763.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088180_RG8_01_28909.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088190_RD5_01_28542.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088211_RC6_01_28855.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088221_RA8_01_28614.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088231_RB11_01_28847.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088241_RH5_01_28919.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088251_RH7_01_28813.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088261_RC1_01_28633.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088271_RC10_01_28534.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088281_redo_RA3_01_28501.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088291_RC7_01_28856.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088302_RC10_01_28859.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088312_RD8_01_28762.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088322_RC5_01_28637.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088332_redo_RA1_01_28499.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088342_RG10_01_29279.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088352_RE4_01_28554.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088362_RD1_01_28538.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088372_RE6_01_28773.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088382_RF3_01_28783.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088393_RD6_01_28760.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088404_RC3_01_28527.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088415_RH8_01_28597.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088476_RC2_01_28634.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088487_RE3_01_28553.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088498_RG8_01_28801.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088509_RG5_01_28689.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088520_RE11_01_28886.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088531_RG3_01_28687.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088542_RD2_01_28647.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088553_RE10_01_28885.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088564_RA5_01_28828.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088575_RC2_01_28526.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088586_RF1_01_28781.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088597_RH9_01_28923.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088608_RG5_01_29274.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088619_RE9_01_28559.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088630_RA1_01_28824.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088641_RD10_01_28547.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088652_RD11_01_28656.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088663_RA4_01_28502.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088674_RA2_01_28717.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088684_RD9_01_28654.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088694_RB8_01_28736.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088704_RB4_01_28732.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088714_RB3_01_28622.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088724_RF5_01_28893.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088734_RA8_01_28723.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088744_RA6_01_28721.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088754_RF10_01_28898.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088765_RD5_01_28867.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088775_RF5_01_28568.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088785_RD9_01_28871.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088795_RG6_01_28799.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088805_RF1_01_28564.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088815_RD7_01_28652.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088825_RE3_01_28770.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088835_RH2_01_28808.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088845_RE6_01_28881.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088856_RE2_01_28769.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088867_RD2_01_28864.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088878_RC11_01_28643.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088889_RF8_01_28679.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088930_RH4_01_28918.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088940_RB7_01_28735.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088950_RG9_01_29278.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088960_RD11_01_28765.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088970_RD1_01_28646.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088980_RG7_01_28908.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088990_RB7_01_28518.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089000_RE8_01_28558.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089010_RD6_01_28543.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089021_RA3_01_28826.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089031_RB6_01_28625.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089041_RB6_01_28517.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089051_RF12_01_28792.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089061_RB10_01_28521.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089071_RG5_01_28906.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089081_RD12_01_28766.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089091_RD5_01_28759.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089101_RG10_01_28695.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089128_RG12_01_29281.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089150_RH2_01_29284.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091109_RC9_01_28533.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091120_RG6_01_29275.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091131_RH6_01_28704.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091142_RG10_01_28911.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091153_RG9_01_28910.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091164_RC12_01_28644.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000091175_RC9_01_28750.mzML	tissue	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	head or neck skin	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076790_RE5_01_29156.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076791_RH2_01_29192.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076792_RA8_01_29107.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076793_RD10_01_29092.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076794_RH10_01_29200.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076795_RC6_01_29131.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076796_RA9_01_29108.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076797_RB6_01_29062.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076798_RC1_01_29070.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076799_RC8_01_29077.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076800_RG4_01_29181.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076801_RE2_01_29153.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076802_RD6_01_29144.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076803_RH6_01_29196.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076804_RF8_01_29172.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076805_RA2_01_29101.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076806_RB7_01_29119.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076807_RD4_01_29086.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076808_RD3_01_29085.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076809_RA7_01_29106.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076810_RD7_01_29145.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076811_RF5_01_29169.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076812_RG7_01_29184.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076813_RB11_01_29123.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076814_RC12_01_29081.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076815_RH3_01_29193.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076816_RD4_01_29142.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076817_RA5_01_29048.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076818_RE7_01_29158.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076819_RC9_01_29078.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076820_RC4_01_29073.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076821_RC12_01_29137.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076822_RB1_01_29057.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076823_RB12_01_29124.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076825_RF2_01_29166.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076826_RA2_01_29045.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076827_RA6_01_29049.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076830_RE8_01_29159.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076831_RG2_01_29179.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076832_RD10_01_29148.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076833_RC4_01_29129.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076834_RB8_01_29064.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076835_RA1_01_29044.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076837_RC3_01_29072.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076838_RB2_01_29058.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000076839_RG10_01_29187.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078262_RF3_01_29167.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078263_RC2_01_29071.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078264_RG8_01_29185.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078265_RD7_01_29089.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078699_RB6_01_29118.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078700_RF6_01_29170.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078702_RE3_01_29154.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078706_RD2_01_29140.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078707_RB3_01_29115.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078708_RC10_01_29079.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078710_RA3_01_29102.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078711_RB10_01_29066.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078716_RF10_01_29174.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078718_RD5_01_29143.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078719_RA11_01_29054.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078722_RA10_01_29109.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078724_RC5_01_29074.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078726_RG5_01_29182.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078729_RF7_01_29171.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078730_RH7_01_29197.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078732_RD5_01_29087.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078735_RA9_01_29052.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078737_RB10_01_29122.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000078738_RB8_01_29120.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085587_RE12_01_29163.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085590_RD1_01_29083.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085591_RH9_01_29199.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085592_RD1_01_29139.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085593_RA4_01_29047.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085594_RC3_01_29128.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085595_RA5_01_29104.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085596_RG6_01_29183.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085597_RA8_01_29051.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085598_RB12_01_29068.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000085599_RD12_01_29150.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086566_RB11_01_29067.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086567_RC7_01_29076.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086569_RD11_01_29149.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086570_RC9_01_29134.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086571_RB3_01_29059.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086576_RC1_01_29126.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086578_RA7_01_29050.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086579_RD8_01_29146.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000086580_RF12_01_29176.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088099_RB7_01_29063.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088101_RH1_01_29191.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088103_RG3_01_29180.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088106_RE1_01_29152.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088108_RG1_01_29178.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088109_RD2_01_29084.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088111_RC7_01_29132.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088113_RA6_01_29105.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088115_RB4_01_29060.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088117_RF9_01_29173.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088425_RE9_01_29160.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088426_RF11_01_29175.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088427_RA10_01_29053.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088428_RH4_01_29194.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088429_RD3_01_29141.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088430_RF1_01_29165.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088431_RG12_01_29189.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088432_RC10_01_29135.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088433_RB4_01_29116.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088434_RB9_01_29065.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088435_RC2_01_29127.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088436_RC11_01_29080.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088437_RE11_01_29162.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088438_RC11_01_29136.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088439_RC6_01_29075.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088440_RB5_01_29061.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088441_RA12_01_29111.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088442_RA3_01_29046.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088443_RD9_01_29091.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088444_RF4_01_29168.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088445_RC5_01_29130.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088446_RG9_01_29186.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088447_RH8_01_29198.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088449_RG11_01_29188.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088474_RH5_01_29195.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	female	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088901_RC8_01_29133.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088903_RB2_01_29114.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088906_RE10_01_29161.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088910_RB1_01_29113.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088912_RD6_01_29088.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088915_RB9_01_29121.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088918_RE6_01_29157.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088921_RE4_01_29155.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088924_RA1_01_29100.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000088928_RD9_01_29147.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089111_RB5_01_29117.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089112_RA11_01_29110.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089120_RD8_01_29090.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089124_RA12_01_29055.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable
+MSV000082493	DM000089125_RA4_01_29103.mzML	biofluid	9606|Homo sapiens	impact HD|MS:1002667	male	not applicable	urine	healthy	no disease reported	not applicable	not applicable

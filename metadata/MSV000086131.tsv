@@ -1,0 +1,124 @@
+MassiveID	filename	SampleType	NCBITaxonomy	MassSpectrometer	BiologicalSex	AgeInYears	UBERONBodyPartName	HealthStatus	DOIDCommonName	Ethnicity	SocialEconomicalStatus	ATTRIBUTE_Diet
+MSV000086131	Bkgrnd.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-1-310518.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-2-310518.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-3-310518.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-3-310518_180531210507.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-310518-10.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-310518-11.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-310518-4.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-310518-5.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-310518-6.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-310518-7.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-310518-8.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-310518-9.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-4-310518.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-6-DD.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-7-DD.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-8-DD.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	blank-MeOH-9-DD.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	Sample-1A4.mzML	biofluid	9940|Ovis aries	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1A5.mzML	biofluid	9925|Capra hircus	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1A6.mzML	biofluid	9642|Ursus thibetanus	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1A7.mzML	biofluid	9644|Ursus arctos	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1A8.mzML	biofluid	9785|Loxodonta africana	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1B1.mzML	biofluid	9783|Elephas maximus	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1B2.mzML	biofluid	9651|Nasua nasua	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1B3.mzML	biofluid	9651|Nasua nasua	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1B4.mzML	biofluid	9580|Hylobates lar	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1B5.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1B6.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1B7.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1B8.mzML	biofluid	9689|Panthera leo	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-1C1.mzML	biofluid	9593|Gorilla gorilla	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1C2.mzML	biofluid	9561|Mandrillus sphinx	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1C3.mzML	biofluid	9561|Mandrillus sphinx	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1C4.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1C5.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1C6.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1C7.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1C8.mzML	biofluid	9940|Ovis aries	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1D1.mzML	biofluid	9793|Equus asinus	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1D2.mzML	biofluid	9642|Ursus thibetanus	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1D3.mzML	biofluid	9644|Ursus arctos	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1D4.mzML	biofluid	9783|Elephas maximus	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1D5.mzML	biofluid	9694|Panthera tigris	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-1D6.mzML	biofluid	9651|Nasua nasua	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1D7.mzML	biofluid	9651|Nasua nasua	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1D8.mzML	biofluid	9580|Hylobates lar	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1E1.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1E2.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1E3.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1E4.mzML	biofluid	9689|Panthera leo	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-1E5.mzML	biofluid	9593|Gorilla gorilla	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1E6.mzML	biofluid	9561|Mandrillus sphinx	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1E7.mzML	biofluid	9561|Mandrillus sphinx	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1E8.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1F1.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1F2.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1F3.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1F4.mzML	biofluid	9940|Ovis aries	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-1F5.mzML	biofluid	61376|Felis chaus	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-1F6.mzML	biofluid	9644|Ursus arctos	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-1F7.mzML	biofluid	95912|Hyaena hyaena	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-1F8.mzML	biofluid	9783|Elephas maximus	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2A1.mzML	biofluid	9694|Panthera tigris	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-2A2.mzML	biofluid	9651|Nasua nasua	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2A3.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2A4.mzML	biofluid	9580|Hylobates lar	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2A5.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2A6.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2A7.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2A8.mzML	biofluid	9689|Panthera leo	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-2B1.mzML	biofluid	9593|Gorilla gorilla	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2B2.mzML	biofluid	9561|Mandrillus sphinx	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2B3.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2B4.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2B5.mzML	biofluid	9455|Varecia variegata	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2B6.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2B7.mzML	biofluid	9612|Canis lupus	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-2B8.mzML	biofluid	9940|Ovis aries	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2C1.mzML	biofluid	61376|Felis chaus	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-2C2.mzML	biofluid	9644|Ursus arctos	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2C3.mzML	biofluid	9785|Loxodonta africana	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2C4.mzML	biofluid	9783|Elephas maximus	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2C5.mzML	biofluid	9691|Panthera pardus	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-2C6.mzML	biofluid	9651|Nasua nasua	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2C7.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2C8.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2D1.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2D2.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2D3.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2D4.mzML	biofluid	9593|Gorilla gorilla	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2D5.mzML	biofluid	9593|Gorilla gorilla	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2D6.mzML	biofluid	9561|Mandrillus sphinx	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2D7.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2D8.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2E1.mzML	biofluid	9455|Varecia variegata	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2E2.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2E3.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2E4.mzML	biofluid	9940|Ovis aries	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2E5.mzML	biofluid	61378|Felis margarita	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-2E6.mzML	biofluid	9644|Ursus arctos	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2E7.mzML	biofluid	9785|Loxodonta africana	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2E8.mzML	biofluid	9783|Elephas maximus	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2F1.mzML	biofluid	9691|Panthera pardus	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-2F2.mzML	biofluid	9651|Nasua nasua	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-2F3.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2F4.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2F5.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2F6.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2F7.mzML	biofluid	9807|Ceratotherium simum	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-2F8.mzML	biofluid	9593|Gorilla gorilla	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-X-101.mzML	biofluid	9612|Canis lupus	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	carnivore
+MSV000086131	Sample-X-60.mzML	biofluid	9561|Mandrillus sphinx	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-X-65.mzML	biofluid	9561|Mandrillus sphinx	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-X-70.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-X-76.mzML	biofluid	9598|Pan troglodytes	Q Exactive|MS:1001911	female	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-X-81.mzML	biofluid	37295|Cebus olivaceus	Q Exactive|MS:1001911	male	not applicable	feces	not collected	not collected	not applicable	not applicable	omnivore
+MSV000086131	Sample-X-87.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	Sample-X-93.mzML	biofluid	89250|Equus burchelli boehmi	Q Exactive|MS:1001911	not collected	not applicable	feces	not collected	not collected	not applicable	not applicable	herbivore
+MSV000086131	QC1.mzML	blank_QC	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	QC2.mzML	blank_QC	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	QC3.mzML	blank_QC	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000086131	QC4.mzML	blank_QC	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable

@@ -1,0 +1,451 @@
+MassiveID	filename	SampleType	NCBITaxonomy	MassSpectrometer	BiologicalSex	AgeInYears	UBERONBodyPartName	HealthStatus	DOIDCommonName	Ethnicity	SocialEconomicalStatus
+MSV000083388	1_n_153001_01072015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_153001_03232016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153023_03192015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_153023_05112016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153038_01252017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153046_06042015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_153046_07182016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153056_07092015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_153056_07272016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153067_08282015_1.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_153067_08282015_2.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_153067_08282015_3.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_153067_09072016_2.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153067_09072016_3.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153067_09172016_1.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153072_09172015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_153072_11012017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153080_01042017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153080_11122015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_153084_11292017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_153084_12082015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_163014_02082017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_163014_02192016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_163016_02242016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_163016_04122017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_163032_03242016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_163032_05032017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_163039_01032018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_163039_04222016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_163045_05202016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_163045_09292018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_163055_07072016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_163055_08152017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_163067_08172016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_163067_10042017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_163081_07182018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_163081_09292016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_173003_01232017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_173003_03072018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_173051_05132017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_173051_05302018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_173066_07012017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_173066_07182018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_174008_11272017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_184010_03162018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_3232_03032006.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3232_08012018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3297_03272007.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3297_04202011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3355_02042008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3355_05062009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3430_02172010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3430_12212008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3533_02022010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3533_11232015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3551_04022010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3551_06152011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3563_04292010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3563_05182011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3626_03062011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3626_08152012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3700_02162012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3700_02262014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3717_04052012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3717_07312013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3720_04112012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3720_11202013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3731_04022014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3731_07012012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3748_08202014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3748_10172012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3757_01222014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3757_12052012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3771_01102013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3771_10012014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3786_03152013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3786_05282014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3807_04052017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3807_06082013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3808_04192017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3809_06222013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3809_09102014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3815_07152013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3815_07162014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3817_07272013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3817_08272014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3826_09032013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3826_09102014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3843_10142015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3843_11082013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3854_01072014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3854_03112015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3888_09022015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3894_06062014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3894_07202016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3900_06242015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3903_07062014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3903_08122015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3912_08242014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3912_09142016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3935_09302017_1.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3935_09302017_2.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3935_09302017_3.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_n_3935_12152014_1.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3935_12152014_2.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_3935_12152014_3.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_4338_04042008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4361_07052008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4399_01272009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4404_02242009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4417_04062009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4418_04112009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4422_04192009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4424_05012009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4500_06202010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4523_11152010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4524_11152010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4536_01062011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4544_02172011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4545_02172011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4589_08052011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4592_08132011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4599_09202011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4609_11082011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4610_11102011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4619_12252011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4677_01012013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4687_02162013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4691_08042013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4700_04242013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4705_05172013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4706_05262013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4716_08092013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4717_08152013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4723_10272013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4729_12022013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4741_02062014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4755_04212014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4757_03282014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4761_05212014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4777_08022014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4800_12022014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4949_02112017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4972_06082017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_4993_09132017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_AS_07222017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_EE_06142014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_EO_08032014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_FJS_11262013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_IS_09082015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_LW_06102013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_MAG_05092015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_NC_07222016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_OM_05142014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_n_OS_07132016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_PT_03192018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_QC_6mix_01.mzML	blank_QC	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_QC_6mix_02.mzML	blank_QC	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_QC_SPEkit_StdMix_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_QC_SPEkit_StdMix_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_QC_SPEkit_StdMix_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_ST_11232014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_StdMix_1000ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_1000ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_1000ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_125ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_125ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_125ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_15pt625ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_15pt625ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_15pt625ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_2500ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_2500ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_2500ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_250ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_250ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_250ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_31pt25ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_31pt25ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_31pt25ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_5000ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_5000ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_5000ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_500ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_500ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_500ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_62pt5ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_62pt5ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_62pt5ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_7pt8125ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_7pt8125ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_StdMix_7pt8125ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_TL_05142008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_n_blk_LCMSblk_50MeOH_01.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_02.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_03.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_04.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_05.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_06.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_07.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_08.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_09.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_10.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_11.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_12.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_13.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_14.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_15.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_16.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_17.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_18.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_19.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_20.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_21.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_22.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_23.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_24.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_25.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_26.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_27.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_LCMSblk_50MeOH_28.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_SPEkit_01.mzML	blank_extraction	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_SPEkit_02.mzML	blank_extraction	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_SPEkit_03.mzML	blank_extraction	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_n_blk_resuspend_50MeOHwISTD.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_153001_01072015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_153001_03232016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153023_03192015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_153023_05112016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153038_01252017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153046_06042015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_153046_07182016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153056_07092015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_153056_07272016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153067_08282015_1.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_153067_08282015_2.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_153067_08282015_3.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_153067_09072016_2.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153067_09072016_3.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153067_09172016_1.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153072_09172015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_153072_11012017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153080_01042017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153080_11122015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_153084_11292017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_153084_12082015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_163014_02082017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_163014_02192016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_163016_02242016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_163016_04122017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_163032_03242016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_163032_05032017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_163039_01032018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_163039_04222016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_163045_05202016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_163045_09292018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_163055_07072016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_163055_08152017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_163067_08172016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_163067_10042017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_163081_07182018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_163081_09292016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_173003_01232017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_173003_03072018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_173051_05132017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_173051_05302018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_173066_07012017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_173066_07182018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_174008_11272017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_184010_03162018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_3232_03032006.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3232_08012018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3297_03272007.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3297_04202011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3355_02042008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3355_05062009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3430_02172010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3430_12212008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3533_02022010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3533_11232015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3551_04022010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3551_06152011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3563_04292010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3563_05182011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3626_03062011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3626_08152012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3700_02162012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3700_02262014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3717_04052012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3717_07312013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3720_04112012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3720_11202013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3731_04022014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3731_07012012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3748_08202014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3748_10172012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3757_01222014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3757_12052012.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3771_01102013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3771_10012014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3786_03152013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3786_05282014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3807_04052017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3807_06082013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3808_04192017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3809_06222013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3809_09102014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3815_07152013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3815_07162014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3817_07272013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3817_08272014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3826_09032013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3826_09102014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3843_10142015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3843_11082013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3854_01072014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3854_03112015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3888_09022015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3894_06062014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3894_07202016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3900_06242015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3903_07062014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3903_08122015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3912_08242014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3912_09142016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3935_09302017_1.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3935_09302017_2.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3935_09302017_3.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	healthy	no disease reported	not collected	not collected
+MSV000083388	1_p_3935_12152014_1.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3935_12152014_2.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_3935_12152014_3.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_4338_04042008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4361_07052008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4399_01272009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4404_02242009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4417_04062009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4418_04112009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4422_04192009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4424_05012009.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4500_06202010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4523_11152010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4524_11152010.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4536_01062011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4544_02172011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4545_02172011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4589_08052011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4592_08132011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4599_09202011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4609_11082011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4610_11102011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4619_12252011.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4677_01012013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4687_02162013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4691_08042013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4700_04242013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4705_05172013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4706_05262013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4716_08092013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4717_08152013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4723_10272013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4729_12022013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4741_02062014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4755_04212014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4757_03282014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4761_05212014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4777_08022014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4800_12022014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4949_02112017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4972_06082017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_4993_09132017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_AS_07222017.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_EE_06142014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_EO_08032014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_FJS_11262013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_IS_09082015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_LW_06102013.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_MAG_05092015.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_NC_07222016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_OM_05142014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	acute illness	Kawasaki disease	not collected	not collected
+MSV000083388	1_p_OS_07132016.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_PT_03192018.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_QC_6mix_01.mzML	blank_QC	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_QC_6mix_02.mzML	blank_QC	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_QC_SPEkit_StdMix_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_QC_SPEkit_StdMix_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_QC_SPEkit_StdMix_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_ST_11232014.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_StdMix_1000ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_1000ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_1000ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_125ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_125ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_125ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_15pt625ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_15pt625ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_15pt625ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_2500ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_2500ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_2500ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_250ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_250ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_250ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_31pt25ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_31pt25ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_31pt25ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_5000ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_5000ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_5000ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_500ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_500ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_500ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_62pt5ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_62pt5ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_62pt5ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_7pt8125ppb_01.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_7pt8125ppb_02.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_StdMix_7pt8125ppb_03.mzML	reference material_chemicalstandard	not applicable	Q Exactive|MS:1001911	not applicable	standard_mix	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_TL_05142008.mzML	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	not collected	Infancy (<2 yrs)	blood plasma	unhealthy (NOS)	disease NOS	not collected	not collected
+MSV000083388	1_p_blk_LCMSblk_50MeOH_01.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_02.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_03.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_04.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_05.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_06.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_07.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_08.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_09.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_10.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_11.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_12.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_13.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_14.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_15.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_16.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_17.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_18.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_19.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_20.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_21.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_22.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_23.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_24.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_25.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_26.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_27.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_LCMSblk_50MeOH_28.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_SPEkit_01.mzML	blank_extraction	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_SPEkit_02.mzML	blank_extraction	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_SPEkit_03.mzML	blank_extraction	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
+MSV000083388	1_p_blk_resuspend_50MeOHwISTD.mzML	blank_analysis	not applicable	Q Exactive|MS:1001911	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable	not applicable
