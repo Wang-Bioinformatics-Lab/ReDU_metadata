@@ -1,0 +1,32 @@
+MassiveID	filename	ATTRIBUTE_species	NCBITaxonomy	BiologicalSex	AgeInYears	UBERONBodyPartName	IonizationSourceAndPolarity	ChromatographyAndPhase	SampleExtractionMethod	SampleType	SampleTypeSub1
+MSV000094135	C2_QE2.mzML	African Lion	9689|Panthera leo			feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	D2_QE2.mzML	African Lion	9689|Panthera leo	M/F	7/16.5	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	A2_QE2.mzML	African Serval	61405|Leptailurus serval	male	2	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	B2_QE2.mzML	Amur Leopard	9692|Panthera pardus orientalis	female	4.5	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	B3_QE2.mzML	Canada Lynx	61383|Lynx canadensis	male	5.5	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	H1_QE2.mzML	Cheetah	32536|Acinonyx jubatus	M/F	6.5	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	F1_QE2.mzML	Domestic cat	9685|Felis catus			feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	G1_QE2.mzML	European Lynx	13125|Lynx lynx	male	12	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	E1_QE2.mzML	Fossa	143319|Fossa	male	5.75	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	G2_QE2.mzML	Jaguar	9690|Panthera onca	female	14	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	H2_QE2.mzML	Jaguar	9690|Panthera onca	male	7	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	D1_QE2.mzML	Jaguarundi	1608482|Puma yagouaroundi	female	12	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	E2_QE2.mzML	Jaguarundi	1608482|Puma yagouaroundi	female	16.5	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	F2_QE2.mzML	Jaguarundi	1608482|Puma yagouaroundi	male	12	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	A3_QE2.mzML	Leopard	9691|Panthera pardus	male	0.75	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	B1_QE2.mzML	Manchurian Brown Bear	9644|Ursus arctos				electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	A12_QE2_extractionblk.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_1.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_2.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_3.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_4.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_5.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_6.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_7.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_8.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_9.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_10.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_11.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	BLANK_12.mzML						electrospray ionization (positive)	reverse phase (polar-C18)			
+MSV000094135	A1_QE2.mzML	Snow_leopard	29064|Panthera uncia	male	4.5	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
+MSV000094135	C1_QE2.mzML	Tiger	9694|Panthera tigris	female	4	feces	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (1:1)	animal	biofluid
