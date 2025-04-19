@@ -9,7 +9,7 @@ MSV000097131	BAXplate23_G10.mzML			blank_analysis	blank_analysis	2025	Q Exactive
 MSV000097131	BAXplate23_G11.mzML			blank_analysis	blank_analysis	2025	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (polar-C18)	
 MSV000097131	BAXplate23_G12.mzML			blank_analysis	blank_analysis	2025	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (polar-C18)	
 MSV000097131	BAXplate23_A1.mzML	757472|Cossypha albicapillus	bile	animal	biofluid	2025	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (4:1)
-MSV000097131	BAXplate23_A2.mzML	84856|Xanthocephalus xanthocephalus	intestine	animal	biofluid	2025	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (4:1)
+MSV000097131	BAXplate23_A2.mzML	84856|Xanthocephalus xanthocephalus	intestine	animal	tissue	2025	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (4:1)
 MSV000097131	BAXplate23_A3.mzML	9844|Lama glama	bile	animal	biofluid	2025	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (4:1)
 MSV000097131	BAXplate23_A4.mzML	9083|Bambusicola thoracicus	bile	animal	biofluid	2025	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (4:1)
 MSV000097131	BAXplate23_A5.mzML	869920|Niltava grandis	bile	animal	biofluid	2025	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (polar-C18)	methanol-water (4:1)
