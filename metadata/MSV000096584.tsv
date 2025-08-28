@@ -1,0 +1,501 @@
+filename	SampleTypeSub1	UBERONBodyPartName	MassiveID	SampleType	NCBITaxonomy
+P3_E8_G72464.mzML	food_source_plant		MSV000096584	food	NA|x
+P5_G5_G72471.mzML	food_source_plant	fruit	MSV000096584	food	16718|x
+P3_C12_72475.mzML	food_source_plant	stem	MSV000096584	food	4682|Allium sativum
+P3_B9_G72492.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P3_B8_G72493.mzML	food_source_plant		MSV000096584	food	178616|Brassica oleracea var. gemmifera
+P3_B7_72497.mzML	food_source_plant	fruit	MSV000096584	food	3658|Cucumis melo var. cantalupo
+P3_B6_G72498.mzML	food_source_plant	fruit	MSV000096584	food	4072|Capsicum annuum
+P3_B5_72500.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_G4_G72502.mzML	food_source_plant	seed	MSV000096584	food	49212|x
+P5_G2_G72503.mzML	food_source_plant	seed	MSV000096584	food	4498|x
+P3_D6_72504.mzML	food_source_plant	fruit	MSV000096584	food	3494|x
+P5_G3_G72505.mzML	food_source_plant	seed	MSV000096584	food	4498|x
+P3_D2_72507.mzML	food_source_NOS		MSV000096584	food	4679|Allium cepa
+P5_F11_G72511.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_F12_G72512.mzML	food_source_plant	flower	MSV000096584	food	219868|Syzygium aromaticum
+P5_G1_G72513.mzML	food_source_plant	seed	MSV000096584	food	105181|Elettaria cardamomum
+P3_D4_72540.mzML	food_source_plant	fruit	MSV000096584	food	3654|Citrullus lanatus
+P3_A8_G72663.mzML	food_source_plant	seed	MSV000096584	food	3469|Papaver somniferum
+P3_B10_72671.mzML	food_source_plant	leaf	MSV000096584	food	39350|Ocimum basilicum
+P3_B4_72717.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P3_B3_G72718.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+P3_B2_G72719.mzML	food_source_animal		MSV000096584	food	NA|x
+P3_B1_G72725.mzML	food_source_plant	seed	MSV000096584	food	4498|x
+P3_A12_G72726.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+P3_D7_72799.mzML	food_source_plant	leaf	MSV000096584	food	3713|Brassica oleracea var. viridis
+P3_A3_G72801.mzML	food_source_animal	egg cell	MSV000096584	food	9031|Gallus gallus
+P4_C9_G73433.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P4_C8_G73434.mzML	food_source_plant	fruit	MSV000096584	food	4072|Capsicum annuum
+P4_C7_G73435.mzML	food_source_plant	fruit	MSV000096584	food	3885|Phaseolus vulgaris
+P4_C6_G73436.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P4_C5_G73437.mzML	food_source_plant	fruit	MSV000096584	food	171249|Citrus limonia
+P4_C4_G73438.mzML	food_source_plant	fruit	MSV000096584	food	42229|Prunus avium
+P4_C3_G73439.mzML	food_source_plant	fruit	MSV000096584	food	3750|Malus domestica
+P1_F3_G73440.mzML	food_source_animal		MSV000096584	food	NA|x
+P4_C2_G73441.mzML	food_source_plant	fruit	MSV000096584	food	3663|Cucurbita pepo
+P4_C1_G73442.mzML	food_source_plant	fruit	MSV000096584	food	869827|Cucumis sativus var. sativus
+P3_D9_G73443.mzML	food_source_plant	fruit	MSV000096584	food	4072|Capsicum annuum
+P3_E6_G73444.mzML	food_source_plant	fruit	MSV000096584	food	869827|Cucumis sativus var. sativus
+P3_E7_G73445.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P3_D11_G73446.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P3_D10_G73447.mzML	food_source_plant	fruit	MSV000096584	food	4081|x
+P3_E2_G73448.mzML	food_source_plant	leaf	MSV000096584	food	3726|Raphanus sativus
+P3_E3_G73449.mzML	food_source_plant	root	MSV000096584	food	3726|Raphanus sativus
+P3_E4_G73450.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P3_E5_G73451.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P3_A7_G73455.mzML	food_source_plant	tuber	MSV000096584	food	4113|Solanum tuberosum
+P3_A6_G73457.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P3_A5_G73458.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P3_A4_G73459.mzML	food_source_animal	egg cell	MSV000096584	food	9031|Gallus gallus
+P3_F3_G73475.mzML	food_source_plant	root	MSV000096584	food	NA|x
+P3_F5_G73479.mzML	food_source_plant		MSV000096584	food	NA|x
+P3_F8_G73480.mzML	food_source_plant		MSV000096584	food	3728|x
+P3_E10_G73481.mzML	food_source_plant		MSV000096584	food	NA|x
+P3_G2_G73483.mzML	food_source_plant		MSV000096584	food	NA|x
+P3_G1_G73509.mzML	food_source_plant		MSV000096584	food	NA|x
+P3_A2_G73517.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P3_G4_G73518.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P5_E6_G73653.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P5_E7_G73654.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P3_C10_73714.mzML	food_source_plant	fruit	MSV000096584	food	29760|Vitis vinifera
+P3_C11_73730.mzML	food_source_plant	fruit	MSV000096584	food	29780|Mangifera indica
+P5_A3_G73940.mzML	food_source_plant	fruit	MSV000096584	food	381124|Zea mays subsp. mays
+P3_D12_G73941.mzML	food_source_plant	stem	MSV000096584	food	4678|Allium
+P5_A1_G73942.mzML	food_source_plant	fruit	MSV000096584	food	3747|Fragaria x ananassa
+P4_G5_G73943.mzML	food_source_plant	leaf	MSV000096584	food	72341|Artemisia dracunculus
+P4_G4_G73945.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_A2_G73946.mzML	food_source_plant	leaf	MSV000096584	food	49992|Thymus vulgaris
+P4_G6_G73947.mzML	food_source_plant	tuber	MSV000096584	food	4113|Solanum tuberosum
+P4_G7_G73948.mzML	food_source_plant	stem	MSV000096584	food	74900|Allium schoenoprasum
+P4_G8_G73949.mzML	food_source_plant	flower	MSV000096584	food	74900|Allium schoenoprasum
+P4_G9_G73950.mzML	food_source_plant	leaf	MSV000096584	food	39174|Origanum
+P3_E1_G73951.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_A4_G73952.mzML	food_source_plant	leaf	MSV000096584	food	1527200|Beta vulgaris subsp. cicla
+P5_A5_G73953.mzML	food_source_plant	leaf	MSV000096584	food	1527200|Beta vulgaris subsp. cicla
+P5_A6_G73954.mzML	food_source_plant	leaf	MSV000096584	food	4043|Petroselinum crispum
+P3_A11_73980.mzML	food_source_plant	fruit	MSV000096584	food	3494|x
+P3_A10_73981.mzML	food_source_plant	leaf	MSV000096584	food	39367|Salvia rosmarinus
+P3_A9_73982.mzML	food_source_plant	flower	MSV000096584	food	NA|x
+P3_D8_73990.mzML	food_source_plant	fruit	MSV000096584	food	4081|x
+P3_D5_73996.mzML	food_source_plant	stem	MSV000096584	food	109379|Brassica oleracea var. gongylodes
+P3_B12_74018.mzML	food_source_plant	fruit	MSV000096584	food	4072|Capsicum annuum
+P3_C1_74021.mzML	food_source_plant	fruit	MSV000096584	food	869827|Cucumis sativus var. sativus
+P3_B11_74027.mzML	food_source_plant	fruit	MSV000096584	food	3747|Fragaria x ananassa
+P3_C4_74028.mzML	food_source_plant	fruit	MSV000096584	food	3747|Fragaria x ananassa
+P3_F7_G74053.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P3_F6_G74056.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P3_F12_G74065.mzML	food_source_NOS		MSV000096584	food	NA|x
+P3_F1_G74067.mzML	food_source_NOS		MSV000096584	food	NA|x
+P3_F9_G74073.mzML	food_source_plant		MSV000096584	food	NA|x
+P3_E9_G74075.mzML	food_source_plant	seed	MSV000096584	food	4182|Sesamum indicum
+P3_E11_G74088.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P3_E12_G74112.mzML	food_source_plant	root	MSV000096584	food	4039|Daucus carota
+P3_F4_G74118.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P3_F10_G74122.mzML	food_source_NOS		MSV000096584	food	NA|x
+P3_C5_75070.mzML	food_source_plant	fruit	MSV000096584	food	381124|Zea mays subsp. mays
+P3_C6_75071.mzML	food_source_plant	fruit	MSV000096584	food	29760|Vitis vinifera
+P3_D1_75072.mzML	food_source_plant	fruit	MSV000096584	food	42229|Prunus avium
+P3_C3_75077.mzML	food_source_plant	fruit	MSV000096584	food	13749|Vaccinium
+P3_C8_75089.mzML	food_source_plant	root	MSV000096584	food	4039|x
+P3_C9_75092.mzML	food_source_plant	flower	MSV000096584	food	4498|x
+P3_C7_75093.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P3_C2_75904.mzML	food_source_plant	leaf	MSV000096584	food	3562|Spinacia oleracea
+P1_F10_G75112.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P4_G3_G75172.mzML	food_source_plant	leaf	MSV000096584	food	39350|Ocimum basilicum
+P4_G2_G75173.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_G1_G75174.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_F12_G75175.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_F11_G75176.mzML	food_source_plant	leaf	MSV000096584	food	4577|x
+P4_F10_G75177.mzML	food_source_plant	leaf	MSV000096584	food	39350|Ocimum basilicum
+P4_F9_G75178.mzML	food_source_plant	leaf	MSV000096584	food	3713|Brassica oleracea var. viridis
+P4_F8_G75179.mzML	food_source_plant	fruit	MSV000096584	food	13749|x
+P4_F7_G75180.mzML	food_source_plant	leaf	MSV000096584	food	39350|Ocimum basilicum
+P4_F6_G75181.mzML	food_source_plant	flower	MSV000096584	food	NA|x
+P4_F5_G75182.mzML	food_source_plant	flower	MSV000096584	food	NA|x
+P4_F4_G75183.mzML	food_source_plant	leaf	MSV000096584	food	65948|Nasturtium officinale
+P4_F3_G75184.mzML	food_source_plant	leaf	MSV000096584	food	1759395|Lactuca sativa var. longifolia
+P4_F2_G75185.mzML	food_source_plant	leaf	MSV000096584	food	4236|Lactuca sativa
+P4_F1_G75186.mzML	food_source_plant	leaf	MSV000096584	food	38868|Salvia officinalis
+P4_E12_G75187.mzML	food_source_plant	leaf	MSV000096584	food	4577|x
+P4_E11_G75188.mzML	food_source_plant	leaf	MSV000096584	food	13363|Borago officinalis
+P4_E10_G75189.mzML	food_source_plant	leaf	MSV000096584	food	4045|Apium graveolens
+P4_E9_G75190.mzML	food_source_plant	leaf	MSV000096584	food	4043|Petroselinum crispum
+P4_E8_G75191.mzML	food_source_plant	leaf	MSV000096584	food	39350|Ocimum basilicum
+P4_E7_G75192.mzML	food_source_plant	leaf	MSV000096584	food	4236|Lactuca sativa
+P4_E6_G75193.mzML	food_source_plant	leaf	MSV000096584	food	4047|Coriandrum sativum
+P4_E5_G75194.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_E4_G75195.mzML	food_source_plant	leaf	MSV000096584	food	40922|Anethum graveolens
+P4_E3_G75196.mzML	food_source_plant	flower	MSV000096584	food	40922|Anethum graveolens
+P4_E2_G75197.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_E1_G75198.mzML	food_source_plant	leaf	MSV000096584	food	49992|Thymus vulgaris
+P4_D12_G75199.mzML	food_source_plant	leaf	MSV000096584	food	38868|Salvia officinalis
+P4_D11_G75200.mzML	food_source_plant	fruit	MSV000096584	food	3663|Cucurbita pepo
+P4_D10_G75201.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P4_D9_G75202.mzML	food_source_plant	flower	MSV000096584	food	NA|x
+P4_D8_G75203.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_D7_G75204.mzML	food_source_plant	leaf	MSV000096584	food	39367|Salvia rosmarinus
+P4_D6_G75205.mzML	food_source_plant	fruit	MSV000096584	food	869827|Cucumis sativus var. sativus
+P4_D5_G75206.mzML	food_source_plant	fruit	MSV000096584	food	4072|Capsicum annuum
+P4_D4_G75207.mzML	food_source_plant	fruit	MSV000096584	food	375274|Psidium cattleyanum
+P4_D3_G75208.mzML	food_source_plant	fruit	MSV000096584	food	4072|x
+P4_D2_G75209.mzML	food_source_plant	flower	MSV000096584	food	13363|Borago officinalis
+P4_D1_G75210.mzML	food_source_plant	flower	MSV000096584	food	3663|Cucurbita pepo
+P4_C12_G75211.mzML	food_source_plant	fruit	MSV000096584	food	3663|Cucurbita pepo
+P4_C11_G75212.mzML	food_source_plant	fruit	MSV000096584	food	4081|Solanum lycopersicum
+P4_C10_G75213.mzML	food_source_plant	fruit	MSV000096584	food	3162873|Solanum melongena
+P1_D12_G75653.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D11_G75656.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D10_G75659.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D9_G75660.mzML	food_source_animal		MSV000096584	food	NA|x
+P3_F2_G75676.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P3_G3_G75746.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P3_A1_G75748.mzML	food_source_animal	milk	MSV000096584	food	9913|Bos taurus
+P3_G6_G75751.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P3_G5_G75756.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P1_A12_G75784.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B5_G75785.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C4_G75786.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C5_G75787.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D6_G75788.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B6_G75789.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D1_G75790.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B3_G75791.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A9_G75792.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D8_G75793.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B1_G75794.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D7_G75795.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D2_G75796.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B9_G75797.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B2_G75798.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C6_G75799.mzML	food_source_animal		MSV000096584	food	NA|x
+P4_A4_G75816.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A3_G75817.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A1_G75819.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A2_G75820.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A9_G75821.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A8_G75822.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A7_G75823.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B3_G75829.mzML	food_source_plant	bark	MSV000096584	food	NA|x
+P4_A5_G75830.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A6_G75831.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_F6_G75832.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B10_G75833.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A12_G75834.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A11_G75835.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_A10_G75836.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B1_G75843.mzML	food_source_animal	egg cell	MSV000096584	food	9031|Gallus gallus
+P4_B2_G75844.mzML	food_source_animal	egg cell	MSV000096584	food	9031|Gallus gallus
+P3_F11_G75845.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P4_B4_G75848.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B5_G75849.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_F7_G75850.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B11_G75851.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B12_G75852.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B6_G75854.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B7_G75855.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B8_G75856.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P4_B9_G75857.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_E5_G75865.mzML	food_source_plant		MSV000096584	food	NA|x
+P5_E4_G75866.mzML	food_source_plant		MSV000096584	food	NA|x
+P5_E2_G78948.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P3_D3_79166.mzML	food_source_plant	fruit	MSV000096584	food	4072|Capsicum annuum
+P1_A3_G79225.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P1_C9_G79226.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C12_G79227.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A11_G79315.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C11_G79316.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A5_G79317.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A4_G79318.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A7_G79319.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A6_G79320.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A8_G79321.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B10_G79322.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C10_G79323.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D3_G79324.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D4_G79325.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B4_G79326.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A1_G79332.mzML	food_source_animal		MSV000096584	food	NA|x
+P2_G3_G79333.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A10_G79334.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_D5_G79335.mzML	food_source_animal		MSV000096584	food	NA|x
+P2_G4_G79336.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B12_G79337.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_F10_G79338.mzML	food_source_animal		MSV000096584	food	NA|x
+P2_G5_G79339.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_A2_G79340.mzML	food_source_animal		MSV000096584	food	NA|x
+P2_G6_G79341.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B7_G79346.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C7_G79347.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C1_G79348.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C8_G79351.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B8_G79352.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C2_G79353.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_B11_G79354.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_C3_G79355.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_E3_G79485.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_F9_G79630.mzML	food_source_animal		MSV000096584	food	9031|x
+P5_F5_G79719.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_F9_G79721.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_F4_G79724.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_F8_G79733.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P2_F1_G83226.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P2_F9_G83227.mzML	food_source_plant	fruit	MSV000096584	food	23211|Pyrus communis
+P2_F12_G83234.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_F3_G83235.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_F2_G83236.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_E12_G83237.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P2_F4_G83238.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P2_G2_G83239.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P2_F5_G83240.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P2_E11_G83241.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P2_F7_G83244.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_F11_G83245.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_F6_G83246.mzML	food_source_plant	root	MSV000096584	food	4039|x
+P2_F10_G83247.mzML	food_source_plant	root	MSV000096584	food	4039|x
+P2_F8_G83248.mzML	food_source_plant	root	MSV000096584	food	4039|x
+P2_G1_G83249.mzML	food_source_plant	root	MSV000096584	food	4039|x
+P1_F11_G83457.mzML	food_source_plant	fruit	MSV000096584	food	3766|Pyrus
+P1_E2_G86724.mzML	food_source_plant		MSV000096584	food	NA|x
+P1_E3_G86727.mzML	food_source_plant	bulb	MSV000096584	food	NA|x
+P1_G2_G86733.mzML	food_source_plant	fruit	MSV000096584	food	3766|Pyrus
+P1_G3_G86735.mzML	food_source_plant	fruit	MSV000096584	food	237960|Viburnum trilobum
+P1_E5_G86754.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P1_E9_G86756.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+P1_E8_G86758.mzML	food_source_plant	stem	MSV000096584	food	NA|x
+P1_E4_G86760.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+P1_G1_G86775.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P2_C2_G86776.mzML	food_source_plant	fruit	MSV000096584	food	3162873|Solanum melongena
+P1_E1_G86780.mzML	food_source_plant	root	MSV000096584	food	NA|x
+P1_F12_G86781.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P2_A1_G86783.mzML	food_source_plant	fruit	MSV000096584	food	4640|Musa
+P2_A2_G86787.mzML	food_source_plant	fruit	MSV000096584	food	3435|Persea americana
+P2_A3_G86788.mzML	food_source_plant	fruit	MSV000096584	food	3435|Persea americana
+P1_F1_G86793.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+P1_F5_G86794.mzML	food_source_plant	stem	MSV000096584	food	94328|Zingiber officinale
+P2_A4_G86795.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_A5_G86796.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_A6_G86797.mzML	food_source_plant	fruit	MSV000096584	food	237575|Citrus tangerina
+P2_A7_G86798.mzML	food_source_plant	fruit	MSV000096584	food	237575|Citrus tangerina
+P2_A8_G86799.mzML	food_source_plant	fruit	MSV000096584	food	237575|Citrus tangerina
+P2_A9_G86800.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+P2_A10_G86801.mzML	food_source_plant	fruit	MSV000096584	food	13749|x
+P2_A11_G86802.mzML	food_source_plant	fruit	MSV000096584	food	13749|x
+P2_A12_G86803.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P1_F2_G86809.mzML	food_source_animal		MSV000096584	food	NA|x
+P1_E6_G86821.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P1_G6_G86822.mzML	food_source_plant	bulb	MSV000096584	food	4682|Allium sativum
+P1_G5_G86824.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P1_F8_G86826.mzML	food_source_NOS		MSV000096584	food	NA|x
+P1_G4_G86827.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P1_F7_G86828.mzML	food_source_NOS		MSV000096584	food	NA|x
+P1_F6_G86831.mzML	food_source_plant		MSV000096584	food	3885|x
+P1_E11_G86834.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P1_G12_G86871.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P1_E7_G86872.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P1_G11_G86873.mzML	food_source_plant	seed	MSV000096584	food	3916|Vigna radiata var. radiata
+P1_G10_G86874.mzML	food_source_plant	seed	MSV000096584	food	3916|Vigna radiata var. radiata
+P1_G9_G86878.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P1_G8_G86879.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P1_G7_G86880.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P1_F4_G86881.mzML	food_source_plant	leaf	MSV000096584	food	3562|x
+P1_E12_G86882.mzML	food_source_plant	seed	MSV000096584	food	4564|x
+P2_B10_G86889.mzML	food_source_plant	flower	MSV000096584	food	36774|Brassica oleracea var. italica
+P2_E4_G86909.mzML	food_source_plant	fruit	MSV000096584	food	3747|Fragaria x ananassa
+P2_D4_G86910.mzML	food_source_plant	fruit	MSV000096584	food	13749|Vaccinium
+P2_C4_G86911.mzML	food_source_plant	fruit	MSV000096584	food	23216|Rubus
+P2_B4_G86914.mzML	food_source_plant	leaf	MSV000096584	food	38868|Salvia officinalis
+P2_B3_G86920.mzML	food_source_plant	root	MSV000096584	food	161934|x
+P1_E10_G86937.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+P2_D3_G87457.mzML	food_source_plant	root	MSV000096584	food	3726|Raphanus sativus
+P2_C5_G87458.mzML	food_source_plant	root	MSV000096584	food	109171|Pachyrhizus erosus
+P2_D8_G87461.mzML	food_source_plant	fruit	MSV000096584	food	4640|Musa
+P2_E2_G87463.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_C3_G87464.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_E3_G87465.mzML	food_source_plant	fruit	MSV000096584	food	37656|Citrus x paradisi
+P2_E8_G87466.mzML	food_source_plant	fruit	MSV000096584	food	37656|Citrus x paradisi
+P2_D2_G87467.mzML	food_source_plant	fruit	MSV000096584	food	37656|Citrus x paradisi
+P2_C10_G87468.mzML	food_source_plant	fruit	MSV000096584	food	37656|Citrus x paradisi
+P2_D11_G87469.mzML	food_source_plant	fruit	MSV000096584	food	171249|Citrus limonia
+P2_B6_G87470.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_C11_G87471.mzML	food_source_plant	fruit	MSV000096584	food	76966|Citrus japonica
+P2_B2_G87472.mzML	food_source_plant	fruit	MSV000096584	food	76966|Citrus japonica
+P2_E6_G87473.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_B9_G87479.mzML	food_source_plant	fruit	MSV000096584	food	76966|Citrus japonica
+P2_C8_G87481.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_D1_G87482.mzML	food_source_plant	fruit	MSV000096584	food	37656|Citrus x paradisi
+P2_E7_G87483.mzML	food_source_plant	fruit	MSV000096584	food	37656|Citrus x paradisi
+P2_E10_G87484.mzML	food_source_plant	fruit	MSV000096584	food	237575|Citrus tangerina
+P2_E9_G87489.mzML	food_source_plant	leaf	MSV000096584	food	29727|x
+P2_B5_G87494.mzML	food_source_plant	fruit	MSV000096584	food	13749|Vaccinium
+P2_D10_G87527.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_D7_G87536.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P2_C9_G87537.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P2_D9_G87542.mzML	food_source_fungi		MSV000096584	food	5322|Pleurotus ostreatus
+P2_B7_G87546.mzML	food_source_plant	root	MSV000096584	food	4039|Daucus carota
+P2_B12_G87547.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P2_D5_G87548.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P2_E1_G87553.mzML	food_source_plant	tuber	MSV000096584	food	4113|Solanum tuberosum
+P2_C12_G87554.mzML	food_source_plant	fruit	MSV000096584	food	159033|Citrus x aurantiifolia
+P2_B1_G87555.mzML	food_source_plant	fruit	MSV000096584	food	159033|Citrus x aurantiifolia
+P2_C7_G87556.mzML	food_source_plant	bulb	MSV000096584	food	4682|Allium sativum
+P2_C1_G87557.mzML	food_source_plant	fruit	MSV000096584	food	4081|Solanum lycopersicum
+P2_B8_G87558.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P2_E5_G87559.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P2_D12_G87580.mzML	food_source_plant	tuber	MSV000096584	food	4113|Solanum tuberosum
+P2_D6_G87581.mzML	food_source_plant	tuber	MSV000096584	food	4113|Solanum tuberosum
+P2_C6_G87582.mzML	food_source_plant	tuber	MSV000096584	food	4113|Solanum tuberosum
+P2_B11_G87594.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+P5_E1_G95769.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_D5_G95770.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_D4_G95771.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_D3_G95772.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_D2_G95774.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_D1_G95775.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C12_G95776.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C11_G95777.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C5_G95778.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C6_G95779.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C7_G95781.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C8_G95782.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C9_G95783.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_D6_G95784.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C10_G95785.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_D7_G95786.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_B12_G95787.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C1_G95789.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C2_G95790.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C3_G95791.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_C4_G95792.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+P5_F1_G95967.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+P5_B5_G96215.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_B4_G96216.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_B3_G96217.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_B2_G96218.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P5_B1_G96219.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P5_A12_G96220.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P5_A11_G96221.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_A10_G96222.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_D12_G96223.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_A7_G96224.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P5_A8_G96225.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P5_A9_G96226.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P5_D8_G96239.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_D9_G96241.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_D11_G96246.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_B6_G96247.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_B7_G96265.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_B8_G96266.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P5_B9_G96267.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P5_B10_G96268.mzML	food_source_animal		MSV000096584	food	9913|Bos taurus
+P5_B11_G96269.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_D10_G96270.mzML	food_source_animal		MSV000096584	food	NA|x
+P5_E11_G96423.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_E9_G96426.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_F2_G96453.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_G7_G96454.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_F3_G96469.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_E10_G96474.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_E12_G96645.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_E8_G96703.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+P5_G6_G96717.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+J121.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+J122.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+J109.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+J116.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+G72514.mzML	food_source_plant	root	MSV000096584	food	136217|Curcuma longa
+F_A2.mzML	food_source_plant	root	MSV000096584	food	161934|x
+F_A5.mzML	food_source_plant	bulb	MSV000096584	food	4682|Allium sativum
+F_C9.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+F_B6.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+F_C1.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+F_C6.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+F_A9.mzML	food_source_plant	leaf	MSV000096584	food	38868|Salvia officinalis
+J113.mzML	food_source_plant	seed	MSV000096584	food	105181|Elettaria cardamomum
+F_C2.mzML	food_source_plant	tuber	MSV000096584	food	4113|Solanum tuberosum
+F_A3.mzML	food_source_plant	fruit	MSV000096584	food	4081|Solanum lycopersicum
+G72453.mzML	food_source_plant	seed	MSV000096584	food	4530|Oryza sativa
+G75069.mzML	food_source_plant	leaf	MSV000096584	food	4047|Coriandrum sativum
+F_A8.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+F_D1.mzML	food_source_animal		MSV000096584	food	NA|x
+G75093.mzML	food_source_plant	leaf	MSV000096584	food	NA|x
+F_C4.mzML	food_source_plant	leaf	MSV000096584	food	29727|x
+G75086.mzML	food_source_fungi		MSV000096584	food	5341|Agaricus bisporus
+F_B1.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+F_B9.mzML	food_source_animal		MSV000096584	food	NA|x
+G75072.mzML	food_source_plant	fruit	MSV000096584	food	42229|Prunus avium
+F_C3.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+G72504.mzML	food_source_plant	fruit	MSV000096584	food	3494|x
+F_B3.mzML	food_source_plant	fruit	MSV000096584	food	4081|Solanum lycopersicum
+J114.mzML	food_source_plant	leaf	MSV000096584	food	85223|Laurus nobilis
+F_B4.mzML	food_source_animal		MSV000096584	food	NA|x
+G75092.mzML	food_source_plant	flower	MSV000096584	food	4498|x
+F_C5.mzML	food_source_fungi		MSV000096584	food	5341|Agaricus bisporus
+F_B7.mzML	food_source_plant	flower	MSV000096584	food	36774|Brassica oleracea var. italica
+F_C8.mzML	food_source_plant	fruit	MSV000096584	food	3747|Fragaria x ananassa
+J129.mzML	food_source_animal	egg cell	MSV000096584	food	9031|Gallus gallus
+J131.mzML	food_source_animal	egg cell	MSV000096584	food	9031|Gallus gallus
+F_A6.mzML	food_source_fungi		MSV000096584	food	5322|Pleurotus ostreatus
+F_A7.mzML	food_source_plant	root	MSV000096584	food	4039|Daucus carota
+G75070.mzML	food_source_plant	fruit	MSV000096584	food	381124|Zea mays subsp. mays
+F_B5.mzML	food_source_plant	fruit	MSV000096584	food	2711|Citrus sinensis
+F_C7.mzML	food_source_plant	fruit	MSV000096584	food	23216|Rubus
+J136.mzML	food_source_animal		MSV000096584	food	NA|x
+J141.mzML	food_source_animal		MSV000096584	food	NA|x
+G87513.mzML	food_source_plant		MSV000096584	food	NA|x
+F_B2.mzML	food_source_plant	fruit	MSV000096584	food	13749|Vaccinium
+G87510.mzML	food_source_plant		MSV000096584	food	NA|x
+F_A1.mzML	food_source_plant	fruit	MSV000096584	food	23211|Pyrus communis
+G73730.mzML	food_source_plant	fruit	MSV000096584	food	29780|Mangifera indica
+J110.mzML	food_source_plant	seed	MSV000096584	food	4498|x
+J132.mzML	food_source_animal		MSV000096584	food	NA|x
+J133.mzML	food_source_animal		MSV000096584	food	NA|x
+G72452.mzML	food_source_plant	fruit	MSV000096584	food	16718|x
+G86947.mzML	food_source_plant		MSV000096584	food	NA|x
+F_A4.mzML	food_source_plant	tuber	MSV000096584	food	4113|Solanum tuberosum
+G72508.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+J120.mzML	food_source_animal	milk	MSV000096584	food	3755|x
+J134.mzML	food_source_animal		MSV000096584	food	8023|Oncorhynchus nerka
+J135.mzML	food_source_animal		MSV000096584	food	8023|Oncorhynchus nerka
+J139.mzML	food_source_animal		MSV000096584	food	8023|Oncorhynchus nerka
+J140.mzML	food_source_animal		MSV000096584	food	8023|Oncorhynchus nerka
+G72449.mzML	food_source_plant	stem	MSV000096584	food	4678|Allium
+G72472.mzML	food_source_plant	stem	MSV000096584	food	4045|Apium graveolens
+J138.mzML	food_source_animal		MSV000096584	food	9823|Sus scrofa
+J142.mzML	food_source_animal		MSV000096584	food	9823|Sus scrofa
+J123.mzML	food_source_plant	stem	MSV000096584	food	94328|Zingiber officinale
+G72451.mzML	food_source_plant	stem	MSV000096584	food	4679|x
+G79166.mzML	food_source_plant	fruit	MSV000096584	food	4072|Capsicum annuum
+F_B8.mzML	food_source_plant		MSV000096584	food	NA|x
+G75084.mzML	food_source_plant	fruit	MSV000096584	food	381124|Zea mays subsp. mays
+J101.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+G75083.mzML	food_source_plant	seed	MSV000096584	food	3888|Pisum sativum
+J102.mzML	food_source_plant	seed	MSV000096584	food	3914|Vigna angularis
+J128.mzML	food_source_plant	fruit	MSV000096584	food	29780|Mangifera indica
+J126.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+G86946.mzML	food_source_plant		MSV000096584	food	NA|x
+G87499.mzML	food_source_plant	fruit	MSV000096584	food	29760|Vitis vinifera
+F_E1.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+J125.mzML	food_source_plant	fruit	MSV000096584	food	3654|Citrullus lanatus
+J117.mzML	food_source_plant		MSV000096584	food	29760|Vitis vinifera
+J119.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+J127.mzML	food_source_animal	milk	MSV000096584	food	NA|x
+J105.mzML	food_source_plant	leaf	MSV000096584	food	39350|Ocimum basilicum
+F_E2.mzML	food_source_plant	bulb	MSV000096584	food	4679|Allium cepa
+F_D2.mzML	food_source_plant		MSV000096584	food	NA|x
+J112.mzML	food_source_plant		MSV000096584	food	NA|x
+J124.mzML	food_source_plant		MSV000096584	food	NA|x
+J100.mzML	food_source_plant	fruit	MSV000096584	food	4577|Zea mays
+J130.mzML	food_source_plant	fruit	MSV000096584	food	4577|Zea mays
+J137.mzML	food_source_animal		MSV000096584	food	NA|x
+J143.mzML	food_source_animal		MSV000096584	food	NA|x
+J103.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+J104.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+J106.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+J107.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+J108.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+J111.mzML	food_source_plant	fruit	MSV000096584	food	NA|x
+J115.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+J118.mzML	food_source_plant	fruit	MSV000096584	food	23216|Rubus
+J144.mzML	food_source_plant	seed	MSV000096584	food	NA|x
+J145.mzML	food_source_plant	seed	MSV000096584	food	NA|x
