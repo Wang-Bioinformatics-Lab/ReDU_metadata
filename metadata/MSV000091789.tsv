@@ -1,0 +1,381 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000091789	Blank_003_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_004_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_021_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_029_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_015_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	MEI_C6_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	354_14_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C4_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C3_2_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	431-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	358_1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	353_0.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	22-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	47-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R10.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C7_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DBV4-546-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R8.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	06-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	035-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C1_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C3_2_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C6_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C9_2_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	12.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	812-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	25.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R6.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R34.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	02-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	29.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	501-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	16-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C10_B1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	453-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Mom_C7_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C5_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Mom_C4_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	358_6.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	813-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	811-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C9_2_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_2_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DB7-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Blank_016_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	QC_08.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	QC_07.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_012_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_009_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_028_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	QC_03.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	015-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	355_15_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	822-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	023-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	439-04.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C5_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	510-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C5_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MO_C4_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C1_B1_20221013121215.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	021-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MO_C3_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C4_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	355_8.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	360_7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R5.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	378_11_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MO_C4_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	046-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	22.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	354_3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C10_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	531-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	017-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	9.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	26.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Mom_C3_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C5_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MO_C6_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	011-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DB1CP-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	501-03_20221012120828.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	515-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	QC_05.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_010_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_026_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_001_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_014_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	ME_C10_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R35.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Mom_C9_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C9_2_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_2_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C1_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C9_2_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C3_2_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	544-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	07-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C1_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Mom_C7_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	469-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	454-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	522-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	BCN22WM-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	356_12.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	451-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_2_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	825-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R32.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DB8-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	356_5_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MO_C10_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_2_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Blank_030_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	QC_04_20221011135236.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_022_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	435-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	360_7_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	032-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	523-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	8.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_2_B1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	355_19_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	823-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	4.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	530-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C6_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_2_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	518-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	WM21-04.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	019-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C5_B1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	434-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	17.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	BCN28WM-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C9_2_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	15.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DB5-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	WM20-04.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R9.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C1_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	359_6_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	013-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	WM02-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C10_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C7_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_2_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MO_C1_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	359_9.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	516-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	14-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Blank_Solvent_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_020_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_002_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_005_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_116_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	549-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R26.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R28.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C9_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	360_11_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C6_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	102-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R29.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	038-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	509-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C9_2_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	555-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R4.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	359_19_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	041-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	505-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C4_2_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	353_10.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	353_10_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	378_7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_B1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DB2CP-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MO_C7_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DBV7-467-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Mom_C10_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C1_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MO_C9_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	360_0.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	039-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	354_10_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	355_8_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	004-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	558-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	QC_04.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	QC_05_20221011140334.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	WM17-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	353_6_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	511-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	13.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C10_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	432-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	553-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	508-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C6_B1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	359_6.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	356_12_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Mom_C5_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C10_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DBV3-542-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	517-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	033-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	28.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	525-04.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Blank_025_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	QC_02.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	QC_06.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_019_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	16.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DB3-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	444-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	10.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	029-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	557-04.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	30.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	24.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C7_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	356_5.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	378_5.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Mom_C1_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	528-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	WM19-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	309-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_2_B1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	358_15_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	05-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	WM06-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	18.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_B1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C5_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	524-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C6_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	6.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	355_1_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MO_C7_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Blank_027_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_006_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_008_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	R33.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C1_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	442-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	353_13.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	359_1_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DBCP3-545-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	358_10_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C1_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	30-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	425-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C3_2_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Mom_C6_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	11.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C10_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	818-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C3_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	031-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	354_3_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	354_6_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C6_B2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	358_1_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	20.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Blank_023_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	QC_03_20221011134139.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_011_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	356_19_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	512-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	044-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	028-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C4_2_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	358_5_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	441-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C7_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	003-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	62-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	353_13_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	427-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R31.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	QC_06_20221011141432.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_018_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_Solvent_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	QC_01.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	WM03-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C3_2_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C3_2_B1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	401-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C10_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	037-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	27.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	378_7_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DB1-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	QC_02_20221011133043.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	08-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C4_2_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	514-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C4_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	814-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	104-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	36-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C7_2_B14.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_2_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	19.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	354_6.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	476-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	471-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C10_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	447-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	475-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	23.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C7_B3.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	359_1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	5.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	52-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C4_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R30.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C3_2_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C7_2_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	533-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Blank_024_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Blank_013_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	378_4_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C9_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	01-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	492-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	821-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	521-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	355_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	Blank_007_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	359_15_2.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	359_19.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	R27.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C9_2_B1.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C6_B7.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DB6-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	ME_C6_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	45-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	105-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	353_6.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	817-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	020-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	055-02.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	DBCP5-559-03.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	MEI_C3_2_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				
+MSV000091789	QC_01_20221011131944.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091789	Mom_C4_B21.mzML	animal	biofluid	9606|Homo sapiens	milk				

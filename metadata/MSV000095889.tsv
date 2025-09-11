@@ -1,0 +1,125 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000095889	AK_041_WT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_qc_box2_3.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_042_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	pool_qc_box2_8.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_041_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_038_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_039_mock_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_036_7_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_042_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_043_mock_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_043_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_qc_box1_6.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_qc_box2_2.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_qc_box1_9.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_036_7_mock_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_046_mock_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_040_WT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_043_ctx_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	Blank_4_20240711020703.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095889	Blank_5_20240711022028.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095889	AK_026_ctx_3_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_046_WT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_039_WT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_034_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_042_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_046_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_046_WT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_043_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_042_mock_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_034_ctx_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_036_7_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_038_WT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_041_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_039_CT_2_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_042_WT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_045_ctx_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_040_WT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095889	Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095889	AK_041_ctx_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_034_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_043_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_038_ctx_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_045_WT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_040_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_026_WT_3_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	pool_qc_box2_6.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_036_7_ctx_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_039_ctx_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	pool_qc_box2_5.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_043_WT_2_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_042_ctx_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_046_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_034_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_036_7_WT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_045_ctx_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_029_ctx_2_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_qc_box1_7.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_046_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	pool_qc_box2_9.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_038_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095889	AK_039_CT_2_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_040_mock_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_038_mock_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_040_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_036_7_ctx_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_042_WT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	Blank_6_20240711023351.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095889	AK_034_WT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	pool_qc_box2_7.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_038_ctx_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_043_ctx_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_026_mock_2_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_qc_box2_4.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_036_7_WT_3_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_042_ctx_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_039_WT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_038_WT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_036_7_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_045_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_040_ctx_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_qc_box1_8.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_qc_box2_1.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_036_7_ctx_2_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_041_ctx_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_029_CT_2_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_039_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_038_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_036_7_WT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_040_ctx_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_029_mock_2_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_041_WT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_036_7_ctx_2_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095889	Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095889	pool_qc_box1_3.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_026_WT_3_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_041_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	pool_qc_box1_2.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_040_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_039_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_036_7_WT_3_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_045_mock_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_045_CT_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_034_ctx_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_043_WT_2_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_045_WT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_0_test.mzML	animal		10090|Mus musculus					
+MSV000095889	pool_qc_box1_4.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_029_ctx_2_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	pool_qc_box1_1.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_029_CT_2_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_039_mock_1_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	AK_026_ctx_3_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_034_WT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_029_mock_2_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095889	AK_041_mock_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_026_mock_2_ile.mzML	animal		10090|Mus musculus	ileum				
+MSV000095889	pool_qc_box1_5.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_045_CT_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_039_ctx_1_iSIC.mzML	animal		10090|Mus musculus					
+MSV000095889	AK_034_mock_1_iSIC.mzML	animal		10090|Mus musculus					

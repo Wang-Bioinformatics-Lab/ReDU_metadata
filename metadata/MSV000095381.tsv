@@ -1,0 +1,148 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000095381	FedPig_Tissue_Pos_Adipose5_DDA.mzML	animal		9823|Sus scrofa					
+MSV000095381	fed2_Pos_120m_J-DDA.mzML	animal		9823|Sus scrofa	jugular				
+MSV000095381	fed4_Pos_120m_J-DDA.mzML	animal		9823|Sus scrofa	jugular				
+MSV000095381	HF5_Pos_120m_U-DDA.mzML	animal	biofluid	9823|Sus scrofa	urine				
+MSV000095381	HF1_Pos_120m_J-DDA.mzML	animal		9823|Sus scrofa	jugular				
+MSV000095381	HF5_Pos_120m_FV-DDA.mzML	animal		9823|Sus scrofa	femoral vein				
+MSV000095381	fed2_Pos_120m_C-DDA.mzML	animal		9823|Sus scrofa	colon				
+MSV000095381	HF1_Pos_120m_LV-DDA.mzML	animal		9823|Sus scrofa	heart left ventricle				
+MSV000095381	fed1_Pos_120m_A-DDA.mzML	animal		9823|Sus scrofa	aortic				
+MSV000095381	HF1_Pos_120m_R-DDA.mzML	animal		9823|Sus scrofa	renal				
+MSV000095381	HF_Pos_Adipose5_DDA.mzML	animal		9823|Sus scrofa	adipose tissue				
+MSV000095381	HF1_Pos_120m_A-DDA.mzML	animal		9823|Sus scrofa	aortic				
+MSV000095381	HF3_Pos_120m_J-DDA.mzML	animal		9823|Sus scrofa	jugular				
+MSV000095381	HF1_Pos_120m_FA-DDA.mzML	animal		9823|Sus scrofa	femoral artery				
+MSV000095381	fed4_Pos_120m_IVC-DDA.mzML	animal		9823|Sus scrofa	inferior vena cava				
+MSV000095381	fed4_Pos_120m_H-DDA.mzML	animal		9823|Sus scrofa	hepatic				
+MSV000095381	HF5_Pos_120m_J-DDA.mzML	animal		9823|Sus scrofa	jugular				
+MSV000095381	fed3_Pos_120m_E-DDA.mzML	animal		9823|Sus scrofa	ear				
+MSV000095381	HF_Pos_K-medulla5_DDA.mzML	animal		9823|Sus scrofa	kidney medulla				
+MSV000095381	HF1_Pos_120m_H-DDA.mzML	animal		9823|Sus scrofa	hepatic				
+MSV000095381	fed3_Pos_120m_A-DDA.mzML	animal		9823|Sus scrofa	aortic				
+MSV000095381	fed5_Pos_120m_S-DDA.mzML	animal		9823|Sus scrofa	splenic				
+MSV000095381	fed2_Pos_120m_FA-DDA.mzML	animal		9823|Sus scrofa	femoral artery				
+MSV000095381	HF5_Pos_120m_R-DDA.mzML	animal		9823|Sus scrofa	renal				
+MSV000095381	fed5_Pos_120m_FV-DDA.mzML	animal		9823|Sus scrofa	femoral vein				
+MSV000095381	fed2_Pos_120m_FV-DDA.mzML	animal		9823|Sus scrofa	femoral vein				
+MSV000095381	fed5_Pos_120m_U-DDA.mzML	animal	biofluid	9823|Sus scrofa	urine				
+MSV000095381	HF3_Pos_120m_FV-DDA.mzML	animal		9823|Sus scrofa	femoral vein				
+MSV000095381	HF3_Pos_120m_S-DDA.mzML	animal		9823|Sus scrofa	splenic				
+MSV000095381	FedPig_Tissue_Pos_L_intestine5_DDA.mzML	animal		9823|Sus scrofa	large intestine				
+MSV000095381	HF3_Pos_120m_A-DDA.mzML	animal		9823|Sus scrofa	aortic				
+MSV000095381	fed3_Pos_120m_R-DDA.mzML	animal		9823|Sus scrofa	renal				
+MSV000095381	HF_Pos_Spleen5_DDA.mzML	animal		9823|Sus scrofa	spleen				
+MSV000095381	fed2_Pos_120m_U-DDA.mzML	animal	biofluid	9823|Sus scrofa	urine				
+MSV000095381	FedPig_Tissue_Pos_S_intestine5_DDA.mzML	animal		9823|Sus scrofa	small intestine				
+MSV000095381	FedPig_Tissue_Pos_Muscle5_DDA.mzML	animal		9823|Sus scrofa	muscle				
+MSV000095381	fed3_Pos_120m_J-DDA.mzML	animal		9823|Sus scrofa	jugular				
+MSV000095381	HF3_Pos_120m_H-DDA.mzML	animal		9823|Sus scrofa	hepatic				
+MSV000095381	fed1_Pos_120m_C-DDA.mzML	animal		9823|Sus scrofa	colon				
+MSV000095381	FedPig_Tissue_Pos_Feces5_DDA.mzML	animal	biofluid	9823|Sus scrofa	feces				
+MSV000095381	fed3_Pos_120m_IVC-DDA.mzML	animal		9823|Sus scrofa	inferior vena cava				
+MSV000095381	HF5_Pos_120m_A-DDA.mzML	animal		9823|Sus scrofa	aortic				
+MSV000095381	HF2_Pos_120m_S-DDA.mzML	animal		9823|Sus scrofa	splenic				
+MSV000095381	HF3_Pos_120m_C-DDA.mzML	animal		9823|Sus scrofa	colon				
+MSV000095381	HF5_Pos_120m_P-DDA.mzML	animal		9823|Sus scrofa	portal				
+MSV000095381	fed5_Pos_120m_FA-DDA.mzML	animal		9823|Sus scrofa	femoral artery				
+MSV000095381	FedPig_Tissue_Pos_K_medulla5_DDA.mzML	animal		9823|Sus scrofa	kidney medulla				
+MSV000095381	fed3_Pos_120m_LV-DDA.mzML	animal		9823|Sus scrofa	heart left ventricle				
+MSV000095381	HF2_Pos_120m_U-DDA.mzML	animal	biofluid	9823|Sus scrofa	urine				
+MSV000095381	FedPig_Tissue_Pos_Liver5_DDA.mzML	animal		9823|Sus scrofa	liver				
+MSV000095381	fed3_Pos_120m_C-DDA.mzML	animal		9823|Sus scrofa	colon				
+MSV000095381	fed2_Pos_120m_E-DDA.mzML	animal		9823|Sus scrofa	ear				
+MSV000095381	HF3_Pos_120m_RV-DDA.mzML	animal		9823|Sus scrofa	heart right ventricle				
+MSV000095381	HF_Pos_Muscle5_DDA.mzML	animal		9823|Sus scrofa	muscle				
+MSV000095381	fed4_Pos_120m_C-DDA.mzML	animal		9823|Sus scrofa	colon				
+MSV000095381	HF2_Pos_120m_J-DDA.mzML	animal		9823|Sus scrofa	jugular				
+MSV000095381	HF3_Pos_120m_FA-DDA.mzML	animal		9823|Sus scrofa	femoral artery				
+MSV000095381	fed3_Pos_120m_FV-DDA.mzML	animal		9823|Sus scrofa	femoral vein				
+MSV000095381	HF3_Pos_120m_P-DDA.mzML	animal		9823|Sus scrofa	portal				
+MSV000095381	fed1_Pos_120m_CS-DDA.mzML	animal		9823|Sus scrofa	coronary sinus				
+MSV000095381	fed4_Pos_120m_FV-DDA.mzML	animal		9823|Sus scrofa	femoral vein				
+MSV000095381	HF5_Pos_120m_FA-DDA.mzML	animal		9823|Sus scrofa	femoral artery				
+MSV000095381	fed3_Pos_120m_FA-DDA.mzML	animal		9823|Sus scrofa	femoral artery				
+MSV000095381	fed5_Pos_120m_A-DDA.mzML	animal		9823|Sus scrofa	aortic				
+MSV000095381	fed4_Pos_120m_FA-DDA.mzML	animal		9823|Sus scrofa	femoral artery				
+MSV000095381	HF2_Pos_120m_CS-DDA.mzML	animal		9823|Sus scrofa	coronary sinus				
+MSV000095381	fed2_Pos_120m_LV-DDA.mzML	animal		9823|Sus scrofa	heart left ventricle				
+MSV000095381	HF_Pos_Skin5_DDA.mzML	animal		9823|Sus scrofa	skin				
+MSV000095381	HF1_Pos_120m_S-DDA.mzML	animal		9823|Sus scrofa	splenic				
+MSV000095381	FedPig_Tissue_Pos_Heart5_DDA.mzML	animal		9823|Sus scrofa	heart				
+MSV000095381	fed2_Pos_120m_H-DDA.mzML	animal		9823|Sus scrofa	hepatic				
+MSV000095381	HF5_Pos_120m_RV-DDA.mzML	animal		9823|Sus scrofa	heart right ventricle				
+MSV000095381	HF_Pos_Largeintestine5_DDA.mzML	animal		9823|Sus scrofa	large intestine				
+MSV000095381	fed5_Pos_120m_CS-DDA.mzML	animal		9823|Sus scrofa	coronary sinus				
+MSV000095381	HF5_Pos_120m_H-DDA.mzML	animal		9823|Sus scrofa	hepatic				
+MSV000095381	fed3_Pos_120m_P-DDA.mzML	animal		9823|Sus scrofa	portal				
+MSV000095381	HF5_Pos_120m_E-DDA.mzML	animal		9823|Sus scrofa	ear				
+MSV000095381	FedPig_Tissue_Pos_Skin5_DDA.mzML	animal		9823|Sus scrofa	skin				
+MSV000095381	fed5_Pos_120m_RV-DDA.mzML	animal		9823|Sus scrofa	heart right ventricle				
+MSV000095381	HF1_Pos_120m_CS-DDA.mzML	animal		9823|Sus scrofa	coronary sinus				
+MSV000095381	HF2_Pos_120m_P-DDA.mzML	animal		9823|Sus scrofa	portal				
+MSV000095381	FedPig_Tissue_Pos_K_cortex5_DDA.mzML	animal		9823|Sus scrofa	kidney cortex				
+MSV000095381	HF2_Pos_120m_LV-DDA.mzML	animal		9823|Sus scrofa	heart left ventricle				
+MSV000095381	fed3_Pos_120m_H-DDA.mzML	animal		9823|Sus scrofa	hepatic				
+MSV000095381	HF2_Pos_120m_FA-DDA.mzML	animal		9823|Sus scrofa	femoral artery				
+MSV000095381	HF2_Pos_120m_RV-DDA.mzML	animal		9823|Sus scrofa	heart right ventricle				
+MSV000095381	fed3_Pos_120m_RV-DDA.mzML	animal		9823|Sus scrofa	heart right ventricle				
+MSV000095381	fed1_Pos_120m_FA-DDA.mzML	animal		9823|Sus scrofa	femoral artery				
+MSV000095381	fed5_Pos_120m_J-DDA.mzML	animal		9823|Sus scrofa	jugular				
+MSV000095381	fed4_Pos_120m_R-DDA.mzML	animal		9823|Sus scrofa	renal				
+MSV000095381	fed5_Pos_120m_LV-DDA.mzML	animal		9823|Sus scrofa	heart left ventricle				
+MSV000095381	HF_Pos_Lung5_DDA.mzML	animal		9823|Sus scrofa	lung				
+MSV000095381	HF3_Pos_120m_CS-DDA.mzML	animal		9823|Sus scrofa	coronary sinus				
+MSV000095381	HF5_Pos_120m_C-DDA.mzML	animal		9823|Sus scrofa	colon				
+MSV000095381	fed4_Pos_120m_LV-DDA.mzML	animal		9823|Sus scrofa	heart left ventricle				
+MSV000095381	fed2_Pos_120m_S-DDA.mzML	animal		9823|Sus scrofa	splenic				
+MSV000095381	fed4_Pos_120m_P-DDA.mzML	animal		9823|Sus scrofa	portal				
+MSV000095381	FedPig_Tissue_Pos_Spleen5_DDA.mzML	animal		9823|Sus scrofa	spleen				
+MSV000095381	HF1_Pos_120m_U-DDA.mzML	animal	biofluid	9823|Sus scrofa	urine				
+MSV000095381	fed2_Pos_120m_RV-DDA.mzML	animal		9823|Sus scrofa	heart right ventricle				
+MSV000095381	fed4_Pos_120m_CS-DDA.mzML	animal		9823|Sus scrofa	coronary sinus				
+MSV000095381	fed2_Pos_120m_R-DDA.mzML	animal		9823|Sus scrofa	renal				
+MSV000095381	HF_Pos_Liver5_DDA.mzML	animal		9823|Sus scrofa	liver				
+MSV000095381	HF3_Pos_120m_E-DDA.mzML	animal		9823|Sus scrofa	ear				
+MSV000095381	HF2_Pos_120m_R-DDA.mzML	animal		9823|Sus scrofa	renal				
+MSV000095381	HF_Pos_Smallintestine5_DDA.mzML	animal		9823|Sus scrofa	small intestine				
+MSV000095381	HF1_Pos_120m_FV-DDA.mzML	animal		9823|Sus scrofa	femoral vein				
+MSV000095381	HF2_Pos_120m_E-DDA.mzML	animal		9823|Sus scrofa	ear				
+MSV000095381	fed1_Pos_120m_P-DDA.mzML	animal		9823|Sus scrofa	portal				
+MSV000095381	fed2_Pos_120m_P-DDA.mzML	animal		9823|Sus scrofa	portal				
+MSV000095381	HF1_Pos_120m_E-DDA.mzML	animal		9823|Sus scrofa	ear				
+MSV000095381	HF5_Pos_120m_CS-DDA.mzML	animal		9823|Sus scrofa	coronary sinus				
+MSV000095381	HF5_Pos_120m_S-DDA.mzML	animal		9823|Sus scrofa	splenic				
+MSV000095381	fed1_Pos_120m_S-DDA.mzML	animal		9823|Sus scrofa	splenic				
+MSV000095381	HF2_Pos_120m_C-DDA.mzML	animal		9823|Sus scrofa	colon				
+MSV000095381	fed1_Pos_120m_E-DDA.mzML	animal		9823|Sus scrofa	ear				
+MSV000095381	fed5_Pos_120m_H-DDA.mzML	animal		9823|Sus scrofa	hepatic				
+MSV000095381	fed1_Pos_120m_R-DDA.mzML	animal		9823|Sus scrofa	renal				
+MSV000095381	HF3_Pos_120m_LV-DDA.mzML	animal		9823|Sus scrofa	heart left ventricle				
+MSV000095381	fed2_Pos_120m_CS-DDA.mzML	animal		9823|Sus scrofa	coronary sinus				
+MSV000095381	fed5_Pos_120m_R-DDA.mzML	animal		9823|Sus scrofa	renal				
+MSV000095381	FedPig_Tissue_Pos_Lung5_DDA.mzML	animal		9823|Sus scrofa	lung				
+MSV000095381	HF2_Pos_120m_FV-DDA.mzML	animal		9823|Sus scrofa	femoral vein				
+MSV000095381	fed1_Pos_120m_H-DDA.mzML	animal		9823|Sus scrofa	hepatic				
+MSV000095381	HF2_Pos_120m_H-DDA.mzML	animal		9823|Sus scrofa	hepatic				
+MSV000095381	HF1_Pos_120m_P-DDA.mzML	animal		9823|Sus scrofa	portal				
+MSV000095381	HF1_Pos_120m_C-DDA.mzML	animal		9823|Sus scrofa	colon				
+MSV000095381	HF3_Pos_120m_U-DDA.mzML	animal	biofluid	9823|Sus scrofa	urine				
+MSV000095381	fed1_Pos_120m_RV-DDA.mzML	animal		9823|Sus scrofa	heart right ventricle				
+MSV000095381	fed4_Pos_120m_E-DDA.mzML	animal		9823|Sus scrofa	ear				
+MSV000095381	fed4_Pos_120m_S-DDA.mzML	animal		9823|Sus scrofa	splenic				
+MSV000095381	fed1_Pos_120m_J-DDA.mzML	animal		9823|Sus scrofa	jugular				
+MSV000095381	HF_Pos_Heart5_DDA.mzML	animal		9823|Sus scrofa	heart				
+MSV000095381	HF_Pos_Feces5_DDA.mzML	animal	biofluid	9823|Sus scrofa	feces				
+MSV000095381	fed1_Pos_120m_LV-DDA.mzML	animal		9823|Sus scrofa	heart left ventricle				
+MSV000095381	fed4_Pos_120m_U-DDA.mzML	animal	biofluid	9823|Sus scrofa	urine				
+MSV000095381	fed1_Pos_120m_FV-DDA.mzML	animal		9823|Sus scrofa	femoral vein				
+MSV000095381	fed2_Pos_120m_A-DDA.mzML	animal		9823|Sus scrofa	aortic				
+MSV000095381	fed5_Pos_120m_C-DDA.mzML	animal		9823|Sus scrofa	colon				
+MSV000095381	fed5_Pos_120m_P-DDA.mzML	animal		9823|Sus scrofa	portal				
+MSV000095381	HF_Pos_K-cortex5_DDA.mzML	animal		9823|Sus scrofa	kidney cortex				
+MSV000095381	HF3_Pos_120m_R-DDA.mzML	animal		9823|Sus scrofa	renal				
+MSV000095381	HF2_Pos_120m_A-DDA.mzML	animal		9823|Sus scrofa	aortic				
+MSV000095381	HF1_Pos_120m_RV-DDA.mzML	animal		9823|Sus scrofa	heart right ventricle				
+MSV000095381	fed3_Pos_120m_S-DDA.mzML	animal		9823|Sus scrofa	splenic				
+MSV000095381	HF5_Pos_120m_LV-DDA.mzML	animal		9823|Sus scrofa	heart left ventricle				
+MSV000095381	fed4_Pos_120m_RV-DDA.mzML	animal		9823|Sus scrofa	heart right ventricle				

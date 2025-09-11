@@ -1,0 +1,785 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000094927	Blank_24.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_07.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_88.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_69.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_79.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_50.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_121.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2147111.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153467.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149577.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_48.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125263.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150474.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132659.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130951.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141686.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2161445.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2166479.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126530.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146314.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130111.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_59.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2162922.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152622.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126585.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124863.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142627.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2154937.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2162728.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130320.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143038.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123457.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132436.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150520.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135228.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142445.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147997.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134976.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146216.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2156478.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_65.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_80.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_19.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_57.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_110.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_64.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_56.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2145165.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129578.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130609.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124605.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132652.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137517.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130867.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147317.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145220.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145788.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158369.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126922.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128991.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143470.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153459.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130103.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145189.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155803.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147879.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144442.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124831.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128684.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132579.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_45.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132207.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158918.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124973.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145722.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_26.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136273.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2148673.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124760.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145808.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135823.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150924.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149176.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2163391.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131648.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134099.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123261.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2165674.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136070.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2160064.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2166489.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_39.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146576.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146620.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132605.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2148903.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_43.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_33.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_66.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_93.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_76.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_114.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_104.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_49.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_111.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2148188.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155862.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143862.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2139046.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133117.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131191.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125280.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150031.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_58.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153265.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128059.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144093.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129809.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140723.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2139263.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153756.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146251.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141798.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138805.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140148.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129995.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144048.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132681.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136127.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126962.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140649.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143742.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147788.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136042.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141649.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138909.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134129.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125313.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127108.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2165663.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2159783.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123427.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136191.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123095.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152256.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2159725.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147828.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141869.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132258.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144271.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123116.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135395.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_58.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_71.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_09.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_18.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_47.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2130787.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123471.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123054.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135287.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147275.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145291.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_36.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135342.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_35.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128123.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130825.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143833.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2122472.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137462.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_06.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130249.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2139103.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130567.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2160348.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158254.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153390.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_01.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127679.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135817.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150953.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130594.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127003.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151577.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149686.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_50.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153181.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_47.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152426.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136115.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129636.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145093.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151796.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2156913.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2157953.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135562.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124655.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124724.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_62.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_25.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_70.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_75.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_32.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_48.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_91.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_37.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_05.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_21.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_02.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2139273.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2160121.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126795.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125165.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149255.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136345.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127658.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126975.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125003.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125125.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2159705.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_51.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2162484.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140574.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134922.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141586.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150914.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123160.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129858.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145655.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133560.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2159901.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143155.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125086.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2162770.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2160263.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152757.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142229.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123214.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145989.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136158.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124730.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153634.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_56.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_49.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_61.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145001.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149480.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124622.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125231.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155927.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146283.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_21.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_19.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_61.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_51.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_30.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_55.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_106.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_31.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_60.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_90.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2132729.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151113.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131704.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142210.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149979.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149781.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126580.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137011.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141656.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_18.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123638.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2156429.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126681.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124733.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125106.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146701.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145943.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129944.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2122465.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149648.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2163243.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142939.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137024.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152903.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143503.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143410.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124555.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126875.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136088.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152053.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155604.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_46.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_96.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_112.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_27.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2132683.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149774.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_54.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146990.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146006.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134353.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136098.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126827.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127359.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2154018.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145233.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123614.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140634.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2162658.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155529.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133920.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2162566.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145450.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2162695.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143663.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145229.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129476.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131125.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140698.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151552.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141237.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124625.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131174.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150534.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_23.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141631.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129482.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137033.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153200.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2160384.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2163311.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_33.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127322.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127411.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143703.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126803.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_17.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128918.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_45.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_81.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_17.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_97.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_36.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2136329.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124993.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149061.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135627.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127406.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146235.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144113.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138273.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124766.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144394.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144064.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147288.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X3016783.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135168.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153141.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2161434.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142860.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128650.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128849.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150187.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132349.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133946.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147032.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131874.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127557.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125115.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129431.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158298.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155853.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124718.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136123.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130921.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125131.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151905.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126723.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140212.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131031.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133890.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123545.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132479.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128729.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126574.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152491.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143896.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153567.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128098.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126608.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_08.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_95.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_83.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_94.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_35.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_122.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2155666.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123688.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131809.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2156487.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152207.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150412.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125187.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133719.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149734.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150204.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132055.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_60.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133512.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133201.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146320.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133135.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2164938.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127491.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_32.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142014.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130740.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142519.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2163491.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132888.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125211.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130313.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2159892.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X3016785.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142289.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149029.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_55.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130056.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135636.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153649.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142990.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125074.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153615.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127723.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125336.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_38.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153791.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_37.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131997.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127747.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_98.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_87.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_42.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_67.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_100.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_123.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_84.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_52.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_26.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_39.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_77.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2145443.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123026.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142298.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140693.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2159700.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2166436.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138990.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133145.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131712.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152408.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151972.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150313.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125000.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126957.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149763.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145890.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127982.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147059.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145912.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150609.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2159681.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137353.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140242.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146183.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135188.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143902.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_08.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138109.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133855.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2164086.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152698.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134969.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152356.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134933.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145677.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145978.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140996.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124786.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140455.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152139.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151569.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145459.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132816.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145147.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143292.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158411.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138232.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_117.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_06.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_113.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_89.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_74.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_92.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_22.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_20.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_107.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_103.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2141802.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158155.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146690.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131829.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144458.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130271.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142075.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144570.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134063.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135603.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_41.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145281.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130677.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134144.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_14.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127635.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125175.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145315.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129447.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142598.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127841.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2139122.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131674.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127423.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128163.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_29.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144451.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123064.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_20.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153829.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140514.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126568.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141739.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140918.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133300.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145469.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129899.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124551.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_15.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_85.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_53.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_108.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_23.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_34.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_116.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_86.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_120.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_119.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_68.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2153940.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132431.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2156166.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142878.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2162492.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143548.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133956.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2163380.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151544.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140776.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146821.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2139230.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146886.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140298.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132279.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2160463.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149443.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127972.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125192.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146913.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2148533.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145802.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2148591.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_05.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130603.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142272.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134037.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126789.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155964.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145535.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153777.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128112.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_43.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_102.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_72.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_40.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_101.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_01.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_54.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_28.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2147907.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131095.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147205.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131953.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2160425.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137422.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127908.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152431.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147711.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124674.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152109.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126811.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153100.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2140703.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_52.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129664.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151691.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_02.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143509.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147991.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126690.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2148441.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_12.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137018.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136079.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126835.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127461.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151916.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138243.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135467.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_30.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2154950.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_07.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150407.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158314.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135457.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150180.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155598.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132170.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2163317.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_04.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2148731.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_41.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_04.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_73.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_82.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_109.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2127911.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146380.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_22.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155512.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131261.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123206.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138545.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2159752.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151982.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125076.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137452.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137211.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2122484.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_27.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126730.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_44.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128912.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2155521.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2160055.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_28.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128506.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137383.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126534.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2160339.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_24.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129368.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142924.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138820.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2130507.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2124987.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143000.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150003.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2128826.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129779.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123167.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_62.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133613.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158361.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126818.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132320.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143126.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149544.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135236.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135592.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127510.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_40.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153402.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132927.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152227.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_29.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_44.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2125271.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2163180.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158419.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2141073.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153417.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123110.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2127850.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2150906.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_16.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2139095.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145082.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133648.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146830.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2132337.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145504.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_13.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144371.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2145157.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126522.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X3022475.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2125009.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134210.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151243.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138762.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143921.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134031.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138782.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_42.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142560.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_31.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137087.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137543.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_53.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2144582.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152070.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123093.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2158404.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_34.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_10.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134301.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_11.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_03.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_105.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_118.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_99.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_78.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_46.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_115.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_59.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	csf_X2141663.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_09.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147936.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2142003.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152274.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2133211.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2123017.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2159989.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2137966.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2151506.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_25.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135139.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_03.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_poolQC_57.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2146679.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2153511.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2149707.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135347.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2136424.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2135829.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2134007.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2152672.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2131559.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2143446.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2129584.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2147117.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2126640.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	csf_X2138772.mzML	animal		9606|Homo sapiens	cerebrospinal fluid				
+MSV000094927	Blank_124.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_38.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000094927	Blank_63.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

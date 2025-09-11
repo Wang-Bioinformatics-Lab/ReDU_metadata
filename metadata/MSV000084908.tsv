@@ -1,0 +1,563 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000084908	ExtractionBlank_10_GD1_01_52035.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_09_GC1_01_52022.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT131E3CAL_GD3_01_52037.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT141E3CAL_GA11_01_52006.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT010E3CAL_BD8_01_51898.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT097E3CAL_GC5_01_52026.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	000107215_BB11_01_52119.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT095E3CAL_BC3_01_51879.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Test3lColumnBlk_No_Inj_01_RA1_01_50381.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Serum_151A_GC5_01_50422.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT222E3CAL_GD2_01_52036.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	107213_BF10_01_52172.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	107223_BE7_01_52156.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Serum_159B_GA8_01_50395.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT241E3CAL_GB6_01_52014.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_157B_GD5_01_50438.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT287E3CAL_BC11_01_51887.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT031CCAL_GG4_01_52079.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT193E3CAL_GG10_01_52085.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT268E3CAL_GC7_01_52028.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT255E3CAL_BE12_01_52161.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT263E3CAL_BE11_01_52160.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT076E3CAL_GE7_01_52055.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT303E3CAL_GF7_01_52068.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT245E3CAL_BF3_01_52165.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_144A_GB7_01_50409.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Serum_106A_GA2_01_50386.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT073E3CAL_BC8_01_51884.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT101E3CAL_GB8_01_52016.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT257E3CAL_BF9_01_52171.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT158E3CAL_GB2_01_52010.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Blk_No_Inj_06_RA1_01_51890.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT187E3CAL_BA11_01_52106.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_143B_GD6_01_50439.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT206E3CAL_BD4_01_52138.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT294E3CAL_GF4_01_52065.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	ExtractionBlank_07_GB1_01_51996.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT202E3CAL_BB10_01_52118.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	000107212_BA6_01_52101.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT027CCAL_BE11_01_51913.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT170E3CAL_BB2_01_52110.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT276E3CAL_BE10_01_52159.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT120E3CAL_BC9_01_52130.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT196E3CAL_GD5_01_52039.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT261E3CAL_BC6_01_52127.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	150675-339_BA4_01_52099.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT011E3CAL_BB6_01_51868.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT256E3CAL_BE2_01_52150.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT002CCAL_BE12_01_51914.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT108E3CAL_BB12_01_51874.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT209E3CAL_GG7_01_52082.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT025E3CAL_BE3_01_51908.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_163A_GB9_01_50412.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Serum_116B_GD4_01_50436.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT188E3CAL_GE6_01_52054.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT024E3CAL_BE2_01_51907.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT011E3CAL_BB6_01_51868.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT177E3CAL_GG12_01_52087.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	EmmanuelColumnBlk_No_Inj_01_RA1_01_50380.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT191E3CAL_BD5_01_51895.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_148B_GC7_01_50425.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT191E3CAL_BD5_01_51895.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_137B_GC9_01_50427.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	000107215_BB11_01_52119.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Serum_159A_GB11_01_50414.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT025E3CAL_BE3_01_51908.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT198E3CAL_GA5_01_52000.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	ExtractionBlank_02_BB1_01_51863.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	SerumExtractionBlank_03_GC1_01_50418.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_07_GB1_01_51996.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_06_BF1_01_51916.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_13_GG1_01_52076.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT265E3CAL_GD12_01_52046.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT255E3CAL_BE12_01_52161.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT239E3CAL_BF12_01_52174.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT270E3CAL_BC5_01_52126.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT010CCAL_BD11_01_51901.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT344E3CAL_GE10_01_52058.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT286E3CAL_GF2_01_52063.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT170E3CAL_BB2_01_52110.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT293E3CAL_GF3_01_52064.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT221E3CAL_GC12_01_52033.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT122E3CAL_BB6_01_52114.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT086E3CAL_GA6_01_52001.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_159A_GB11_01_50414.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	000107222_BC12_01_52133.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Blk_No_Inj_03_RA1_01_50417.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT226E3CAL_GE3_01_52051.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT222E3CAL_GD2_01_52036.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT264E3CAL_BA3_01_52098.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	107213_BF10_01_52172.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Blk_No_Inj_04_RA1_01_50432.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT309E3CAL_BB4_01_52112.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT202E3CAL_BB10_01_52118.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_116A_GA6_01_50392.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT052E3CAL_GE2_01_52050.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT004E3CAL_BF3_01_51918.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT093E3CAL_BC7_01_51883.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	000107591_BB9_01_52117.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	ExtractionBlank_14_GH1_01_52089.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_01_BA1_01_51849.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	000107214_BA10_01_52105.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT310E3CAL_BF7_01_52169.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT181E3CAL_BE5_01_52153.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT004E3CAL_BF3_01_51918.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT165E3CAL_GB9_01_52017.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT164E3CAL_BB11_01_51873.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT094E3CAL_BA4_01_51852.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT344E3CAL_GE10_01_52058.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	107218_BD12_01_52146.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT030E3CAL_BB10_01_51872.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT188E3CAL_GE6_01_52054.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT055E3CAL_BA6_01_51854.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	150675_324_BE6_01_52155.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT293E3CAL_GF3_01_52064.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Blk_No_Inj_02_RA1_01_50401.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT118E3CAL_BA2_01_51850.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT106E3CAL_GB10_01_52018.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_140A_GC10_01_50428.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	107221_BE8_01_52157.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT118E3CAL_BA2_01_51850.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_106A_GA2_01_50386.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Blk_No_Inj_07_RA1_01_51905.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT233E3CAL_GG9_01_52084.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_135A_GA3_01_50389.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT071E3CAL_GA3_01_51998.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT120E3CAL_BC9_01_52130.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT146E3CAL_GF11_01_52073.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT267E3CAL_GB7_01_52015.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT008CCAL_BD10_01_51900.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT286E3CAL_GF2_01_52063.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_164B_GC11_01_50429.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT281E3CAL_BC7_01_52128.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT135E3CAL_GD11_01_52045.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT192E3CAL_BA5_01_51853.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Blk_No_Inj_03_RA1_01_51862.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT002E3CAL_BF2_01_51917.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	SerumExtractionBlank_03_GC1_01_50418.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_16_GB1_01_52109.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT241E3CAL_GB6_01_52014.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT114E3CAL_GG2_01_52077.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	000107225_BC2_01_52123.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	000107214_BA10_01_52105.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Serum_171A_GB4_01_50405.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	107220_BD6_01_52140.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Serum_137A_GB2_01_50403.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	000107590_BC4_01_52125.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT038E3CAL_BB5_01_51867.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT126E3CAL_GD8_01_52042.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT227E3CAL_BE6_01_51911.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT278E3CAL_BA7_01_52102.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT018CCAL_BD12_01_51902.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT181E3CAL_BE5_01_52153.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT091E3CAL_BC5_01_51881.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT266E3CAL_GD6_01_52040.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT027CCAL_BE11_01_51913.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_151B_GA11_01_50398.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT218E3CAL_GH5_01_52093.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT051E3CAL_BA12_01_51860.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_171B_GA5_01_50391.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT276E3CAL_BE10_01_52159.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT291E3CAL_GF8_01_52069.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT309E3CAL_BB4_01_52112.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_106A_GA2_01_50388.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Blk_No_Inj_02_RA1_01_51846.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	Serum_157A_GC12_01_50430.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	000107225_BC2_01_52123.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	SerumExtractionBlank_01_GB1_01_50387.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_12_GF1_01_52062.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	Serum_164A_GC8_01_50426.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT038CCAL_BA10_01_51858.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT280E3CAL_BB5_01_52113.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_168B_GC3_01_50420.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT077E3CAL_GE9_01_52057.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT030E3CAL_BB10_01_51872.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT092E3CAL_BC6_01_51882.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT026CCAL_BE5_01_51910.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	107221_BE8_01_52157.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT211E3CAL_GE4_01_52052.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT004CCAL_BF4_01_51919.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Blk_No_Inj_05_RA1_01_51876.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT187E3CAL_BA11_01_52106.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT265E3CAL_GD12_01_52046.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_106B_GB5_01_50406.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT068E3CAL_GA8_01_52003.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT253E3CAL_BD8_01_52142.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Blk_No_Inj_05_RA1_01_51876.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT076E3CAL_GE7_01_52055.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_148A_GA7_01_50394.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT271E3CAL_BA9_01_52104.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT002E3CAL_BF2_01_51917.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT270E3CAL_BC5_01_52126.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	107229_BD10_01_52144.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT135E3CAL_GD11_01_52045.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT132E3CAL_GC3_01_52024.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT112E3CAL_GG11_01_52086.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT231E3CAL_GE5_01_52053.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	107226_BE4_01_52152.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Serum_144B_GB12_01_50415.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	000107219_BA8_01_52103.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT290E3CAL_BC10_01_51886.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT001CCAL_BD9_01_51899.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT237E3CAL_GF5_01_52066.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Blk_No_Inj_06_RA1_01_51890.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	Serum_148B_GC7_01_50425.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	107229_BD10_01_52144.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT084E3CAL_BC4_01_51880.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT134E3CAL_GC4_01_52025.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Blk_No_Inj_03_RA1_01_51862.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT001E3CAL_BD2_01_51892.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_166B_GC6_01_50423.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Serum_140B_GC4_01_50421.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	SerumExtractionBlank_01_GB1_01_50387.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	SerumExtractionBlank_02_GB1_01_50402.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_15_GH1_01_52096.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_08_GB1_01_52009.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_05_BE1_01_51906.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_20_BF1_01_52163.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT155E3CAL_GB3_01_52011.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT314E3CAL_GE11_01_52059.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT092E3CAL_BC6_01_51882.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	107217_BF2_01_52164.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT295E3CAL_GG8_01_52083.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_166A_GB8_01_50410.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT051E3CAL_BA12_01_51860.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT087E3CAL_GA2_01_51997.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT245E3CAL_BF3_01_52165.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	150675_324_BE6_01_52155.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Column2Blk_No_Inj_01_RA1_01_50379.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT006E3CAL_BF5_01_51920.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	150675_333_BF11_01_52173.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_133A_GA10_01_50397.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT112E3CAL_GG11_01_52086.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT262E3CAL_BD5_01_52139.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT074E3CAL_GA4_01_51999.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Blk_No_Inj_04_RA1_01_50432.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT049E3CAL_GH4_01_52092.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT233E3CAL_GG9_01_52084.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_106A_GA2_01_50388.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Blk_No_Inj_09_RA1_01_51995.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	Blk_No_Inj_01_RA1_01_51844.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT070E3CAL_BA11_01_51859.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT124E3CAL_GD10_01_52044.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT274E3CAL_BC3_01_52124.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT006E3CAL_BF5_01_51920.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT306E3CAL_GE12_01_52060.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT070E3CAL_BA11_01_51859.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT193E3CAL_GG10_01_52085.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT148E3CAL_BC11_01_52132.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT216E3CAL_GC11_01_52032.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT106E3CAL_GB10_01_52018.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT031E3CAL_BB8_01_51870.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	ExtractionBlank_17_BC1_01_52122.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_11_GE1_01_52049.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	Serum_144A_GB7_01_50409.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT150E3CAL_GB5_01_52013.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_135A_GA3_01_50389.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT101E3CAL_GB8_01_52016.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	EmmanuelColumnBlk_No_Inj_01_RA1_01_50380.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT084E3CAL_BC4_01_51880.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_166A_GB8_01_50410.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT177E3CAL_GG12_01_52087.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	150675-339_BA4_01_52099.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	000107222_BC12_01_52133.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT194E3CAL_GH2_01_52090.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT275E3CAL_BE3_01_52151.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Blk_No_Inj_07_RA1_01_51905.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT216E3CAL_GC11_01_52032.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT239E3CAL_BF12_01_52174.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT288E3CAL_BD7_01_51897.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT207E3CAL_GG6_01_52081.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT206E3CAL_BD4_01_52138.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT201E3CAL_BF4_01_52166.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Blk_No_Inj_01_RA1_01_50378.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT267E3CAL_GB7_01_52015.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT266E3CAL_GD6_01_52040.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Blk_No_Inj_02_RA1_01_50401.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT160E3CAL_GA12_01_52007.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT303E3CAL_GF7_01_52068.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT211E3CAL_GE4_01_52052.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT004CCAL_BF4_01_51919.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT114E3CAL_GG2_01_52077.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT048E3CAL_GF9_01_52070.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT087E3CAL_GA2_01_51997.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT164E3CAL_BB11_01_51873.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	107582_BE9_01_52158.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Serum_157B_GD5_01_50438.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	SerumExtractionBlank_01_GB1_01_50385.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_08_GB1_01_52009.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_10_GD1_01_52035.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_15_GH1_01_52096.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT160E3CAL_GA12_01_52007.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT129E3CAL_GB4_01_52012.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_144B_GB12_01_50415.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT287E3CAL_BC11_01_51887.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT264E3CAL_BA3_01_52098.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT155E3CAL_GB3_01_52011.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT196E3CAL_GD5_01_52039.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_152A_GB10_01_50413.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT001E3CAL_BD2_01_51892.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT150E3CAL_GB5_01_52013.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT006CCAL_BD4_01_51894.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT128E3CAL_GD9_01_52043.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	000107590_BC4_01_52125.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT281E3CAL_BC7_01_52128.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT012E3CAL_BB3_01_51865.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT031CCAL_GG4_01_52079.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT079E3CAL_GA7_01_52002.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT166E3CAL_GA9_01_52004.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT060E3CAL_GF10_01_52071.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT269E3CAL_GC6_01_52027.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Column2Blk_No_Inj_01_RA1_01_50379.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	150675_323_BF6_01_52168.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT307E3CAL_BD6_01_51896.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT252E3CAL_BA12_01_52107.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT261E3CAL_BC6_01_52127.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT032E3CAL_BB2_01_51864.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT132E3CAL_GC3_01_52024.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT038CCAL_BA10_01_51858.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT049E3CAL_GH4_01_52092.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT256E3CAL_BE2_01_52150.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT219E3CAL_GE8_01_52056.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	ExtractionBlank_19_GE1_01_52149.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_02_BB1_01_51863.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT290E3CAL_BC10_01_51886.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT054E3CAL_GG5_01_52080.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT271E3CAL_BA9_01_52104.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT288E3CAL_BD7_01_51897.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_135B_GD3_01_50435.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT099E3CAL_BC9_01_51885.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_163B_GB6_01_50407.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT108E3CAL_BB12_01_51874.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_168B_GC3_01_50420.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT125E3CAL_GB12_01_52020.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT273E3CAL_BB3_01_52111.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT206E3CAL_GD4_01_52038.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	107226_BE4_01_52152.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	000107231_BD3_01_52137.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Serum_143B_GD6_01_50439.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT052E3CAL_GE2_01_52050.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT249E3CAL_BC10_01_52131.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_151B_GA11_01_50398.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT038E3CAL_BB5_01_51867.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT077E3CAL_GE9_01_52057.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	107582_BE9_01_52158.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT294E3CAL_GF4_01_52065.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT131E3CAL_GD3_01_52037.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT166E3CAL_GA9_01_52004.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_152B_GD2_01_50434.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Blk_No_Inj_02_RA1_01_51846.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT289E3CAL_BC12_01_51888.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT008E3CAL_BD3_01_51893.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT238E3CAL_BE4_01_51909.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT151E3CAL_GC8_01_52029.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT274E3CAL_BC3_01_52124.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	150675_113_BA2_01_52097.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT083E3CAL_GA10_01_52005.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT306E3CAL_GE12_01_52060.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT091E3CAL_BC5_01_51881.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	ExtractionBlank_06_BF1_01_51916.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_05_BE1_01_51906.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_18_BD1_01_52135.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT036CCAL_BB7_01_51869.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	150675_317_BF5_01_52167.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT012E3CAL_BB3_01_51865.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT275E3CAL_BE3_01_52151.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT148E3CAL_BC11_01_52132.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Blk_No_Inj_09_RA1_01_51995.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT002CCAL_BE12_01_51914.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_135B_GD3_01_50435.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Serum_148A_GA7_01_50394.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT165E3CAL_GB9_01_52017.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT018CCAL_BD12_01_51902.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT152E3CAL_GC9_01_52030.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT107E3CAL_GB11_01_52019.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	150675_317_BF5_01_52167.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT008E3CAL_BD3_01_51893.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT223E3CAL_BB9_01_51871.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT209E3CAL_GG7_01_52082.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT083E3CAL_GA10_01_52005.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT129E3CAL_GB4_01_52012.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	000107219_BA8_01_52103.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT142E3CAL_BD2_01_52136.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT260E3CAL_BB12_01_52120.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	150675_332_BD11_01_52145.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_116A_GA6_01_50392.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT162E3CAL_BC2_01_51878.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_159B_GA8_01_50395.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT048E3CAL_GF9_01_52070.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT310E3CAL_BF7_01_52169.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_133B_GC2_01_50419.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Serum_170B_GA12_01_50399.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT125E3CAL_GB12_01_52020.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	1072320_BB8_01_52116.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT074E3CAL_GA4_01_51999.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT279E3CAL_BF8_01_52170.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	SerumExtractionBlank_02_GB1_01_50402.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	SerumExtractionBlank_01_GB1_01_50385.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT257E3CAL_BF9_01_52171.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT273E3CAL_BB3_01_52111.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT126E3CAL_GD8_01_52042.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT067E3CAL_BA9_01_51857.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT210E3CAL_GH3_01_52091.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_133B_GC2_01_50419.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT078E3CAL_BA8_01_51856.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	150675_323_BF6_01_52168.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT226E3CAL_GE3_01_52051.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT142E3CAL_BD2_01_52136.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT291E3CAL_GF8_01_52069.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT013E3CAL_GF12_01_52074.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT284E3CAL_BA5_01_52100.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT053E3CAL_BB4_01_51866.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT289E3CAL_BC12_01_51888.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT134E3CAL_GC4_01_52025.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT026CCAL_BE5_01_51910.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT278E3CAL_BA7_01_52102.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT238E3CAL_BE4_01_51909.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_163A_GB9_01_50412.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT127E3CAL_GC2_01_52023.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT223E3CAL_BB9_01_51871.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT146E3CAL_GF11_01_52073.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_168A_GB3_01_50404.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT254E3CAL_BB7_01_52115.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT229E3CAL_GC10_01_52031.mzML	animal	biofluid	9606|Homo sapiens	feces			150675-236	
+MSV000084908	SerumExtractionBlank_04_GD1_01_50433.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_01_BA1_01_51849.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_16_GB1_01_52109.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT284E3CAL_BA5_01_52100.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT250E3CAL_BC8_01_52129.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT252E3CAL_BA12_01_52107.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT194E3CAL_GH2_01_52090.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT314E3CAL_GE11_01_52059.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT201E3CAL_BF4_01_52166.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT198E3CAL_GA5_01_52000.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_137B_GC9_01_50427.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT295E3CAL_GG8_01_52083.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT285E3CAL_BD9_01_52143.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT151E3CAL_GC8_01_52029.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_164A_GC8_01_50426.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT008CCAL_BD10_01_51900.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT001CCAL_BD9_01_51899.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT068E3CAL_GA8_01_52003.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT122E3CAL_BB6_01_52114.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT292E3CAL_GF6_01_52067.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_143A_GA4_01_50390.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT071E3CAL_GA3_01_51998.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT013E3CAL_GF12_01_52074.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT080E3CAL_GG3_01_52078.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	ExtractionBlank_09_GC1_01_52022.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_17_BC1_01_52122.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_03_BC1_01_51877.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	SerumExtractionBlank_04_GD1_01_50433.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_04_BD1_01_51891.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	Serum_106B_GB5_01_50406.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Serum_170B_GA12_01_50399.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT307E3CAL_BD6_01_51896.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT269E3CAL_GC6_01_52027.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT010CCAL_BD11_01_51901.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_133A_GA10_01_50397.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT221E3CAL_GC12_01_52033.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT262E3CAL_BD5_01_52139.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_116B_GD4_01_50436.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT218E3CAL_GH5_01_52093.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT097E3CAL_GC5_01_52026.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT229E3CAL_GC10_01_52031.mzXML	animal	biofluid	9606|Homo sapiens	feces			150675-236	
+MSV000084908	FIT231E3CAL_GE5_01_52053.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT099E3CAL_BC9_01_51885.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT058E3CAL_BA3_01_51851.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT080E3CAL_GG3_01_52078.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT079E3CAL_GA7_01_52002.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT152E3CAL_GC9_01_52030.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	000107212_BA6_01_52101.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT078E3CAL_BA8_01_51856.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT285E3CAL_BD9_01_52143.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT207E3CAL_GG6_01_52081.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT253E3CAL_BD8_01_52142.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT249E3CAL_BC10_01_52131.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT236E3CAL_BD7_01_52141.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT095E3CAL_BC3_01_51879.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_171B_GA5_01_50391.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT127E3CAL_GC2_01_52023.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT073E3CAL_BC8_01_51884.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT024E3CAL_BE2_01_51907.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT192E3CAL_BA5_01_51853.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_152A_GB10_01_50413.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT227E3CAL_BE6_01_51911.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_166B_GC6_01_50423.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Blk_No_Inj_01_RA1_01_51844.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT206E3CAL_GD4_01_52038.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_168A_GB3_01_50404.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT280E3CAL_BB5_01_52113.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	ExtractionBlank_14_GH1_01_52089.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_11_GE1_01_52049.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_04_BD1_01_51891.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_19_GE1_01_52149.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_13_GG1_01_52076.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT053E3CAL_BB4_01_51866.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT128E3CAL_GD9_01_52043.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT292E3CAL_GF6_01_52067.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT054E3CAL_GG5_01_52080.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT058E3CAL_BA3_01_51851.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT158E3CAL_GB2_01_52010.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT065E3CAL_BA7_01_51855.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	107218_BD12_01_52146.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	107217_BF2_01_52164.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT094E3CAL_BA4_01_51852.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT121E3CAL_GD7_01_52041.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	000107591_BB9_01_52117.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT032E3CAL_BB2_01_51864.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT107E3CAL_GB11_01_52019.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT086E3CAL_GA6_01_52001.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT006CCAL_BD4_01_51894.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT031E3CAL_BB8_01_51870.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	1072320_BB8_01_52116.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT010E3CAL_BD8_01_51898.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000084908	FIT236E3CAL_BD7_01_52141.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT124E3CAL_GD10_01_52044.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT121E3CAL_GD7_01_52041.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT141E3CAL_GA11_01_52006.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT055E3CAL_BA6_01_51854.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT250E3CAL_BC8_01_52129.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_170A_GA9_01_50396.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	150675_333_BF11_01_52173.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_151A_GC5_01_50422.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT036CCAL_BB7_01_51869.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	000107231_BD3_01_52137.mzXML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT067E3CAL_BA9_01_51857.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_137A_GB2_01_50403.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT279E3CAL_BF8_01_52170.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	Serum_143A_GA4_01_50390.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT237E3CAL_GF5_01_52066.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_157A_GC12_01_50430.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	ExtractionBlank_18_BD1_01_52135.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_20_BF1_01_52163.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_12_GF1_01_52062.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	ExtractionBlank_03_BC1_01_51877.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084908	FIT060E3CAL_GF10_01_52071.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	150675_113_BA2_01_52097.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_164B_GC11_01_50429.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	150675_332_BD11_01_52145.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_152B_GD2_01_50434.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	107223_BE7_01_52156.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	Serum_163B_GB6_01_50407.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Blk_No_Inj_01_RA1_01_50378.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Serum_171A_GB4_01_50405.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT014E3CAL_BE7_01_51912.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT260E3CAL_BB12_01_52120.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Blk_No_Inj_03_RA1_01_50417.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT268E3CAL_GC7_01_52028.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT263E3CAL_BE11_01_52160.mzML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT014E3CAL_BE7_01_51912.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT065E3CAL_BA7_01_51855.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT162E3CAL_BC2_01_51878.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	FIT210E3CAL_GH3_01_52091.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	FIT093E3CAL_BC7_01_51883.mzXML	animal	biofluid	9606|Homo sapiens	feces			Crohn's disease	
+MSV000084908	107220_BD6_01_52140.mzML	animal	biofluid	9606|Homo sapiens	feces			healthy	healthy
+MSV000084908	FIT254E3CAL_BB7_01_52115.mzML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_170A_GA9_01_50396.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Serum_140A_GC10_01_50428.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	FIT219E3CAL_GE8_01_52056.mzXML	animal	biofluid	9606|Homo sapiens	feces			ulcerative colitis	
+MSV000084908	Serum_140B_GC4_01_50421.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	
+MSV000084908	Test3lColumnBlk_No_Inj_01_RA1_01_50381.mzML	animal	biofluid	9606|Homo sapiens	blood serum			inflammatory bowel disease	

@@ -1,0 +1,169 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000085879	026_DaLi_H9M9_Pool_07_neg_31.mzML	animal		10090|Mus musculus					
+MSV000085879	029_DaLi_H9M9_H_MCT_R2_neg_34.mzML	animal		10090|Mus musculus					
+MSV000085879	019_DaLi_H9M9_H_LCT_R1_neg_24.mzML	animal		10090|Mus musculus					
+MSV000085879	018_DaLi_H9M9_H_C_R3_pos_24.mzML	animal		10090|Mus musculus					
+MSV000085879	028_DaLi_H9M9_BC_C_R4_neg_33.mzML	animal		10090|Mus musculus					
+MSV000085879	038_DaLi_H9M9_H_C_R4_neg_44_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	008_DaLi_H9M9_BC_MCT_R3_pos_14_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	034_DaLi_H9M9_H_LCT_R5_pos_40.mzML	animal		10090|Mus musculus					
+MSV000085879	026_DaLi_H9M9_Pool_07_pos_32.mzML	animal		10090|Mus musculus					
+MSV000085879	012_DaLi_H9M9_H_MCT_R4_pos_18_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	031_DaLi_H9M9_Pool_08_neg_37_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	018_DaLi_H9M9_H_C_R3_neg_24_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	038_DaLi_H9M9_H_C_R4_neg_43.mzML	animal		10090|Mus musculus					
+MSV000085879	034_DaLi_H9M9_H_LCT_R5_pos_40_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	024_DaLi_H9M9_BC_C_R3_pos_30_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	034_DaLi_H9M9_H_LCT_R5_neg_40_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	005_DaLi_H9M9_Pool_03_neg_10.mzML	animal		10090|Mus musculus					
+MSV000085879	001_DaLi_H9M9_Blank_02_neg_07_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	001_DaLi_H9M9_Blank_02_pos_07_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	000_DaLi_H9M9_Blank_01_pos_06_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	035_DaLi_H9M9_Blank_10_neg_40.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	006_DaLi_H9M9_Blank_04_neg_12_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	016_DaLi_H9M9_Pool_05_pos_22.mzML	animal		10090|Mus musculus					
+MSV000085879	032_DaLi_H9M9_BC_C_R1_neg_38_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	027_DaLi_H9M9_BC_MCT_R2_pos_33_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	004_DaLi_H9M9_Pool_02_pos_10.mzML	animal		10090|Mus musculus					
+MSV000085879	011_DaLi_H9M9_Pool_04_pos_17_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	017_DaLi_H9M9_BC_MCT_R1_neg_23_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	017_DaLi_H9M9_BC_MCT_R1_pos_23.mzML	animal		10090|Mus musculus					
+MSV000085879	038_DaLi_H9M9_H_C_R4_pos_44.mzML	animal		10090|Mus musculus					
+MSV000085879	040_DaLi_H9M9_Pool_10_neg_45.mzML	animal		10090|Mus musculus					
+MSV000085879	013_DaLi_H9M9_H_LCT_R3_neg_18.mzML	animal		10090|Mus musculus					
+MSV000085879	022_DaLi_H9M9_BC_C_R2_pos_28_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	013_DaLi_H9M9_H_LCT_R3_neg_19_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	037_DaLi_H9M9_H_MCT_R3_neg_42.mzML	animal		10090|Mus musculus					
+MSV000085879	033_DaLi_H9M9_H_MCT_R1_pos_39.mzML	animal		10090|Mus musculus					
+MSV000085879	008_DaLi_H9M9_BC_MCT_R3_neg_13.mzML	animal		10090|Mus musculus					
+MSV000085879	036_DaLi_H9M9_Pool_09_pos_42.mzML	animal		10090|Mus musculus					
+MSV000085879	023_DaLi_H9M9_H_LCT_R4_neg_28.mzML	animal		10090|Mus musculus					
+MSV000085879	003_DaLi_H9M9_Pool_01_neg_09_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	016_DaLi_H9M9_Pool_05_pos_22_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	017_DaLi_H9M9_BC_MCT_R1_neg_22.mzML	animal		10090|Mus musculus					
+MSV000085879	002_DaLi_H9M9_Blank_03_neg_07.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	030_DaLi_H9M9_Blank_09_neg_36_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	000_DaLi_H9M9_Blank_01_neg_05.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	030_DaLi_H9M9_Blank_09_pos_36_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	030_DaLi_H9M9_Blank_09_pos_36.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	041_DaLi_H9M9_Blank_12_pos_47.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	041_DaLi_H9M9_Blank_12_neg_46.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	020_DaLi_H9M9_Blank_07_neg_25.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	015_DaLi_H9M9_Blank_06_neg_20.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	005_DaLi_H9M9_Pool_03_neg_11_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	034_DaLi_H9M9_H_LCT_R5_neg_39.mzML	animal		10090|Mus musculus					
+MSV000085879	022_DaLi_H9M9_BC_C_R2_pos_28.mzML	animal		10090|Mus musculus					
+MSV000085879	040_DaLi_H9M9_Pool_10_pos_46_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	036_DaLi_H9M9_Pool_09_pos_42_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	031_DaLi_H9M9_Pool_08_pos_37.mzML	animal		10090|Mus musculus					
+MSV000085879	023_DaLi_H9M9_H_LCT_R4_pos_29_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	023_DaLi_H9M9_H_LCT_R4_neg_29_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	022_DaLi_H9M9_BC_C_R2_neg_27.mzML	animal		10090|Mus musculus					
+MSV000085879	033_DaLi_H9M9_H_MCT_R1_neg_39_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	028_DaLi_H9M9_BC_C_R4_pos_34_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	005_DaLi_H9M9_Pool_03_pos_11.mzML	animal		10090|Mus musculus					
+MSV000085879	007_DaLi_H9M9_H_LCT_R2_neg_12.mzML	animal		10090|Mus musculus					
+MSV000085879	017_DaLi_H9M9_BC_MCT_R1_pos_23_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	041_DaLi_H9M9_Blank_12_pos_47_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	015_DaLi_H9M9_Blank_06_neg_21_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	010_DaLi_H9M9_Blank_05_neg_16_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	020_DaLi_H9M9_Blank_07_neg_26_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	007_DaLi_H9M9_H_LCT_R2_pos_13.mzML	animal		10090|Mus musculus					
+MSV000085879	027_DaLi_H9M9_BC_MCT_R2_neg_32.mzML	animal		10090|Mus musculus					
+MSV000085879	004_DaLi_H9M9_Pool_02_pos_10_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	028_DaLi_H9M9_BC_C_R4_neg_34_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	032_DaLi_H9M9_BC_C_R1_pos_38.mzML	animal		10090|Mus musculus					
+MSV000085879	029_DaLi_H9M9_H_MCT_R2_neg_35_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	012_DaLi_H9M9_H_MCT_R4_pos_18.mzML	animal		10090|Mus musculus					
+MSV000085879	019_DaLi_H9M9_H_LCT_R1_neg_25_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	037_DaLi_H9M9_H_MCT_R3_pos_43_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	023_DaLi_H9M9_H_LCT_R4_pos_29.mzML	animal		10090|Mus musculus					
+MSV000085879	000_DaLi_H9M9_Blank_01_pos_06.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	006_DaLi_H9M9_Blank_04_neg_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	000_DaLi_H9M9_Blank_01_neg_06_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	039_DaLi_H9M9_Blank_11_neg_45_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	025_DaLi_H9M9_Blank_08_pos_31_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	025_DaLi_H9M9_Blank_08_neg_31_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	035_DaLi_H9M9_Blank_10_pos_41_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	009_DaLi_H9M9_H_C_R2_neg_14.mzML	animal		10090|Mus musculus					
+MSV000085879	031_DaLi_H9M9_Pool_08_pos_37_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	037_DaLi_H9M9_H_MCT_R3_neg_43_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	024_DaLi_H9M9_BC_C_R3_pos_30.mzML	animal		10090|Mus musculus					
+MSV000085879	033_DaLi_H9M9_H_MCT_R1_neg_38.mzML	animal		10090|Mus musculus					
+MSV000085879	019_DaLi_H9M9_H_LCT_R1_pos_25.mzML	animal		10090|Mus musculus					
+MSV000085879	036_DaLi_H9M9_Pool_09_neg_42_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	021_DaLi_H9M9_Pool_06_pos_27.mzML	animal		10090|Mus musculus					
+MSV000085879	031_DaLi_H9M9_Pool_08_neg_36.mzML	animal		10090|Mus musculus					
+MSV000085879	013_DaLi_H9M9_H_LCT_R3_pos_19_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	001_DaLi_H9M9_Blank_02_neg_06.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	041_DaLi_H9M9_Blank_12_neg_47_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	035_DaLi_H9M9_Blank_10_pos_41.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	039_DaLi_H9M9_Blank_11_neg_44.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	014_DaLi_H9M9_H_C_R1_neg_20_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	038_DaLi_H9M9_H_C_R4_pos_44_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	009_DaLi_H9M9_H_C_R2_pos_15.mzML	animal		10090|Mus musculus					
+MSV000085879	008_DaLi_H9M9_BC_MCT_R3_neg_14_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	011_DaLi_H9M9_Pool_04_neg_17_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	022_DaLi_H9M9_BC_C_R2_neg_28_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	006_DaLi_H9M9_Blank_04_pos_12_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	025_DaLi_H9M9_Blank_08_pos_31.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	032_DaLi_H9M9_BC_C_R1_neg_37.mzML	animal		10090|Mus musculus					
+MSV000085879	003_DaLi_H9M9_Pool_01_pos_09.mzML	animal		10090|Mus musculus					
+MSV000085879	028_DaLi_H9M9_BC_C_R4_pos_34.mzML	animal		10090|Mus musculus					
+MSV000085879	009_DaLi_H9M9_H_C_R2_neg_15_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	018_DaLi_H9M9_H_C_R3_neg_23.mzML	animal		10090|Mus musculus					
+MSV000085879	036_DaLi_H9M9_Pool_09_neg_41.mzML	animal		10090|Mus musculus					
+MSV000085879	011_DaLi_H9M9_Pool_04_pos_17.mzML	animal		10090|Mus musculus					
+MSV000085879	016_DaLi_H9M9_Pool_05_neg_22_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	021_DaLi_H9M9_Pool_06_neg_26.mzML	animal		10090|Mus musculus					
+MSV000085879	010_DaLi_H9M9_Blank_05_pos_16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	002_DaLi_H9M9_Blank_03_pos_08.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	039_DaLi_H9M9_Blank_11_pos_45_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	010_DaLi_H9M9_Blank_05_pos_16_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	002_DaLi_H9M9_Blank_03_pos_08_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	025_DaLi_H9M9_Blank_08_neg_30.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	013_DaLi_H9M9_H_LCT_R3_pos_19.mzML	animal		10090|Mus musculus					
+MSV000085879	032_DaLi_H9M9_BC_C_R1_pos_38_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	026_DaLi_H9M9_Pool_07_pos_32_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	008_DaLi_H9M9_BC_MCT_R3_pos_14.mzML	animal		10090|Mus musculus					
+MSV000085879	004_DaLi_H9M9_Pool_02_neg_09.mzML	animal		10090|Mus musculus					
+MSV000085879	021_DaLi_H9M9_Pool_06_pos_27_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	009_DaLi_H9M9_H_C_R2_pos_15_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	004_DaLi_H9M9_Pool_02_neg_10_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	007_DaLi_H9M9_H_LCT_R2_neg_13_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	014_DaLi_H9M9_H_C_R1_pos_20.mzML	animal		10090|Mus musculus					
+MSV000085879	010_DaLi_H9M9_Blank_05_neg_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	035_DaLi_H9M9_Blank_10_neg_41_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	015_DaLi_H9M9_Blank_06_pos_21_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	006_DaLi_H9M9_Blank_04_pos_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	015_DaLi_H9M9_Blank_06_pos_21.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	003_DaLi_H9M9_Pool_01_neg_08.mzML	animal		10090|Mus musculus					
+MSV000085879	027_DaLi_H9M9_BC_MCT_R2_neg_33_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	016_DaLi_H9M9_Pool_05_neg_21.mzML	animal		10090|Mus musculus					
+MSV000085879	011_DaLi_H9M9_Pool_04_neg_16.mzML	animal		10090|Mus musculus					
+MSV000085879	039_DaLi_H9M9_Blank_11_pos_45.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	002_DaLi_H9M9_Blank_03_neg_08_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	014_DaLi_H9M9_H_C_R1_pos_20_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	033_DaLi_H9M9_H_MCT_R1_pos_39_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	029_DaLi_H9M9_H_MCT_R2_pos_35_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	026_DaLi_H9M9_Pool_07_neg_32_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	024_DaLi_H9M9_BC_C_R3_neg_29.mzML	animal		10090|Mus musculus					
+MSV000085879	001_DaLi_H9M9_Blank_02_pos_07.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	040_DaLi_H9M9_Pool_10_pos_46.mzML	animal		10090|Mus musculus					
+MSV000085879	012_DaLi_H9M9_H_MCT_R4_neg_17.mzML	animal		10090|Mus musculus					
+MSV000085879	027_DaLi_H9M9_BC_MCT_R2_pos_33.mzML	animal		10090|Mus musculus					
+MSV000085879	037_DaLi_H9M9_H_MCT_R3_pos_43.mzML	animal		10090|Mus musculus					
+MSV000085879	040_DaLi_H9M9_Pool_10_neg_46_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	024_DaLi_H9M9_BC_C_R3_neg_30_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	003_DaLi_H9M9_Pool_01_pos_09_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	020_DaLi_H9M9_Blank_07_pos_26_HILIC.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	018_DaLi_H9M9_H_C_R3_pos_24_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	019_DaLi_H9M9_H_LCT_R1_pos_25_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	012_DaLi_H9M9_H_MCT_R4_neg_18_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	029_DaLi_H9M9_H_MCT_R2_pos_35.mzML	animal		10090|Mus musculus					
+MSV000085879	021_DaLi_H9M9_Pool_06_neg_27_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	007_DaLi_H9M9_H_LCT_R2_pos_13_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	014_DaLi_H9M9_H_C_R1_neg_19.mzML	animal		10090|Mus musculus					
+MSV000085879	005_DaLi_H9M9_Pool_03_pos_11_HILIC.mzML	animal		10090|Mus musculus					
+MSV000085879	020_DaLi_H9M9_Blank_07_pos_26.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085879	030_DaLi_H9M9_Blank_09_neg_35.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

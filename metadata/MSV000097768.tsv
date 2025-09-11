@@ -1,0 +1,79 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097768	HILIC_QC_6.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_30uM_1.mzML	animal		10090|Mus musculus					
+MSV000097768	blank2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	GABA_40uM_1.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_64.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	blank9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	FC_pos_42.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_47.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_46.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_39.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_36.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	blank12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	FC_pos_40.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_25uM_4.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_30uM_3.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_10uM_4.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_56.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_37.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_49.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	blank5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	FC_pos_45.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	HILIC_QC_2.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_59.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_30uM_2.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_40uM_3.mzML	animal		10090|Mus musculus					
+MSV000097768	blank11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	blank8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	FC_pos_44.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_30uM_4.mzML	animal		10090|Mus musculus					
+MSV000097768	blank3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	FC_pos_55.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_60.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_30uM_5.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_65.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	blank10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	GABA_30uM_6.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_51.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_43.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_66.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_25uM_3.mzML	animal		10090|Mus musculus					
+MSV000097768	HILIC_QC_3.mzML	animal		10090|Mus musculus					
+MSV000097768	blank1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	blank6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	GABA_40uM_5.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_40uM_4.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_10uM_6.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_54.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	HILIC_QC_7.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_10uM_1.mzML	animal		10090|Mus musculus					
+MSV000097768	HILIC_QC_8.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_25uM_6.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_68.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_10uM_2.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_67.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_25uM_2.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_58.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_50.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_69.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_41.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_10uM_5.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_25uM_1.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_62.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_61.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	HILIC_QC_4.mzML	animal		10090|Mus musculus					
+MSV000097768	blank4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097768	FC_pos_48.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_10uM_3.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_57.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	HILIC_QC_1.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_63.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	FC_pos_52.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	HILIC_QC_5.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_25uM_5.mzML	animal		10090|Mus musculus					
+MSV000097768	GABA_40uM_2.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_38.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	GABA_40uM_6.mzML	animal		10090|Mus musculus					
+MSV000097768	FC_pos_53.mzML	animal		10090|Mus musculus	cortex				
+MSV000097768	blank7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

@@ -1,0 +1,961 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000088040	SPF_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Campylobacter_jejuni_Strain_AS-84-79_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_plantarum_ATCC_BAA793_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Diet_blank-1_(5k67).mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowH_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowC_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_09_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowG_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowE_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_12_PlateD_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_03_PlateD_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_03_PlateA_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_06_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_03_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowC_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowG_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowA_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowH_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowB_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowE_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowD_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	GF_SI-6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_acidophilus_ATCC_832_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_rhamnosus_ATCC_8530_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateA_RowC_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_07_PlateD_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowG_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_00_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_06_PlateA_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowF_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_05_PlateA_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowA_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_00_PlateD_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_00_PlateD_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Diet_blank-2_(5k67).mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowB_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowE_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowF_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowC_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowE_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_04_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_10_PlateA_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_03_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Clostridium_scindens_ATCC35704_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_SM_3979_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-5.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-5.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_acidophilus_ATCC_832_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-5.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateA_RowF_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_12_PlateA_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowE_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowE_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_02_PlateA_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_02_PlateA_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_00_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Diet_blank-3_(5k67).mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowD_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowE_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowA_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowA_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowG_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_02_PlateB_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowA_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_04_PlateA_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_01_PlateA_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowA_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowH_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_01_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowC_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowC_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_02_PlateD_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowD_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowC_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_05_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Bacteroides_massiliensis_DSM_17679_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Campylobacter_jejuni_Strain_AS-84-79_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_10_PlateA_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_04_PlateA_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_08_PlateA_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowC_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowF_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowE_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowB_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_02_PlateC_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowD_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowF_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_07_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_05_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowB_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_03_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_12_PlateC_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowG_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowD_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Diet_blank-2_(5k67).mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Clostridium_ramosum_AO31_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_rhamnosus_ATCC_8530_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-5.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_06_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_07_PlateA_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_08_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowD_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_08_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowE_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowF_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowG_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowD_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowE_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowE_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowH_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowE_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowA_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowC_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_06_PlateD_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Akkermansia_muciniphila_BAA-835_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_plantarum_ATCC_BAA793_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-4.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_plantarum_ATCC_BAA793_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_acidophilus_ATCC_832_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_02_PlateD_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowB_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowC_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowB_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_05_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowB_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Diet_blank-4_(5k67).mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Diet_blank-3_(5k67).mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_06_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_12_PlateB_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_01_PlateD_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowB_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowD_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowG_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_04_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_03_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowB_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowE_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Lactobacillus_gasseri_MV-22_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_rhamnosus_ATCC_8530_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_01_PlateD_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowF_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowB_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowD_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowD_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowA_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_03_PlateD_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowE_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowE_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowC_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowE_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowB_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowG_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowC_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_01_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowD_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowA_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowC_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_07_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_11_PlateD_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowB_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowH_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Campylobacter_jejuni_Strain_AS-84-79_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_rhamnosus_ATCC_8530_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Campylobacter_jejuni_Strain_AS-84-79_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateC_RowH_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_00_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowB_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowA_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_03_PlateA_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowF_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowC_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowG_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowB_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowD_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_11_PlateB_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_05_PlateA_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowE_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_04_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_12_PlateC_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_11_PlateB_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_10_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-5.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_plantarum_ATCC_BAA793_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateC_RowE_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_12_PlateA_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_10_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowD_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowF_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_09_PlateA_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowF_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowB_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowB_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowG_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_07_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowA_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_11_PlateC_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Bacteroides_vulgatus_ATCC8482_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-5.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_SM_3979_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateA_RowA_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowA_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowB_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowD_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_00_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_08_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowA_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_04_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_00_PlateA_no_inj_20210724230542.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowB_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowG_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_05_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_11_PlateA_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowA_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowB_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowD_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_10_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowH_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowC_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowD_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowH_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowH_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Klebsiella_sp_4_1_44FAA_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-4.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_plantarum_ATCC_BAA793_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_acidophilus_ATCC_832_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_rhamnosus_ATCC_8530_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_plantarum_ATCC_BAA793_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_plantarum_ATCC_BAA793_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateB_RowB_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowA_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowC_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Diet_blank-1_(5k67).mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_09_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowF_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowD_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowF_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowB_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_07_PlateA_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowC_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowA_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowD_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Clostridium_ramosum_AO31_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Akkermansia_muciniphila_BAA-835_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-5.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_vulgatus_ATCC8482_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Campylobacter_jejuni_Strain_AS-84-79_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_V583_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateD_RowC_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowG_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_09_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_05_PlateD_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_04_PlateD_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_01_PlateC_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowD_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_08_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_02_PlateC_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Prevotella_bivia_AO2_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_acidophilus_ATCC_832_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Collinsella_aerofaciens_strain_DSM_3979_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_SI-6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateA_RowF_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowF_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_02_PlateB_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowA_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowH_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_11_PlateD_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowG_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowB_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowE_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_10_PlateB_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowC_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Bacteroides_dorei_DSM_17855_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Campylobacter_jejuni_Strain_AS-84-79_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_scindens_ATCC35704_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-4.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-5.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_acidophilus_ATCC_832_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusicatenibacter_saccharivorans_DSM_26062_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Campylobacter_jejuni_Strain_AS-84-79_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Campylobacter_jejuni_Strain_AS-84-79_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_breve_Strain_EX336960VC19_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecium_TX1330_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_adolescentis_Strain_L2-32__CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_salanitronis_DSM_18170_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_acidophilus_ATCC_832_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateB_RowG_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowA_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowA_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowH_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowC_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowE_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowF_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_06_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowD_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_07_PlateD_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_12_PlateB_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_11_PlateC_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowH_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_04_PlateD_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowD_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_05_PlateD_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowD_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_09_PlateC_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Acinetobacter_lwoffii_AO35_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Streptococcus_mitis_bv2_F0392_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_buccae_AO21_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_ATCC_33323_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sporogenes_ATCC_15579_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_goldsteinii_CLO2T12C30_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_disiens_AO22_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_CO-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Ruminococcus_gnavus_ATCC29149_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_stercorea_DSM_18206_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_merdae_CL03T12C32_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_rhamnosus_ATCC_8530_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_plantarum_ATCC_BAA793_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_fragilis_NCTC9343_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateA_RowA_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowC_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowH_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowF_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_12_PlateD_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowH_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowA_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_07_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowC_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowH_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_00_PlateA_no_inj_20210724230542.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowG_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowF_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Klebsiella_sp_4_1_44FAA_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_copri_DSM_18205_SI-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Klebsiella_sp_4_1_44FAA_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_SF19_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lachnospiraceae_sp_Strain_2_1_58FAA_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_ramosum_AO31_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_massiliensis_DSM_17679_SI-3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_sordelli_AO32_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_dorei_DSM_17855_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_CO-4.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_rhamnosus_ATCC_8530_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_acidophilus_ATCC_832_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	GF_SI-6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_rhamnosus_ATCC_8530_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bifidobacterium_longum_strain_44_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Clostridium_perfringes_ATCC13124_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_gasseri_MV-22_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Closhidium_histolytica_AO25_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Fusobacterium_mortiforum_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SFB_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Parabacteroides_Distasonas_CLO3T12C09_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_Johnsonii_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_uniformis_AO9_CO-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_clara_DSM_19731_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Faecalibacterium_Prausnitzii_ATCC_27768_SI-3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Prevotella_bivia_AO2_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_ovatus_ATCC8483_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Lactobacillus_reuteri_CF48-3A_SI-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Neisseria_mucosa_strain_C102_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Peptostreptococcus_magnus_AO29_CO-2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Paraprevotella_xylaniphila_DSM_19681_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	SPF_CO-1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Escherichia_coli_Nissle_1917_SI-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Enterococcus_faecalis_TX0104_CO-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_thetatiotaomicron_ATCC29741_SI-2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Bacteroides_cellulosilyticus_DSM_14838_CO-1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088040	Blank_PlateA_RowH_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Diet_blank-4_(5k67).mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowA_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_01_PlateA_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowE_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowH_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_09_PlateA_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_01_PlateB_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowE_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowD_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowC_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowB_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateD_RowA_3_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowF_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowC_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_08_PlateA_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowE_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_11_PlateA_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowG_2_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowH_2_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateC_RowB_3_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowD_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateB_RowG_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowG_1_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_06_PlateA_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_06_PlateD_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088040	Blank_PlateA_RowE_1_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

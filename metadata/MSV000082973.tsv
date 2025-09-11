@@ -1,0 +1,729 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000082973	A43_172_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_150_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_168_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_164_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_178_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_135_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A36_145_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_168_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_153_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730104006.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A42_168_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_180_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A43_172_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731061503.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A40_159_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A34_135_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_153_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_181_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_153_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_149_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_135_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729151712.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_149_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_143_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_143_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_174_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_175_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A39_156_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_135_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_156_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A42_168_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL (3).mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_147_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_178_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_174_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_156_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_149_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_181_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL (3).mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_149_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A42_170_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_168_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A45_181_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_176_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_174_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_181_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729044235.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A36_144_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_180_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_149_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_142_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_142_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_178_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A39_158_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_174_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_156_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731094627.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A44_176_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	Blank_G1_1uL_180731061503.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A39_156_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A40_160_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_147_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	Blank_G1_1uL_180730141139.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A36_146_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A44_177_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731083559.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A35_142_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729033203.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_149_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729114527.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL (2).mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180730220120.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A45_179_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_153_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_164_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_168_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A34_137_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_147_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_150_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_135_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A36_144_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729140622.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_5uL_180730180918.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A43_173_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	Blank_G1_5uL_180728213921.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A36_143_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A43_174_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A34_136_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_180_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_176_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730024633.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180729125553.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_153_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_180_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL_180730175911.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A35_142_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_181_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731002226.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180731083559.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A44_176_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730024633.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A34_136_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	Blank_G1_1uL_180731050431.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A43_173_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_143_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL_180801031843.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A45_182_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_181_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_150_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_181_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_162_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731120736.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A39_157_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_149_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A43_171_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_150_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_150_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730130106.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A40_162_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL_180730175911.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A39_158_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180801080103.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A42_169_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A42_168_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A39_156_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731072529.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A40_162_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729140622.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A44_178_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A34_138_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729000027.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_153_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730072843.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A36_143_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729022135.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180730220120.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A41_164_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730130106.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_147_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_153_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_162_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731050431.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180731024331.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A40_160_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_176_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_149_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL (2).mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A34_136_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_136_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL_180730002529.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A34_138_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729081401.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180730170840.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A40_162_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_143_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A37_150_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A39_156_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731105657.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A36_143_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_136_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731035403.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A39_157_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_164_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_142_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729070333.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_148_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A37_149_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730205050.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_5uL_180730182944.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A43_171_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_135_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A44_178_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_150_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL_180801031843.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_147_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A42_167_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_180_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A41_163_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_168_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_142_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_136_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A38_151_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_147_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_174_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A45_180_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A36_143_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729044235.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A42_170_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_180_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_181_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730104006.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180731120736.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A35_139_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A42_168_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_149_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_181_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_143_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_136_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_147_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_150_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_150_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729022135.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A40_160_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730092936.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_153_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731002226.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180730061809.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_154_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL_180730180918.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A43_171_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_135_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729092431.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_153_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A34_135_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A41_166_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_143_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_153_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A41_164_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_136_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A41_164_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180801065027.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A36_143_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_147_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_168_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_174_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_178_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_181_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_180_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729011103.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180729081401.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A45_180_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729055305.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180729055305.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A45_180_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730115038.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180729103457.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180729033203.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180730050739.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180729011103.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A34_135_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A43_174_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_162_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_164_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_164_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_162_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL_180730182944.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A39_155_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_164_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730061809.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A35_142_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729151712.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A42_168_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A37_148_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A43_174_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_153_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731072529.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A36_144_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A38_151_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A45_179_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_135_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_135_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_147_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_135_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL (3).mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A44_177_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A45_180_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_176_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180801053953.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A45_181_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_154_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_136_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_142_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A44_178_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_156_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_162_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_180_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A45_181_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_156_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_168_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_174_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_142_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A43_173_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731094627.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_152_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_149_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A45_180_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_143_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730155810.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A45_182_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_178_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	Blank_G1_1uL_180730155810.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_152_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731013259.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A43_174_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730050739.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_150_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL_180730002529.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A40_159_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_149_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_156_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_148_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_142_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_162_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_153_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730035705.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_152_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A37_150_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_136_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A37_147_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730231152.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A41_164_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_175_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_162_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_143_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731013259.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A41_164_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A35_140_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_158_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_177_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_149_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730141139.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180731035403.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A40_160_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_156_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729103457.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A39_157_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_166_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A36_143_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_164_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A38_151_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_142_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_171_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_136_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730170840.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_148_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_173_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_165_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A39_156_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A42_168_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_175_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730083913.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A34_136_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A37_149_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A44_177_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730035705.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A44_177_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_178_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_156_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_162_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A34_135_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_175_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_144_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL_180728213921.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_152_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A34_136_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_136_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_164_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_145_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730231152.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A40_161_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_175_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_142_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_175_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_147_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A44_178_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_175_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729114527.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A43_172_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_161_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_147_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_167_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_137_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_162_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_176_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL (2).mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_153_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_178_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180801065027.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180801053953.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A38_151_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_170_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_164_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A39_156_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_160_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180801080103.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180731024331.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A41_163_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A37_147_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A42_169_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A34_138_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729000027.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180730115038.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A34_135_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A37_150_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_5uL (3).mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A37_147_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730092936.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A36_144_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_182_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A42_168_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180729070333.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A43_171_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_175_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730083913.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A43_174_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A40_159_6.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A43_172_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_152_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_151_16.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180731105657.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A42_169_1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_155_2.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_plasma.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	A35_140_21.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_176_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A38_153_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_139_plasma.mzML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082973	Blank_G1_1uL_180729092431.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_5uL (2).mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180730072843.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A34_137_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A41_163_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A39_157_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A45_179_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	Blank_G1_1uL_180730205050.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	Blank_G1_1uL_180729125553.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082973	A45_180_11.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A35_140_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A36_146_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000082973	A44_178_11.mzML	animal	biofluid	10090|Mus musculus	feces				

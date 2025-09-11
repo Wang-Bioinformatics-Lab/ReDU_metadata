@@ -1,0 +1,71 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097961	x62_B4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	pool_qc_STm_serum_diet_6.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_m4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_D7.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	pool_qc_STm_serum_diet_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_C8.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097961	Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097961	x100_C6.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_C5.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_C4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_A5.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_A6.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	X100_M1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_A2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	ID_02.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_m2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_B9.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_C2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_C7.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_C1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_D4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	pool_qc_STm_serum_diet_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_C1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_D1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	Blank_01.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097961	Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097961	Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097961	x100_B1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	pool_qc_STm_serum_diet_8.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	X100_A4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_C10.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_C7.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_A3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_A1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_B7.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	pool_qc_STm_serum_diet_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	pool_qc_STm_serum_diet_4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	ID_01.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_A7.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_B3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_C4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	pool_qc_STm_serum_diet_5.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	pool_qc_STm_serum_diet_7.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_D6.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_m3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x61_D8.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_C9.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_C6.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_A3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_B2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_C2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097961	Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097961	x62_A4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_A9.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_D5.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_C3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_C3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_A2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_B5.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_B1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_D3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_A10.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x62_B2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_B4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	ID_03.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	Blank_02.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097961	pool_qc_STm_serum_diet_9.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097961	x100_B10.mzML	animal	biofluid	10090|Mus musculus	blood serum				

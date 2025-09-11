@@ -1,0 +1,559 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000085900	positive_19_Oct_4_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_22_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_30_Oct_22_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_44_Sept_26_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_17_Oct_29_plasma_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_28_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Oct_25_plasma_early_chronic_infected_20200714201929.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_saliva_QC_20200710013453.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_29_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	humanserum_1.mzXML	animal	biofluid	10090|Mus musculus	blood serum			Chagas disease	
+MSV000085900	positive_15_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_14_Dec_6_plasma_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_44_Oct_1_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_4_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_5_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Oct_29_plasma_mid_chronic_uninfected_20200715004431.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_25_Sept_16_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_13_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_44_Oct_22_saliva_early_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_28_Sept_23_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_9_Nov_25_saliva_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_13_Oct_22_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Sept_13_plasma_Acute_infected_20200714193944.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_urine_QC_20200716231839.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_44_Nov_26_plasma_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_9_Dec_6_plasma_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_44_Oct_8_saliva_early_chronic_isoproterenol_20200714231144.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Oct_28_urine_mid_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_23_Nov_25_urine_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_22_Oct_22_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_27_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_13_Oct_8_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_20_Oct_22_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_25_Sept_23_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_blank_20200710140833.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200716091225.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_20_Sept_13_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_8_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_saliva_QC_20200709055807.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_25_Oct_4_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_17_Sept_30_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_19_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_13_Oct_11_plasma_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_27_Oct_29_plasma_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_30_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_27_Sept_13_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_39_Oct_8_saliva_early_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_12_Oct_28_urine_mid_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_21_Sept_18_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_14_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_30_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_23_Nov_26_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_14_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_44_Nov_25_urine_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_12_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_30_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_16_Sept_16_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_18_Oct_11_plasma_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_8_Oct_29_plasma_mid_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_blank_20200716121730.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200710171338.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_Blank_20200707232005.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_Blank_20200708022515.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_4_Sept_24_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_6_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_44_Sept_24_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_29_Sept_23_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_18_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_23_Dec_6_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_6-mix_01.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	pos_urine_QC.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_44_Sept_30_urine_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_9_Sept_24_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_24_Nov_25_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_30_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_22_Sept_13_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_3_Sept_30_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_2_Sept_24_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_Conditioning_pos_QC_20200707165641.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_13_Oct_1_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_5_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_19_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_8_Sept_20_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_43_Oct_29_saliva_mid_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	humanserum_1000x_20200715185303.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_19_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_8_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_1_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_30_Nov_12_urine_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_20_Dec_6_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_28_Sept_30_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_blank_20200710014806.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200718071546.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200709000109.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_7_Sept_24_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Oct_11_plasma_early_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_21_Sept_16_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	humanserum_100x_20200715183951.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_5_Nov_12_urine_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_23_Nov_15_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_10_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_28_Oct_21_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_23_Sept_16_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	humanserum_100x.mzXML	animal	biofluid	10090|Mus musculus	blood serum			Chagas disease	
+MSV000085900	positive_41_Sept_10_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_18_Sept_13_plasma_Acute_uninfected_20200714212543.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_11_Sept_18_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_39_Sept_16_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_14_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_20_Nov_12_urine_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_3_Oct_29_saliva_mid_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Oct_29_saliva_mid_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_17_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_27_Sept_23_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_2_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_8_Oct_11_plasma_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_5_Dec_6_plasma_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_18_Sept_30_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_blank_20200710110329.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200716230526.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_plasma_QC_20200709090310.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_16_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_26_Sept_18_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_28_Nov_12_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_3_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_Conditioning_pos_QC.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_2_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_30_Dec_6_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_saliva_QC_20200710074508.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	humanserum_10000x_20200715190616.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_25_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_14_Sept_20_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_44_Oct_8_saliva_early_chronic_isoproterenol_20200714232500.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_20_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_30_Oct_29_plasma_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_2_Sept_23_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_18_Nov_26_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_22_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_25_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Oct_8_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_23_Sept_23_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_30_Oct_21_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_23_Nov_25_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Sept_17_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_39_Sept_20_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_4_Oct_29_plasma_mid_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_8_Sept_26_plasma_Acute_infected_20200714184642.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_24_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_20_Nov_12_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_13_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_22_Sept_26_plasma_Acute_uninfected_20200715011100.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_28_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_30_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_12_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_9_Nov_12_saliva_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_6_Sept_18_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_43_Dec_6_plasma_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_saliva_QC_20200709192438.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_blank_20200718075527.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200709061120.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_9_Oct_25_plasma_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_26_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_14_Oct_22_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Nov_25_urine_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_39_Sept_17_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_22_Oct_29_plasma_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_43_Sept_16_urine_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_8_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_20_Nov_25_urine_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_urine_QC_20200715195912.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_27_Oct_7_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_18_Nov_25_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_44_Oct_25_plasma_early_chronic_isoproterenol_20200715000446.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_23_Sept_30_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	humanserum_10x_20200716070013.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_14_Oct_1_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_15_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_2_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_9_Oct_1_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_10_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_24_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_12_Oct_11_plasma_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_4_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_20_Oct_28_urine_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_22_Sept_26_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_6-mix_02.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_44_Sept_23_urine_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_24_Dec_6_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	humanserum_100x_20200716071325.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_16_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_5_Oct_29_saliva_mid_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_35_Sept_10_urine_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_18_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_15_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_14_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_15_Oct_4_plasma_Acute_infected_20200714211228.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_23_Oct_7_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_3_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_24_Oct_29_plasma_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_25_Sept_20_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_blank_20200708114035.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200709132742.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200716050115.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_5_Oct_22_saliva_early_chronic_infected_20200715012415.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_39_Nov_12_urine_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_30_Nov_26_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_18_Sept_23_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_5_Nov_12_saliva_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_11_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_16_Sept_18_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_9_Nov_15_plasma_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_14_Oct_7_urine_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_4_Sept_23_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_2_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_25_Oct_4_plasma_Acute_uninfected_20200714213858.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_2_Oct_22_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_5_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Nov_12_saliva_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_39_Oct_21_urine_early_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_8_Oct_4_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_20_Nov_25_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Nov_26_plasma_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_7_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	humanserum_10000x.mzXML	animal	biofluid	10090|Mus musculus	blood serum			Chagas disease	
+MSV000085900	positive_12_Nov_12_urine_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_23_Oct_22_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_37_Sept_13_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_20_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_blank_20200710232355.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_19_Nov_12_urine_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_saliva_QC_20200709131429.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_3_Oct_1_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Sept_26_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	humanserum_10000x_20200709104901.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_29_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_8_Oct_25_plasma_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_3_Sept_23_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_10_Oct_4_plasma_Acute_infected_20200714225829.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_44_Oct_11_plasma_early_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_44_Sept_17_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_30_Sept_23_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_30_Sept_26_plasma_Acute_uninfected_20200715013732.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_27_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_23_Oct_21_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_20_Sept_16_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_11_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_7_Sept_26_plasma_Acute_infected_20200714182011.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_41_Sept_10_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_14_Oct_8_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_3_Oct_8_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	humanserum_x_20200716064700.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_4_Sept_30_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_urine_QC_20200715194557.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_39_Sept_23_urine_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_44_Oct_29_plasma_mid_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_plasma_QC_20200710105014.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_22_Oct_4_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_17_Oct_28_urine_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_9_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_19_Oct_22_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_44_Nov_25_saliva_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_8_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_blank_20200716152236.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_30_Sept_16_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_12_Oct_29_plasma_mid_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_20_Sept_30_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_9_Sept_20_plasma_Acute_infected_20200714215213.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_19_Sept_13_plasma_Acute_uninfected_20200714224512.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_39_Nov_12_saliva_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_17_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_4_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_39_Dec_6_plasma_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_13_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_7_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_24_Oct_4_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_6-mix_03.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_6_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Dec_6_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_14_Sept_24_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_5_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_18_Sept_16_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_urine_QC_20200716092538.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_29_Oct_22_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_12_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_urine_QC_20200715230418.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_28_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_8_Sept_30_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_13_Nov_25_saliva_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_5_Oct_1_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	humanserum_10000x_20200716073951.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	pos_saliva_QC_20200710200536.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_36_Sept_13_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_1_Sept_18_plasma_Acute_infected_20200714223158.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_urine_QC_20200716233154.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_blank_20200709224301.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200709091625.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200709193751.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_3_Oct_11_plasma_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_17_Oct_7_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_20_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_19_Sept_13_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_27_Sept_13_plasma_Acute_uninfected_20200715005746.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_28_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Oct_21_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_5_Sept_24_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_28_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Oct_4_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_13_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_44_Oct_8_saliva_early_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_19_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Oct_29_plasma_mid_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_18_Oct_22_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Nov_12_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_12_Oct_4_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_urine_QC_20200716123043.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_43_Oct_4_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_23_Oct_25_plasma_early_chronic_uninfected_20200714233816.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_23_Nov_12_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_27_Oct_4_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_42_Sept_10_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	humanserum_1000x_20200709103544.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_5_Oct_8_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_22_Sept_30_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_13_Sept_23_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_24_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_21_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_2_Oct_8_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_3_Oct_11_plasma_early_chronic_infected_20200714221843.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_3_Oct_4_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_8_Oct_7_urine_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_13_Dec_6_plasma_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_12_Sept_23_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_31_Sept_10_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_blank_20200716015608.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200711033500.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_saliva_QC_20200708112720.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_urine_QC_20200716020921.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_30_Oct_29_saliva_mid_chronic_uninfected_20200714205913.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_15_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_22_Sept_13_plasma_Acute_uninfected_20200714183327.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_4_Sept_13_plasma_Acute_infected_20200715001801.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_44_Sept_16_urine_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_5_Oct_28_urine_mid_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_39_Nov_26_plasma_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_11_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_3_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_saliva_QC_20200711021543.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_6_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_22_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_24_Nov_15_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_23_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_14_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_19_Dec_6_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_39_Oct_29_saliva_mid_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_22_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_saliva_QC_20200710135521.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_39_Nov_25_saliva_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_13_Oct_28_urine_mid_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_3_Nov_12_saliva_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_27_Oct_28_urine_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_44_Oct_25_plasma_early_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	humanserum_1000x.mzXML	animal	biofluid	10090|Mus musculus	blood serum			Chagas disease	
+MSV000085900	positive_44_Dec_6_plasma_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_7_Sept_26_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_17_Oct_21_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_28_Nov_25_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_24_Oct_22_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_urine_QC_20200716214602.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	humanserum_1000x_20200716072638.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_29_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_Conditioning_pos_QC_20200707164326.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_38_Sept_10_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_26_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_13_Nov_12_urine_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_27_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_blank_20200715225106.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200708083528.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200715171728.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200707201458.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200709030613.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200710075820.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_39_Oct_11_plasma_early_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_18_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_20_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Oct_1_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_7_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_44_Sept_13_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_9_Sept_20_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_14_Sept_23_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_17_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_22_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_28_Oct_28_urine_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_plasma_QC_20200709161933.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_26_Sept_16_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_18_Nov_12_urine_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_25_Sept_30_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_43_Sept_24_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_saliva_QC.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_28_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_20_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_23_Oct_28_urine_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_29_Dec_6_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_plasma_QC_20200708143239.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_29_Sept_13_plasma_Acute_uninfected_20200714235131.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_23_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_4_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_2_Oct_1_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_blank_20200708144553.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200708175102.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_11_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_13_Oct_11_plasma_early_chronic_infected_20200714191312.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_6_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_23_Nov_12_saliva_chronic_uninfected_20200714192627.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_39_Sept_26_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_24_Nov_12_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	humanserum_x.mzXML	animal	biofluid	10090|Mus musculus	blood serum			Chagas disease	
+MSV000085900	positive_7_Sept_20_plasma_Acute_infected_20200714185957.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_23_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_39_Nov_25_urine_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_8_Sept_23_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_4_Oct_1_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_2_Oct_29_saliva_mid_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_24_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_9_Sept_26_plasma_Acute_infected_20200714203243.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_10_Oct_4_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_12_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_5_Oct_22_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_8_Oct_1_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_12_Oct_22_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Oct_4_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_plasma_QC_20200709222946.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_9_Oct_22_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_plasma_QC_20200710231040.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_urine_QC_20200716184052.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_18_Sept_20_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_27_Sept_30_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_blank_20200716182739.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200711022856.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200709163248.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_Blank_20200708053020.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_27_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_11_Sept_18_plasma_Acute_infected_20200714204558.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_30_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_4_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_5_Oct_7_urine_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_urine_QC_20200716153550.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_23_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_24_Oct_8_saliva_early_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_saliva_QC_20200708234756.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_13_Oct_4_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_29_Nov_25_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_urine_QC_20200715193242.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_7_Sept_20_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_43_Nov_25_saliva_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_2_Oct_29_plasma_mid_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_saliva_QC_20200711032147.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Oct_8_saliva_early_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_3_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	humanserum_10x_20200715182638.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_29_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_28_Oct_7_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_plasma_QC_20200708204252.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_9_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_17_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Oct_29_plasma_mid_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_13_Oct_29_saliva_mid_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Nov_26_plasma_chronic_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_15_Oct_4_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_7_Sept_23_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_plasma_QC_20200708021157.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_19_Oct_11_plasma_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_1_Sept_18_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_urine_QC_20200716051427.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_blank_20200718074214.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200708205606.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200710045314.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200710201849.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	pos_blank_20200718072901.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	humanserum_10x_20200709100918.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_14_Nov_25_saliva_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_8_Oct_8_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_10_Sept_26_plasma_Acute_infected_20200714195259.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_38_Sept_10_plasma_Acute_isoproterenol_20200714220528.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_18_Oct_7_urine_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_plasma_QC_20200710170023.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	humanserum_1_20200709095605.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_18_Oct_28_urine_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_7_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_19_Sept_26_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_25_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_1_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	humanserum_10x.mzXML	animal	biofluid	10090|Mus musculus	blood serum			Chagas disease	
+MSV000085900	positive_1_Sept_13_plasma_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_18_Oct_29_plasma_mid_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_28_Dec_6_plasma_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_22_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_3_Sept_24_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	pos_saliva_QC_20200708173749.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Nov_25_urine_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_29_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_2_Sept_30_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_30_Sept_26_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_12_Oct_21_urine_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_25_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_29_Nov_12_saliva_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_19_Oct_29_saliva_mid_chronic_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_12_Sept_24_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_24_Sept_30_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_plasma_QC_20200710043959.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_29_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_35_Sept_13_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_4_Oct_8_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_13_Oct_21_urine_early_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_saliva_QC_20200708051705.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_43_Sept_23_urine_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_blank_20200716213250.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000085900	positive_19_Sept_20_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_3_Dec_6_plasma_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_5_Sept_30_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	pos_Conditioning_pos_QC_20200707170956.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	pos_plasma_QC.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_2_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_39_Sept_24_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_21_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_5_Nov_26_plasma_chronic_infected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_14_Nov_12_saliva_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_23_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_32_Sept_10_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_27_Oct_1_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_10_Sept_17_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_27_Sept_16_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_1_Sept_10_saliva_Acute_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_18_Sept_13_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_13_Nov_12_saliva_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_12_Oct_8_saliva_early_chronic_infected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	humanserum_100x_20200709102231.mzXML	animal		10090|Mus musculus				Chagas disease	
+MSV000085900	positive_33_Sept_10_plasma_Acute_isoproterenol.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_plasma_QC_20200708082214.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_13_Sept_16_urine_Acute_infected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_25_Sept_26_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_1_Sept_13_plasma_Acute_infected_20200715003116.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_44_Nov_12_saliva_chronic_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_23_Oct_25_plasma_early_chronic_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_17_Sept_23_urine_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000085900	positive_20_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_39_Oct_1_saliva_Acute_isoproterenol.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_27_Sept_10_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_29_Sept_13_plasma_Acute_uninfected.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	pos_plasma_QC_20200709025259.mzXML	animal	biofluid	10090|Mus musculus	blood plasma			Chagas disease	
+MSV000085900	positive_19_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_23_Sept_17_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	
+MSV000085900	positive_17_Sept_24_saliva_Acute_uninfected.mzXML	animal		10090|Mus musculus	saliva			Chagas disease	

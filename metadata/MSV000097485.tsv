@@ -1,0 +1,88 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097485	Blank_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_ce_317.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	MeOH_blk_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	MeOH_blk_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_f_294.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	sample_ile_303.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	sample_f_297.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	sample_ile_306.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	MeOH_blk_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	pool_qc_STm_ile_GN_1.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	sample_f_292.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	pool_qc_STm_gb_GN_2.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	sample_ce_320.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_ce_311.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	sample_f_291.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	sample_f_295.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	pool_qc_STm_ce_GN_1.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	sample_gb_379.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	MeOH_blk_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_gb_375.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	pool_qc_STm_feces_GN_1.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	pool_qc_STm_feces_GN_2.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	pool_qc_STm_gb_GN_4.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	pool_qc_STm_gb_GN_5.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	pool_qc_STm_ile_GN_5.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	V24_2.mzML	animal		10090|Mus musculus					
+MSV000097485	MeOH_blk_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_ce_313.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	sample_ile_304.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	sample_f_299.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	sample_gb_380.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	sample_ile_307.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	sample_ile_310.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_gb_373.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	sample_gb_374.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	sample_gb_377.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	MeOH_blk_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	MeOH_blk_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_f_293.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	pool_qc_STm_gb_GN_1.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	pool_qc_STm_ile_GN_3.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	sample_ce_316.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	sample_ce_315.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	sample_gb_372.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	pool_qc_STm_ile_GN_2.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	sample_ce_319.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	MeOH_blk_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_ce_312.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	pool_qc_STm_feces_GN_3.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_ce_314.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	sample_ile_301.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	sample_ile_302.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	pool_qc_STm_ile_GN_4.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	sample_ile_308.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	MeOH_blk_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	MeOH_blk_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	pool_qc_STm_ce_GN_2.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	pool_qc_STm_ce_GN_4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	pool_qc_STm_feces_GN_4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	pool_qc_STm_feces_GN_5.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	pool_qc_STm_gb_GN_3.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	sample_f_298.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	sample_gb_378.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	MeOH_blk_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	sample_ile_305.mzML	animal		10090|Mus musculus	ileum				
+MSV000097485	pool_qc_STm_ce_GN_5.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	sample_ce_318.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	sample_f_300.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	sample_gb_376.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000097485	MeOH_blk_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097485	pool_qc_STm_ce_GN_3.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000097485	sample_f_296.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097485	sample_ile_309.mzML	animal		10090|Mus musculus	ileum				

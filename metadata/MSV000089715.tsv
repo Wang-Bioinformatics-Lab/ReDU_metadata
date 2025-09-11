@@ -1,0 +1,19 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000089715	blank_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089715	1_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	blank_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089715	8_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	15_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	4_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	12_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	blank_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089715	5_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	3_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	10_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	6_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	11_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	13_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	2_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	9_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	14_1x.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089715	7_1x.mzML	animal	biofluid	10090|Mus musculus	feces				

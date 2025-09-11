@@ -1,0 +1,159 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000086889	5uM_Gly_BC2_01_11957.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Phe_nosample_BG9_01_12000.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Tyr_nosample_BG4_01_11994.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Leu_BF5_01_11988.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Ile_BC12_01_11968.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	50uM_Gly_nosample_BG2_01_11992.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Ile_BC12_01_11968.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	25uM_Tyr_nosample_BG10_01_12001.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Tyr_BE4_01_11980.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Ile_nosample_BG6_01_11996.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	Blank_GA1_01_11955.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Fecal_sample_BH9_01_12014.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086889	25uM_Gly_BE2_01_11978.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Phe_BC9_01_11965.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Leu_BC11_01_11967.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Tyr_BF4_01_11987.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Tyr_BF4_01_11987.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Gly_BC2_01_11957.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Gly_BF2_01_11985.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Phe_BA3_01_11930.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Leu_nosample_BG5_01_11995.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Leu_BB5_01_11946.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Tyr_BB4_01_11945.mzML	animal		10090|Mus musculus					
+MSV000086889	Blank_GA1_01_11962.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	5uM_Phe_nosample_BH3_01_12007.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Phe_BA3_01_11930.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Ile_BE6_01_11982.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	5uM_Tyr_BC10_01_11966.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Leu_BA5_01_11932.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Ile_nosample_BG6_01_11996.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	25uM_Gly_nosample_BG8_01_11999.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Tyr_BE4_01_11980.mzML	animal		10090|Mus musculus					
+MSV000086889	Blank_GA1_01_11962.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11969.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11990.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	25uM_Leu_BB11_01_11953.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Phe_BF3_01_11986.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Gly_BB8_01_11950.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Tyr_BB10_01_11952.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Phe_BD3_01_11972.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Gly_BA2_01_11929.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Phe_BC3_01_11958.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Leu_BC11_01_11967.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Tyr_BC4_01_11959.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Phe_BF3_01_11986.mzXML	animal		10090|Mus musculus					
+MSV000086889	Blank_GA1_01_11983.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	25uM_Ile_BB6_01_11947.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	25uM_Ile_BE6_01_11982.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	50uM_Leu_nosample_BG5_01_11995.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Gly_BC8_01_11964.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Leu_nosample_BH5_01_12009.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Ile_BD6_01_11975.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	50uM_Leu_BA11_01_11939.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Tyr_BA4_01_11931.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Leu_BE5_01_11981.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Gly_nosample_BG8_01_11999.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Tyr_nosample_BG4_01_11994.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Leu_BE5_01_11981.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Ile_BB12_01_11954.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	Blank_GA1_01_11976.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	25uM_Gly_BB2_01_11943.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Tyr_nosample_BH4_01_12008.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Phe_BB3_01_11944.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Phe_nosample_BG3_01_11993.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Ile_BA6_01_11933.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	Blank_GA1_01_11948.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11941.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11934.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_12011.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11997.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11934.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	50uM_Gly_BA2_01_11929.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Gly_BD2_01_11971.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Tyr_BC4_01_11959.mzXML	animal		10090|Mus musculus					
+MSV000086889	EXTRACT_BLANK_BH10_01_12015.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	50uM_Phe_BA9_01_11937.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Tyr_nosample_BG10_01_12001.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Ile_BA12_01_11940.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	5uM_Gly_BC8_01_11964.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Gly_BA8_01_11936.mzXML	animal		10090|Mus musculus					
+MSV000086889	Blank_GA1_01_12004.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_12011.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_12018.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	25uM_Ile_BB12_01_11954.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	Fecal_sample_BH8_01_12013.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086889	50uM_Tyr_BD4_01_11973.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Leu_BC5_01_11960.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Leu_BC5_01_11960.mzXML	animal		10090|Mus musculus					
+MSV000086889	Blank_GA1_01_11976.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11969.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	EXTRACT_BLANK_BH11_01_12016.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	25uM_Tyr_BB10_01_11952.mzXML	animal		10090|Mus musculus					
+MSV000086889	Fecal_sample_BH7_01_12012.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086889	50uM_Phe_BD3_01_11972.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Leu_BD5_01_11974.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Phe_BB9_01_11951.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Phe_BB3_01_11944.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Phe_BA9_01_11937.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Gly_BB8_01_11950.mzXML	animal		10090|Mus musculus					
+MSV000086889	Blank_GA1_01_11955.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	EXTRACT_BLANK_BH11_01_12016.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	25uM_Gly_BB2_01_11943.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Gly_BF2_01_11985.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Phe_BC9_01_11965.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Tyr_BA10_01_11938.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Gly_BD2_01_11971.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Ile_BA12_01_11940.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	Blank_GA1_01_12018.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11941.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	EXTRACT_BLANK_BH12_01_12017.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11948.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	50uM_Leu_BD5_01_11974.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Ile_BF6_01_11989.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	50uM_Gly_BA8_01_11936.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Phe_BB9_01_11951.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Leu_nosample_BH5_01_12009.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Leu_BB5_01_11946.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Tyr_BD4_01_11973.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Tyr_nosample_BH4_01_12008.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Tyr_BA10_01_11938.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Ile_nosample_BG12_01_12003.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	5uM_Tyr_BC10_01_11966.mzXML	animal		10090|Mus musculus					
+MSV000086889	Blank_GA1_01_11983.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	EXTRACT_BLANK_BH10_01_12015.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_12004.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Fecal_sample_BH8_01_12013.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086889	25uM_Leu_nosample_BG11_01_12002.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Gly_BE2_01_11978.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Leu_BA11_01_11939.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Leu_BB11_01_11953.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Ile_BB6_01_11947.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	5uM_Ile_BC6_01_11961.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	5uM_Phe_BC3_01_11958.mzML	animal		10090|Mus musculus					
+MSV000086889	EXTRACT_BLANK_BH12_01_12017.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	50uM_Gly_nosample_BG2_01_11992.mzML	animal		10090|Mus musculus					
+MSV000086889	50uM_Tyr_BA4_01_11931.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Leu_nosample_BG11_01_12002.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Phe_BE3_01_11979.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Ile_nosample_BH6_01_12010.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	50uM_Ile_BA6_01_11933.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	5uM_Phe_nosample_BH3_01_12007.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Leu_BA5_01_11932.mzXML	animal		10090|Mus musculus					
+MSV000086889	50uM_Ile_BD6_01_11975.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	5uM_Ile_BC6_01_11961.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	25uM_Phe_BE3_01_11979.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Ile_nosample_BH6_01_12010.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	25uM_Phe_nosample_BG9_01_12000.mzXML	animal		10090|Mus musculus					
+MSV000086889	5uM_Gly_nosample_BH2_01_12006.mzXML	animal		10090|Mus musculus					
+MSV000086889	Fecal_sample_BH7_01_12012.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086889	5uM_Leu_BF5_01_11988.mzML	animal		10090|Mus musculus					
+MSV000086889	25uM_Ile_BF6_01_11989.mzXML	animal		10090|Mus musculus	ileum				
+MSV000086889	25uM_Tyr_BB4_01_11945.mzXML	animal		10090|Mus musculus					
+MSV000086889	25uM_Ile_nosample_BG12_01_12003.mzML	animal		10090|Mus musculus	ileum				
+MSV000086889	50uM_Phe_nosample_BG3_01_11993.mzML	animal		10090|Mus musculus					
+MSV000086889	5uM_Gly_nosample_BH2_01_12006.mzML	animal		10090|Mus musculus					
+MSV000086889	Fecal_sample_BH9_01_12014.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086889	Blank_GA1_01_11997.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086889	Blank_GA1_01_11990.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

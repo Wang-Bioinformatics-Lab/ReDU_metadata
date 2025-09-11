@@ -1,0 +1,100 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000090579	14460_MPSIII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	14836_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	QC-10.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	QC-11.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-34.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	2304_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	4209_MPSIV.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	QC-14.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	QC-13.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	QC-17.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-29.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-32.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	TM-1.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	QC-12.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-09.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	13786_MPSI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	QC-4.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	QC-8.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-03.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-13.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	16589_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	2425_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	N-24.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	16176_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	13890_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	BLK_SUSP_20201001000005.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	QC-5.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-16.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-35.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-18.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-15.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	14058_MPSIV.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	11912_MPSI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	N-26.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-30.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	QC-7.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-08.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-31.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	QC-18.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	13197_MPSIV.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	12021_MPSI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	N-23.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	QC-1.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-38.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	13001_MPSIV.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	13459_MPSIV.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	QC-6.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	TM-3.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-05.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	3871_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	1520_MPSIII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	1359_MPSI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	14474_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	4309_MPSIII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	N-21.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	TM-2.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-33.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	14267_MPSVI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	N-28.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	14212_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	N-20.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-27.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	QC-16.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	15215_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	11889_MPSI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	16177_MPSIII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	6358_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	BLK_SUSP.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-25.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-10.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-02.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-06.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-36.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	QC-9.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	BLK_EXT.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	4247_MPSIV.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	13081_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	14115_MPSVI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	N-14.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	QC-3.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-19.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-17.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	13414_MPSVI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	13964_MPSVI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	12357_MPSVI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	13275_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	QC-2.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	N-07.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	QC-15.mzML	animal	biofluid	9606|Homo sapiens	urine				
+MSV000090579	12239A_MPSI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	12035_MPSIV.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	14492_MPSVI.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	N-37.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-22.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-11.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	11797_MPSII.mzML	animal	biofluid	9606|Homo sapiens	urine			mucopolysaccharidosis	
+MSV000090579	N-01.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-04.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy
+MSV000090579	N-12.mzML	animal	biofluid	9606|Homo sapiens	urine			healthy	healthy

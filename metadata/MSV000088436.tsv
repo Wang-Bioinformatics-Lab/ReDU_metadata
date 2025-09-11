@@ -1,0 +1,149 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000088436	phrma_urine_F_132.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_116.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_114.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_21.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_110.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_28.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_129.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_95.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_112.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_56.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_40.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_start_5_fQC1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_67.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_start_blank2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_blank5.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_start_10_mQC2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_24.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_115.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_79.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_83.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_71.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_blank7.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_F_126.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_14.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_64.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_72.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_85.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_105.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_92.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_start_30_mQC3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_60.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_mQC4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_102.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_start_blank2_20211111143926.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_M_11.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_131.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_start_2_mQC1_20211111150554.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_119.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_97.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_90.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_100.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_39.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_106.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_18.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_blank10.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_blank4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_M_31.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_32.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_134.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_16.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_89.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_blank3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_F_111.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_117.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_80.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_50.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_mQC6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_65.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_118.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_98.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_76.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_fQC8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_54.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_124.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_41.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_140.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_70.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_fQC7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_88.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_74.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_fQC6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_81.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_77.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_35.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_75.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_123.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_130.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_107.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_125.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_103.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_45.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_68.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_19.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_121.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_34.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_38.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_12.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_fQC9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_blank8.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_F_87.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_101.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_127.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_120.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_37.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_blank9.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_M_29.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_33.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_78.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_61.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_fQC5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_mQC5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_26.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_49.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_84.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_104.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_128.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_44.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_94.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_86.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_47.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_93.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_91.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_73.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_start_20_fQC2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_96.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_62.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_46.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_138.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_58.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_start_blank1_20211111142306.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_blank11.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_M_20.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_122.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_139.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_22.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_48.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_82.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_36.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_start_2_mQC1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_fQC3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_59.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_136.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_blank6.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088436	phrma_urine_F_137.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_135.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_M_13.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_99.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_F_113.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000088436	phrma_urine_start_blank1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

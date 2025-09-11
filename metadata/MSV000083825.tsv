@@ -1,0 +1,412 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000083825	Rox_diet_neg_P_D010d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D007d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D013d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D007d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D005d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D006d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_07.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_S_D002d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D006d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D006d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D006d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D010d0_20190519065855.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D004d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D004d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D004d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D004d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D003d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D015d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D002d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D002d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D005d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D010d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_nothing.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_07.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_D002d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D010d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D013d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D003d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D001d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D003d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D013d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D010d0_20190523103009.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D002d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D013d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D006d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D001d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D004d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D002d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D002d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D006d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D013d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D003d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D006d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_blkLCMS_01.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_S_D013d-14_20190523105401.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D013d-14_20190518104448.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D001d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D010d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_08.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_P_D010d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_blkLCMS_02.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_P_D013d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D007d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blkLCMS_02.mzML	animal		9606|Homo sapiens				rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_04.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_P_D001d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D010d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D015d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D003d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D013d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D013d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D006d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D003d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D003d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D013d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D006d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D001d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D007d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D010d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D006d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D003d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D001d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D013d-14_20190518104448.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D07d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_09.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_P_D004d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D006d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D006d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_03.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_blk_extraction_09.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_D007d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D005d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D013d-14_20190519072247.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D013d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D007d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D015d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D007d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D001d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D007d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D013d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D010d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D005d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D002d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D007d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D002d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D005d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_03.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_D007d14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D006d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D001d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D010d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D001d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D003d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D015d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D003d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D003d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D001d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D010d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D004d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D006d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D015d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D003d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D015d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D010d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D003d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_06.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_P_D005d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_01.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_D002d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D004d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D004d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D005d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D006d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D004d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D015d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D001d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D002d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D001d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D001d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_02.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_blk_extraction_01.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_D002d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D003d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D001d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D005d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D004d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D015d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D002d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D07d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D002d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D015d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D007d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D005d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_06.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_P_D015d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D004d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D013d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D005d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D010d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D002d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D002d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D007d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D004d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_05.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_D004d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D003d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D007d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D002d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D010d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D003d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D006d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D007d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D007d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D006d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D013d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D005d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D001d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D004d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D010d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D001d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D010d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D002d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D002d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D006d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D003d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D015d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D007d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D001d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D013d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D001d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D005d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D07d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D004d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D013d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D007d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D013d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D013d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D007d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D010d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D013d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D015d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_03.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_S_D001d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_02.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_S_D010d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D004d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D003d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D015d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D001d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_RASB003.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D013d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_RASB003.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D004d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D002d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D002d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D001d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D007d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D006d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_nothing.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D005d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D001d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_blkLCMS_01.mzML	animal		9606|Homo sapiens				rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D001d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_04.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_blk_extraction_04.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_P_D015d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D013d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D002d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D006d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D001d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D002d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D005d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D002d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D007d14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D002d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D006d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D005d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_blkLCMS_02.mzML	animal		9606|Homo sapiens				rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D005d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D003d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_03.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_D003_d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D002d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D005d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D003d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D003d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D013d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blkLCMS_02.mzXML	animal		9606|Homo sapiens				rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D010d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D004d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D007d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D003d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D005d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D006d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D005d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D004d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D010d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D006d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_RASB003.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D013d-14_20190518103252.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_05.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_S_D005d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D003_d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_09.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_D007d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D003d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D010d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D004d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D010d0_20190519065855.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D006d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D002d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D006d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D015d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D006d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D010d0_20190518102056.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D010d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D001d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D001d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_04.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_P_D005d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D013d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_06.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_P_D003d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D010d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D006d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D004d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D006d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D003d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_08.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_S_D002d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_05.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_S_D006d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D010d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D002d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D013d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D005d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D010d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D013d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blkLCMS_01.mzXML	animal		9606|Homo sapiens				rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D001d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D005d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_RASB003.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D015d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D006d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D010d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D004d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D006d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D010d0_20190518102056.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D002d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D007d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D006d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D004d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D010d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D003d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D005d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D005d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D013d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D001d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D015d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D013d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D015d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D005d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D005d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D013d0.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D004d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D003d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D001d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D013d-14_20190519071051.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D003d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D003d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D004d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D007d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D015d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D002d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D004d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D015d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D002d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D013d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D002d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D003_d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D007d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D004d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D007d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_07.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_S_D013d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D007d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D010d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D013d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D013d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_D007d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blkLCMS_01.mzML	animal		9606|Homo sapiens				rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D013d-14_20190519071051.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D002d+14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D010d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D07d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D010d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D005d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D005d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D001d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D004d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D013d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D013d-14_20190523104205.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D013d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D002d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_02.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_D004d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_02.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_P_D005d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_06.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_D004d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D001d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D013d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_08.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_S_D003d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D015d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D010d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D010d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_blk_extraction_07.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_S_D015d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D005d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_D010d+14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D007d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D010d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D005d0.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D010d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D004d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D013d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D006d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D010d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D006d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D007d14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D010d-14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D003d-14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_nothing.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D001d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D001d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D004d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D003_d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D004d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D015d+14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D004d+14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D004d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D001d0.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D001d+14.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_D007d14.mzXML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_D001d-14.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_S_D015d-14.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D007d0.mzXML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_08.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_S_D013d-14_20190519072247.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D006d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D003d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_P_D013d-14_20190518103252.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_blk_extraction_01.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_blk_extraction_01.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_blk_extraction_09.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_blk_extraction_05.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083825	Rox_diet_neg_P_D006d-14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_P_D013d0.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			rheumatoid arthritis	
+MSV000083825	Rox_diet_nothing.mzML	animal	biofluid	9606|Homo sapiens	feces			rheumatoid arthritis	
+MSV000083825	Rox_diet_neg_S_D002d0.mzML	animal	biofluid	9606|Homo sapiens	blood serum			rheumatoid arthritis	

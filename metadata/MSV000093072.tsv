@@ -1,0 +1,49 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000093072	BLANK_5_reinjection.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_12_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		healthy	healthy
+MSV000093072	ETHANASH_13_V2_hemolytic.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	Pooled_QC_1.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_7_V4.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_18_voor_infuus_30-7-2020.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		healthy	healthy
+MSV000093072	BLANK_1.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	BLANK_6.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_001_V4_hemolytic.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	female		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_11_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_9_nainfuus_heparin.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_20_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		healthy	healthy
+MSV000093072	BLANK_2.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_3_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	female		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	Pooled_QC_1_reinjection.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_5_V4.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_7_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	BLANK_2_reinjection.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_14_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		healthy	healthy
+MSV000093072	ETHANASH_9_V1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	Pooled_QC_3.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_5_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_10_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		healthy	healthy
+MSV000093072	Pooled_QC_4.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_19_V3.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_4_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	female		healthy	healthy
+MSV000093072	BLANK_1_reinjection.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_15_V4.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_11_V4.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_16_voorinfuus.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		healthy	healthy
+MSV000093072	ETHANASH_8_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		healthy	healthy
+MSV000093072	ETHANASH_17_V4.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	BLANK_7.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	BLANK_4.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	BLANK_3.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	MeOH_blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093072	ETHANASH_2_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	female		healthy	healthy
+MSV000093072	ETHANASH_001_MMT_1_V1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	female		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_17_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	ETHANASH_15_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	BLANK_8.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	BLANK_10.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_19_V4_n.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	Pooled_QC_2.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_6_V2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		healthy	healthy
+MSV000093072	BLANK_9.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	
+MSV000093072	ETHANASH_13_V4.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	male		metabolic dysfunction-associated steatotic liver disease	
+MSV000093072	BLANK_5.mzML	animal		9606|Homo sapiens	not_applicable	not applicable		not applicable	

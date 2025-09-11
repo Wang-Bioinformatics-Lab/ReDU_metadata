@@ -1,0 +1,412 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000091381	P2_F1_5695101.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F6_5713186.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A1_5714574.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B5_5700395.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H8_5684996.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_H9_42254807.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_G9_5681087.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C12_5643683.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_G5_5954867.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F4_5630051.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B2_5722729.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F12_5699895.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G2_5620231.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F12_5902060.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D5_5681207.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	pool_QC_4.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H12_5681330.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E12_5774523.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B6_5693093.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H7_5701104.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E12_5695077.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F4_5687661.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_G3_5839576.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D9_5693201.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B8_5701058.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A11_5662329.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A10_5756161.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D12_5751686.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C6_5681185.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F11_5713193.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A8_5716576.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F4_5699166.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E1_5694863.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H4_5693306.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D4_5681229.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_B2_5709025.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H1_5714556.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E2_5614253.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D9_5733819.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_G5_5699217.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_B1_5708959.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G9_5733807.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	pool_QC_1.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_E12_BLANK_MY3_4_12E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_E10_BLANK_MY3_4_10E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_H3_BLANK_MY3_3_3H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_G3_BLANK_MY3_3_3G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P1_G1_BLANK_MY3_1_1G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_A12_BLANK_MY3_4_12A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_F3_BLANK_MY3_3_3F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P1_D1_BLANK_MY3_1_1D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_G3_5684280.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E3_5666470.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H10_5695055.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C11_5977476.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_E8_5704966.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D5_5681407.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C10_5739674.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B11_5654260.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F7_5681263.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D1_5681141.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	pool_QC_8.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_G6_5931233.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A4_5700277.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D7_5620268.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H11_42036411.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C7_5674636.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F12_5688014.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_A11_5694809.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A4_5641492.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F5_5686394.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_A9_5775791.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_A6_5693318.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D7_5695504.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E5_5716540.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H5_5667345.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_A4_5695113.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E9_5642784.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C6_5635607.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B4_5681241.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F2_5699143.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E6_5699903.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_C2_5793845.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B10_5695031.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_G9_5751604.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_G10_BLANK_MY3_4_10G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_C3_BLANK_MY3_3_3C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_E2_BLANK_MY3_2_2E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_3_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_D11_BLANK_MY3_4_11D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_C12_BLANK_MY3_4_12C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_D12_BLANK_MY3_4_12D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_F12_BLANK_MY3_4_12F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_E11_BLANK_MY3_4_11E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_8_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_F10_BLANK_MY3_4_10F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_H11_BLANK_MY3_4_11H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_B4_BLANK_MY3_4_4B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_G4_5695135.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_G12_5705016.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H9_5693285.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E10_5654298.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D9_5784936.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A9_5751672.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E3_5695340.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E8_5716587.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D8_5630077.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_H5_5973566.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_G1_5792828.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_G1_5699444.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A11_5722472.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C8_5685134.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_A7_6240000.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G3_5667341.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_H3_5902083.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_G10_5775803.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B7_5633016.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C9_5805968.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G10_5632271.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H9_5756185.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E8_5713302.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B3_5695159.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D2_5614254.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A6_5686833.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B3_5668612.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G5_5722310.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	pool_QC_3.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B12_5699155.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B1_5699358.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_C9_5654313.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H8_5672766.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_A8_5693657.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_A3_5656199.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C4_5686968.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F5_5672733.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A2_5722301.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B3_BLANK_MY3_3_3B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_G11_BLANK_MY3_4_11G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_H2_BLANK_MY3_2_2H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_F5_5807958.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C3_5686325.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_B9_5780482.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D12_5694837.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B11_5643664.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B9_5641294.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_G12_5713157.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_H1_5705061.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B12_5984422.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_G4_5710257.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B6_5700470.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G12_5684247.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D11_5756113.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C8_5747093.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C4_5695365.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A9_5739619.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E4_5686990.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D6_5722747.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F7_5762742.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C3_5764593.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G7_5672757.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_E1_5984433.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C1_5722415.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B5_5671973.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D4_5681385.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C8_5701036.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D6_5699266.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H5_5687958.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B8_5642772.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	pool_QC_7.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_A6_42036444.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H12_5700249.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H2_5669594.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D3_BLANK_MY3_3_3D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_1_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_B2_BLANK_MY3_2_2B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P1_A1_BLANK_MY3_1_1A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_A4_BLANK_MY3_4_4A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P1_E1_BLANK_MY3_1_1E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_C4_BLANK_MY3_4_4C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_E3_BLANK_MY3_3_3E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_H12_BLANK_MY3_4_12H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P1_F1_BLANK_MY3_1_1F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_A10_BLANK_MY3_4_10A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_7_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_G6_5713231.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_D8_5708926.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H4_5768272.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E8_5681296.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_A1_5694885.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_A5_5693009.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_F9_42036320.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B5_5722426.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H10_5904843.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F8_5667371.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A3_5787782.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C5_5710179.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C6_5722449.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_B6_5662253.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F10_5620348.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E4_5684304.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_E5_5893237.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_E9_42036316.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_A8_5993046.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G8_5620276.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F6_5681429.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F1_5695439.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	pool_QC_6.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E10_5642838.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B11_5722373.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_E7_5656499.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C9_5751628.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_C3_5756738.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D12_5954850.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D2_BLANK_MY3_2_2D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_A2_BLANK_MY3_2_2A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_E4_BLANK_MY3_4_4E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_F4_BLANK_MY3_4_4F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_D10_BLANK_MY3_4_10D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P1_B1_BLANK_MY3_1_1B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_B7_5684952.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_A1_5704985.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_G8_42037714.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A5_5674591.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D10_5694826.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E5_5695384.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A2_5681450.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B1_5686298.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C11_5768308.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	pool_QC_2.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H7_5671678.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_G10_5687992.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E11_5913343.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E6_5787807.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_G6_5685146.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_G1_5687922.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D8_5701012.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F9_5737366.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_B7_5705049.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_D3_5662296.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E10_5620324.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E6_5695392.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C1_BLANK_MY3_1_1C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_G2_5686946.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B10_5620301.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_E2_5839555.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D4_5668504.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C9_5687902.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_F8_5656221.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_B8_6240023.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_H2_5954860.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_A5_5756754.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B8_5739612.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F2_5635847.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D3_5767628.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D10_5728393.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_D1_5708996.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C12_5681163.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E7_5762766.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C1_5699502.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F11_5968578.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_F3_5714507.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B9_5751640.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_A2_5756824.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	pool_QC_9.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C7_5686882.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H4_5699189.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C7_5713277.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H3_5642749.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D5_5718379.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_D6_5709084.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_H8_5904819.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E9_5827169.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A8_5701082.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_D4_BLANK_MY3_4_4D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_A3_BLANK_MY3_3_3A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_G4_BLANK_MY3_4_4G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P1_H1_BLANK_MY3_1_1H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P1_E9_5739538.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_G8_5681062.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A7_5713241.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H6_5686428.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_D7_5803401.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_H6_5946708.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B2_5695429.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G11_6022860.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C2_5686899.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_G2_5708839.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_F6_5907644.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_F7_42037700.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_C8_5803421.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_G7_5693116.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H11_5713336.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C2_5632979.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_G7_5909290.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_G12_BLANK_MY3_4_12G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_B11_BLANK_MY3_4_11B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_4_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_9_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_6_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_A7_5695511.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_E6_5656149.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E2_5753256.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_G8_5782414.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_C6_5756764.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_F1_5852976.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H5_5707891.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F9_5695008.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H11_5675670.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F7_5632250.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G6_5768284.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H2_5714549.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B9_5693670.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_B4_5686371.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C10_5642818.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_C11_BLANK_MY3_4_11C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_F11_BLANK_MY3_4_11F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_A3_5681352.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A7_5743922.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_H7_5775767.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B12_5722380.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_A12_5700221.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F8_5774499.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D8_5684979.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F8_5686234.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E5_5700414.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A10_5654326.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F3_5681364.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_A9_5681308.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A6_5718391.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_A12_5675647.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C5_5685127.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D7_5762695.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E11_5758950.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_B10_5758880.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F5_5700441.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H6_5713222.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D6_5686416.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_G11_5654279.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D2_5699119.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A12_5954824.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F2_BLANK_MY3_2_2F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_G7_5701126.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C5_5739571.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_B5_5662274.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F9_5824794.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_C7_5662238.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E11_6013390.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_E7_5695504.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D11_5926073.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H8_5782405.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_B3_5756787.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C10_5756137.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_F10_5684223.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	blank_2_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_H4_BLANK_MY3_4_4H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_A10_5687916.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_H12_5848289.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B6_5635868.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F11_5768332.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_B4_5684203.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	pool_QC_5.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_F2_5705090.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H10_5737497.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	blank_5_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_B12_BLANK_MY3_4_12B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_E1_5681133.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_C12_42036437.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H1_5684269.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D1_5692975.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_C1_5793869.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_D3_5686348.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E4_5733780.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H9_5728364.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H3_5686939.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C11_5751720.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_H10_BLANK_MY3_4_10H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_C10_BLANK_MY3_4_10C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P3_B7_5713253.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_E7_5669615.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_E3_5708863.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_C5_5708887.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_D10_5751734.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_C4_5668686.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_A5_5710185.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_G5_5687685.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_D9_42276266.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_E12_5922990.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_G2_BLANK_MY3_2_2G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P2_G11_5762718.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_H7_5687970.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P3_F10_5780533.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F3_5637802.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_D11_5764617.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_D2_5756842.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_G4_6043317.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_H6_5668637.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_A11_BLANK_MY3_4_11A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_B10_BLANK_MY3_4_10B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000091381	P4_G9_42036357.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P4_D5_5656176.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P1_F6_5641533.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000091381	P2_C2_BLANK_MY3_2_2C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

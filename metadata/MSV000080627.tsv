@@ -1,0 +1,450 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000080627	ONR_Stool_12.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_21.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Stool_7.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_132.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_22.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_33.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_82.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_6.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_38.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_92.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003013951.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_11.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_4.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_32.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_11.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_13.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_15.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_105.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_28.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_49.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_84.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_84.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_SolventBlank_6.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_19.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_10.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_40.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_7.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_6.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_PlasmaSolventBlank_24.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_16.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_7.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_33.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161002171239.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_130.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_27.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_12.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_20.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_127.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_22.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_6.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_20.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	QC_MeOH_161004074351.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_21.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_19.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_16.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_23.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_97.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161004124821.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_35.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_12.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_31.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_101.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_45.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_10.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_30.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_SolventBlank_1.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_111.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_5.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_11.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_113.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_32.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_4.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_63.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_21.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_92.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_87.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_23.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_14.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	QC_MeOH_161004021058.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_19.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_62.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_72.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_27.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_20.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_PlasmaSolventBlank_24.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_73.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_79.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_87.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_42.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_129.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_124.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_18.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_6.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_107.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_10.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_PlasmaSolventBlank_25.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_34.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_28.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	QC_MeOH_161004114623.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_67.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_111.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_132.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_38.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_94.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_122.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_77.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_61.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_112.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_10.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_79.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_89.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_13.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_19.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161004123820.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_1.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_104.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_41.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_69.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003210810.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003012948.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_113.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_66.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_SolventBlank_5.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_106.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_70.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_7.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Stool_24.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_37.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_20.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_101.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_77.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_81.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_86.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_25.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_SolventBlank_5.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_109.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_83.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_52.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_68.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_97.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_17.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_16.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_14.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_3.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003124540.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_121.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_112.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_31.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_1.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_3.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161002224533.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_20.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_104.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003001149.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_8.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Stool_9.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_131.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_124.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_43.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_3.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_55.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_119.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_99.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_75.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_85.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_108.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_91.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_29.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003182142.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_42.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_PlasmaSolventBlank_23.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH.mzML	animal		9606|Homo sapiens					
+MSV000080627	ONR_Plasma_33.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_75.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_52.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_115.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_119.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_17.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_91.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_16.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_SolventBlank_4.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_103.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161002142608.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_SolventBlank_7.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_18.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_128.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_SolventBlank_6.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_SolventBlank_15.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_36.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_5.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_73.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_123.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_SolventBlank_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_10.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_4.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_44.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_37.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_28.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	QC_MeOH_161003011946.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_65.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_123.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_5.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_95.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_10.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_71.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_78.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_66.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_71.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_125.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_59.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_SolventBlank_2.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_100.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_56.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_8.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_18.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_39.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_47.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_32.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_131.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_36.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_98.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_9.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_100.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003071248.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_6.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_21.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_29.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_11.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161002195905.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_2.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_12.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_118.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_34.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_17.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_17.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_26.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_30.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_21.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_93.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_25.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_13.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_116.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_110.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_50.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003001149.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_125.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_41.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_3.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_128.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161004103014.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_72.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_25.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_13.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_53.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_3.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_9.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003013951.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_8.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_58.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_120.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_80.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_117.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_39.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_96.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_99.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_57.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_127.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_26.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_118.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_15.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_5.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_116.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003095914.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_11.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_94.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_117.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_126.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_40.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_45.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_60.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_47.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_17.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_64.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_4.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_89.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_50.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_24.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_90.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_28.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_23.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_27.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_36.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_9.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_14.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_13.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_64.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_23.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_SolventBlank_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	QC_MeOH_161004045725.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_51.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003153207.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_22.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_106.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003095914.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_18.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_80.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_95.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_14.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_54.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_58.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_55.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_126.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_24.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_120.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_122.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_19.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161004114623.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_SolventBlank_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Stool_26.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_78.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_15.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_PlasmaSolventBlank_22.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_35.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_74.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_32.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_14.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_16.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_31.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_43.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_68.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_51.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_54.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_49.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_30.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_88.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_27.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_34.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	QC_MeOH_161004045725.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161002142608.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_15.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_88.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_SolventBlank_3.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_85.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_74.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_12.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_130.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_46.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_29.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_81.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_67.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_82.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161004074351.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_35.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_PlasmaSolventBlank_23.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	QC_MeOH_161003232428.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_7.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_103.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_1.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_115.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_19.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_57.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_37.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_61.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003012948.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_11.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Stool_SolventBlank_7.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	QC_MeOH_161003182142.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_60.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_PlasmaSolventBlank_25.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	QC_MeOH_161003232428.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_18.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_129.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_29.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_8.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	QC_MeOH_161002134859.mzML	animal		9606|Homo sapiens					
+MSV000080627	ONR_Plasma_20.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_9.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_59.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_110.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_2.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_121.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161002171239.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_15.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_46.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_76.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_13.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_37.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	QC_MeOH_161004021058.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_12.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_SolventBlank_5.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_25.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_36.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_17.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Stool_SolventBlank_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_24.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_102.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_96.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_70.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_34.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_86.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_102.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_21.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_93.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_114.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_30.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003042621.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_2.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_SolventBlank_7.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161002224533.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_16.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Stool_8.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	QC_MeOH_161003011946.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_62.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003153207.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_5.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	QC_MeOH_161003042621.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_108.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003124540.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_31.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	QC_MeOH_161004124821.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_69.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_83.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_26.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_6.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_90.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_44.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003210810.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_SolventBlank_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_48.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_PlasmaSolventBlank_22.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_SolventBlank_9.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000080627	ONR_Plasma_4.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161003071248.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_18.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_22.mzXML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_98.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_107.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_76.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_109.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_63.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_114.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_65.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_33.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_56.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161004103014.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161004123820.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_53.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Plasma_105.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	ONR_Stool_35.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000080627	ONR_Plasma_48.mzXML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000080627	QC_MeOH_161002195905.mzML	animal	biofluid	9606|Homo sapiens	feces				

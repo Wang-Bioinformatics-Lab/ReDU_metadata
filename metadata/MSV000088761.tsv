@@ -1,0 +1,1965 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000088761	Baat170C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat170A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat125B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat310CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat126GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat127C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat158B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat186C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat310CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat180E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat209J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat155C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat263L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat126K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat129E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat312CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat156E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Blank27.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat166B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat167B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat217L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat145D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat228B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat247CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat155Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat132C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat159B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat128A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat154E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat187A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat224D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat130F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat310IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat228E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat126E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat216A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat221C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat162A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat224C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat262L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat132D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat127E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat262CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat173C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat198C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat196Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat132IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat346GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat219E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat245CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat126Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat153B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat319CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat185B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat325GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat151J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat150K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat214D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat167F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat218E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat196C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat209IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat168E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat215A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank00-4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank00-2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank19.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank19.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank10.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat156D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat202C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat166J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat143B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat346Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat165C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat305L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat177D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat123F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat305CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat156A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat131A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat261GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat192J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat201B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat187C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat167C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat246IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat234L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat218C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat174B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat173Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat177E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat224F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat199E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat197A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat214K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat165B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat249IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat191A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat272CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat342GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat195E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank27.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank25.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat206B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat152A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat209C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat130D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat160A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat272L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat208C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat187B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat313IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat163B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat202C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank55.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank24.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank11.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat224B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat123F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat126A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat218A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat226K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat211F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat150D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat222D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat196B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat170B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat246L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat223B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat173Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat257GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat127D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat165F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat228C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat125D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat129B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat125E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat155E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat270L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat190IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat148B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat130A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat162E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat184A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat167E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat213B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat160F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat266L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat195C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat324Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat157B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat220F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat197A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat160D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat257Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat226IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat180B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat128F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank02.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank36.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank33.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank28.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat157F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat172C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat183B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat305IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat182C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat160D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat194D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat187E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat249IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat340Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat215F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat263GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat258IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat132B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat152D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat257Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat192E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat177C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat206B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat228F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat207B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat199D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat192C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat273GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat248L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat203E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat124B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat150Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat183D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank31.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank00-2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank21.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat187E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat340L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat223E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat125A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat209J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat224E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat250GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat201C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat258GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat168C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat126Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat176L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat260L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat198D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat163F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat148D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat235GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat250Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat165K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat214Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat319Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat126L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat158D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank04.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat128F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat342L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat261IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat148E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat146A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat258Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat192D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat194GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat218E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat270L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat154F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat319IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat250CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat258CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat180K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat133C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat155Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat306CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat217K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat226F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat270CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat131B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat144C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat167D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat198A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat223F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat245IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat225E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat215D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat234Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat161B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat340GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat210A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat347Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat180J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat129F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat206F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat196A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat313CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat185Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat219D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat197B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat246Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat149F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat175A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat225D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank37.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank06.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank06.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank22.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank05.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank54.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank36.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank22.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat162C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat212A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat185K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat200C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat153IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat152E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat221B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat163D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat271L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat226C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat204E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat223F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat200A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat196Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat217Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat179C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat161C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat143IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat153C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat183D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat133D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat223D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat209D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat168C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat182L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat248L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat179C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat221D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat218D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat227D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank00.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank42.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank35.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank26.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat226A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat225C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat174C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat342CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat143D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat177A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat177D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat202E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat207A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat208C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat273CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat312L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat183E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat144A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat162D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat217Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat324L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Blank31.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat185D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat131B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat177E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat130C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat310L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat221E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat177B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat195D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat203B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat150A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat169A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat179E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat129D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat245GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat130B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat225F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat221E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat221F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat153A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat123A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat124E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat266Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat200F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat205B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat202B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat155J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat182C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat347IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat234L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat194Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat185E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat184E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat266Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat166E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat164L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat166C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat248IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat222B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat131C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat220B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat123E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat213D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat151B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat145E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat154F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat260GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat152F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank17.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank03.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank25.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank43.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat234CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat184A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat319L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat245IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat125C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat265CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat222C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat158F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat197F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat234IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat153C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat218F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat205A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat221D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat325CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat214J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat196E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat145F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat271Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat261L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat306CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat173Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat152E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat206E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat305IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat199D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat131F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat198E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat167D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat130C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank41.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank17.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank21.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat165L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat179E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat245Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat151K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat175A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat200B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat183E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat199E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat224D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat270CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat164D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat250IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat166GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat149C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat167E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat145E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat216E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat124C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat162E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat201D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat128C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat342Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat310Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat224F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat174D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat250CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat347CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Blank09.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat319CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat248IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat163J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat345Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat176GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat126B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat246IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat176Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat253L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat196IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat220D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat262IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat219C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat180K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat226J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat173IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat195B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat324GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat225B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat345L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat228F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat213F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat305GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat128B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat224A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat345Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat211B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat128E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat247Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat189B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat227F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat172E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat225F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat270Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat176IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat163F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat143D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat195B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat220C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat145C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat224A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat253GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Blank02.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank29.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank09.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank00-1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank05.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank08.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank00.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank16.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat213A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat208F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat220E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat225A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat202F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat149D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat156D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat170D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat133C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat257L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat205E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat160F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat216C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat347Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat147E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat124F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat198B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat158C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat271GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat161E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat130E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat220F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank37.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank07.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank32.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat165IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat247IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat313L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat245Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat162D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat131C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat205C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat149E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat203A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat161D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat213F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat177A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat222E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat346IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat208A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat207C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat214GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat235Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat147GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat204F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank03.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank26.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank39.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank20.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank01.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank51.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat151K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat346CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat189Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat150F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat129A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat153F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat246GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat164C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat248Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat182A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat144F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat247Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat202D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat160E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat171F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat325IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat215B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat184B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat246CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat176Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat217C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat189C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat234CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat215D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat152B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153B_20210816153354.mzML	animal		10090|Mus musculus					
+MSV000088761	Baat214E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat183B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat156A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat209E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat133D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat272IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat167C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat155C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat174A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank20.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank04.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank47.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank43.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank35.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat272Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat265L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat152A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat223D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat168B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat158A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat260Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat202E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat325GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat215C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat215B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat154C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat145C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat160A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat170B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat203F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat270Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat146B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat131D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat210C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat172A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat201C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat128A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat214F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat306IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat166L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat192F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat180Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat222F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat200E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat203C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat219C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat217Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat340IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat163K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat220A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat179D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat310Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat218C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat187C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat205C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat221F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat263Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat189D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank07.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank00-4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank55.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat226Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat150C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat263IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat191A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat173J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat205B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat176K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat211Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat265Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat306IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat185D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat131F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat159C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat163Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat153Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat148A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat234IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat144F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat123D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat145D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat211B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat306Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat216A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat159A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat154B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat271L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat220C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat172D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat215C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat199B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat227B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat154A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat152B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat125A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat261IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat346CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Blank30.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank24.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank00-3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat194K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat194J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat221C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat201E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat261Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat214L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat150IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat153E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat222A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153B_20210816153354.mzXML	animal		10090|Mus musculus					
+MSV000088761	Baat247L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat248GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat222E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat167B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat219D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat313Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat270IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat260CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat147L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat146E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat253CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat143L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat194Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat192J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat219A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat175K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat342IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat164F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank50.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank18.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank33.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank23.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank34.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank41.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat166D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat146F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat324GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat209Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat126B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat234GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat165J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat155IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat226J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat146D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat127A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat184B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat223E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat133F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat207C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat128E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat263Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat172D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat306Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat161D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat195A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat198A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat223C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat218D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat148C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat176D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat319IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat217F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat266GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat147Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat174F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat168E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat154D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat197D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat151GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat196IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat186E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat266L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat148F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat345GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat202A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat215E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat265GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat194D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat170F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat146C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat245L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat128D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat179B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat128D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat149E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat249L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat126F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat347GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat207B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat324IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat226B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat224B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat273Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat196K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat152D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Blank13.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank44.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank08.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat325L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat272IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat214L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat214C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat319L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat173L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat132GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat158C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat223A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat199F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat220E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat228C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat340L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat211A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat159D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat200D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat273CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat245CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat209F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat168D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat129B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat228A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat154E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat204D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat206E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat342CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat211Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat155K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat167A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat204E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat151A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat127C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank52.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank51.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank30.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank46.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank18.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat183A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat204A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat209GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat216F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat220A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat124B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat192Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat162B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat164L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat253IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat153K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat153Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat190B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat218A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat342IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat310IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat209B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat151J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat163C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat213C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat174C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat347GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat194E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat182K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat263CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat194Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat144E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat346IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat173Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat227C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat176K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat207F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat172B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat265Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat184D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat148E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat156C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat144D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat207D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat248GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat133A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat189A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat161A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat266IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat164IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat133B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat159A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat346Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat213B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat319GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat185L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat153IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat273GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Blank28.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank29.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat211F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat127F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat132C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat215A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat247GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat219F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat226Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat125D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat250IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat273L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat196Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat131D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat217E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat312L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat154A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat149B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat205F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat203E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat192Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat157IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat226GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat162B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat124F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat172B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat258CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat227D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat346L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Blank01.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat157D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat158B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat200F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat157L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat197C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat148B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat199B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat146F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat172C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat271IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat199C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat319Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat306L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat176Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat123C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat205D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat227E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat253GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat146C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat235CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat272L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat123A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat206C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat211D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank42.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat204B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat342GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat194J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat156E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat273L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat225E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat228E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat325IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat160B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat187D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat177C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat123C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat225B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat197F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat306GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat217J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat312GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat177B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat208F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat224C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat186C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat250GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat346L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat150F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat305CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat263CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat163C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat174A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat166K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat213E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat197B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat324IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat133F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat196D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat219B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat145B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat160C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat180Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat249L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Blank48.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank56.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank56.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat132F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat257IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat153GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat312Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat170D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat306GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat312CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat325CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat184D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat151C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat161C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat228D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat216B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat124A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat195C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat310GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat261CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat158E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat131E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat145F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat209B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat272Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat190Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat146A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat186D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank46.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat175Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat312IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat180IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat173L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat163Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat310L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat258IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat207E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat205A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat63IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat190E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat266GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat190L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat211K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat164K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat156F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat208B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat125F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat198E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat201F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat221B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat201B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat219A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat226B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat131E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat198D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank47.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat345CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat130B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat168D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat201D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat125E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat127E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat347IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat150Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat189A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat257GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat129E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat224E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat162F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat158D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat345IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat218F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat172E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat208D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat144C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat261Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat340CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat217A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat227A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat203B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat149B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat204C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank54.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank49.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank44.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank12.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat157GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat148D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat176Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat184C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat220D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat319GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat216D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat156C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat186E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat207A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat213A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat262GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat129F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat324Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat144D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat235CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat265IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat159D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat126D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat175Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat127D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat173Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat163A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank50.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank53.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat165B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat258L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat203F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat154B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat202B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat146D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat144E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat260IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat248CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat196Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat249CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat143K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat190Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat262L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat223C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat227F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat182L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat152F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat215E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat127B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat198F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat207F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat127B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat340Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat175K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat312GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat180A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat228A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat162C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat148F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat183C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat186D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat123E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat161B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat216B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat273Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat152C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat124C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat262CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat165IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat143GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat144B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat272GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat156F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat265GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat126J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat157E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat211Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat219B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat203C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat250L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat173E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat199C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank39.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank53.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat222A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat220B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat158F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat164F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat228D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat156B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat235GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat151D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat271IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat173GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat157K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat151E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat347L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat129D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat180GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat347CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat206D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat261CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat143J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat148C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat199F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat200A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat313L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat346GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat182K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat151E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat263GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat263L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat270GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat247L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat305Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat209Du.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat157Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat144B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat249GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat149F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat258Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat208E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat131A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Blank23.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank00-5.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank00-5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank00-1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat169A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat246GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat235Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat217F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat159C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat176E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat164IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat197C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat222C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat168A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat200E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat312Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat133B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat222B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat340GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat305GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat345CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat149D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat208A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat234GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat187D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat190GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat129C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat163L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat261L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat194IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat206A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat184E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat201A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat253CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat182A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat253Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat189E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat198C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat186A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat170C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat225C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat154C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat246L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat192A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat206D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat204D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat192D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat173F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat310GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat211A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat146E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat249Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat248Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat183C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat130E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat260IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat145A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank14.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank15.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat196L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat197D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat247GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat305L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat173F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat161F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat345GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat168B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat150GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat225A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat219F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat206F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat130D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat187A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat153D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat213D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat253Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat266CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat218B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat124E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat174F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat203D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat222F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat160C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat161E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat260CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat235IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Blank52.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank45.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat345L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat165L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat167F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat257IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat195A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat271GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat260Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat175IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat149C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat216E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat271CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat153Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat165GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat133E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat183A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat152C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat133E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat250L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat184C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat168F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat149A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat149A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat196GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat203D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat151IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat165D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat203A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat211IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat166Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat270GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat163E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat257CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat165A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat306L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat207D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat189Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat202F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat258L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat155L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat124D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat257CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat199A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat161A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat245L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat206C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat221A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat153J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat129A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat209F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat247CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat148A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat215F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat208B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat226Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Blank40.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank32.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank38.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat195D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat127F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat313GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat200B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat208D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat227C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat227E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat249CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat272CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat175D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat186B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat324L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat180E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat198B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat201A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat145B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat273IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat209L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat164B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat186A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat190Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat257L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat127A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat198F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Blank40.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank49.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat227B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat313Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat189K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat204A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat342Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat270IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat197E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat324CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat190F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat253L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat206A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat166A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat219E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat235L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat145A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat271Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat160B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat245GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat146B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat340IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat128C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat265L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat164J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat209A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180Ce.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat218B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat235IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat217D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat262Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat166L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat253IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat192A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat160E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat123D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat165Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat187B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat179A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat204F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat174B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat194F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat205D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat258GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat205F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat161F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat325Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat250Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat223B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat170E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat213C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat305Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat247IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat190C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat213E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat201E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat325Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat123B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat173K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat260GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat249GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat195E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat170A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat174D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat204B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Blank00-3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank45.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank48.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat234Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat192Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat185J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat266CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat133A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat223A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat202D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat347L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat166D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat156B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat124D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat226GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat216D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat155K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat175J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat246CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat205E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat217B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat175Ce.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat313GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat155IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat265CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat155B.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat182J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat180D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat185GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat126L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat150GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat226IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat179B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat130A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat202A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat171F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat221A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat180Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat170F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat228B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat235L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat249Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat200C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat170E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat312IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat313IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat173D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat163GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat124A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat197E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat125B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat199A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat162A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat200D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat313CE.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat155GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat168F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat222D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat227A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat126E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185K.mzML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat176J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat324CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat345IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat158A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat167A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat186B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat216C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat165E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat214Du.mzXML	animal		10090|Mus musculus	duodenum				
+MSV000088761	Baat164A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat271CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat129C.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat176GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat172F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat214IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat125C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat266IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat226D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat216F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000088761	Baat340CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat174E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat143GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat151F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat263IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat273IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat209Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat208E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat128B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat125F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat132J.mzXML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat172F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat211IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat165E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat265IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat192GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat209GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Blank34.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Blank38.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088761	Baat261GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat150J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat262IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat155GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat173IL.mzML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat166IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat246Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat204C.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat325L.mzML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat225D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat63IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat179D.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat147F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat172A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat207E.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat168A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat157Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat262Sr.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat123B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat248CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088761	Baat162F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat201F.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat144A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat159B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat342L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat154D.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat185IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000088761	Baat174E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat190E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164Sr.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000088761	Baat196A.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat272GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat158E.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat164J.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088761	Baat262GB.mzML	animal	biofluid	10090|Mus musculus	bile				
+MSV000088761	Baat130F.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat179A.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat210B.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000088761	Baat260L.mzXML	animal		10090|Mus musculus	liver				
+MSV000088761	Baat212A.mzML	animal	biofluid	10090|Mus musculus	feces				

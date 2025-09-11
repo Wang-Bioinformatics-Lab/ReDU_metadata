@@ -1,0 +1,43 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000093527	084_Sa08_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	083_Sa16_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	073_Blk_Methanol_NEG.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093527	068_Sa03_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	093_Sa07_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	061_Sa14_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	053_Sa04_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	085_Sa14_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	080_Sa05_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	065_Sa01_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	056_Sa05_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	077_Sa04_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	066_Sa04_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	049_Blk_Water_NEG.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093527	086_Sa13_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	060_Sa08_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	096_Blk_Methanol_NEG.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093527	059_Sa16_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	088_Sa10_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	089_Sa01_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	063_Sa02_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	058_Sa15_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	072_Blk_Water_NEG.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093527	054_Sa09_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	064_Sa10_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	057_Sa12_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	092_Sa03_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	090_Sa04_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	095_Sa04_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	078_Sa09_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	082_Sa15_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	062_Sa13_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	070_Sa06_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	094_Sa06_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	069_Sa07_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	055_Sa17_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	081_Sa12_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	079_Sa17_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	067_Sa11_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	091_Sa11_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	071_Sa04_Water_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000093527	087_Sa02_Methanol_NEG.mzML	animal	biofluid	9606|Homo sapiens	feces				

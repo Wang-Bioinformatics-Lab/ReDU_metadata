@@ -1,0 +1,59 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000098171	C7_BHI_T72_1.mzML			2|Bacteria					
+MSV000098171	D6_BHI_T0_2.mzML			2|Bacteria					
+MSV000098171	D7_BHI_T72_2.mzML			2|Bacteria					
+MSV000098171	C5_cc_T72_1.mzML			2|Bacteria					
+MSV000098171	D9_ce_substrate_T0_2.mzML			2|Bacteria					
+MSV000098171	Blank_7.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	E6_BHI_T0_3.mzML			2|Bacteria					
+MSV000098171	C10_ce_substrate_T72_1.mzML			2|Bacteria					
+MSV000098171	C5_ce_T0_1.mzML			2|Bacteria					
+MSV000098171	C3_Ak_T0_1.mzML			2|Bacteria					
+MSV000098171	Blank_4.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	E7_BHI_T72_3.mzML			2|Bacteria					
+MSV000098171	E6_ce_T72_3.mzML			2|Bacteria					
+MSV000098171	E4_cc_T0_3.mzML			2|Bacteria					
+MSV000098171	D4_cc_T0_2.mzML			2|Bacteria					
+MSV000098171	Blank_2.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	C11_BHI_substrate_T72_1.mzML			2|Bacteria					
+MSV000098171	D10_BHI_substrate_T0_2.mzML			2|Bacteria					
+MSV000098171	D8_Ak_substrate_T72_2.mzML			2|Bacteria					
+MSV000098171	E10_ce_substrate_T72_3.mzML			2|Bacteria					
+MSV000098171	C8_Ak_substrate_T72_1.mzML			2|Bacteria					
+MSV000098171	C7_Ak_substrate_T0_1.mzML			2|Bacteria					
+MSV000098171	Blank_5.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	Blank_8.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	C10_BHI_substrate_T0_1.mzML			2|Bacteria					
+MSV000098171	C9_ce_substrate_T0_1.mzML			2|Bacteria					
+MSV000098171	E5_ce_T0_3.mzML			2|Bacteria					
+MSV000098171	E8_cc_substrate_T0_3.mzML			2|Bacteria					
+MSV000098171	D4_Ak_T72_2.mzML			2|Bacteria					
+MSV000098171	Blank_1.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	E11_BHI_substrate_T72_3.mzML			2|Bacteria					
+MSV000098171	D8_cc_substrate_T0_2.mzML			2|Bacteria					
+MSV000098171	D7_Ak_substrate_T0_2.mzML			2|Bacteria					
+MSV000098171	E10_BHI_substrate_T0_3.mzML			2|Bacteria					
+MSV000098171	Blank_3.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	C4_Ak_T72_1.mzML			2|Bacteria					
+MSV000098171	E9_ce_substrate_T0_3.mzML			2|Bacteria					
+MSV000098171	D5_ce_T0_2.mzML			2|Bacteria					
+MSV000098171	C4_cc_T0_1.mzML			2|Bacteria					
+MSV000098171	D5_cc_T72_2.mzML			2|Bacteria					
+MSV000098171	Blank_9.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	C6_BHI_T0_1.mzML			2|Bacteria					
+MSV000098171	D10_ce_substrate_T72_2.mzML			2|Bacteria					
+MSV000098171	C6_ce_T72_1.mzML			2|Bacteria					
+MSV000098171	C9_cc_substrate_T72_1.mzML			2|Bacteria					
+MSV000098171	E8_Ak_substrate_T72_3.mzML			2|Bacteria					
+MSV000098171	E7_Ak_substrate_T0_3.mzML			2|Bacteria					
+MSV000098171	E5_cc_T72_3.mzML			2|Bacteria					
+MSV000098171	D6_ce_T72_2.mzML			2|Bacteria					
+MSV000098171	E9_cc_substrate_T72_3.mzML			2|Bacteria					
+MSV000098171	Blank_10.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	D11_BHI_substrate_T72_2.mzML			2|Bacteria					
+MSV000098171	D9_cc_substrate_T72_2.mzML			2|Bacteria					
+MSV000098171	D3_Ak_T0_2.mzML			2|Bacteria					
+MSV000098171	E4_Ak_T72_3.mzML			2|Bacteria					
+MSV000098171	Blank_6.mzML	blank_analysis	blank_analysis	2|Bacteria	missing_value	missing_value		missing_value	missing_value
+MSV000098171	C8_cc_substrate_T0_1.mzML			2|Bacteria					
+MSV000098171	E3_Ak_T0_3.mzML			2|Bacteria					

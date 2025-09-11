@@ -1,0 +1,223 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000086178	133.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	222.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	QC_5.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086178	QC_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086178	100.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	30.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	23.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	60.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	102.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	170.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	137.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	224.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	96.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	bedding.mzML	animal		10090|Mus musculus	not_applicable	not applicable			
+MSV000086178	blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	200.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	17.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	26.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	144.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	48.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	219.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	165.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	177.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	12.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	32.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	159.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	63.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	134_20200909161245.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	21.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	183.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	167.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	210.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	14.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	61.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	173.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	197.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	157.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	75.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	172.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	35.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	212.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	185.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	138.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	78.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	175.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	134.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086178	blank_1c.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	184.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	126.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	94.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	202.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	161.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	180.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	156.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	18.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	19.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	192.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	145.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	3.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	59.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	150.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	51.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	36.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	139.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	128.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	56.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	67.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	93.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	195.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	54.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	69.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	57.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	187.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	174.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	154.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	103.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	95.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	216.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	97.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	153.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	79.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	104.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	218.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	33.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	blank_1b.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	45.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	189.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	194.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	50.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	163.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	QC_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086178	123.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	47.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	9.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	20.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	160.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	10.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	213.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	5.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	74.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	203.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	40.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	72.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	147.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	blank_1_20200908142707.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	food.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086178	food_20200908160334.mzML	animal		10090|Mus musculus	not_applicable	not applicable			
+MSV000086178	82.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	52.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	90.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	73.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	42.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	130.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	24.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	132.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	215.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	16.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	223.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	13.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	149.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	77.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	98.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	148.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	143.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	89.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	84.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	2.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	39.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	220.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	125.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	99.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	186.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	164.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	207.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	44.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	49.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	191.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	68.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	71.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	168.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	105.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	182.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	70.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	225.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	152.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	101.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	85.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	190.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	88.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	199.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	blank_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	193.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	83.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	121.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	122.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	162.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	129.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	198.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	181.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	29.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	55.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	214.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	65.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	208.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	66.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	15.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	178.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	4.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	28.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	58.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	135.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	205.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	7.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	179.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	211.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	151.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	169.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	217.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	43.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	124.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	blank_1_20200908145149.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	91.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	140.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	25.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	46.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	blank_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	64.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	188.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	34.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	38.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	92.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	131.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	blank_1_20200908143952.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	62.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	27.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	158.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	8.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	QC_1_3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086178	blank_out.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	53.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	QC_4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086178	155.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	80.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	87.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	221.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	QC_1_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000086178	204.mzML	animal	biofluid	10090|Mus musculus	feces	male			
+MSV000086178	blank_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000086178	22.mzML	animal	biofluid	10090|Mus musculus	feces	female			
+MSV000086178	142.mzML	animal	biofluid	10090|Mus musculus	feces	female			

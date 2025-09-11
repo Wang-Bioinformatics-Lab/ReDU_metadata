@@ -1,0 +1,25 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000095787	NIST_BLK_1_0eV.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095787	NIST_vegan_2_0eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_vegan_1_DDA.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_vegan_2_DDA.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_pool_1_0eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_pool_1_20eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_omni_1_10eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_BLK_1_10eV.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095787	NIST_omni_2_20eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_vegan_1_20eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_pool_1_DDA.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_omni_2_10eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_BLK_1_DDA.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095787	NIST_vegan_1_10eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_vegan_1_0eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_pool_1_10eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_vegan_2_10eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_omni_1_DDA.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_omni_2_DDA.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_omni_1_20eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_BLK_1_20eV.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000095787	NIST_omni_2_0eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_vegan_2_20eV.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000095787	NIST_omni_1_0eV.mzML	animal	biofluid	9606|Homo sapiens	feces				

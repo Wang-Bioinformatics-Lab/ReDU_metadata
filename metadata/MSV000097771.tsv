@@ -1,0 +1,87 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097771	HILIC_QC_4.mzML	animal		10090|Mus musculus					
+MSV000097771	HILIC_QC_9.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_78.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	blank3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	hip_pos_25.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	HILIC_QC_6.mzML	animal		10090|Mus musculus					
+MSV000097771	GABA_30uM_6.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_32.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_16.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	blank7_20250410064137.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	hip_pos_76.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_19.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_25uM_4.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_14.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_72.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_21.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_6.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_25uM_1.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_33.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_5.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_74.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_25uM_6.mzML	animal		10090|Mus musculus					
+MSV000097771	blank2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	GABA_25uM_2.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_7.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_24.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_8.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_29.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	blank11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	blank10_20250410120718.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	HILIC_QC_3.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_12.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_40uM_2.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_31.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_10uM_1.mzML	animal		10090|Mus musculus					
+MSV000097771	HILIC_QC_7.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_4.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_11.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_30uM_1.mzML	animal		10090|Mus musculus					
+MSV000097771	GABA_30uM_4.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_79.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_10uM_5.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_17.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_20.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_10uM_6.mzML	animal		10090|Mus musculus					
+MSV000097771	GABA_40uM_3.mzML	animal		10090|Mus musculus					
+MSV000097771	HILIC_QC_8.mzML	animal		10090|Mus musculus					
+MSV000097771	blank4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	hip_pos_35.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_25uM_5.mzML	animal		10090|Mus musculus					
+MSV000097771	GABA_10uM_2.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_26.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	blank10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	GABA_40uM_6.mzML	animal		10090|Mus musculus					
+MSV000097771	HILIC_QC_2.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_77.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_94.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	blank5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	hip_pos_18.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_25uM_3.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_15.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	HILIC_QC_5.mzML	animal		10090|Mus musculus					
+MSV000097771	GABA_30uM_2.mzML	animal		10090|Mus musculus					
+MSV000097771	GABA_40uM_4.mzML	animal		10090|Mus musculus					
+MSV000097771	GABA_30uM_5.mzML	animal		10090|Mus musculus					
+MSV000097771	blank8_20250410080720.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	blank6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	hip_pos_13.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_40uM_5.mzML	animal		10090|Mus musculus					
+MSV000097771	GABA_10uM_3.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_30.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_10uM_4.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_22.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_71.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_70.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	hip_pos_73.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	blank8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	blank9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097771	GABA_30uM_3.mzML	animal		10090|Mus musculus					
+MSV000097771	HILIC_QC_1.mzML	animal		10090|Mus musculus					
+MSV000097771	hip_pos_34.mzML	animal		10090|Mus musculus	brain				
+MSV000097771	GABA_40uM_1.mzML	animal		10090|Mus musculus					
+MSV000097771	blank7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

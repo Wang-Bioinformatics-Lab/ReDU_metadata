@@ -1,0 +1,264 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097448	024__20221027__GC379F__3807-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	026__20221003__GC1410F__3556.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	019__20220922__GC1410__3571.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	062__20221003__GC1410F__3557.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	028__20220921__GC1410S__3571_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	066__20221003__GC1410F__3568.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	032__20220929__GC1410S__3749serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	054__20221003__GC1410F__3576.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	029__20221003__GC1410F__3563CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	028__20220922__GC1410__3564.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	072__20221003__GC1410F__3580DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	030__20220929__GC1410S__3575serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	065__20220929__GC1410F__3755DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	031__20220921__GC1410S__3578_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	057__20221027__GC379F__PooledQC__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	016__20220929__GC1410S__3555serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	021__20220922__GC1410F__3578_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	016__20220922__GC1410__3557.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	064__20220929__GC1410F__3750DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	044__20220921__GC1410S__3569_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	073__20221003__GC1410F__3750DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	042__20220929__GC1410F__3569CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	023__20220929__GC1410S__3576serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	044__20221027__GC379F__3800-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	017__20220929__GC1410S__3556serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	063__20221027__GC379F__3840-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	042__20220921__GC1410S__3570_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	061__20221027__GC379F__3843-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	074__20221003__GC1410F__3755.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	038__20220929__GC1410F__3563CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	043__20220922__GC1410F__3755_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	030__20220921__GC1410S__3576_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	027__20221027__GC379F__3841-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	047__20221003__GC1410F__3563CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	034__20220929__GC1410S__3580serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	015__20220922__GC1410F__3563CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	066__20221027__GC379F__3793-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	044__20220929__GC1410F__3573CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	036__20220929__GC1410S__3563serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	043__20220929__GC1410F__3571CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	019__20220929__GC1410S__3559serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	023__20220929__GC1410F__3571CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	058__20221027__GC379F__3805-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	035__20220929__GC1410F__3556CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	062__20220929__GC1410F__3578DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	055__20221027__GC379F__3804-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	051__20220929__GC1410F__3555DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	061__20220929__GC1410F__3576DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	054__20221027__GC379F__3806-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	017__20220922__GC1410__3559.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	042__20221027__GC379F__3805-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	022__20220922__GC1410F__3580CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	024__20220929__GC1410F__3573CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	043__20221027__GC379F__3803-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	046__20220929__GC1410F__3578CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	043__20220929__GC1410S__EA_Blank__conc.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097448	040__20221003__GC1410F__3768.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	024__20220922__GC1410F__3755_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	029__20221027__GC379F__3803-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	030__20221003__GC1410F__3568.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	032__20220929__GC1410F__2580CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	012__20220922__GC1410F__3556_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	018__20220929__GC1410F__3557CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	050__20221027__GC379F__3842-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	028__20220922__GC1410F__3553_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	025__20221003__GC1410F__3555.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	046__20221003__GC1410F__3559.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	033__20221027__GC379F__3840-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	055__20220929__GC1410F__3559DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	057__20220922__GC1410F__3578_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	069__20221003__GC1410F__3573.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	064__20221003__GC1410F__3559.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	021__20220922__GC1410__3576.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	040__20221027__GC379F__3804-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	043__20221003__GC1410F__3555.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	038__20221027__GC379F__3807-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	001__20221003__GC1410F__50%MeOH__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	033__20220922__GC1410F__3563CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	031__20220922__GC1410__3580.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	044__20220922__GC1410F__3768_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	034__20220921__GC1410S__3755_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	020__20220929__GC1410F__3563CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	050__20220922__GC1410F__3563DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	065__20221003__GC1410F__3563DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	051__20220922__GC1410F__3568_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	042__20221003__GC1410F__3553.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	046__20220922__GC1410F__3555_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	025__20221027__GC379S__3806-Sre__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	048__20221027__GC379F__3844-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	053__20221003__GC1410F__3573.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	059__20221003__GC1410F__3553.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	034__20221027__GC379F__PooledQC__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	057__20220929__GC1410F__3568DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	053__20220929__GC1410F__3557DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	044__20221003__GC1410F__3556.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	047__20220922__GC1410F__3556_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	054__20220922__GC1410F__3571_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	048__20220922__GC1410F__3557_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	024__20221003__GC1410F__3553.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	022__20220929__GC1410S__3573serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	025__20221027__GC379S__3806-S__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	018__20220922__GC1410F__3571_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	033__20220929__GC1410S__3574serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	020__20220922__GC1410__3573.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	016__20220929__GC1410F__3555CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	034__20220922__GC1410F__3568_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	028__20221003__GC1410F__3559.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	017__20220929__GC1410F__3556CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	059__20220922__GC1410F__3750DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	032__20221003__GC1410F__3571.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	001__20220922__GC1410F__Hexanes.mzML	animal		10090|Mus musculus					
+MSV000097448	033__20221003__GC1410F__3573.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	036__20220921__GC1410S__3768_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	041__20221027__GC379F__3841-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	052__20221027__GC379F__3793-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	017__20220922__GC1410F__3569CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	026__20220921__GC1410S__3559_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	032__20220922__GC1410__3570.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	027__20220929__GC1410S__3755serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	027__20220922__GC1410F__2580CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	026__20221027__GC379F__3804-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	018__20220929__GC1410S__3557serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	072__20220929__GC1410F__EA_Blank__conc.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097448	038__20220921__GC1410S__3564_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	061__20221003__GC1410F__3556.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	039__20220922__GC1410F__3573_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	052__20221003__GC1410F__3571.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	001__20220922__GC1410__50%MeOH__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	059__20221027__GC379F__3803-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	037__20221003__GC1410F__3580CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	031__20221003__GC1410F__3569CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	038__20220922__GC1410F__3571_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	068__20221003__GC1410F__3571.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	048__20220929__GC1410F__3755CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	013__20220922__GC1410__3553.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	035__20220921__GC1410S__3758_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	026__20220929__GC1410F__3578CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	049__20220929__GC1410F__3768CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	058__20221003__GC1410F__3768.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	020__20220922__GC1410F__3576_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	065__20221027__GC379F__3796-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	064__20221027__GC379F__3842-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	056__20221003__GC1410F__3750CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	029__20220921__GC1410S__3573_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	050__20220929__GC1410F__3553DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	040__20220921__GC1410S__3574_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	030__20220929__GC1410F__3755CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	020__20220929__GC1410S__3568serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	028__20221027__GC379F__3805-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	034__20220929__GC1410F__3555CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	014__20220922__GC1410F__3559_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	071__20221003__GC1410F__3578.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	034__20221003__GC1410F__3576.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	040__20220922__GC1410F__3576_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	024__20221027__GC379S__3807-S__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	026__20220922__GC1410__3768.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	053__20220922__GC1410F__3569DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	053__20221027__GC379F__3807-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	025__20220929__GC1410F__3576CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	060__20221027__GC379F__3800-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	060__20220922__GC1410F__3755_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	026__20221027__GC379S__3804-Sre__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	027__20220922__GC1410__3575.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	063__20220929__GC1410F__3580DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	047__20221027__GC379F__3843-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	035__20220929__GC1410S__3570serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	039__20221003__GC1410F__3755.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	029__20220929__GC1410S__3768serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	024__20220929__GC1410S__3578serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	029__20220922__GC1410F__3555_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	055__20220922__GC1410F__3573_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	037__20220922__GC1410F__3569CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	060__20221003__GC1410F__3555.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	029__20220929__GC1410F__3750CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	022__20220922__GC1410__3578.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	039__20220929__GC1410F__3568CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	075__20221003__GC1410F__3768.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	001__20220921__GC1410S__Hexanes.mzML	animal		10090|Mus musculus					
+MSV000097448	025__20221027__GC379F__3806-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	056__20221027__GC379F__3841-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	036__20221027__GC379F__3796-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	030__20221027__GC379F__3800-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	031__20220922__GC1410F__3557_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	016__20220922__GC1410F__3568_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	037__20221027__GC379F__3793-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	036__20220929__GC1410F__3557CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	067__20221003__GC1410F__3569DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	010__20220922__GC1410F__3553_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	047__20220929__GC1410F__3750CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	035__20221003__GC1410F__3578.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	041__20221003__GC1410F__2580CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	032__20220922__GC1410F__3559_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	013__20220922__GC1410F__3557_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	045__20220929__GC1410F__3576CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	011__20220922__GC1410F__3555_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	051__20221003__GC1410F__3569CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	030__20220922__GC1410F__3556_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	021__20220929__GC1410F__3568CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	015__20220929__GC1410F__3553CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	037__20220921__GC1410S__3575_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	045__20220922__GC1410F__3553_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	039__20220921__GC1410S__3749_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	056__20220922__GC1410F__3576_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	035__20221027__GC379F__3842-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	042__20220922__GC1410F__3750CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	041__20220922__GC1410F__3578_CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	019__20220922__GC1410F__3573_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	043__20220921__GC1410S__3563_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	022__20220921__GC1410S__3553_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	058__20220929__GC1410F__3569DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	041__20220921__GC1410S__3580_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	031__20220929__GC1410S__3564serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	045__20221003__GC1410F__3557.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	028__20220929__GC1410S__3758serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	025__20220921__GC1410S__3557_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	031__20221027__GC379F__3843-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	061__20220922__GC1410F__3768_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	042__20220929__GC1410S__EA_Blank__conc.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097448	023__20220922__GC1410__3755.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	057__20221003__GC1410F__3755.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	033__20220929__GC1410F__3553CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	026__20220922__GC1410F__3768_CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	030__20220922__GC1410__3574.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	033__20220922__GC1410__3563.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	052__20220929__GC1410F__3556DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	039__20221027__GC379F__3806-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	028__20220929__GC1410F__3580CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	031__20220929__GC1410F__3768CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	034__20220922__GC1410__3569.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	062__20221027__GC379F__3844-Col__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	029__20220922__GC1410__3749.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	021__20220929__GC1410S__3571serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	027__20221003__GC1410F__3557.CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	070__20221003__GC1410F__3576.DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	066__20220929__GC1410F__3768DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	001__20220929__GC1410F__EA_Blank__conc.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097448	051__20221027__GC379F__3796-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	024__20220921__GC1410S__3556_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	027__20220921__GC1410S__3568_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	014__20220922__GC1410__3555.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	037__20220929__GC1410F__3559CO__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	001__20220929__GC1410S__EA_Blank__conc.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097448	048__20221003__GC1410F__3568.CO__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	073__20220929__GC1410F__EA_Blank__conc.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097448	018__20220922__GC1410__3568.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	060__20220929__GC1410F__3573DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	045__20221003__GC1410F__3557.COre__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	038__20221003__GC1410F__3750CE__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	049__20220922__GC1410F__3559_DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	023__20220921__GC1410S__3555_Serum__conc.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097448	025__20220922__GC1410__3758.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	058__20220922__GC1410F__3580DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	015__20220922__GC1410__3556.Serum__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	019__20220929__GC1410F__3559CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	049__20221027__GC379F__3840-Cec__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	015__20220929__GC1410S__3553serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	056__20220929__GC1410F__3563DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	023__20220922__GC1410F__3750CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	037__20220929__GC1410S__3569serum__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	022__20220929__GC1410F__3569CE__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	032__20221027__GC379F__3844-DJ__dil.mzML	animal		10090|Mus musculus					
+MSV000097448	059__20220929__GC1410F__3571DJ__conc.mzML	animal		10090|Mus musculus					
+MSV000097448	055__20221003__GC1410F__3578.CO__dil.mzML	animal		10090|Mus musculus					

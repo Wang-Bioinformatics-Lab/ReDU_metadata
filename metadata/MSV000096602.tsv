@@ -1,0 +1,133 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000096602	N12MK_MP_09.mzML	animal		9606|Homo sapiens					
+MSV000096602	N1212_W12_P01.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1215_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1217_SCR_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1227_SCR_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1211_Wk12_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1213_SCR_STLM1.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N12YG_NC_09.mzML	animal		9606|Homo sapiens					
+MSV000096602	N1223_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1202_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	Pooled_QC_stool4.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000096602	N1216_Wk24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1213_W24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1208_Wk24_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1204_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1223_Wk24_STLM4.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	Pooled_QC_stool2.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000096602	N1223_Wk24_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1213_W24_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1213_WK12_P9.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1227_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1222_W12_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1217_Wk24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1227_W12_P06.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1217_SCR_STLM3.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1221_SCR_P06.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1212_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1208_W24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1210_SCR_STLM1.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1225_W24_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1228_W24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1224_SCRN_P7.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1207_SCR_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1212_SCR_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1207_W12_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1221_WK12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1221_Wk24_STLM4.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1224_SCRN_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1224_W24_P06.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1213_SCR_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1212_Wk24_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1219_Wk24_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1217_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1205_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1210_Wk12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1217_Wk24_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1212_W24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1207_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1221_WK12_P8.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1207_Wk24_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1224_Wk12_P8.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N12MK_HZ_09.mzML	animal		9606|Homo sapiens					
+MSV000096602	N1208_SCR_STML5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1204_W24_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1215_Wk24_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	Pooled_QC_plasma2.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000096602	N1202_SCR_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1225_SCRN_P7.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	Pooled_QC_plasma1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000096602	N1227_W24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1210_WK24_P9.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1222_W24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1204_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1219_Wk24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1216_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1211_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1202_SCR_STLM4.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1216_W12_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1205_SCR_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1211_WK24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1222_SCR_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1225_W24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1221_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1225_SCRN_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1208_W12_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N12MK_VL_09.mzML	animal		9606|Homo sapiens					
+MSV000096602	N1211_WK24_P8.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1207_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1223_Wk12_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1227_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1219_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1228_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1228_SCR_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1221_Wk24_P06.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1216_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1205_W24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1202_W24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1205_W12_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1219_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1222_W12_STLM4.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1215_W12_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1223_SCR_P05.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1210_Wk12_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N12YG_ST_09.mzML	animal		9606|Homo sapiens					
+MSV000096602	Pooled_QC_plasma3.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000096602	N1223_Wk12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	Pooled_QC_stool.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000096602	N1204_SCR_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	Pooled_QC_stool3.mzML	animal	biofluid	9606|Homo sapiens	feces				
+MSV000096602	N1213_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1219_SCR_P7.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1219_Wk12_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1202_W24_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1208_SCR_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N12YG_AX_09.mzML	animal		9606|Homo sapiens					
+MSV000096602	N1210_SCR_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1208_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1217_W12_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1222_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1215_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1228_W24_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1211_SCR_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1205_W12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1211_WK12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1228_W12_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1215_Wk24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1224_W24_STLM3.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1205_W24_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1228_SCR_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1207_Wk24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1216_SCR_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1225_Wk12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1210_WK24_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1224_Wk12_STLM5.mzML	animal	biofluid	9606|Homo sapiens	feces			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	Pooled_QC_plasma4.mzML	animal	biofluid	9606|Homo sapiens	blood plasma				
+MSV000096602	N1222_W24_P07.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1227_W24_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1204_W12_P06.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1202_W12_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1215_SCR_P09.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1225_Wk12_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	
+MSV000096602	N1216_Wk24_P08.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			metabolic dysfunction-associated steatotic liver disease	

@@ -1,0 +1,527 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000089112	pos_Female_10_Apr_21_Acute_uninfected_P187_D1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_2_Aug_16_chronic_uninfected_P190_H4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_27_Jun_21_mid-chronic_infected_P188_F9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_9_Apr_15_Acute_uninfected_P187_A8_20220220201642.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_29_May_19_Early-chronic_infected_P188_C9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_26_May_5_Acute_infected_P189_H1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_38_Apr_29_Acute_infected_P187_H3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_11_May_5_Acute_infected_P189_G1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_40_May_26_Early-chronic_infected_P190_C12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_32_Jun_28_mid-chronic_infected_P190_G8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_3_May_26_Early-chronic_uninfected_P190_A11.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_13_Jun_21_mid-chronic_infected_P188_F1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_30_May_19_Early-chronic_infected_P190_A9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220215130606.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_29_Apr_21_Acute_infected_P187_E2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_4_Jun_2_Early-chronic_uninfected_P190_D1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_33_May_26_Early-chronic_infected_P190_C7_20220216191835.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_40_May_19_Early-chronic_infected_P188_C12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_6_Apr_29_Acute_uninfected_P189_D1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_17_May_5_Acute_infected_P189_G6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_15_Jun_21_mid-chronic_infected_P188_F2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_27_May_26_Early-chronic_infected_P190_C3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_15_Aug_10_chronic_infected_P188_H2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_25_May_26_Early-chronic_infected_P188_D11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_12_Aug_10_chronic_infected_P188_G12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_35_Apr_29_Acute_infected_P187_G12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_8_Apr_22_Acute_uninfected_P189_A8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_2_Jun_28_mid-chronic_uninfected_P190_E8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_12_Aug_16_chronic_infected_P190_H12_20220216205123.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_29_May_5_Acute_infected_P188_A9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_3_May_19_Early-chronic_uninfected_P189_H10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_17_Jun_2_Early-chronic_infected_P190_D7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_30_May_26_Early-chronic_infected_P190_C4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_33_May_5_Acute_infected_P189_H6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_9_Apr_29_Acute_uninfected_P187_F6_20220220172424.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Start_blank_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220218103316.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_33_Apr_29_Acute_infected_P189_E12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	6-mix_01.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_12_Jun_28_mid-chronic_infected_P190_F6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_11_Apr_29_Acute_infected_P189_D5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_26_Jun_21_mid-chronic_infected_P188_F8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_29_May_26_Early-chronic_infected_P188_E2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_3_Jun_28_mid-chronic_uninfected_P190_E9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_38_Apr_21_Acute_infected_P187_E10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_17_Apr_21_Acute_infected_P187_D6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_1_Apr_22_Acute_uninfected_P189_A1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_5_May_5_Acute_uninfected_P187_H10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_18_Aug_10_chronic_infected_P188_H4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220215100045.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_13_Apr_22_Acute_infected_P189_B1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220218165632.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_32_Apr_15_Acute_infected_P187_B10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_7_May_19_Early-chronic_uninfected_P190_A1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_39_Apr_29_Acute_infected_P187_H4_20220220161810.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_5_Apr_29_Acute_uninfected_P189_C12.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_31_Apr_22_Acute_infected_P189_C3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_15_Jun_2_Early-chronic_infected_P190_D5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220218013111.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_7_Apr_15_Acute_uninfected_P187_A6_20220220184355.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_24_Jun_2_Early-chronic_infected_P190_D10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_22_May_26_Early-chronic_infected_P188_D9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_14_May_19_Early-chronic_infected_P190_A5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_6_May_26_Early-chronic_uninfected_P188_D2_20220220181726.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_16_Apr_29_Acute_infected_P187_F9_20220220163124.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_36_Apr_15_Acute_infected_P187_C1_20220220192340.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_38_Apr_29_Acute_infected_P189_F3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_14_Apr_15_Acute_infected_P187_A11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220219140524.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_8_Apr_29_Acute_uninfected_P189_D3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_7_May_19_Early-chronic_uninfected_P188_B7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Blank_20220221000158.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220219141836.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220215125253.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_Female_15_Jun_21_mid-chronic_infected_P188_F2_20220220233527.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_10_May_5_Acute_uninfected_P189_F12.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_4_Apr_21_Acute_uninfected_P187_C7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_22_Apr_29_Acute_infected_P187_G1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_32_May_26_Early-chronic_infected_P190_C6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_6_Jun_21_mid-chronic_uninfected_P188_E9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_2_May_26_Early-chronic_uninfected_P190_A10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_37_May_26_Early-chronic_infected_P190_C10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_1_Jun_28_mid-chronic_uninfected_P190_E7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_4_Apr_29_Acute_uninfected_P189_C11.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Blank_20220219015824.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_34_Jun_2_Early-chronic_infected_P190_E4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_21_Jun_2_Early-chronic_infected_P190_D9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_29_Apr_29_Acute_infected_P187_G8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_17_Apr_22_Acute_infected_P189_B4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_15_May_26_Early-chronic_infected_P190_B8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_8_May_5_Acute_uninfected_P188_A1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_20_Aug_10_chronic_infected_P188_H6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_24_Jun_28_mid-chronic_infected_P190_G4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_33_Jun_2_Early-chronic_infected_P190_E3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220219135211.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_2_May_5_Acute_uninfected_P187_H7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_12_Aug_16_chronic_infected_P190_H12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_35_Apr_22_Acute_infected_P189_C6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220216170610.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_7_Apr_21_Acute_uninfected_P187_C10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_4_Apr_15_Acute_uninfected_P187_A3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_21_Jun_28_mid-chronic_infected_P190_G3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_6_Apr_21_Acute_uninfected_P187_C9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_27_Apr_15_Acute_infected_P187_B8_20220220225543.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_30_Jun_2_Early-chronic_infected_P190_E1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_10_Jun_21_mid-chronic_uninfected_P188_E11.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_30_Apr_22_Acute_infected_P189_C2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_16_Jun_2_Early-chronic_infected_P190_D6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	Blank_20220215003221.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220218164319.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_Female_16_Apr_29_Acute_infected_P187_F9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	6-mix_20220220151159.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_18_May_5_Acute_infected_P189_G7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_17_May_19_Early-chronic_infected_P188_C1_20220220160454.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_21_May_26_Early-chronic_infected_P190_C2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_27_May_19_Early-chronic_infected_P188_C7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_4_Apr_15_Acute_uninfected_P187_A3_20220220185710.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_16_May_26_Early-chronic_infected_P190_B9_20220216190520.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Blank_20220219080829.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220215094732.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_Female_3_May_19_Early-chronic_uninfected_P188_B3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_11_May_5_Acute_infected_P188_A4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_4_Apr_22_Acute_uninfected_P189_A4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_16_Aug_10_chronic_infected_P188_H3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_31_Apr_21_Acute_infected_P187_E4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_39_Apr_29_Acute_infected_P187_H4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_13_Jun_28_mid-chronic_infected_P190_F7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_7_Apr_15_Acute_uninfected_P187_A6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_1_May_5_Acute_uninfected_P187_H6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_5_Jun_28_mid-chronic_uninfected_P190_E11.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_32_May_5_Acute_infected_P188_A10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_18_May_19_Early-chronic_infected_P190_A7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_2_May_5_Acute_uninfected_P189_F6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_13_Apr_29_Acute_infected_P189_D7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220216044554.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_31_Apr_29_Acute_infected_P187_G7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_15_Apr_22_Acute_infected_P189_B2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_1_Aug_10_chronic_uninfected_P188_G3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_20_May_5_Acute_infected_P189_G8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_8_Apr_15_Acute_uninfected_P187_A7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_11_Apr_21_Acute_infected_P187_D2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_7_May_26_Early-chronic_uninfected_P188_D3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_5_May_5_Acute_uninfected_P189_F9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_24_Apr_22_Acute_infected_P189_B9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_5_Apr_15_Acute_uninfected_P187_A4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_5_Aug_10_chronic_uninfected_P188_G7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_3_Apr_21_Acute_uninfected_P187_C6_20220220175054.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Blank_20220218072805.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_10_May_26_Early-chronic_uninfected_P190_B3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_6_May_19_Early-chronic_uninfected_P188_B6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_4_May_19_Early-chronic_uninfected_P189_H11.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	6-mix.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_27_Apr_29_Acute_infected_P189_E6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_7_May_5_Acute_uninfected_P189_F10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_5_Aug_16_chronic_uninfected_P190_H7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_16_Apr_21_Acute_infected_P187_D5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_7_Apr_29_Acute_uninfected_P187_F4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_13_May_19_Early-chronic_infected_P190_A4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220217192102.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_16_May_5_Acute_infected_P189_G5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_25_Jun_21_mid-chronic_infected_P188_F7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220218135131.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_37_Jun_2_Early-chronic_infected_P190_E6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_2_Apr_22_Acute_uninfected_P189_A2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_3_Apr_21_Acute_uninfected_P187_C6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_5_May_19_Early-chronic_uninfected_P188_B5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_30_Apr_29_Acute_infected_P187_G9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_31_Apr_15_Acute_infected_P187_B9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220215161112.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_13_Jun_2_Early-chronic_infected_P190_D3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_25_Apr_21_Acute_infected_P187_D11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_15_Apr_21_Acute_infected_P187_D4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_16_Apr_15_Acute_infected_P187_B1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_18_Apr_21_Acute_infected_P187_D7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_11_May_19_Early-chronic_infected_P190_A2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	6-mix_02.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_39_Apr_21_Acute_infected_P187_E11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220215223545.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC_20220219112647.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC_20220216222357.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_11_Apr_29_Acute_infected_P187_F7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_22_May_5_Acute_infected_P189_G9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_3_May_5_Acute_uninfected_P189_F7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_6_Jun_21_mid-chronic_uninfected_P188_E9_20220220234842.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_18_Apr_29_Acute_infected_P189_D12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_8_Apr_29_Acute_uninfected_P187_F5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_26_Apr_22_Acute_infected_P189_B11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_8_Jun_28_mid-chronic_uninfected_P190_F2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_20_Jun_28_mid-chronic_infected_P190_G2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_27_Apr_21_Acute_infected_P187_E1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_16_Jun_28_mid-chronic_infected_P190_F10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_26_Apr_29_Acute_infected_P189_E5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_3_May_26_Early-chronic_uninfected_P190_A11_20220216201136.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_2_Apr_29_Acute_uninfected_P189_C10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Blank_20220218011759.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220216165257.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220219111334.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220216043241.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220216104248.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220215064228.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220216181218.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_23_Apr_22_Acute_infected_P189_B8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_40_Apr_15_Acute_infected_P187_C3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_37_Apr_29_Acute_infected_P187_H2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	6-mix_20220221001512.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_6_Apr_22_Acute_uninfected_P189_A6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_1_Apr_21_Acute_uninfected_P187_C4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_10_Aug_10_chronic_uninfected_P188_G10_20220220171109.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_3_May_5_Acute_uninfected_P187_H8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pooled_QC_20220214214031.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_9_Apr_21_Acute_uninfected_P187_C12_20220220191025.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_37_May_5_Acute_infected_P188_A12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_12_May_5_Acute_infected_P189_G2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_21_May_5_Acute_infected_P188_A6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_6_Apr_29_Acute_uninfected_P187_F3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_23_May_19_Early-chronic_infected_P188_C4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_14_Aug_16_chronic_infected_P191_A2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_6_May_26_Early-chronic_uninfected_P190_A12.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_37_Apr_15_Acute_infected_P187_C2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220215191615.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_29_Jun_2_Early-chronic_infected_P190_D12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_34_Jun_28_mid-chronic_infected_P190_G10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_12_May_19_Early-chronic_infected_P188_B10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_11_Apr_22_Acute_infected_P189_A11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220219051638.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_4_May_5_Acute_uninfected_P189_F8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_7_Aug_16_chronic_uninfected_P190_H8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_20_Jun_2_Early-chronic_infected_P190_D8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_36_Apr_22_Acute_infected_P189_C7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_15_Jun_28_mid-chronic_infected_P190_F9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_4_May_5_Acute_uninfected_P187_H9_20220220230857.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_9_May_19_Early-chronic_uninfected_P188_B8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_24_May_26_Early-chronic_infected_P188_D10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_18_Jun_21_mid-chronic_infected_P188_F3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	Blank_20220216134754.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220216223710.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220220152512.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_9_Jun_28_mid-chronic_uninfected_P190_F3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_5_Jun_21_mid-chronic_uninfected_P188_E8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_18_May_26_Early-chronic_infected_P188_D8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_29_May_5_Acute_infected_P189_H4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_10_May_5_Acute_uninfected_P188_A3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_5_Jun_28_mid-chronic_uninfected_P190_E11_20220216194507.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_14_May_5_Acute_infected_P188_A5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_29_Jun_21_mid-chronic_infected_P188_F10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_40_Apr_29_Acute_infected_P187_H5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	Start_blank_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220215155800.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220217221252.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_Female_32_Apr_29_Acute_infected_P187_G10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_33_Jun_28_mid-chronic_infected_P190_G9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_3_Apr_22_Acute_uninfected_P189_A3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_11_Jun_21_mid-chronic_infected_P188_E12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_25_May_5_Acute_infected_P189_G12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_30_Apr_21_Acute_infected_P187_E3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_23_May_5_Acute_infected_P189_G10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_33_May_26_Early-chronic_infected_P190_C7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_18_Aug_16_chronic_infected_P191_A5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_17_Apr_29_Acute_infected_P189_D11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_35_Apr_15_Acute_infected_P187_B12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_37_Jun_21_mid-chronic_infected_P188_F12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_9_May_5_Acute_uninfected_P188_A2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_6_May_5_Acute_uninfected_P188_H11_20220220212258.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_37_May_26_Early-chronic_infected_P188_E5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_31_Apr_29_Acute_infected_P187_G7_20220220204312.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_20_Aug_10_chronic_infected_P188_H6_20220220165754.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC_20220218200136.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_17_Jun_28_mid-chronic_infected_P190_F11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_4_May_5_Acute_uninfected_P187_H9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_18_Apr_15_Acute_infected_P187_B3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_37_May_5_Acute_infected_P189_H7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_31_Apr_29_Acute_infected_P189_E10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_14_May_26_Early-chronic_infected_P190_B7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_37_May_19_Early-chronic_infected_P188_C10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_21_Apr_21_Acute_infected_P187_D10_20220220164439.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_35_Jun_28_mid-chronic_infected_P190_G11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_5_May_26_Early-chronic_uninfected_P188_D1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_2_May_19_Early-chronic_uninfected_P189_H9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_16_May_19_Early-chronic_infected_P188_B12_20220220210941.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_20_Apr_22_Acute_infected_P189_B6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_38_May_26_Early-chronic_infected_P190_C11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_19_Apr_21_Acute_infected_P187_D8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_21_Jun_21_mid-chronic_infected_P188_F4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	Blank_20220219133858.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220215190302.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220217190749.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_14_Apr_29_Acute_infected_P189_D8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_19_Apr_22_Acute_infected_P189_B5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_7_May_26_Early-chronic_uninfected_P188_D3_20220220213613.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_3_Apr_29_Acute_uninfected_P187_F1_20220220222913.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_15_Apr_29_Acute_infected_P189_D9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_8_Jun_21_mid-chronic_uninfected_P188_E10_20220220221558.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_12_Apr_22_Acute_infected_P189_A12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_11_May_26_Early-chronic_infected_P190_B4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_15_Aug_16_chronic_infected_P191_A3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_9_Apr_29_Acute_uninfected_P187_F6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_39_May_5_Acute_infected_P189_H8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_12_May_26_Early-chronic_infected_P190_B5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_22_May_19_Early-chronic_infected_P188_C3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_14_Apr_15_Acute_infected_P187_A11_20220220232213.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_13_Aug_16_chronic_infected_P191_A1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_17_Apr_15_Acute_infected_P187_B2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_23_Jun_21_mid-chronic_infected_P188_F6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_2_Aug_10_chronic_uninfected_P188_G4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_8_Jun_21_mid-chronic_uninfected_P188_E10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Blank_20220215222232.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220216215733.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_28_Apr_29_Acute_infected_P189_E7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_14_Apr_21_Acute_infected_P187_D3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_4_Jun_28_mid-chronic_uninfected_P190_E10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_8_Aug_16_chronic_uninfected_P190_H9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_4_Aug_10_chronic_uninfected_P188_G6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_9_Apr_15_Acute_uninfected_P187_A8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_36_Apr_15_Acute_infected_P187_C1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_29_Jun_2_Early-chronic_infected_P190_D12_20220216202451.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_36_Jun_28_mid-chronic_infected_P190_G12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	6-mix_03.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_15_May_19_Early-chronic_infected_P190_A6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_7_Aug_10_chronic_uninfected_P188_G8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC_20220219021137.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC_20220221005451.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_7_May_5_Acute_uninfected_P188_H12.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_19_Apr_29_Acute_infected_P187_F11_20220220220243.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_25_Apr_29_Acute_infected_P189_E4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_15_Apr_15_Acute_infected_P187_A12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_13_May_26_Early-chronic_infected_P188_D5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_37_Apr_22_Acute_infected_P189_C8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_34_May_26_Early-chronic_infected_P190_C8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220216075058.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_10_Aug_10_chronic_uninfected_P188_G10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_38_May_19_Early-chronic_infected_P188_C11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_27_Apr_22_Acute_infected_P189_B12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_6_Jun_28_mid-chronic_uninfected_P190_E12.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_26_Apr_21_Acute_infected_P187_D12_20220220224228.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_36_Apr_21_Acute_infected_P187_E8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220216140107.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_24_Apr_29_Acute_infected_P189_E3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_23_Apr_29_Acute_infected_P187_G2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_19_Jun_28_mid-chronic_infected_P190_G1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220218074118.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_32_Jun_21_mid-chronic_infected_P188_F11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_40_May_5_Acute_infected_P188_B2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_16_Apr_22_Acute_infected_P189_B3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_9_Apr_21_Acute_uninfected_P187_C12.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_25_Apr_29_Acute_infected_P187_G4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_20_May_26_Early-chronic_infected_P190_C1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_38_May_26_Early-chronic_infected_P188_E6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_5_Aug_16_chronic_uninfected_P190_H7_20220216182531.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_14_May_19_Early-chronic_infected_P188_B11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_7_Apr_22_Acute_uninfected_P189_A7.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_16_May_26_Early-chronic_infected_P190_B9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_28_Apr_29_Acute_infected_P187_G6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_22_Apr_15_Acute_infected_P187_B6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_3_Apr_29_Acute_uninfected_P187_F1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_20_Apr_29_Acute_infected_P187_F12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_32_Apr_21_Acute_infected_P187_E5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_11_Apr_15_Acute_infected_P187_A10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_25_Apr_15_Acute_infected_P187_B7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_19_Aug_10_chronic_infected_P188_H5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_8_May_5_Acute_uninfected_P189_F11.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_15_Apr_29_Acute_infected_P187_F8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_11_Aug_16_chronic_infected_P190_H11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_38_May_26_Early-chronic_infected_P190_C11_20220216185205.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_7_Jun_28_mid-chronic_uninfected_P190_F1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_30_Jun_28_mid-chronic_infected_P190_G6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_17_May_19_Early-chronic_infected_P188_C1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_27_May_5_Acute_infected_P188_A8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_20_Apr_21_Acute_infected_P187_D9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_26_Apr_21_Acute_infected_P187_D12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_1_May_5_Acute_uninfected_P189_F5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_34_Apr_21_Acute_infected_P187_E6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_11_Aug_10_chronic_infected_P188_G11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220219082142.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_11_Jun_28_mid-chronic_infected_P190_F5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_10_Apr_15_Acute_uninfected_P187_A9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_31_Jun_28_mid-chronic_infected_P190_G7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_27_Jun_28_mid-chronic_infected_P190_G5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_29_Apr_22_Acute_infected_P189_C1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_14_Jun_28_mid-chronic_infected_P190_F8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_29_Apr_21_Acute_infected_P187_E2_20220220214928.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_11_May_19_Early-chronic_infected_P188_B9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_16_Apr_29_Acute_infected_P189_D10_20220216210438.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_37_Apr_21_Acute_infected_P187_E9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_36_Apr_29_Acute_infected_P187_H1_20220220180409.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_6_Apr_15_Acute_uninfected_P187_A5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_27_Apr_29_Acute_infected_P187_G5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_27_Apr_15_Acute_infected_P187_B8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_28_May_19_Early-chronic_infected_P188_C8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_27_May_19_Early-chronic_infected_P190_A8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_2_May_26_Early-chronic_uninfected_P190_A10_20220216183850.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Blank_20220216073745.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220214212718.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220218194823.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220215033721.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_6_May_19_Early-chronic_uninfected_P189_H12.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_11_May_26_Early-chronic_infected_P188_D4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_4_Aug_16_chronic_uninfected_P190_H6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pooled_QC_20220215035034.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC_20220218043616.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_32_Jun_2_Early-chronic_infected_P190_E2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_35_Apr_29_Acute_infected_P189_F1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_30_May_5_Acute_infected_P189_H5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_40_Apr_21_Acute_infected_P187_E12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	Blank_20220218133818.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_Female_40_Jun_21_mid-chronic_infected_P188_G2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220220153825.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_11_Jun_21_mid-chronic_infected_P188_E12_20220220193655.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_13_May_5_Acute_infected_P189_G3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_32_Apr_29_Acute_infected_P189_E11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220216105601.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_3_Apr_15_Acute_uninfected_P187_A2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_39_Jun_21_mid-chronic_infected_P188_G1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_16_Aug_16_chronic_infected_P191_A4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_1_Aug_16_chronic_uninfected_P190_H3.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_18_May_26_Early-chronic_infected_P190_B11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_40_May_26_Early-chronic_infected_P190_C12_20220216195822.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_30_May_5_Acute_infected_P189_H5_20220216211753.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_pooled_QC_20220218230637.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_9_May_5_Acute_uninfected_P188_A2_20220220195012.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_21_Apr_21_Acute_infected_P187_D10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_8_Apr_21_Acute_uninfected_P187_C11.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_32_Jun_21_mid-chronic_infected_P188_F11_20220220155138.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_23_May_5_Acute_infected_P188_A7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220218104629.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_16_May_19_Early-chronic_infected_P188_B12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	Blank_20220221002825.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220218225324.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_Female_40_Apr_15_Acute_infected_P187_C3_20220220205626.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_2_Apr_15_Acute_uninfected_P187_A1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_2_Apr_21_Acute_uninfected_P187_C5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_34_May_26_Early-chronic_infected_P188_E4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_12_May_19_Early-chronic_infected_P190_A3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_5_Apr_21_Acute_uninfected_P187_C8.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Blank_20220216213108.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_Female_16_Aug_10_chronic_infected_P188_H3_20220220183041.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_4_Jun_2_Early-chronic_uninfected_P190_D1_20220216193150.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_38_Jun_28_mid-chronic_infected_P190_H2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_40_Apr_29_Acute_infected_P189_F4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_38_May_5_Acute_infected_P188_B1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_10_Apr_22_Acute_uninfected_P189_A10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pooled_QC_20220215065541.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_17_May_26_Early-chronic_infected_P190_B10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_5_Apr_22_Acute_uninfected_P189_A5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_15_May_5_Acute_infected_P189_G4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_12_Jun_2_Early-chronic_infected_P190_D2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_9_Aug_16_chronic_uninfected_P190_H10.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_29_Apr_29_Acute_infected_P189_E8.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_26_May_26_Early-chronic_infected_P188_E1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_20_Apr_29_Acute_infected_P189_E1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_24_May_5_Acute_infected_P189_G11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pooled_QC_20220215004534.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_14_Jun_2_Early-chronic_infected_P190_D4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_3_Aug_16_chronic_uninfected_P190_H5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_37_May_5_Acute_infected_P189_H7_20220216203806.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_36_Apr_29_Acute_infected_P187_H1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_16_May_26_Early-chronic_infected_P188_D6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220217222605.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	Blank_20220219131234.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_8_May_26_Early-chronic_uninfected_P190_B2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_31_May_26_Early-chronic_infected_P190_C5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_35_Apr_21_Acute_infected_P187_E7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_40_May_26_Early-chronic_infected_P188_E7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_10_Jun_28_mid-chronic_uninfected_P190_F4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_12_Apr_29_Acute_infected_P189_D6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_36_Apr_29_Acute_infected_P189_F2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	Blank_20220216012736.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	Blank_20220220145517.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_Female_6_May_26_Early-chronic_uninfected_P188_D2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_7_Apr_29_Acute_uninfected_P189_D2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_19_Apr_29_Acute_infected_P187_F11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_25_Jun_21_mid-chronic_infected_P188_F7_20220220173739.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_26_May_19_Early-chronic_infected_P188_C6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_18_Jun_28_mid-chronic_infected_P190_F12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_32_Apr_22_Acute_infected_P189_C4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_6_May_5_Acute_uninfected_P188_H11.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_22_Jun_21_mid-chronic_infected_P188_F5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_36_May_26_Early-chronic_infected_P190_C9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_16_Apr_29_Acute_infected_P189_D10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_29_May_5_Acute_infected_P188_A9_20220220202957.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_28_May_5_Acute_infected_P189_H3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_22_Apr_22_Acute_infected_P189_B7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_17_Apr_21_Acute_infected_P187_D6_20220220200327.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_33_Apr_15_Acute_infected_P187_B11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_17_May_26_Early-chronic_infected_P188_D7.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_13_May_26_Early-chronic_infected_P190_B6.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	Blank_20220218042303.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089112	pos_male_25_Apr_22_Acute_infected_P189_B10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_21_Apr_29_Acute_infected_P189_E2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_19_May_26_Early-chronic_infected_P190_B12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_34_Apr_22_Acute_infected_P189_C5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_33_Apr_29_Acute_infected_P187_G11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_24_May_19_Early-chronic_infected_P188_C5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_20_May_19_Early-chronic_infected_P188_C2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_19_Apr_15_Acute_infected_P187_B4.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC6.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pooled_QC_20220216014049.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_5_Apr_29_Acute_uninfected_P187_F2.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_13_Aug_10_chronic_infected_P188_H1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_24_Apr_29_Acute_infected_P187_G3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_9_Aug_10_chronic_uninfected_P188_G9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_7_May_26_Early-chronic_uninfected_P190_B1.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_37_Jun_28_mid-chronic_infected_P190_H1.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_4_May_19_Early-chronic_uninfected_P188_B4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_3_Aug_10_chronic_uninfected_P188_G5.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_20_Apr_15_Acute_infected_P187_B5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_36_Jun_2_Early-chronic_infected_P190_E5.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_27_May_5_Acute_infected_P189_H2.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_30_Apr_29_Acute_infected_P189_E9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_10_Apr_29_Acute_uninfected_P189_D4.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_9_Apr_22_Acute_uninfected_P189_A9.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_Female_26_May_26_Early-chronic_infected_P188_D12.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_male_38_Apr_22_Acute_infected_P189_C9.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_17_Apr_29_Acute_infected_P187_F10.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_36_May_5_Acute_infected_P188_A11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_pooled_QC_20220221004138.mzXML	animal	biofluid	10090|Mus musculus	urine				
+MSV000089112	pos_male_27_Jun_2_Early-chronic_infected_P190_D11.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	pos_Female_31_May_26_Early-chronic_infected_P188_E3.mzXML	animal	biofluid	10090|Mus musculus	urine			Chagas disease	
+MSV000089112	Blank_20220219050325.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

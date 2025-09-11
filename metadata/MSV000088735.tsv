@@ -1,0 +1,293 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000088735	IFXI12-D12-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI23-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_12_P01_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_09_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_06_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI10-D4-AV-STWK14.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_12_P02_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_07_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI02-D4-AV-STWK14.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D3-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI21-D12-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI07-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI14-D5-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI09-D4-AV-STWK14.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI16-D4-AV-STWK14.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFIX21-D10-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000088735	IFXI14-D2-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	Blank_08_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI19-D2-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI17-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI29-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI06-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI19-D6-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI23-D1-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI19-D5-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_05_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI20-D4-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	Blank_06_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI30-D2-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI15-D1-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI08-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI19-D4-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI02-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI16-D4-AV-STWK14.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI31-D3-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI17-D4-AV-STWK14.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI21-D11-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	Blank_02_P01_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI21-D5-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	Blank_02_P01_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_11_P01_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_00_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI29-D3-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI05-D4-AV-STWK14.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI31-D3-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI21-D19-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI12-D1-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI19-D4-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI02-D4-AV-STWK14.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI26-D1-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D17-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI31-D2-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI06-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI20-D5-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI21-D1-AV-STWKLast.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI21-D4-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI24-D4-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI12-D10-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI13-D1-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI08-D4-AV-STWK14.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI21-D8-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI24-D3-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI24-D1-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	Blank_11_P02_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI21-D11-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI21-D13-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	Blank_01_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_03_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI20-D3-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI14-D4-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI04-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI09-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	Blank_06_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_00_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_02_P02_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI19-D8-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI19-D5-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI26-D3-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI30-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI08-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI17-D1-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI19-D13-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI12-D10-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI19-D14-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_05_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI21-D1-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI12-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI13-D1-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI05-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI25-D1-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI15-D2-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI17-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI06-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	Blank_01_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_09_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI12-D5-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI21-D18-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI20-D2-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	Blank_05_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_07_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI23-D1-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI09-D4-AV-STWK14.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI08-D4-AV-STWK14.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	Blank_11_P01_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI14-D3-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI12-D8-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI24-D4-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	Blank_09_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI19-D10-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D2-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI02-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI10-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI19-D11-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI25-D1-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI25-D1-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI17-D1-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI16-D1-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI12-D1-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	Blank_04_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI21-D3-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI12-D11-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI21-D6-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI12-D15-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI01-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	Blank_07_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI21-D16-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI12-D5-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI19-D1-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D1-AV-STWKLast.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI21-D19-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI21-D16-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI10-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D4-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	Blank_05_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI24-D1-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	Blank_08_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI09-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI07-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI12-D15-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI19-D1-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI19-D2-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_07_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI19-D7-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_03_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI12-D4-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	Blank_10_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI14-D4-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI08-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI07-D4-AV-STWK15.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI05-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI27-D3-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000088735	IFXI21-D7-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI26-D2-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_02_P02_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI21-D7-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	Blank_01_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_03_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFIX21-D10-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000088735	IFXI14-D2-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI14-D1-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI27-D1-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000088735	IFXI02-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI23-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D13-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI12-D12-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI12-D6-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI20-D5-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI21-D15-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI06-D4-AV-STWK14.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI01-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI27-D2-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000088735	IFXI29-D2-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI05-D4-AV-STWK14.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI01-XD-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI30-D2-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI12-D14-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI19-D6-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI12-D6-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI19-D12-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI08-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI07-D4-AV-STWK15.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI07-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI31-D1-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	Blank_12_P01_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI19-D11-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI10-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_10_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI12-D11-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	Blank_00_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI26-D4-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI19-D9-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D5-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI26-D1-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI25-D1-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI14-D5-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI17-D1-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI15-D1-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI26-D4-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI26-D3-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_00_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_01_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI12-D8-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI19-D9-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI12-D7-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI06-D4-AV-STWK14.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI19-D12-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D18-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI26-D3-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI02-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI19-D8-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI20-D4-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI24-D2-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI21-D8-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI12-D14-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI29-D3-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI09-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI11-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI30-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	Blank_06_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_08_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI26-D2-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI26-D3-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI12-D7-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI26-D1-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI24-D5-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI17-D1-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI27-D1-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000088735	IFXI09-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI03-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D12-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	Blank_10_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI10-D4-AV-STWK14.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	Blank_12_P02_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI21-D14-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI30-D4-AV-STWK4.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI04-D4-AV-STWK14.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI06-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI04-D4-AV-STWK14.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI16-D1-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	Blank_03_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_04_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI12-D3-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI27-D2-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000088735	IFXI26-D1-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D9-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI19-D7-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI19-D10-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D17-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI21-D15-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI01-XD-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI31-D1-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI21-D14-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	Blank_10_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	Blank_04_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI03-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D9-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI12-D4-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI05-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI31-D2-AV-STWK3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI04-D2-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI14-D1-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI14-D3-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI07-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		ulcerative colitis	
+MSV000088735	IFXI21-D1-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI20-D1-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI12-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	Blank_08_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI20-D3-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	Blank_11_P02_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI20-D2-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI27-D3-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000088735	IFXI24-D2-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI19-D13-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI12-D3-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI21-D6-AV-STWK1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI30-D4-AV-STWK4.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI29-D2-AV-STWK3.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	Blank_04_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI24-D3-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	IFXI24-D5-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		inflammatory bowel disease	
+MSV000088735	Blank_09_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088735	IFXI20-D1-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI19-D3-AV-STWK0.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI19-D3-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI10-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI19-D14-AV-STWK2.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		Crohn's disease	
+MSV000088735	IFXI21-D2-AV-STWK0.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI05-D3-AV-STWK6.mzXML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI29-D2-AV-STWK2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	
+MSV000088735	IFXI15-D2-AV-STWK1.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		ulcerative colitis	
+MSV000088735	IFXI17-D4-AV-STWK14.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		inflammatory bowel disease	
+MSV000088735	IFXI11-D3-AV-STWK6.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		Crohn's disease	

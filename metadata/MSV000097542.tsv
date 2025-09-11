@@ -1,0 +1,1289 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097542	P_1_blank_58.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_132.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_271.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_305.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_27.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_228.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_47.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_48.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_19.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_186.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_95.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_43.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_155.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_S2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_292.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_76.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_306.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_316.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P2_B8_G87558_1.mzML			Food					
+MSV000097542	P1_B11_G79354_3.mzML			Food					
+MSV000097542	P3_C1_74021_1.mzML			Food					
+MSV000097542	P4_A3_G75817_3.mzML			Food					
+MSV000097542	P2_A3_G86788_3.mzML			Food					
+MSV000097542	P2_B10_G86889_1.mzML			Food					
+MSV000097542	P4_A10_G75836_3.mzML			Food					
+MSV000097542	P4_C10_G75213_2.mzML			Food					
+MSV000097542	P2_D2_G87467_3.mzML			Food					
+MSV000097542	P1_C11_G79316_1.mzML			Food					
+MSV000097542	P4_G3_G75172_2.mzML			Food					
+MSV000097542	P3_F5_G73479_3.mzML			Food					
+MSV000097542	P4_F12_G75175_3.mzML			Food					
+MSV000097542	P1_E9_G86756_1.mzML			Food					
+MSV000097542	P2_D5_G87548_2.mzML			Food					
+MSV000097542	P1_A1_G79332_3.mzML			Food					
+MSV000097542	P3_D1_75072_1.mzML			Food					
+MSV000097542	P1_D10_G75659_2.mzML			Food					
+MSV000097542	P4_F6_G75181_1.mzML			Food					
+MSV000097542	P1_G9_G86878_3.mzML			Food					
+MSV000097542	P1_G6_G86822_1.mzML			Food					
+MSV000097542	P1_F10_G75112_2.mzML			Food					
+MSV000097542	P2_A7_G86798_3.mzML			Food					
+MSV000097542	P2_G1_G83249_2.mzML			Food					
+MSV000097542	P4_E11_G75188_1.mzML			Food					
+MSV000097542	P1_B7_G79346_2.mzML			Food					
+MSV000097542	P2_A2_G86787_2.mzML			Food					
+MSV000097542	P3_D9_G73443_1.mzML			Food					
+MSV000097542	P2_F5_G83240_1.mzML			Food					
+MSV000097542	P1_C5_G75787_2.mzML			Food					
+MSV000097542	P1_F10_G75112_1.mzML			Food					
+MSV000097542	P1_D3_G79324_1.mzML			Food					
+MSV000097542	P4_D6_G75205_1.mzML			Food					
+MSV000097542	P1_G5_G86824_2.mzML			Food					
+MSV000097542	P1_F6_G86831_3.mzML			Food					
+MSV000097542	P1_A5_G79317_1.mzML			Food					
+MSV000097542	P1_B2_G75798_3.mzML			Food					
+MSV000097542	P2_B2_G87472_3.mzML			Food					
+MSV000097542	P1_F6_G86831_1.mzML			Food					
+MSV000097542	P3_E12_G74112_3.mzML			Food					
+MSV000097542	P3_E11_G74088_2.mzML			Food					
+MSV000097542	P2_A4_G86795_3.mzML			Food					
+MSV000097542	P4_E9_G75190_1.mzML			Food					
+MSV000097542	P3_F11_G75845_2.mzML			Food					
+MSV000097542	P1_B1_G75794_2.mzML			Food					
+MSV000097542	P3_C2_75904_3.mzML			Food					
+MSV000097542	P1_C5_G75787_1.mzML			Food					
+MSV000097542	P2_F6_G83246_3.mzML			Food					
+MSV000097542	P1_F9_G79630_3.mzML			Food					
+MSV000097542	P3_B5_72500_2.mzML			Food					
+MSV000097542	P3_C7_75093_3.mzML			Food					
+MSV000097542	P4_A6_G75831_3.mzML			Food					
+MSV000097542	P4_E12_G75187_1.mzML			Food					
+MSV000097542	P4_C11_G75212_1.mzML			Food					
+MSV000097542	P1_D12_G75653_1.mzML			Food					
+MSV000097542	P4_F1_G75186_1.mzML			Food					
+MSV000097542	P2_B8_G87558_3.mzML			Food					
+MSV000097542	P4_A7_G75823_2.mzML			Food					
+MSV000097542	P4_A12_G75834_1.mzML			Food					
+MSV000097542	P2_E8_G87466_2.mzML			Food					
+MSV000097542	P_4_blank_263.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_41.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_93.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_156.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_308.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_202.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_229.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_294.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_199.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_261.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_288.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_152.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P4_C12_G75211_1.mzML			Food					
+MSV000097542	P2_C4_G86911_2.mzML			Food					
+MSV000097542	P2_A11_G86802_2.mzML			Food					
+MSV000097542	P3_B3_G72718_3.mzML			Food					
+MSV000097542	P4_C1_G73442_3.mzML			Food					
+MSV000097542	P3_C2_75904_2.mzML			Food					
+MSV000097542	P2_C11_G87471_1.mzML			Food					
+MSV000097542	P2_F8_G83248_3.mzML			Food					
+MSV000097542	P1_B10_G79322_2.mzML			Food					
+MSV000097542	P3_G1_G73509_3.mzML			Food					
+MSV000097542	P1_G11_G86873_1.mzML			Food					
+MSV000097542	P4_G5_G73943_1.mzML			Food					
+MSV000097542	P1_D3_G79324_3.mzML			Food					
+MSV000097542	P2_B2_G87472_2.mzML			Food					
+MSV000097542	P3_D2_72507_1.mzML			Food					
+MSV000097542	P4_G2_G75173_2.mzML			Food					
+MSV000097542	P2_B7_G87546_3.mzML			Food					
+MSV000097542	P4_D11_G75200_1.mzML			Food					
+MSV000097542	P2_C2_G86776_1.mzML			Food					
+MSV000097542	P3_G6_G75751_3.mzML			Food					
+MSV000097542	P3_D3_79166_3.mzML			Food					
+MSV000097542	P1_C7_G79347_2.mzML			Food					
+MSV000097542	P1_B6_G75789_1.mzML			Food					
+MSV000097542	P1_C1_G79348_1.mzML			Food					
+MSV000097542	P3_C8_75089_2.mzML			Food					
+MSV000097542	P3_A8_G72663_1.mzML			Food					
+MSV000097542	P3_B2_G72719_1.mzML			Food					
+MSV000097542	P1_E2_G86724_2.mzML			Food					
+MSV000097542	P4_E10_G75189_3.mzML			Food					
+MSV000097542	P4_C2_G73441_3.mzML			Food					
+MSV000097542	P3_C12_72475_2.mzML			Food					
+MSV000097542	P3_D11_G73446_2.mzML			Food					
+MSV000097542	P2_D4_G86910_3.mzML			Food					
+MSV000097542	P1_B10_G79322_1.mzML			Food					
+MSV000097542	P4_B1_G75843_3.mzML			Food					
+MSV000097542	P1_A2_G79340_2.mzML			Food					
+MSV000097542	P4_C12_G75211_2.mzML			Food					
+MSV000097542	P3_E8_G72464_3.mzML			Food					
+MSV000097542	P1_E8_G86758_2.mzML			Food					
+MSV000097542	P4_B2_G75844_2.mzML			Food					
+MSV000097542	P2_A2_G86787_1.mzML			Food					
+MSV000097542	P3_B3_G72718_1.mzML			Food					
+MSV000097542	P2_A10_G86801_2.mzML			Food					
+MSV000097542	P3_E6_G73444_3.mzML			Food					
+MSV000097542	P2_F11_G83245_3.mzML			Food					
+MSV000097542	P1_B1_G75794_3.mzML			Food					
+MSV000097542	P4_B2_G75844_1.mzML			Food					
+MSV000097542	P4_G7_G73948_1.mzML			Food					
+MSV000097542	P4_A8_G75822_3.mzML			Food					
+MSV000097542	P4_C9_G73433_2.mzML			Food					
+MSV000097542	P4_A9_G75821_1.mzML			Food					
+MSV000097542	P1_C6_G75799_1.mzML			Food					
+MSV000097542	P1_D12_G75653_2.mzML			Food					
+MSV000097542	P3_D12_G73941_2.mzML			Food					
+MSV000097542	P1_D11_G75656_3.mzML			Food					
+MSV000097542	P4_A6_G75831_1.mzML			Food					
+MSV000097542	P4_E4_G75195_3.mzML			Food					
+MSV000097542	P2_B3_G86920_3.mzML			Food					
+MSV000097542	P4_E7_G75192_1.mzML			Food					
+MSV000097542	P3_F8_G73480_2.mzML			Food					
+MSV000097542	P2_G6_G79341_1.mzML			Food					
+MSV000097542	P_4_blank_293.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_67.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_S3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_182.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_184.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_33.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_216.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_168.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_70.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_204.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_212.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_36.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_276.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_94.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_69.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_55.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_314.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_99.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_203.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_131.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_224.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P1_F9_G79630_2.mzML			Food					
+MSV000097542	P1_F7_G86828_1.mzML			Food					
+MSV000097542	P4_B3_G75829_3.mzML			Food					
+MSV000097542	P1_D8_G75793_3.mzML			Food					
+MSV000097542	P3_A9_73982_1.mzML			Food					
+MSV000097542	P4_A5_G75830_1.mzML			Food					
+MSV000097542	P1_A10_G79334_1.mzML			Food					
+MSV000097542	P2_E12_G83237_2.mzML			Food					
+MSV000097542	P2_E11_G83241_1.mzML			Food					
+MSV000097542	P1_G10_G86874_3.mzML			Food					
+MSV000097542	P1_B5_G75785_3.mzML			Food					
+MSV000097542	P2_E1_G87553_1.mzML			Food					
+MSV000097542	P4_B8_G75856_3.mzML			Food					
+MSV000097542	P4_E8_G75191_1.mzML			Food					
+MSV000097542	P2_A4_G86795_1.mzML			Food					
+MSV000097542	P4_A2_G75820_2.mzML			Food					
+MSV000097542	P1_F1_G86793_1.mzML			Food					
+MSV000097542	P3_F2_G75676_1.mzML			Food					
+MSV000097542	P3_F12_G74065_2.mzML			Food					
+MSV000097542	P3_G3_G75746_3.mzML			Food					
+MSV000097542	P4_C8_G73434_1.mzML			Food					
+MSV000097542	P3_A6_G73457_2.mzML			Food					
+MSV000097542	P4_G8_G73949_3.mzML			Food					
+MSV000097542	P3_A1_G75748_1.mzML			Food					
+MSV000097542	P4_F6_G75181_3.mzML			Food					
+MSV000097542	P1_G10_G86874_1.mzML			Food					
+MSV000097542	P1_G3_G86735_1.mzML			Food					
+MSV000097542	P1_B5_G75785_2.mzML			Food					
+MSV000097542	P3_C11_73730_3.mzML			Food					
+MSV000097542	P1_D3_G79324_2.mzML			Food					
+MSV000097542	P3_B12_74018_2.mzML			Food					
+MSV000097542	P2_F3_G83235_3.mzML			Food					
+MSV000097542	P1_E1_G86780_3.mzML			Food					
+MSV000097542	P2_C3_G87464_1.mzML			Food					
+MSV000097542	P4_C6_G73436_3.mzML			Food					
+MSV000097542	P4_F4_G75183_3.mzML			Food					
+MSV000097542	P2_C3_G87464_3.mzML			Food					
+MSV000097542	P2_G1_G83249_3.mzML			Food					
+MSV000097542	P4_C5_G73437_3.mzML			Food					
+MSV000097542	P2_F12_G83234_2.mzML			Food					
+MSV000097542	P3_A11_73980_3.mzML			Food					
+MSV000097542	P4_D10_G75201_2.mzML			Food					
+MSV000097542	P2_C11_G87471_3.mzML			Food					
+MSV000097542	P1_C3_G79355_3.mzML			Food					
+MSV000097542	P4_G2_G75173_1.mzML			Food					
+MSV000097542	P1_B5_G75785_1.mzML			Food					
+MSV000097542	P1_C2_G79353_1.mzML			Food					
+MSV000097542	P4_C3_G73439_1.mzML			Food					
+MSV000097542	P4_D5_G75206_2.mzML			Food					
+MSV000097542	P2_B11_G87594_2.mzML			Food					
+MSV000097542	P2_F8_G83248_1.mzML			Food					
+MSV000097542	P4_A11_G75835_2.mzML			Food					
+MSV000097542	P_1_blank_45.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_115.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_51.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_22.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_104.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_245.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_126.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_193.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_235.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_154.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_296.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_183.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_113.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_100.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_66.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_179.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_28.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_242.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_311.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_195.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_173.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_260.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_230.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_135.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P2_E4_G86909_1.mzML			Food					
+MSV000097542	P3_B3_G72718_2.mzML			Food					
+MSV000097542	P4_C4_G73438_1.mzML			Food					
+MSV000097542	P3_B10_72671_2.mzML			Food					
+MSV000097542	P2_C7_G87556_2.mzML			Food					
+MSV000097542	P3_A10_73981_3.mzML			Food					
+MSV000097542	P3_D11_G73446_1.mzML			Food					
+MSV000097542	P3_B8_G72493_1.mzML			Food					
+MSV000097542	P2_A5_G86796_2.mzML			Food					
+MSV000097542	P4_D10_G75201_1.mzML			Food					
+MSV000097542	P4_F8_G75179_2.mzML			Food					
+MSV000097542	P2_B12_G87547_2.mzML			Food					
+MSV000097542	P1_E2_G86724_3.mzML			Food					
+MSV000097542	P3_A12_G72726_3.mzML			Food					
+MSV000097542	P3_E3_G73449_2.mzML			Food					
+MSV000097542	P2_D2_G87467_2.mzML			Food					
+MSV000097542	P3_E7_G73445_1.mzML			Food					
+MSV000097542	P3_A4_G73459_1.mzML			Food					
+MSV000097542	P2_F11_G83245_2.mzML			Food					
+MSV000097542	P1_D7_G75795_1.mzML			Food					
+MSV000097542	P1_D5_G79335_1.mzML			Food					
+MSV000097542	P3_F3_G73475_2.mzML			Food					
+MSV000097542	P4_E3_G75196_1.mzML			Food					
+MSV000097542	P4_C11_G75212_3.mzML			Food					
+MSV000097542	P3_B9_G72492_2.mzML			Food					
+MSV000097542	P3_E4_G73450_1.mzML			Food					
+MSV000097542	P1_C7_G79347_1.mzML			Food					
+MSV000097542	P1_C3_G79355_2.mzML			Food					
+MSV000097542	P1_A1_G79332_2.mzML			Food					
+MSV000097542	P2_A4_G86795_2.mzML			Food					
+MSV000097542	P4_A10_G75836_2.mzML			Food					
+MSV000097542	P4_G4_G73945_3.mzML			Food					
+MSV000097542	P2_A5_G86796_3.mzML			Food					
+MSV000097542	P2_G1_G83249_1.mzML			Food					
+MSV000097542	P1_C9_G79226_1.mzML			Food					
+MSV000097542	P3_E12_G74112_2.mzML			Food					
+MSV000097542	P2_E2_G87463_3.mzML			Food					
+MSV000097542	P3_E9_G74075_1.mzML			Food					
+MSV000097542	P3_F10_G74122_2.mzML			Food					
+MSV000097542	P1_E4_G86760_2.mzML			Food					
+MSV000097542	P4_B5_G75849_2.mzML			Food					
+MSV000097542	P2_B12_G87547_1.mzML			Food					
+MSV000097542	P3_D1_75072_2.mzML			Food					
+MSV000097542	P1_E8_G86758_1.mzML			Food					
+MSV000097542	P2_E3_G87465_3.mzML			Food					
+MSV000097542	P1_E6_G86821_1.mzML			Food					
+MSV000097542	P4_D5_G75206_1.mzML			Food					
+MSV000097542	P4_A4_G75816_3.mzML			Food					
+MSV000097542	P4_D7_G75204_1.mzML			Food					
+MSV000097542	P2_F10_G83247_3.mzML			Food					
+MSV000097542	P1_A11_G79315_3.mzML			Food					
+MSV000097542	P1_A10_G79334_2.mzML			Food					
+MSV000097542	P4_C6_G73436_2.mzML			Food					
+MSV000097542	P2_C1_G87557_2.mzML			Food					
+MSV000097542	P4_B9_G75857_3.mzML			Food					
+MSV000097542	P3_C4_74028_2.mzML			Food					
+MSV000097542	P1_F7_G86828_3.mzML			Food					
+MSV000097542	P3_D4_72540_1.mzML			Food					
+MSV000097542	P2_D9_G87542_3.mzML			Food					
+MSV000097542	P1_E3_G86727_3.mzML			Food					
+MSV000097542	P2_A9_G86800_2.mzML			Food					
+MSV000097542	P4_E2_G75197_2.mzML			Food					
+MSV000097542	P1_C6_G75799_3.mzML			Food					
+MSV000097542	P_3_blank_208.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_250.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_185.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_136.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_79.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_218.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_101.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_280.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_207.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_60.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_151.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_116.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_37.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_105.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_114.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_32.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_150.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_177.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_169.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_24.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_269.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_170.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_210.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_270.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_275.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P1_A12_G75784_1.mzML			Food					
+MSV000097542	P2_B4_G86914_1.mzML			Food					
+MSV000097542	P2_D7_G87536_1.mzML			Food					
+MSV000097542	P1_A2_G79340_3.mzML			Food					
+MSV000097542	P3_D12_G73941_3.mzML			Food					
+MSV000097542	P1_A7_G79319_3.mzML			Food					
+MSV000097542	P1_G7_G86880_2.mzML			Food					
+MSV000097542	P4_E8_G75191_2.mzML			Food					
+MSV000097542	P4_C8_G73434_2.mzML			Food					
+MSV000097542	P3_C10_73714_2.mzML			Food					
+MSV000097542	P3_E10_G73481_1.mzML			Food					
+MSV000097542	P3_F10_G74122_1.mzML			Food					
+MSV000097542	P2_D11_G87469_2.mzML			Food					
+MSV000097542	P3_C7_75093_1.mzML			Food					
+MSV000097542	P2_C2_G86776_3.mzML			Food					
+MSV000097542	P3_A11_73980_2.mzML			Food					
+MSV000097542	P1_G9_G86878_1.mzML			Food					
+MSV000097542	P3_B4_72717_1.mzML			Food					
+MSV000097542	P1_B4_G79326_3.mzML			Food					
+MSV000097542	P3_C3_75077_1.mzML			Food					
+MSV000097542	P4_E3_G75196_2.mzML			Food					
+MSV000097542	P1_F4_G86881_3.mzML			Food					
+MSV000097542	P1_B8_G79352_2.mzML			Food					
+MSV000097542	P4_F12_G75175_2.mzML			Food					
+MSV000097542	P4_A2_G75820_1.mzML			Food					
+MSV000097542	P4_E4_G75195_1.mzML			Food					
+MSV000097542	P2_F1_G83226_2.mzML			Food					
+MSV000097542	P2_G6_G79341_3.mzML			Food					
+MSV000097542	P1_C1_G79348_3.mzML			Food					
+MSV000097542	P4_F6_G75181_2.mzML			Food					
+MSV000097542	P1_F9_G79630_1.mzML			Food					
+MSV000097542	P3_A5_G73458_2.mzML			Food					
+MSV000097542	P4_E3_G75196_3.mzML			Food					
+MSV000097542	P3_F9_G74073_1.mzML			Food					
+MSV000097542	P1_B1_G75794_1.mzML			Food					
+MSV000097542	P1_F7_G86828_2.mzML			Food					
+MSV000097542	P3_F4_G74118_2.mzML			Food					
+MSV000097542	P3_D10_G73447_1.mzML			Food					
+MSV000097542	P4_C12_G75211_3.mzML			Food					
+MSV000097542	P3_F1_G74067_1.mzML			Food					
+MSV000097542	P4_F7_G75180_3.mzML			Food					
+MSV000097542	P3_E5_G73451_3.mzML			Food					
+MSV000097542	P4_E9_G75190_3.mzML			Food					
+MSV000097542	P3_A8_G72663_3.mzML			Food					
+MSV000097542	P4_A4_G75816_2.mzML			Food					
+MSV000097542	P1_D8_G75793_2.mzML			Food					
+MSV000097542	P4_E1_G75198_1.mzML			Food					
+MSV000097542	P4_B10_G75833_1.mzML			Food					
+MSV000097542	P2_B10_G86889_3.mzML			Food					
+MSV000097542	P3_C1_74021_2.mzML			Food					
+MSV000097542	P2_C8_G87481_1.mzML			Food					
+MSV000097542	P3_F1_G74067_2.mzML			Food					
+MSV000097542	P3_C10_73714_1.mzML			Food					
+MSV000097542	P1_A12_G75784_2.mzML			Food					
+MSV000097542	P1_G1_G86775_2.mzML			Food					
+MSV000097542	P3_D3_79166_1.mzML			Food					
+MSV000097542	P3_B2_G72719_2.mzML			Food					
+MSV000097542	P3_C8_75089_3.mzML			Food					
+MSV000097542	P4_G9_G73950_3.mzML			Food					
+MSV000097542	P1_D11_G75656_1.mzML			Food					
+MSV000097542	P3_F9_G74073_3.mzML			Food					
+MSV000097542	P2_D10_G87527_1.mzML			Food					
+MSV000097542	P_2_blank_118.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_38.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_310.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_97.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_243.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_290.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_274.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_307.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_284.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_S1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_237.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_200.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_138.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_221.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_59.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_321.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_18.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_119.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_302.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_198.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_171.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_64.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_109.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P2_C9_G87537_2.mzML			Food					
+MSV000097542	P1_C2_G79353_2.mzML			Food					
+MSV000097542	P1_A1_G79332_1.mzML			Food					
+MSV000097542	P1_A6_G79320_3.mzML			Food					
+MSV000097542	P2_F5_G83240_2.mzML			Food					
+MSV000097542	P3_B12_74018_1.mzML			Food					
+MSV000097542	P4_D12_G75199_2.mzML			Food					
+MSV000097542	P2_B7_G87546_1.mzML			Food					
+MSV000097542	P4_F9_G75178_2.mzML			Food					
+MSV000097542	P4_B12_G75852_2.mzML			Food					
+MSV000097542	P1_G12_G86871_2.mzML			Food					
+MSV000097542	P1_E7_G86872_2.mzML			Food					
+MSV000097542	P3_D4_72540_2.mzML			Food					
+MSV000097542	P4_D6_G75205_3.mzML			Food					
+MSV000097542	P4_D9_G75202_1.mzML			Food					
+MSV000097542	P2_G2_G83239_3.mzML			Food					
+MSV000097542	P4_B6_G75854_3.mzML			Food					
+MSV000097542	P3_B4_72717_3.mzML			Food					
+MSV000097542	P2_B4_G86914_3.mzML			Food					
+MSV000097542	P1_B4_G79326_2.mzML			Food					
+MSV000097542	P2_D10_G87527_3.mzML			Food					
+MSV000097542	P2_E9_G87489_2.mzML			Food					
+MSV000097542	P2_F1_G83226_3.mzML			Food					
+MSV000097542	P2_D11_G87469_1.mzML			Food					
+MSV000097542	P4_G9_G73950_2.mzML			Food					
+MSV000097542	P2_A11_G86802_1.mzML			Food					
+MSV000097542	P4_C4_G73438_2.mzML			Food					
+MSV000097542	P3_A7_G73455_1.mzML			Food					
+MSV000097542	P4_D7_G75204_2.mzML			Food					
+MSV000097542	P3_F1_G74067_3.mzML			Food					
+MSV000097542	P1_B3_G75791_3.mzML			Food					
+MSV000097542	P3_D5_73996_3.mzML			Food					
+MSV000097542	P3_B6_G72498_2.mzML			Food					
+MSV000097542	P3_B4_72717_2.mzML			Food					
+MSV000097542	P3_A2_G73517_2.mzML			Food					
+MSV000097542	P3_F12_G74065_3.mzML			Food					
+MSV000097542	P4_F3_G75184_3.mzML			Food					
+MSV000097542	P1_G12_G86871_1.mzML			Food					
+MSV000097542	P3_D10_G73447_2.mzML			Food					
+MSV000097542	P1_E10_G86937_1.mzML			Food					
+MSV000097542	P2_C7_G87556_1.mzML			Food					
+MSV000097542	P3_C1_74021_3.mzML			Food					
+MSV000097542	P2_E11_G83241_2.mzML			Food					
+MSV000097542	P2_C10_G87468_3.mzML			Food					
+MSV000097542	P3_E3_G73449_1.mzML			Food					
+MSV000097542	P3_D1_75072_3.mzML			Food					
+MSV000097542	P1_F5_G86794_3.mzML			Food					
+MSV000097542	P4_B10_G75833_2.mzML			Food					
+MSV000097542	P1_E4_G86760_3.mzML			Food					
+MSV000097542	P2_B11_G87594_3.mzML			Food					
+MSV000097542	P4_A12_G75834_2.mzML			Food					
+MSV000097542	P4_B3_G75829_2.mzML			Food					
+MSV000097542	P3_D6_72504_1.mzML			Food					
+MSV000097542	P2_E2_G87463_2.mzML			Food					
+MSV000097542	P3_D3_79166_2.mzML			Food					
+MSV000097542	P4_D12_G75199_3.mzML			Food					
+MSV000097542	P2_D10_G87527_2.mzML			Food					
+MSV000097542	P3_B1_G72725_1.mzML			Food					
+MSV000097542	P1_G5_G86824_1.mzML			Food					
+MSV000097542	P1_C2_G79353_3.mzML			Food					
+MSV000097542	P2_A5_G86796_1.mzML			Food					
+MSV000097542	P4_G8_G73949_2.mzML			Food					
+MSV000097542	P4_A5_G75830_3.mzML			Food					
+MSV000097542	P4_B11_G75851_2.mzML			Food					
+MSV000097542	P_3_blank_172.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_225.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_130.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_181.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_255.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_211.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_282.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_111.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_266.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_188.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_127.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_137.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_187.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_107.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P1_C4_G75786_2.mzML			Food					
+MSV000097542	P4_E7_G75192_3.mzML			Food					
+MSV000097542	P4_D7_G75204_3.mzML			Food					
+MSV000097542	P3_C11_73730_1.mzML			Food					
+MSV000097542	P3_C3_75077_3.mzML			Food					
+MSV000097542	P3_A6_G73457_3.mzML			Food					
+MSV000097542	P4_B9_G75857_2.mzML			Food					
+MSV000097542	P3_E12_G74112_1.mzML			Food					
+MSV000097542	P4_E2_G75197_3.mzML			Food					
+MSV000097542	P4_A11_G75835_3.mzML			Food					
+MSV000097542	P2_C8_G87481_3.mzML			Food					
+MSV000097542	P2_G4_G79336_2.mzML			Food					
+MSV000097542	P2_C6_G87582_2.mzML			Food					
+MSV000097542	P4_A11_G75835_1.mzML			Food					
+MSV000097542	P4_C9_G73433_1.mzML			Food					
+MSV000097542	P4_E8_G75191_3.mzML			Food					
+MSV000097542	P1_C8_G79351_2.mzML			Food					
+MSV000097542	P2_G4_G79336_1.mzML			Food					
+MSV000097542	P1_F11_G83457_3.mzML			Food					
+MSV000097542	P1_A9_G75792_1.mzML			Food					
+MSV000097542	P2_B9_G87479_2.mzML			Food					
+MSV000097542	P3_C4_74028_3.mzML			Food					
+MSV000097542	P2_D9_G87542_2.mzML			Food					
+MSV000097542	P2_C12_G87554_3.mzML			Food					
+MSV000097542	P4_F10_G75177_1.mzML			Food					
+MSV000097542	P1_E10_G86937_3.mzML			Food					
+MSV000097542	P3_B5_72500_3.mzML			Food					
+MSV000097542	P1_G7_G86880_1.mzML			Food					
+MSV000097542	P4_D2_G75209_3.mzML			Food					
+MSV000097542	P1_A4_G79318_1.mzML			Food					
+MSV000097542	P3_A3_G72801_1.mzML			Food					
+MSV000097542	P3_B1_G72725_3.mzML			Food					
+MSV000097542	P1_E7_G86872_1.mzML			Food					
+MSV000097542	P1_E3_G86727_1.mzML			Food					
+MSV000097542	P3_D9_G73443_3.mzML			Food					
+MSV000097542	P2_F9_G83227_1.mzML			Food					
+MSV000097542	P2_F4_G83238_2.mzML			Food					
+MSV000097542	P3_A5_G73458_3.mzML			Food					
+MSV000097542	P4_E11_G75188_3.mzML			Food					
+MSV000097542	P1_G4_G86827_1.mzML			Food					
+MSV000097542	P3_G5_G75756_1.mzML			Food					
+MSV000097542	P1_D11_G75656_2.mzML			Food					
+MSV000097542	P3_F3_G73475_3.mzML			Food					
+MSV000097542	P3_E7_G73445_3.mzML			Food					
+MSV000097542	P2_E12_G83237_3.mzML			Food					
+MSV000097542	P1_C5_G75787_3.mzML			Food					
+MSV000097542	P3_A3_G72801_3.mzML			Food					
+MSV000097542	P4_E12_G75187_2.mzML			Food					
+MSV000097542	P1_A8_G79321_3.mzML			Food					
+MSV000097542	P4_E5_G75194_3.mzML			Food					
+MSV000097542	P4_B5_G75849_1.mzML			Food					
+MSV000097542	P2_E1_G87553_2.mzML			Food					
+MSV000097542	P1_F12_G86781_3.mzML			Food					
+MSV000097542	P3_F11_G75845_3.mzML			Food					
+MSV000097542	P2_D3_G87457_1.mzML			Food					
+MSV000097542	P1_A4_G79318_2.mzML			Food					
+MSV000097542	P1_B9_G75797_1.mzML			Food					
+MSV000097542	P1_E1_G86780_2.mzML			Food					
+MSV000097542	P4_D4_G75207_1.mzML			Food					
+MSV000097542	P3_C10_73714_3.mzML			Food					
+MSV000097542	P1_B7_G79346_1.mzML			Food					
+MSV000097542	P_4_blank_295.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_25.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_149.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_120.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_20.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_289.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_304.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_283.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_122.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_92.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_191.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_201.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_108.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_231.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_98.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_30.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P4_D2_G75209_1.mzML			Food					
+MSV000097542	P2_E5_G87559_3.mzML			Food					
+MSV000097542	P3_F6_G74056_2.mzML			Food					
+MSV000097542	P1_B11_G79354_2.mzML			Food					
+MSV000097542	P1_B6_G75789_3.mzML			Food					
+MSV000097542	P3_G2_G73483_1.mzML			Food					
+MSV000097542	P3_F5_G73479_1.mzML			Food					
+MSV000097542	P2_E7_G87483_2.mzML			Food					
+MSV000097542	P2_D5_G87548_1.mzML			Food					
+MSV000097542	P4_G1_G75174_1.mzML			Food					
+MSV000097542	P3_E2_G73448_2.mzML			Food					
+MSV000097542	P4_D5_G75206_3.mzML			Food					
+MSV000097542	P3_F12_G74065_1.mzML			Food					
+MSV000097542	P1_C3_G79355_1.mzML			Food					
+MSV000097542	P2_E2_G87463_1.mzML			Food					
+MSV000097542	P3_D6_72504_3.mzML			Food					
+MSV000097542	P2_D8_G87461_1.mzML			Food					
+MSV000097542	P1_E11_G86834_3.mzML			Food					
+MSV000097542	P3_E11_G74088_1.mzML			Food					
+MSV000097542	P1_B8_G79352_3.mzML			Food					
+MSV000097542	P4_C1_G73442_2.mzML			Food					
+MSV000097542	P3_A10_73981_2.mzML			Food					
+MSV000097542	P1_A6_G79320_2.mzML			Food					
+MSV000097542	P2_E5_G87559_2.mzML			Food					
+MSV000097542	P2_B1_G87555_3.mzML			Food					
+MSV000097542	P3_A5_G73458_1.mzML			Food					
+MSV000097542	P4_D11_G75200_2.mzML			Food					
+MSV000097542	P3_G2_G73483_3.mzML			Food					
+MSV000097542	P4_F4_G75183_1.mzML			Food					
+MSV000097542	P3_A7_G73455_2.mzML			Food					
+MSV000097542	P4_A9_G75821_3.mzML			Food					
+MSV000097542	P4_D9_G75202_3.mzML			Food					
+MSV000097542	P1_B3_G75791_2.mzML			Food					
+MSV000097542	P2_F6_G83246_2.mzML			Food					
+MSV000097542	P3_D5_73996_2.mzML			Food					
+MSV000097542	P2_E3_G87465_2.mzML			Food					
+MSV000097542	P2_G3_G79333_3.mzML			Food					
+MSV000097542	P2_A11_G86802_3.mzML			Food					
+MSV000097542	P4_C7_G73435_3.mzML			Food					
+MSV000097542	P1_D12_G75653_3.mzML			Food					
+MSV000097542	P1_E5_G86754_2.mzML			Food					
+MSV000097542	P1_B9_G75797_2.mzML			Food					
+MSV000097542	P3_C6_75071_1.mzML			Food					
+MSV000097542	P4_B1_G75843_1.mzML			Food					
+MSV000097542	P3_G3_G75746_2.mzML			Food					
+MSV000097542	P2_B6_G87470_3.mzML			Food					
+MSV000097542	P4_F8_G75179_1.mzML			Food					
+MSV000097542	P1_B4_G79326_1.mzML			Food					
+MSV000097542	P3_C12_72475_3.mzML			Food					
+MSV000097542	P1_E12_G86882_3.mzML			Food					
+MSV000097542	P1_D9_G75660_2.mzML			Food					
+MSV000097542	P4_B8_G75856_2.mzML			Food					
+MSV000097542	P4_F10_G75177_3.mzML			Food					
+MSV000097542	P4_B12_G75852_3.mzML			Food					
+MSV000097542	P_2_blank_146.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_23.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_174.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_227.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_96.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_300.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_42.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_161.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_165.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_53.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_17.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_110.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_197.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_312.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_236.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_180.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_319.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_35.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_81.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_160.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_31.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P4_C11_G75212_2.mzML			Food					
+MSV000097542	P4_B12_G75852_1.mzML			Food					
+MSV000097542	P4_G7_G73948_2.mzML			Food					
+MSV000097542	P2_F2_G83236_1.mzML			Food					
+MSV000097542	P4_A7_G75823_1.mzML			Food					
+MSV000097542	P4_B1_G75843_2.mzML			Food					
+MSV000097542	P2_D4_G86910_1.mzML			Food					
+MSV000097542	P4_D3_G75208_2.mzML			Food					
+MSV000097542	P2_E4_G86909_3.mzML			Food					
+MSV000097542	P1_A3_G79225_1.mzML			Food					
+MSV000097542	P3_G1_G73509_2.mzML			Food					
+MSV000097542	P1_F10_G75112_3.mzML			Food					
+MSV000097542	P2_C3_G87464_2.mzML			Food					
+MSV000097542	P2_D7_G87536_2.mzML			Food					
+MSV000097542	P4_C10_G75213_1.mzML			Food					
+MSV000097542	P1_F12_G86781_1.mzML			Food					
+MSV000097542	P1_F8_G86826_3.mzML			Food					
+MSV000097542	P2_A3_G86788_1.mzML			Food					
+MSV000097542	P3_C2_75904_1.mzML			Food					
+MSV000097542	P4_B3_G75829_1.mzML			Food					
+MSV000097542	P1_A7_G79319_1.mzML			Food					
+MSV000097542	P4_G3_G75172_3.mzML			Food					
+MSV000097542	P3_E9_G74075_3.mzML			Food					
+MSV000097542	P2_E6_G87473_1.mzML			Food					
+MSV000097542	P2_B11_G87594_1.mzML			Food					
+MSV000097542	P1_C12_G79227_3.mzML			Food					
+MSV000097542	P2_A1_G86783_1.mzML			Food					
+MSV000097542	P1_C4_G75786_1.mzML			Food					
+MSV000097542	P1_A9_G75792_3.mzML			Food					
+MSV000097542	P2_B1_G87555_1.mzML			Food					
+MSV000097542	P3_G4_G73518_3.mzML			Food					
+MSV000097542	P1_G8_G86879_1.mzML			Food					
+MSV000097542	P3_B11_74027_1.mzML			Food					
+MSV000097542	P3_C9_75092_2.mzML			Food					
+MSV000097542	P4_D8_G75203_1.mzML			Food					
+MSV000097542	P1_F6_G86831_2.mzML			Food					
+MSV000097542	P4_A3_G75817_1.mzML			Food					
+MSV000097542	P1_A2_G79340_1.mzML			Food					
+MSV000097542	P4_B5_G75849_3.mzML			Food					
+MSV000097542	P2_F11_G83245_1.mzML			Food					
+MSV000097542	P2_E6_G87473_3.mzML			Food					
+MSV000097542	P4_D6_G75205_2.mzML			Food					
+MSV000097542	P2_F4_G83238_3.mzML			Food					
+MSV000097542	P2_F10_G83247_2.mzML			Food					
+MSV000097542	P3_F2_G75676_3.mzML			Food					
+MSV000097542	P3_E1_G73951_1.mzML			Food					
+MSV000097542	P2_F2_G83236_3.mzML			Food					
+MSV000097542	P3_C12_72475_1.mzML			Food					
+MSV000097542	P3_C5_75070_1.mzML			Food					
+MSV000097542	P4_D2_G75209_2.mzML			Food					
+MSV000097542	P4_D1_G75210_1.mzML			Food					
+MSV000097542	P4_D9_G75202_2.mzML			Food					
+MSV000097542	P1_B8_G79352_1.mzML			Food					
+MSV000097542	P4_C10_G75213_3.mzML			Food					
+MSV000097542	P3_A3_G72801_2.mzML			Food					
+MSV000097542	P2_D1_G87482_1.mzML			Food					
+MSV000097542	P1_D9_G75660_1.mzML			Food					
+MSV000097542	P_2_blank_162.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_86.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_317.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_214.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_157.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_90.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_73.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_272.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_297.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_196.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_50.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_222.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_128.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_244.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_44.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_298.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_215.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_232.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_71.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_52.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_213.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_21.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_192.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_88.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_315.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P1_F8_G86826_2.mzML			Food					
+MSV000097542	P1_G11_G86873_3.mzML			Food					
+MSV000097542	P2_C2_G86776_2.mzML			Food					
+MSV000097542	P2_E1_G87553_3.mzML			Food					
+MSV000097542	P3_B10_72671_3.mzML			Food					
+MSV000097542	P2_C11_G87471_2.mzML			Food					
+MSV000097542	P2_A6_G86797_3.mzML			Food					
+MSV000097542	P1_A7_G79319_2.mzML			Food					
+MSV000097542	P3_A2_G73517_1.mzML			Food					
+MSV000097542	P2_F8_G83248_2.mzML			Food					
+MSV000097542	P4_A12_G75834_3.mzML			Food					
+MSV000097542	P2_A8_G86799_2.mzML			Food					
+MSV000097542	P4_D10_G75201_3.mzML			Food					
+MSV000097542	P3_G3_G75746_1.mzML			Food					
+MSV000097542	P2_E9_G87489_3.mzML			Food					
+MSV000097542	P4_G1_G75174_2.mzML			Food					
+MSV000097542	P3_B11_74027_2.mzML			Food					
+MSV000097542	P1_D6_G75788_2.mzML			Food					
+MSV000097542	P2_F12_G83234_3.mzML			Food					
+MSV000097542	P3_E4_G73450_2.mzML			Food					
+MSV000097542	P4_B11_G75851_1.mzML			Food					
+MSV000097542	P1_C10_G79323_1.mzML			Food					
+MSV000097542	P1_E1_G86780_1.mzML			Food					
+MSV000097542	P3_F11_G75845_1.mzML			Food					
+MSV000097542	P3_G5_G75756_2.mzML			Food					
+MSV000097542	P3_B6_G72498_3.mzML			Food					
+MSV000097542	P3_A12_G72726_1.mzML			Food					
+MSV000097542	P3_A6_G73457_1.mzML			Food					
+MSV000097542	P2_F12_G83234_1.mzML			Food					
+MSV000097542	P2_G2_G83239_1.mzML			Food					
+MSV000097542	P2_F1_G83226_1.mzML			Food					
+MSV000097542	P2_G4_G79336_3.mzML			Food					
+MSV000097542	P4_G7_G73948_3.mzML			Food					
+MSV000097542	P1_F3_G73440_2.mzML			Food					
+MSV000097542	P3_B1_G72725_2.mzML			Food					
+MSV000097542	P1_E5_G86754_1.mzML			Food					
+MSV000097542	P1_E12_G86882_1.mzML			Food					
+MSV000097542	P4_B7_G75855_2.mzML			Food					
+MSV000097542	P3_F6_G74056_3.mzML			Food					
+MSV000097542	P2_D6_G87581_2.mzML			Food					
+MSV000097542	P3_D6_72504_2.mzML			Food					
+MSV000097542	P1_B9_G75797_3.mzML			Food					
+MSV000097542	P1_G2_G86733_1.mzML			Food					
+MSV000097542	P1_A5_G79317_3.mzML			Food					
+MSV000097542	P3_A4_G73459_2.mzML			Food					
+MSV000097542	P4_E9_G75190_2.mzML			Food					
+MSV000097542	P4_D1_G75210_2.mzML			Food					
+MSV000097542	P2_E9_G87489_1.mzML			Food					
+MSV000097542	P2_F3_G83235_1.mzML			Food					
+MSV000097542	P4_C7_G73435_2.mzML			Food					
+MSV000097542	P1_B7_G79346_3.mzML			Food					
+MSV000097542	P3_E3_G73449_3.mzML			Food					
+MSV000097542	P2_C6_G87582_1.mzML			Food					
+MSV000097542	P2_B4_G86914_2.mzML			Food					
+MSV000097542	P3_B2_G72719_3.mzML			Food					
+MSV000097542	P1_F2_G86809_3.mzML			Food					
+MSV000097542	P3_C9_75092_3.mzML			Food					
+MSV000097542	P1_G11_G86873_2.mzML			Food					
+MSV000097542	P_3_blank_233.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_77.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_121.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_147.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_264.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_223.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_153.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_277.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_318.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_54.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_78.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_167.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_267.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_72.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_252.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_112.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_85.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_129.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_163.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P1_D9_G75660_3.mzML			Food					
+MSV000097542	P4_E1_G75198_2.mzML			Food					
+MSV000097542	P2_F9_G83227_3.mzML			Food					
+MSV000097542	P4_B6_G75854_2.mzML			Food					
+MSV000097542	P1_D2_G75796_3.mzML			Food					
+MSV000097542	P3_F7_G74053_1.mzML			Food					
+MSV000097542	P3_D8_73990_1.mzML			Food					
+MSV000097542	P4_F2_G75185_3.mzML			Food					
+MSV000097542	P3_F6_G74056_1.mzML			Food					
+MSV000097542	P2_F4_G83238_1.mzML			Food					
+MSV000097542	P4_C8_G73434_3.mzML			Food					
+MSV000097542	P2_G2_G83239_2.mzML			Food					
+MSV000097542	P1_G3_G86735_3.mzML			Food					
+MSV000097542	P4_D1_G75210_3.mzML			Food					
+MSV000097542	P4_F3_G75184_1.mzML			Food					
+MSV000097542	P1_B12_G79337_1.mzML			Food					
+MSV000097542	P4_D3_G75208_3.mzML			Food					
+MSV000097542	P1_B6_G75789_2.mzML			Food					
+MSV000097542	P4_G5_G73943_2.mzML			Food					
+MSV000097542	P3_A10_73981_1.mzML			Food					
+MSV000097542	P3_A9_73982_2.mzML			Food					
+MSV000097542	P4_F11_G75176_3.mzML			Food					
+MSV000097542	P2_D3_G87457_2.mzML			Food					
+MSV000097542	P1_D6_G75788_1.mzML			Food					
+MSV000097542	P2_B9_G87479_1.mzML			Food					
+MSV000097542	P1_F3_G73440_3.mzML			Food					
+MSV000097542	P4_C5_G73437_1.mzML			Food					
+MSV000097542	P4_A8_G75822_1.mzML			Food					
+MSV000097542	P1_F2_G86809_2.mzML			Food					
+MSV000097542	P1_F1_G86793_2.mzML			Food					
+MSV000097542	P3_F8_G73480_3.mzML			Food					
+MSV000097542	P3_G4_G73518_2.mzML			Food					
+MSV000097542	P4_B7_G75855_1.mzML			Food					
+MSV000097542	P2_C4_G86911_3.mzML			Food					
+MSV000097542	P4_E7_G75192_2.mzML			Food					
+MSV000097542	P1_G3_G86735_2.mzML			Food					
+MSV000097542	P4_A2_G75820_3.mzML			Food					
+MSV000097542	P2_G5_G79339_1.mzML			Food					
+MSV000097542	P4_E6_G75193_3.mzML			Food					
+MSV000097542	P4_A1_G75819_2.mzML			Food					
+MSV000097542	P2_D9_G87542_1.mzML			Food					
+MSV000097542	P3_F7_G74053_3.mzML			Food					
+MSV000097542	P4_F12_G75175_1.mzML			Food					
+MSV000097542	P2_D12_G87580_1.mzML			Food					
+MSV000097542	P2_E8_G87466_3.mzML			Food					
+MSV000097542	P1_E6_G86821_2.mzML			Food					
+MSV000097542	P2_E10_G87484_1.mzML			Food					
+MSV000097542	P3_F5_G73479_2.mzML			Food					
+MSV000097542	P4_F9_G75178_3.mzML			Food					
+MSV000097542	P3_D5_73996_1.mzML			Food					
+MSV000097542	P4_G6_G73947_1.mzML			Food					
+MSV000097542	P1_A8_G79321_2.mzML			Food					
+MSV000097542	P1_C6_G75799_2.mzML			Food					
+MSV000097542	P1_G1_G86775_1.mzML			Food					
+MSV000097542	P4_E1_G75198_3.mzML			Food					
+MSV000097542	P1_F5_G86794_2.mzML			Food					
+MSV000097542	P4_A5_G75830_2.mzML			Food					
+MSV000097542	P_3_blank_175.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_133.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_286.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_57.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_205.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_40.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_148.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_278.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_226.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_291.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_141.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_83.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_123.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_299.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_239.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P1_G4_G86827_2.mzML			Food					
+MSV000097542	P2_D6_G87581_1.mzML			Food					
+MSV000097542	P1_F8_G86826_1.mzML			Food					
+MSV000097542	P4_A9_G75821_2.mzML			Food					
+MSV000097542	P3_C8_75089_1.mzML			Food					
+MSV000097542	P2_B8_G87558_2.mzML			Food					
+MSV000097542	P3_E6_G73444_1.mzML			Food					
+MSV000097542	P2_B5_G87494_2.mzML			Food					
+MSV000097542	P3_G1_G73509_1.mzML			Food					
+MSV000097542	P2_A6_G86797_2.mzML			Food					
+MSV000097542	P1_F5_G86794_1.mzML			Food					
+MSV000097542	P4_A8_G75822_2.mzML			Food					
+MSV000097542	P4_G4_G73945_2.mzML			Food					
+MSV000097542	P2_A8_G86799_3.mzML			Food					
+MSV000097542	P4_A6_G75831_2.mzML			Food					
+MSV000097542	P1_G9_G86878_2.mzML			Food					
+MSV000097542	P3_E10_G73481_2.mzML			Food					
+MSV000097542	P1_D8_G75793_1.mzML			Food					
+MSV000097542	P2_B5_G87494_1.mzML			Food					
+MSV000097542	P3_A7_G73455_3.mzML			Food					
+MSV000097542	P3_B5_72500_1.mzML			Food					
+MSV000097542	P3_D8_73990_3.mzML			Food					
+MSV000097542	P3_A2_G73517_3.mzML			Food					
+MSV000097542	P2_E10_G87484_2.mzML			Food					
+MSV000097542	P3_D11_G73446_3.mzML			Food					
+MSV000097542	P1_A3_G79225_2.mzML			Food					
+MSV000097542	P4_E11_G75188_2.mzML			Food					
+MSV000097542	P3_F4_G74118_3.mzML			Food					
+MSV000097542	P2_D1_G87482_3.mzML			Food					
+MSV000097542	P2_E11_G83241_3.mzML			Food					
+MSV000097542	P2_C8_G87481_2.mzML			Food					
+MSV000097542	P4_F4_G75183_2.mzML			Food					
+MSV000097542	P2_B7_G87546_2.mzML			Food					
+MSV000097542	P1_F3_G73440_1.mzML			Food					
+MSV000097542	P2_G3_G79333_2.mzML			Food					
+MSV000097542	P2_A12_G86803_3.mzML			Food					
+MSV000097542	P2_B3_G86920_2.mzML			Food					
+MSV000097542	P1_C12_G79227_1.mzML			Food					
+MSV000097542	P4_C6_G73436_1.mzML			Food					
+MSV000097542	P1_F11_G83457_2.mzML			Food					
+MSV000097542	P3_B9_G72492_3.mzML			Food					
+MSV000097542	P2_F7_G83244_1.mzML			Food					
+MSV000097542	P2_D5_G87548_3.mzML			Food					
+MSV000097542	P1_A11_G79315_1.mzML			Food					
+MSV000097542	P3_E8_G72464_1.mzML			Food					
+MSV000097542	P1_E11_G86834_2.mzML			Food					
+MSV000097542	P4_C5_G73437_2.mzML			Food					
+MSV000097542	P4_D12_G75199_1.mzML			Food					
+MSV000097542	P3_C6_75071_2.mzML			Food					
+MSV000097542	P1_A10_G79334_3.mzML			Food					
+MSV000097542	P4_B7_G75855_3.mzML			Food					
+MSV000097542	P4_G6_G73947_3.mzML			Food					
+MSV000097542	P4_B8_G75856_1.mzML			Food					
+MSV000097542	P3_B10_72671_1.mzML			Food					
+MSV000097542	P1_F12_G86781_2.mzML			Food					
+MSV000097542	P4_B10_G75833_3.mzML			Food					
+MSV000097542	P2_B2_G87472_1.mzML			Food					
+MSV000097542	P2_D8_G87461_2.mzML			Food					
+MSV000097542	P1_C9_G79226_2.mzML			Food					
+MSV000097542	P2_A3_G86788_2.mzML			Food					
+MSV000097542	P3_B7_72497_3.mzML			Food					
+MSV000097542	P4_F2_G75185_1.mzML			Food					
+MSV000097542	P2_D2_G87467_1.mzML			Food					
+MSV000097542	P3_D9_G73443_2.mzML			Food					
+MSV000097542	P1_G6_G86822_3.mzML			Food					
+MSV000097542	P4_D4_G75207_2.mzML			Food					
+MSV000097542	P3_F8_G73480_1.mzML			Food					
+MSV000097542	P_2_blank_139.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_249.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_49.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_309.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_176.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_313.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_217.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_320.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_158.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_251.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P4_B4_G75848_2.mzML			Food					
+MSV000097542	P2_C4_G86911_1.mzML			Food					
+MSV000097542	P1_E7_G86872_3.mzML			Food					
+MSV000097542	P3_D4_72540_3.mzML			Food					
+MSV000097542	P3_B7_72497_1.mzML			Food					
+MSV000097542	P2_A9_G86800_1.mzML			Food					
+MSV000097542	P3_F9_G74073_2.mzML			Food					
+MSV000097542	P2_C5_G87458_2.mzML			Food					
+MSV000097542	P3_C11_73730_2.mzML			Food					
+MSV000097542	P3_D7_72799_1.mzML			Food					
+MSV000097542	P2_F7_G83244_3.mzML			Food					
+MSV000097542	P1_E9_G86756_3.mzML			Food					
+MSV000097542	P3_E8_G72464_2.mzML			Food					
+MSV000097542	P4_G3_G75172_1.mzML			Food					
+MSV000097542	P1_C7_G79347_3.mzML			Food					
+MSV000097542	P3_E2_G73448_1.mzML			Food					
+MSV000097542	P3_G2_G73483_2.mzML			Food					
+MSV000097542	P3_D12_G73941_1.mzML			Food					
+MSV000097542	P3_B11_74027_3.mzML			Food					
+MSV000097542	P2_A8_G86799_1.mzML			Food					
+MSV000097542	P1_D10_G75659_3.mzML			Food					
+MSV000097542	P2_A12_G86803_2.mzML			Food					
+MSV000097542	P3_G5_G75756_3.mzML			Food					
+MSV000097542	P3_D7_72799_2.mzML			Food					
+MSV000097542	P4_B4_G75848_3.mzML			Food					
+MSV000097542	P1_G2_G86733_3.mzML			Food					
+MSV000097542	P4_F7_G75180_2.mzML			Food					
+MSV000097542	P4_F10_G75177_2.mzML			Food					
+MSV000097542	P3_A1_G75748_3.mzML			Food					
+MSV000097542	P3_E4_G73450_3.mzML			Food					
+MSV000097542	P4_F7_G75180_1.mzML			Food					
+MSV000097542	P1_A6_G79320_1.mzML			Food					
+MSV000097542	P1_D2_G75796_2.mzML			Food					
+MSV000097542	P4_D8_G75203_2.mzML			Food					
+MSV000097542	P3_B8_G72493_3.mzML			Food					
+MSV000097542	P2_C12_G87554_2.mzML			Food					
+MSV000097542	P2_B6_G87470_1.mzML			Food					
+MSV000097542	P4_A1_G75819_3.mzML			Food					
+MSV000097542	P1_D1_G75790_2.mzML			Food					
+MSV000097542	P4_F3_G75184_2.mzML			Food					
+MSV000097542	P2_G6_G79341_2.mzML			Food					
+MSV000097542	P1_F11_G83457_1.mzML			Food					
+MSV000097542	P3_E11_G74088_3.mzML			Food					
+MSV000097542	P1_F4_G86881_2.mzML			Food					
+MSV000097542	P1_C10_G79323_2.mzML			Food					
+MSV000097542	P3_E5_G73451_2.mzML			Food					
+MSV000097542	P4_C7_G73435_1.mzML			Food					
+MSV000097542	P2_C9_G87537_3.mzML			Food					
+MSV000097542	P1_D1_G75790_3.mzML			Food					
+MSV000097542	P3_B7_72497_2.mzML			Food					
+MSV000097542	P4_G4_G73945_1.mzML			Food					
+MSV000097542	P2_E10_G87484_3.mzML			Food					
+MSV000097542	P3_A11_73980_1.mzML			Food					
+MSV000097542	P4_F9_G75178_1.mzML			Food					
+MSV000097542	P3_F7_G74053_2.mzML			Food					
+MSV000097542	P4_E6_G75193_2.mzML			Food					
+MSV000097542	P3_D2_72507_3.mzML			Food					
+MSV000097542	P2_D6_G87581_3.mzML			Food					
+MSV000097542	P4_C3_G73439_3.mzML			Food					
+MSV000097542	P1_A5_G79317_2.mzML			Food					
+MSV000097542	P2_A12_G86803_1.mzML			Food					
+MSV000097542	P1_E2_G86724_1.mzML			Food					
+MSV000097542	P1_C1_G79348_2.mzML			Food					
+MSV000097542	P2_D8_G87461_3.mzML			Food					
+MSV000097542	P4_E4_G75195_2.mzML			Food					
+MSV000097542	P1_E5_G86754_3.mzML			Food					
+MSV000097542	P_2_blank_140.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_279.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_29.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_65.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_82.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_159.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_39.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_209.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_125.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_287.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_103.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_145.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_26.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_190.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_220.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_166.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_142.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_34.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_285.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_164.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_178.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_258.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_74.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_0.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_144.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_238.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_80.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_254.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_248.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_124.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P2_C10_G87468_1.mzML			Food					
+MSV000097542	P2_D3_G87457_3.mzML			Food					
+MSV000097542	P2_B6_G87470_2.mzML			Food					
+MSV000097542	P3_D10_G73447_3.mzML			Food					
+MSV000097542	P3_A8_G72663_2.mzML			Food					
+MSV000097542	P1_D10_G75659_1.mzML			Food					
+MSV000097542	P2_D11_G87469_3.mzML			Food					
+MSV000097542	P3_C3_75077_2.mzML			Food					
+MSV000097542	P1_C8_G79351_3.mzML			Food					
+MSV000097542	P1_D5_G79335_2.mzML			Food					
+MSV000097542	P4_F11_G75176_2.mzML			Food					
+MSV000097542	P2_B10_G86889_2.mzML			Food					
+MSV000097542	P2_A10_G86801_3.mzML			Food					
+MSV000097542	P4_A10_G75836_1.mzML			Food					
+MSV000097542	P2_E6_G87473_2.mzML			Food					
+MSV000097542	P2_A2_G86787_3.mzML			Food					
+MSV000097542	P3_E9_G74075_2.mzML			Food					
+MSV000097542	P2_E12_G83237_1.mzML			Food					
+MSV000097542	P1_G6_G86822_2.mzML			Food					
+MSV000097542	P2_B5_G87494_3.mzML			Food					
+MSV000097542	P1_A11_G79315_2.mzML			Food					
+MSV000097542	P2_A7_G86798_2.mzML			Food					
+MSV000097542	P4_A4_G75816_1.mzML			Food					
+MSV000097542	P4_G8_G73949_1.mzML			Food					
+MSV000097542	P2_B12_G87547_3.mzML			Food					
+MSV000097542	P1_G8_G86879_3.mzML			Food					
+MSV000097542	P1_A8_G79321_1.mzML			Food					
+MSV000097542	P4_C9_G73433_3.mzML			Food					
+MSV000097542	P2_E3_G87465_1.mzML			Food					
+MSV000097542	P2_A9_G86800_3.mzML			Food					
+MSV000097542	P2_A6_G86797_1.mzML			Food					
+MSV000097542	P4_D4_G75207_3.mzML			Food					
+MSV000097542	P2_C6_G87582_3.mzML			Food					
+MSV000097542	P3_A9_73982_3.mzML			Food					
+MSV000097542	P4_D3_G75208_1.mzML			Food					
+MSV000097542	P3_F3_G73475_1.mzML			Food					
+MSV000097542	P1_G4_G86827_3.mzML			Food					
+MSV000097542	P3_D2_72507_2.mzML			Food					
+MSV000097542	P3_C9_75092_1.mzML			Food					
+MSV000097542	P4_A7_G75823_3.mzML			Food					
+MSV000097542	P1_D4_G79325_1.mzML			Food					
+MSV000097542	P1_G12_G86871_3.mzML			Food					
+MSV000097542	P4_C4_G73438_3.mzML			Food					
+MSV000097542	P2_F6_G83246_1.mzML			Food					
+MSV000097542	P2_C1_G87557_1.mzML			Food					
+MSV000097542	P3_A12_G72726_2.mzML			Food					
+MSV000097542	P1_D2_G75796_1.mzML			Food					
+MSV000097542	P2_C5_G87458_1.mzML			Food					
+MSV000097542	P2_A1_G86783_3.mzML			Food					
+MSV000097542	P1_B12_G79337_2.mzML			Food					
+MSV000097542	P3_G6_G75751_2.mzML			Food					
+MSV000097542	P1_G1_G86775_3.mzML			Food					
+MSV000097542	P2_D12_G87580_3.mzML			Food					
+MSV000097542	P2_B9_G87479_3.mzML			Food					
+MSV000097542	P4_E5_G75194_1.mzML			Food					
+MSV000097542	P2_C7_G87556_3.mzML			Food					
+MSV000097542	P1_B12_G79337_3.mzML			Food					
+MSV000097542	P2_E4_G86909_2.mzML			Food					
+MSV000097542	P1_A4_G79318_3.mzML			Food					
+MSV000097542	P3_B6_G72498_1.mzML			Food					
+MSV000097542	P1_G7_G86880_3.mzML			Food					
+MSV000097542	P3_C6_75071_3.mzML			Food					
+MSV000097542	P4_A1_G75819_1.mzML			Food					
+MSV000097542	P3_E1_G73951_3.mzML			Food					
+MSV000097542	P_3_blank_240.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_259.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_102.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_247.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_281.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_84.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_46.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_256.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_75.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_246.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_63.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_189.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_257.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P2_E5_G87559_1.mzML			Food					
+MSV000097542	P3_E2_G73448_3.mzML			Food					
+MSV000097542	P3_E7_G73445_2.mzML			Food					
+MSV000097542	P1_D6_G75788_3.mzML			Food					
+MSV000097542	P3_E10_G73481_3.mzML			Food					
+MSV000097542	P3_E5_G73451_1.mzML			Food					
+MSV000097542	P4_F5_G75182_1.mzML			Food					
+MSV000097542	P1_G8_G86879_2.mzML			Food					
+MSV000097542	P1_F1_G86793_3.mzML			Food					
+MSV000097542	P4_C2_G73441_2.mzML			Food					
+MSV000097542	P4_B9_G75857_1.mzML			Food					
+MSV000097542	P4_G9_G73950_1.mzML			Food					
+MSV000097542	P1_E10_G86937_2.mzML			Food					
+MSV000097542	P3_C7_75093_2.mzML			Food					
+MSV000097542	P2_F7_G83244_2.mzML			Food					
+MSV000097542	P2_F9_G83227_2.mzML			Food					
+MSV000097542	P2_B3_G86920_1.mzML			Food					
+MSV000097542	P4_F2_G75185_2.mzML			Food					
+MSV000097542	P3_D7_72799_3.mzML			Food					
+MSV000097542	P1_F2_G86809_1.mzML			Food					
+MSV000097542	P4_B4_G75848_1.mzML			Food					
+MSV000097542	P4_C3_G73439_2.mzML			Food					
+MSV000097542	P1_C12_G79227_2.mzML			Food					
+MSV000097542	P4_F11_G75176_1.mzML			Food					
+MSV000097542	P1_E8_G86758_3.mzML			Food					
+MSV000097542	P4_C2_G73441_1.mzML			Food					
+MSV000097542	P3_E6_G73444_2.mzML			Food					
+MSV000097542	P1_B2_G75798_2.mzML			Food					
+MSV000097542	P4_C1_G73442_1.mzML			Food					
+MSV000097542	P1_D5_G79335_3.mzML			Food					
+MSV000097542	P2_C12_G87554_1.mzML			Food					
+MSV000097542	P4_F8_G75179_3.mzML			Food					
+MSV000097542	P3_A1_G75748_2.mzML			Food					
+MSV000097542	P4_B2_G75844_3.mzML			Food					
+MSV000097542	P1_E6_G86821_3.mzML			Food					
+MSV000097542	P3_G4_G73518_1.mzML			Food					
+MSV000097542	P3_F10_G74122_3.mzML			Food					
+MSV000097542	P4_F1_G75186_2.mzML			Food					
+MSV000097542	P1_D7_G75795_2.mzML			Food					
+MSV000097542	P3_C4_74028_1.mzML			Food					
+MSV000097542	P1_E3_G86727_2.mzML			Food					
+MSV000097542	P2_G5_G79339_3.mzML			Food					
+MSV000097542	P1_C8_G79351_1.mzML			Food					
+MSV000097542	P2_D4_G86910_2.mzML			Food					
+MSV000097542	P1_E4_G86760_1.mzML			Food					
+MSV000097542	P1_G5_G86824_3.mzML			Food					
+MSV000097542	P3_F4_G74118_1.mzML			Food					
+MSV000097542	P1_B2_G75798_1.mzML			Food					
+MSV000097542	P2_A10_G86801_1.mzML			Food					
+MSV000097542	P1_G10_G86874_2.mzML			Food					
+MSV000097542	P2_G3_G79333_1.mzML			Food					
+MSV000097542	P1_A9_G75792_2.mzML			Food					
+MSV000097542	P1_C4_G75786_3.mzML			Food					
+MSV000097542	P4_G2_G75173_3.mzML			Food					
+MSV000097542	P1_G2_G86733_2.mzML			Food					
+MSV000097542	P_1_blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_301.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_253.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_87.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_68.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_91.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_134.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_194.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_61.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_219.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_62.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_265.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_143.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_262.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_234.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_89.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_241.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_117.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_3_blank_206.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_2_blank_106.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_273.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_1_blank_56.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_303.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P_4_blank_268.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097542	P4_G6_G73947_2.mzML			Food					
+MSV000097542	P1_D1_G75790_1.mzML			Food					
+MSV000097542	P2_G5_G79339_2.mzML			Food					
+MSV000097542	P2_D7_G87536_3.mzML			Food					
+MSV000097542	P3_B9_G72492_1.mzML			Food					
+MSV000097542	P2_C10_G87468_2.mzML			Food					
+MSV000097542	P2_F3_G83235_2.mzML			Food					
+MSV000097542	P1_E12_G86882_2.mzML			Food					
+MSV000097542	P4_E10_G75189_2.mzML			Food					
+MSV000097542	P4_E6_G75193_1.mzML			Food					
+MSV000097542	P1_C9_G79226_3.mzML			Food					
+MSV000097542	P2_C5_G87458_3.mzML			Food					
+MSV000097542	P4_F5_G75182_3.mzML			Food					
+MSV000097542	P4_E10_G75189_1.mzML			Food					
+MSV000097542	P4_F5_G75182_2.mzML			Food					
+MSV000097542	P4_G5_G73943_3.mzML			Food					
+MSV000097542	P4_B11_G75851_3.mzML			Food					
+MSV000097542	P1_D4_G79325_3.mzML			Food					
+MSV000097542	P2_B1_G87555_2.mzML			Food					
+MSV000097542	P1_C10_G79323_3.mzML			Food					
+MSV000097542	P4_A3_G75817_2.mzML			Food					
+MSV000097542	P2_F5_G83240_3.mzML			Food					
+MSV000097542	P2_F2_G83236_2.mzML			Food					
+MSV000097542	P2_E8_G87466_1.mzML			Food					
+MSV000097542	P3_E1_G73951_2.mzML			Food					
+MSV000097542	P1_C11_G79316_3.mzML			Food					
+MSV000097542	P1_A12_G75784_3.mzML			Food					
+MSV000097542	P3_C5_75070_3.mzML			Food					
+MSV000097542	P2_D12_G87580_2.mzML			Food					
+MSV000097542	P2_F10_G83247_1.mzML			Food					
+MSV000097542	P2_E7_G87483_3.mzML			Food					
+MSV000097542	P2_C1_G87557_3.mzML			Food					
+MSV000097542	P1_D4_G79325_2.mzML			Food					
+MSV000097542	P3_B12_74018_3.mzML			Food					
+MSV000097542	P4_E2_G75197_1.mzML			Food					
+MSV000097542	P3_D8_73990_2.mzML			Food					
+MSV000097542	P1_C11_G79316_2.mzML			Food					
+MSV000097542	P1_B10_G79322_3.mzML			Food					
+MSV000097542	P2_E7_G87483_1.mzML			Food					
+MSV000097542	P3_G6_G75751_1.mzML			Food					
+MSV000097542	P1_E9_G86756_2.mzML			Food					
+MSV000097542	P1_E11_G86834_1.mzML			Food					
+MSV000097542	P1_D7_G75795_3.mzML			Food					
+MSV000097542	P3_F2_G75676_2.mzML			Food					
+MSV000097542	P3_C5_75070_2.mzML			Food					
+MSV000097542	P1_F4_G86881_1.mzML			Food					
+MSV000097542	P3_A4_G73459_3.mzML			Food					
+MSV000097542	P1_B3_G75791_1.mzML			Food					
+MSV000097542	P2_C9_G87537_1.mzML			Food					
+MSV000097542	P4_G1_G75174_3.mzML			Food					
+MSV000097542	P4_B6_G75854_1.mzML			Food					
+MSV000097542	P4_F1_G75186_3.mzML			Food					
+MSV000097542	P2_A1_G86783_2.mzML			Food					
+MSV000097542	P1_B11_G79354_1.mzML			Food					
+MSV000097542	P4_D8_G75203_3.mzML			Food					
+MSV000097542	P3_B8_G72493_2.mzML			Food					
+MSV000097542	P4_D11_G75200_3.mzML			Food					
+MSV000097542	P4_E5_G75194_2.mzML			Food					
+MSV000097542	P2_D1_G87482_2.mzML			Food					
+MSV000097542	P4_E12_G75187_3.mzML			Food					
+MSV000097542	P1_A3_G79225_3.mzML			Food					
+MSV000097542	P2_A7_G86798_1.mzML			Food					

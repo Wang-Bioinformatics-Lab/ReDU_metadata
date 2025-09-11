@@ -1,0 +1,174 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097845	GABA_10uM_1.mzML	animal		10090|Mus musculus					
+MSV000097845	HILIC_QC_1.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_67.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_30uM_2.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_111.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_65.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank19.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	GABA_25uM_1.mzML	animal		10090|Mus musculus					
+MSV000097845	GABA_30uM_4.mzML	animal		10090|Mus musculus					
+MSV000097845	GABA_10uM_5.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_32.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_3.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_121.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_60.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_33.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank18.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	HILIC_QC_14.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_109.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_45.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_47.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_10uM_2.mzML	animal		10090|Mus musculus					
+MSV000097845	blank16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank25.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	HILIC_QC_9.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_66.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_58.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_103.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_74.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_1.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_102.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_107.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_25uM_2.mzML	animal		10090|Mus musculus					
+MSV000097845	HILIC_QC_16.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_112.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_110.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_75.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	fecal_16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_25.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_14.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_40uM_3.mzML	animal		10090|Mus musculus					
+MSV000097845	GABA_10uM_3.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_117.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_108.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_24.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_40uM_6.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_48.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	HILIC_QC_19.mzML	animal		10090|Mus musculus					
+MSV000097845	GABA_25uM_3.mzML	animal		10090|Mus musculus					
+MSV000097845	HILIC_QC_11.mzML	animal		10090|Mus musculus					
+MSV000097845	GABA_40uM_4.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_49.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_61.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_10.mzML	animal		10090|Mus musculus					
+MSV000097845	GABA_40uM_1.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_7.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_29.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_23.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_11.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_53.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank20.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	fecal_116.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_44.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_114.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_38.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank26.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank24.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank21.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	fecal_56.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_41.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_54.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_7.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_62.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_25uM_5.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_124.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_36.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_5.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_115.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_52.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_40uM_2.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_57.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_21.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_40.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_13.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_2.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_118.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_101.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_17.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_59.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_26.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_31.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_72.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_51.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_30uM_1.mzML	animal		10090|Mus musculus					
+MSV000097845	HILIC_QC_8.mzML	animal		10090|Mus musculus					
+MSV000097845	blank14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	fecal_35.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_19.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_6.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_22.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_55.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_2.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_104.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_37.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_28.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_9.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_63.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_6.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_10.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_34.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_10uM_4.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_27.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_30uM_3.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_43.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_5.mzML	animal		10090|Mus musculus					
+MSV000097845	HILIC_QC_18.mzML	animal		10090|Mus musculus					
+MSV000097845	GABA_25uM_4.mzML	animal		10090|Mus musculus					
+MSV000097845	GABA_25uM_6.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_46.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank23.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank17.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	fecal_13.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_3.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_30.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_73.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_69.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_30uM_6.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_68.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_8.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_50.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	fecal_39.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_17.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_12.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_20.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_126.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_21.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_125.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_119.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank22.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	blank1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	fecal_18.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_20.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	HILIC_QC_12.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_15.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_71.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	blank3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097845	fecal_122.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_123.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_113.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_64.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_106.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_70.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_40uM_5.mzML	animal		10090|Mus musculus					
+MSV000097845	HILIC_QC_4.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_105.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_120.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	GABA_30uM_5.mzML	animal		10090|Mus musculus					
+MSV000097845	GABA_10uM_6.mzML	animal		10090|Mus musculus					
+MSV000097845	HILIC_QC_15.mzML	animal		10090|Mus musculus					
+MSV000097845	fecal_42.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000097845	fecal_100.mzML	animal	biofluid	10090|Mus musculus	feces				

@@ -1,0 +1,341 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000092716	M_RM_8259_JRC_POS_4.mzXML			Food					
+MSV000092716	L_SRM_1946_NEG_1.mzXML			Food					
+MSV000092716	M_RM_8257_NEG_1.mzXML			Food					
+MSV000092716	M_SRM_1946_NEG_2.mzXML			Food					
+MSV000092716	L_Blank_NEG_A_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_8256_NEG_ID_03.mzXML			Food					
+MSV000092716	L_JRC_8256_POS_ID_03.mzXML			Food					
+MSV000092716	M_SRM_1946_POS_2.mzXML			Food					
+MSV000092716	L_RM_8258_NEG_3.mzXML			Food					
+MSV000092716	M_8257_POS_ID_03.mzXML			Food					
+MSV000092716	L_8258_POS_ID_01.mzXML			Food					
+MSV000092716	M_JRC_8256_POS_ID_03.mzXML			Food					
+MSV000092716	M_JRC_CM_POS_5.mzXML			Food					
+MSV000092716	L_8257_NEG_ID_01.mzXML			Food					
+MSV000092716	M_JRC_8259_NEG_ID_03.mzXML			Food					
+MSV000092716	L_8259_POS_ID_03.mzXML			Food					
+MSV000092716	L_JRC_CM_NEG_5.mzXML			Food					
+MSV000092716	M_Blank_POS_A_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_RM_8257_JRC_NEG_1.mzXML			Food					
+MSV000092716	L_RM_8259_NEG_2.mzXML			Food					
+MSV000092716	M_RM_8259_JRC_NEG_2.mzXML			Food					
+MSV000092716	L_Blank_NEG_A_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_Blank_NEG_B_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_RM_8256_JRC_POS_1.mzXML			Food					
+MSV000092716	M_RM_8259_JRC_POS_3.mzXML			Food					
+MSV000092716	M_JRC_8259_NEG_ID_02.mzXML			Food					
+MSV000092716	L_Pooled_CM_POS_2.mzXML			Food					
+MSV000092716	M_JRC_8256_NEG_ID_01.mzXML			Food					
+MSV000092716	M_RM_8258_JRC_NEG_3.mzXML			Food					
+MSV000092716	M_RM_8258_JRC_POS_1.mzXML			Food					
+MSV000092716	L_8258_NEG_ID_03.mzXML			Food					
+MSV000092716	M_8257_POS_ID_01.mzXML			Food					
+MSV000092716	P_FD_AQ_Shrimp_1.mzXML			Food					
+MSV000092716	M_JRC_8256_POS_ID_01.mzXML			Food					
+MSV000092716	P_FD_WC_Shrimp_1.mzXML			Food					
+MSV000092716	L_Pooled_CM_POS_1.mzXML			Food					
+MSV000092716	L_Blank_NEG_A_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_RM_8256_NEG_4.mzXML			Food					
+MSV000092716	L_RM_8257_JRC_POS_2.mzXML			Food					
+MSV000092716	P_FD_AQ_Salmon_2.mzXML			Food					
+MSV000092716	L_RM_8257_NEG_2.mzXML			Food					
+MSV000092716	M_Blank_POS_A_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_8258_POS_ID_01.mzXML			Food					
+MSV000092716	L_RM_8259_JRC_NEG_1.mzXML			Food					
+MSV000092716	L_RM_8258_JRC_NEG_3.mzXML			Food					
+MSV000092716	M_RM_8256_POS_3.mzXML			Food					
+MSV000092716	M_Blank_POS_A_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_RM_8257_JRC_NEG_4.mzXML			Food					
+MSV000092716	M_Blank_NEG_A_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_JRC_8259_POS_ID_02.mzXML			Food					
+MSV000092716	L_JRC_8259_NEG_ID_03.mzXML			Food					
+MSV000092716	L_JRC_CM_POS_8.mzXML			Food					
+MSV000092716	L_RM_8258_JRC_POS_3.mzXML			Food					
+MSV000092716	L_Blank_NEG_B_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	P_FD_WC_Salmon_1.mzXML			Food					
+MSV000092716	M_RM_8256_JRC_POS_2.mzXML			Food					
+MSV000092716	L_JRC_8259_POS_ID_03.mzXML			Food					
+MSV000092716	M_RM_8257_JRC_POS_1.mzXML			Food					
+MSV000092716	P_FD_AQ_Shrimp_2.mzXML			Food					
+MSV000092716	M_Blank_POS_B_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_RM_8259_NEG_3.mzXML			Food					
+MSV000092716	M_JRC_8256_POS_ID_02.mzXML			Food					
+MSV000092716	M_RM_8259_NEG_2.mzXML			Food					
+MSV000092716	L_RM_8257_NEG_4.mzXML			Food					
+MSV000092716	M_RM_8257_POS_1.mzXML			Food					
+MSV000092716	L_8256_POS_ID_02.mzXML			Food					
+MSV000092716	M_Blank_NEG_B_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_Pooled_CM_POS_3.mzXML			Food					
+MSV000092716	M_RM_8257_POS_4.mzXML			Food					
+MSV000092716	L_RM_8257_POS_4.mzXML			Food					
+MSV000092716	P_RM_8258_1.mzXML			Food					
+MSV000092716	L_JRC_8258_NEG_ID_01.mzXML			Food					
+MSV000092716	M_RM_8256_NEG_3.mzXML			Food					
+MSV000092716	P_RM_8258_4.mzXML			Food					
+MSV000092716	L_RM_8258_NEG_2.mzXML			Food					
+MSV000092716	L_JRC_8256_NEG_ID_02.mzXML			Food					
+MSV000092716	L_JRC_8257_NEG_ID_02.mzXML			Food					
+MSV000092716	P_RM_8256_4.mzXML			Food					
+MSV000092716	L_8257_POS_ID_01.mzXML			Food					
+MSV000092716	L_RM_8257_JRC_NEG_2.mzXML			Food					
+MSV000092716	M_8259_POS_ID_01.mzXML			Food					
+MSV000092716	L_JRC_8257_NEG_ID_03.mzXML			Food					
+MSV000092716	P_RM_8258_6.mzXML			Food					
+MSV000092716	P_RM_8256_6.mzXML			Food					
+MSV000092716	L_JRC_8256_NEG_ID_03.mzXML			Food					
+MSV000092716	M_Pooled_CM_NEG_1.mzXML			Food					
+MSV000092716	L_Pooled_CM_NEG_4.mzXML			Food					
+MSV000092716	M_JRC_8258_POS_ID_01.mzXML			Food					
+MSV000092716	M_RM_8258_POS_1.mzXML			Food					
+MSV000092716	M_Blank_NEG_A_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_RM_8256_JRC_NEG_2.mzXML			Food					
+MSV000092716	L_JRC_CM_POS_5.mzXML			Food					
+MSV000092716	M_RM_8256_POS_4.mzXML			Food					
+MSV000092716	L_JRC_8257_NEG_ID_01.mzXML			Food					
+MSV000092716	L_JRC_8256_POS_ID_01.mzXML			Food					
+MSV000092716	L_RM_8259_POS_2.mzXML			Food					
+MSV000092716	L_RM_8259_POS_3.mzXML			Food					
+MSV000092716	L_8256_POS_ID_01.mzXML			Food					
+MSV000092716	M_RM_8256_JRC_NEG_1.mzXML			Food					
+MSV000092716	M_RM_8258_JRC_POS_3.mzXML			Food					
+MSV000092716	L_RM_8259_NEG_3.mzXML			Food					
+MSV000092716	M_JRC_CM_NEG_5.mzXML			Food					
+MSV000092716	M_RM_8259_JRC_NEG_1.mzXML			Food					
+MSV000092716	L_JRC_8258_NEG_ID_03.mzXML			Food					
+MSV000092716	L_8259_NEG_ID_02.mzXML			Food					
+MSV000092716	P_RM_8257_5.mzXML			Food					
+MSV000092716	L_RM_8256_JRC_NEG_1.mzXML			Food					
+MSV000092716	L_8259_NEG_ID_03.mzXML			Food					
+MSV000092716	M_Pooled_CM_NEG_2.mzXML			Food					
+MSV000092716	L_RM_8256_JRC_NEG_4.mzXML			Food					
+MSV000092716	M_8259_NEG_ID_03.mzXML			Food					
+MSV000092716	M_RM_8259_POS_1.mzXML			Food					
+MSV000092716	L_8258_NEG_ID_01.mzXML			Food					
+MSV000092716	M_Blank_NEG_B_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_RM_8257_JRC_NEG_3.mzXML			Food					
+MSV000092716	P_RM_8258_7.mzXML			Food					
+MSV000092716	P_FD_WC_Salmon_3.mzXML			Food					
+MSV000092716	L_Pooled_CM_NEG_1.mzXML			Food					
+MSV000092716	M_8256_POS_ID_03.mzXML			Food					
+MSV000092716	L_8259_POS_ID_01.mzXML			Food					
+MSV000092716	M_JRC_8258_NEG_ID_03.mzXML			Food					
+MSV000092716	P_RM_8259_6.mzXML			Food					
+MSV000092716	L_RM_8256_JRC_POS_1.mzXML			Food					
+MSV000092716	M_RM_8256_JRC_POS_4.mzXML			Food					
+MSV000092716	L_RM_8257_POS_3.mzXML			Food					
+MSV000092716	M_RM_8258_NEG_4.mzXML			Food					
+MSV000092716	M_RM_8257_JRC_NEG_1.mzXML			Food					
+MSV000092716	M_Blank_POS_B_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_SRM_1946_POS_1.mzXML			Food					
+MSV000092716	M_SRM_1946_NEG_1.mzXML			Food					
+MSV000092716	L_Blank_POS_B_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_SRM_1946_POS_2.mzXML			Food					
+MSV000092716	P_RM_8258_5.mzXML			Food					
+MSV000092716	L_RM_8258_POS_4.mzXML			Food					
+MSV000092716	L_RM_8258_JRC_NEG_4.mzXML			Food					
+MSV000092716	M_RM_8256_JRC_POS_3.mzXML			Food					
+MSV000092716	P_FD_AQ_Salmon_1.mzXML			Food					
+MSV000092716	M_JRC_8259_POS_ID_02.mzXML			Food					
+MSV000092716	L_JRC_CM_NEG_7.mzXML			Food					
+MSV000092716	L_Pooled_CM_NEG_3.mzXML			Food					
+MSV000092716	M_8256_NEG_ID_01.mzXML			Food					
+MSV000092716	L_RM_8259_JRC_NEG_4.mzXML			Food					
+MSV000092716	P_RM_8257_3.mzXML			Food					
+MSV000092716	M_8259_NEG_ID_02.mzXML			Food					
+MSV000092716	L_SRM_1946_NEG_2.mzXML			Food					
+MSV000092716	L_Blank_NEG_B_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_RM_8257_JRC_NEG_3.mzXML			Food					
+MSV000092716	M_Blank_POS_B_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_JRC_CM_NEG_6.mzXML			Food					
+MSV000092716	M_8259_NEG_ID_01.mzXML			Food					
+MSV000092716	P_RM_8257_1.mzXML			Food					
+MSV000092716	L_RM_8258_JRC_POS_1.mzXML			Food					
+MSV000092716	L_JRC_8259_NEG_ID_02.mzXML			Food					
+MSV000092716	M_RM_8256_NEG_2.mzXML			Food					
+MSV000092716	L_RM_8259_JRC_POS_2.mzXML			Food					
+MSV000092716	L_RM_8256_JRC_NEG_2.mzXML			Food					
+MSV000092716	P_RM_8257_8.mzXML			Food					
+MSV000092716	L_8258_POS_ID_03.mzXML			Food					
+MSV000092716	M_8258_POS_ID_03.mzXML			Food					
+MSV000092716	P_RM_8258_2.mzXML			Food					
+MSV000092716	M_Pooled_CM_NEG_4.mzXML			Food					
+MSV000092716	M_JRC_8259_POS_ID_03.mzXML			Food					
+MSV000092716	L_RM_8256_POS_1.mzXML			Food					
+MSV000092716	M_RM_8257_JRC_POS_2.mzXML			Food					
+MSV000092716	L_RM_8257_JRC_POS_1.mzXML			Food					
+MSV000092716	L_RM_8256_POS_2.mzXML			Food					
+MSV000092716	M_RM_8259_JRC_POS_1.mzXML			Food					
+MSV000092716	M_Pooled_CM_NEG_3.mzXML			Food					
+MSV000092716	P_RM_8259_7.mzXML			Food					
+MSV000092716	M_8256_POS_ID_01.mzXML			Food					
+MSV000092716	M_JRC_8259_NEG_ID_01.mzXML			Food					
+MSV000092716	P_RM_8256_8.mzXML			Food					
+MSV000092716	M_RM_8258_JRC_POS_2.mzXML			Food					
+MSV000092716	P_FD_WC_Salmon_2.mzXML			Food					
+MSV000092716	M_JRC_8258_NEG_ID_02.mzXML			Food					
+MSV000092716	M_8259_POS_ID_03.mzXML			Food					
+MSV000092716	P_RM_8259_1.mzXML			Food					
+MSV000092716	L_RM_8259_JRC_POS_3.mzXML			Food					
+MSV000092716	L_Blank_POS_B_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_JRC_8257_POS_ID_03.mzXML			Food					
+MSV000092716	P_RM_8258_8.mzXML			Food					
+MSV000092716	M_8258_NEG_ID_03.mzXML			Food					
+MSV000092716	M_RM_8259_JRC_NEG_4.mzXML			Food					
+MSV000092716	M_SRM_1946_POS_1.mzXML			Food					
+MSV000092716	P_FD_AQ_Salmon_3.mzXML			Food					
+MSV000092716	L_RM_8259_JRC_NEG_3.mzXML			Food					
+MSV000092716	M_RM_8257_JRC_NEG_4.mzXML			Food					
+MSV000092716	M_8258_NEG_ID_01.mzXML			Food					
+MSV000092716	M_RM_8258_NEG_3.mzXML			Food					
+MSV000092716	L_Pooled_CM_POS_4.mzXML			Food					
+MSV000092716	L_RM_8258_NEG_4.mzXML			Food					
+MSV000092716	L_JRC_8258_POS_ID_02.mzXML			Food					
+MSV000092716	M_RM_8256_JRC_NEG_4.mzXML			Food					
+MSV000092716	M_Pooled_CM_POS_4.mzXML			Food					
+MSV000092716	L_RM_8256_NEG_2.mzXML			Food					
+MSV000092716	M_JRC_8257_NEG_ID_03.mzXML			Food					
+MSV000092716	M_Blank_POS_A_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_RM_8257_POS_2.mzXML			Food					
+MSV000092716	L_Blank_POS_A_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	P_RM_8259_5.mzXML			Food					
+MSV000092716	M_RM_8258_JRC_POS_4.mzXML			Food					
+MSV000092716	L_8259_POS_ID_02.mzXML			Food					
+MSV000092716	P_RM_8259_3.mzXML			Food					
+MSV000092716	M_8257_NEG_ID_03.mzXML			Food					
+MSV000092716	P_RM_8256_2.mzXML			Food					
+MSV000092716	P_RM_8259_8.mzXML			Food					
+MSV000092716	M_JRC_CM_NEG_6.mzXML			Food					
+MSV000092716	M_Blank_NEG_B_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_JRC_8257_POS_ID_03.mzXML			Food					
+MSV000092716	M_8257_POS_ID_02.mzXML			Food					
+MSV000092716	L_JRC_8256_POS_ID_02.mzXML			Food					
+MSV000092716	L_RM_8256_JRC_POS_4.mzXML			Food					
+MSV000092716	M_Blank_NEG_A_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_8256_NEG_ID_02.mzXML			Food					
+MSV000092716	L_8258_NEG_ID_02.mzXML			Food					
+MSV000092716	L_8256_POS_ID_03.mzXML			Food					
+MSV000092716	M_RM_8256_POS_2.mzXML			Food					
+MSV000092716	L_RM_8258_POS_3.mzXML			Food					
+MSV000092716	L_Blank_NEG_B_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	P_RM_8257_4.mzXML			Food					
+MSV000092716	M_8257_NEG_ID_02.mzXML			Food					
+MSV000092716	L_RM_8259_JRC_POS_4.mzXML			Food					
+MSV000092716	L_RM_8258_JRC_NEG_1.mzXML			Food					
+MSV000092716	L_8256_NEG_ID_01.mzXML			Food					
+MSV000092716	L_Pooled_CM_POS_3.mzXML			Food					
+MSV000092716	M_RM_8258_JRC_NEG_1.mzXML			Food					
+MSV000092716	L_8257_NEG_ID_02.mzXML			Food					
+MSV000092716	M_RM_8258_POS_2.mzXML			Food					
+MSV000092716	M_RM_8256_NEG_4.mzXML			Food					
+MSV000092716	M_RM_8256_POS_1.mzXML			Food					
+MSV000092716	M_RM_8258_JRC_NEG_2.mzXML			Food					
+MSV000092716	L_Pooled_CM_NEG_2.mzXML			Food					
+MSV000092716	L_RM_8256_JRC_POS_2.mzXML			Food					
+MSV000092716	M_RM_8257_NEG_4.mzXML			Food					
+MSV000092716	L_RM_8259_NEG_1.mzXML			Food					
+MSV000092716	L_8257_POS_ID_02.mzXML			Food					
+MSV000092716	L_RM_8256_NEG_1.mzXML			Food					
+MSV000092716	M_Pooled_CM_POS_2.mzXML			Food					
+MSV000092716	L_Blank_POS_B_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_JRC_8258_NEG_ID_01.mzXML			Food					
+MSV000092716	M_RM_8258_POS_3.mzXML			Food					
+MSV000092716	M_RM_8257_POS_3.mzXML			Food					
+MSV000092716	M_8257_NEG_ID_01.mzXML			Food					
+MSV000092716	L_RM_8259_JRC_POS_1.mzXML			Food					
+MSV000092716	L_RM_8258_POS_2.mzXML			Food					
+MSV000092716	L_RM_8258_NEG_1.mzXML			Food					
+MSV000092716	L_Blank_NEG_A_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_Blank_NEG_B_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_8258_POS_ID_02.mzXML			Food					
+MSV000092716	M_RM_8258_NEG_2.mzXML			Food					
+MSV000092716	L_JRC_8257_POS_ID_02.mzXML			Food					
+MSV000092716	M_JRC_8258_POS_ID_03.mzXML			Food					
+MSV000092716	L_8257_POS_ID_03.mzXML			Food					
+MSV000092716	M_RM_8258_NEG_1.mzXML			Food					
+MSV000092716	L_RM_8256_POS_3.mzXML			Food					
+MSV000092716	M_RM_8259_NEG_1.mzXML			Food					
+MSV000092716	M_JRC_8257_NEG_ID_02.mzXML			Food					
+MSV000092716	M_8258_NEG_ID_02.mzXML			Food					
+MSV000092716	M_JRC_8256_NEG_ID_03.mzXML			Food					
+MSV000092716	L_RM_8256_POS_4.mzXML			Food					
+MSV000092716	P_RM_8259_4.mzXML			Food					
+MSV000092716	L_8257_NEG_ID_03.mzXML			Food					
+MSV000092716	M_JRC_CM_POS_8.mzXML			Food					
+MSV000092716	L_RM_8258_JRC_POS_4.mzXML			Food					
+MSV000092716	M_JRC_8258_POS_ID_02.mzXML			Food					
+MSV000092716	L_JRC_CM_POS_7.mzXML			Food					
+MSV000092716	M_Blank_POS_B_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_8256_POS_ID_02.mzXML			Food					
+MSV000092716	M_RM_8257_JRC_POS_4.mzXML			Food					
+MSV000092716	M_8258_POS_ID_02.mzXML			Food					
+MSV000092716	M_RM_8257_NEG_3.mzXML			Food					
+MSV000092716	L_RM_8257_JRC_POS_4.mzXML			Food					
+MSV000092716	P_RM_8256_5.mzXML			Food					
+MSV000092716	P_RM_8256_7.mzXML			Food					
+MSV000092716	L_RM_8257_NEG_1.mzXML			Food					
+MSV000092716	L_JRC_8256_NEG_ID_01.mzXML			Food					
+MSV000092716	L_JRC_8259_POS_ID_01.mzXML			Food					
+MSV000092716	P_RM_8257_2.mzXML			Food					
+MSV000092716	M_JRC_8257_NEG_ID_01.mzXML			Food					
+MSV000092716	P_FD_WC_Shrimp_2.mzXML			Food					
+MSV000092716	L_RM_8256_NEG_3.mzXML			Food					
+MSV000092716	P_FD_AQ_Shrimp_3.mzXML			Food					
+MSV000092716	L_RM_8257_NEG_3.mzXML			Food					
+MSV000092716	L_RM_8256_JRC_NEG_3.mzXML			Food					
+MSV000092716	M_JRC_CM_POS_7.mzXML			Food					
+MSV000092716	M_JRC_CM_NEG_7.mzXML			Food					
+MSV000092716	M_RM_8258_JRC_NEG_4.mzXML			Food					
+MSV000092716	M_RM_8256_NEG_1.mzXML			Food					
+MSV000092716	M_JRC_8257_POS_ID_02.mzXML			Food					
+MSV000092716	M_Pooled_CM_POS_1.mzXML			Food					
+MSV000092716	M_RM_8258_POS_4.mzXML			Food					
+MSV000092716	L_8259_NEG_ID_01.mzXML			Food					
+MSV000092716	L_JRC_8258_POS_ID_03.mzXML			Food					
+MSV000092716	L_RM_8258_POS_1.mzXML			Food					
+MSV000092716	L_JRC_8259_NEG_ID_01.mzXML			Food					
+MSV000092716	L_JRC_8257_POS_ID_01.mzXML			Food					
+MSV000092716	L_RM_8257_POS_2.mzXML			Food					
+MSV000092716	L_RM_8259_JRC_NEG_2.mzXML			Food					
+MSV000092716	M_8259_POS_ID_02.mzXML			Food					
+MSV000092716	P_RM_8257_7.mzXML			Food					
+MSV000092716	P_RM_8256_3.mzXML			Food					
+MSV000092716	P_RM_8256_1.mzXML			Food					
+MSV000092716	M_RM_8257_NEG_2.mzXML			Food					
+MSV000092716	P_RM_8259_2.mzXML			Food					
+MSV000092716	L_RM_8257_JRC_POS_3.mzXML			Food					
+MSV000092716	M_RM_8259_POS_2.mzXML			Food					
+MSV000092716	M_JRC_CM_POS_6.mzXML			Food					
+MSV000092716	L_JRC_8258_POS_ID_01.mzXML			Food					
+MSV000092716	L_JRC_CM_NEG_8.mzXML			Food					
+MSV000092716	M_8256_NEG_ID_02.mzXML			Food					
+MSV000092716	P_FD_WC_Shrimp_3.mzXML			Food					
+MSV000092716	L_RM_8258_JRC_NEG_2.mzXML			Food					
+MSV000092716	L_RM_8256_JRC_POS_3.mzXML			Food					
+MSV000092716	M_RM_8259_JRC_NEG_3.mzXML			Food					
+MSV000092716	M_JRC_CM_NEG_8.mzXML			Food					
+MSV000092716	M_RM_8259_JRC_POS_2.mzXML			Food					
+MSV000092716	M_JRC_8256_NEG_ID_02.mzXML			Food					
+MSV000092716	M_8256_NEG_ID_03.mzXML			Food					
+MSV000092716	P_RM_8258_3.mzXML			Food					
+MSV000092716	L_RM_8259_POS_1.mzXML			Food					
+MSV000092716	L_RM_8259_POS_4.mzXML			Food					
+MSV000092716	M_RM_8259_NEG_4.mzXML			Food					
+MSV000092716	L_Blank_POS_A_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_RM_8259_NEG_4.mzXML			Food					
+MSV000092716	M_JRC_8257_POS_ID_01.mzXML			Food					
+MSV000092716	M_Blank_NEG_A_1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_Blank_POS_B_3.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	M_RM_8257_JRC_POS_3.mzXML			Food					
+MSV000092716	M_JRC_8259_POS_ID_01.mzXML			Food					
+MSV000092716	M_RM_8259_POS_4.mzXML			Food					
+MSV000092716	L_Blank_POS_A_4.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	L_JRC_8258_NEG_ID_02.mzXML			Food					
+MSV000092716	M_RM_8256_JRC_NEG_3.mzXML			Food					
+MSV000092716	M_RM_8257_JRC_NEG_2.mzXML			Food					
+MSV000092716	L_RM_8258_JRC_POS_2.mzXML			Food					
+MSV000092716	L_Blank_POS_A_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092716	P_RM_8257_6.mzXML			Food					
+MSV000092716	L_RM_8257_POS_1.mzXML			Food					
+MSV000092716	M_RM_8259_POS_3.mzXML			Food					
+MSV000092716	L_JRC_CM_POS_6.mzXML			Food					

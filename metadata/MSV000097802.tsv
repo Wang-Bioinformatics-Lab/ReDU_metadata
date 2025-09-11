@@ -1,0 +1,1060 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097802	52M1_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M1_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M1_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M1_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M1_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M1_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M1_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	52M2_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M2_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M3_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M3_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M3_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M3_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M3_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	52M4_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M4_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M4_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F3_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F1_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F2_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F2_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F2_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F3_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F4_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M1_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M1_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M2_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M2_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M2_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M4_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M4_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	Blank12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	42M1_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M2_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M3_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M4_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M4_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M4_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M4_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M1_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M2_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M2_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M2_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M3_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M3_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M3_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M4_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M4_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F1_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F2_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F2_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F2_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F2_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F3_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F3_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F4_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F1_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F1_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F1_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F2_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F3_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F3_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F3_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F3_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F3_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F3_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F4_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F4_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	Blank10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M3_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M4_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M4_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	53F1_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F2_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F2_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F2_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	53F3_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F3_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F2_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F2_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F4_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F4_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F4_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M1_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M3_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M4_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	Blank17.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank22.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank23.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	42M1_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M1_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M1_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M1_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M1_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M2_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M2_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M3_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M3_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M4_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M4_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M1_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M2_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M4_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F1_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F1_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F2_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F2_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F3_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F3_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F3_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F4_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F4_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F4_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F1_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F1_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F2_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F3_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F3_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F3_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F4_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F4_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F4_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	Blank20.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank25.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank36.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M3_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M3_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M3_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M4_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M4_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M4_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M4_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M4_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M4_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F1_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F1_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F2_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F2_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F3_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F4_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F1_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F1_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F1_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F2_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F2_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F3_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F4_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M3_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M3_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M4_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M4_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	Blank26.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank32.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	42M1_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M1_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M2_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M2_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M3_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M4_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M4_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M4_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M4_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M4_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M4_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M1_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M1_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M1_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M2_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M2_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M2_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M3_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M4_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F1_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F1_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F2_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F2_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F2_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F3_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F1_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F1_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F1_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F1_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F1_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F1_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F2_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F4_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F4_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F4_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	Blank13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank27.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank29.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank46.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M1_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M1_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M2_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M4_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M4_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F1_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F1_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F2_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F2_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	53F3_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F3_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F4_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F4_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F4_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F4_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F1_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F3_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F4_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F4_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M1_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M1_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M2_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M4_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M1_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M1_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M1_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M1_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M1_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M2_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M3_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M3_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M4_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M4_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M1_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M1_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M2_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M2_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M2_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M4_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M4_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M4_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M4_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M4_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M4_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F1_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F1_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F1_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	44F2_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F2_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F2_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	44F3_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F3_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	44F4_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F4_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F1_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F2_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F2_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F2_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F2_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F3_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F3_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F3_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F4_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F4_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F4_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	Blank34.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M1_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M2_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	52M3_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M3_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M4_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M4_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M4_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F1_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F2_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F3_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F4_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F2_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F2_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F2_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F3_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F4_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M1_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M1_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M1_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M2_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M2_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M2_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M3_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M3_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M4_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M4_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M4_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	Blank11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	42M1_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	42M2_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M2_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M2_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M2_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M2_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M1_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M1_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M2_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M2_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M3_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M4_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F1_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F1_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	44F2_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F2_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F2_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F3_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F3_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F3_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F3_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F3_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	44F4_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F4_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F4_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F4_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F1_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F1_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F2_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F2_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F2_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F3_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F3_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F4_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	Blank14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank1b.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank24.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank39.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M2_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M2_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M2_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M4_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F1_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F1_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F2_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F2_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	53F3_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F3_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F3_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	53F4_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F4_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F1_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F1_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F2_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F2_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F3_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F3_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F4_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F4_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M1_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M2_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M2_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M2_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M4_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M4_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	Blank19.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	42M1_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M1_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M2_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M2_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M2_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M3_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M3_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M3_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M4_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M4_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M4_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M1_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M1_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M2_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M2_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M2_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M2_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M3_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M3_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M4_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M4_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M4_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F1_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F1_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F2_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F2_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	44F3_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F3_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F4_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F4_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F4_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F4_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F1_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F2_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F2_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F3_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F4_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F4_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F4_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	Blank15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M2_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	52M3_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M4_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F1_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F3_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F3_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	53F4_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F4_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F1_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F1_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F1_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F2_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F2_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F2_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F3_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F3_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F3_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F3_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F4_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M1_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M2_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M4_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M4_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M4_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M4_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	Blank21.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank28.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	42M1_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M1_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M2_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M3_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M3_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M3_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M3_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M3_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M1_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M1_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M1_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M2_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M3_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M4_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F1_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F1_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F2_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F2_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F2_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	44F3_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F3_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F4_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F4_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F4_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F1_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F1_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F1_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F2_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F2_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F2_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F2_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F2_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F3_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F3_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F4_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	Blank33.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank48.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M2_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M2_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M3_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F2_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F3_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F3_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F4_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F4_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F3_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F4_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F4_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F4_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M1_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M2_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M2_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M2_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M2_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M3_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M3_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M3_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M4_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M1_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M1_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M1_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M2_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M2_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M3_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M3_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M3_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M3_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M3_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M1_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M1_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M2_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M2_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M2_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M3_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M3_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M4_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F1_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F1_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F2_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F3_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F4_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F4_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F4_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F1_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F1_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F2_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F2_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F2_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F3_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F3_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F3_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	Blank1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M1_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	52M2_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M2_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F1_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F1_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F1_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	53F2_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F4_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F4_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F1_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F2_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F3_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F3_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F4_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F4_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55M1_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M1_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M2_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M2_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M3_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M3_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M3_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M3_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M4_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	Blank18.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	42M1_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M1_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M1_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M2_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M2_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M3_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M3_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M1_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M2_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M2_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M3_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M3_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M3_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M4_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M4_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M4_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M4_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F1_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F1_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F1_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F1_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F2_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F3_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F3_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	44F4_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F1_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F2_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F2_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F3_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F3_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	Blank31.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank38.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M1_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	52M2_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M2_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M2_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M3_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M3_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M3_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F1_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F1_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F1_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	53F2_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F3_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F3_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F3_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F4_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F4_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F1_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F2_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F3_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F4_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M1_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M1_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M2_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M2_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M2_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M3_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M3_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M4_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	Blank16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	42M1_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M1_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M2_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M2_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M2_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M2_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	42M3_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M4_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M4_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M4_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M4_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M4_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M1_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M1_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M1_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M1_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M2_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M3_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F1_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F1_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F1_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F1_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F2_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F2_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F2_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F3_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F3_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F4_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F4_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F4_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F1_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F3_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F3_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F4_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F4_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F4_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	Blank44.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M2_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M2_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M2_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M3_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M3_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M4_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F1_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F1_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F2_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F2_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F3_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F3_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F3_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F1_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F1_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F2_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F3_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F3_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F3_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F3_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F4_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55M1_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M1_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M1_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M2_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M2_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M2_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M2_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M3_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M3_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M4_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M1_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M2_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M3_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M3_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M4_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M1_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M2_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M2_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M2_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M3_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M3_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M3_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M3_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M3_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M4_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M4_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F1_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F2_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F3_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F3_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F4_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F1_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F1_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F2_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F2_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F2_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F3_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F3_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F3_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F4_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F4_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F4_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F4_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	Blank35.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank37.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M2_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	52M2_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M2_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M2_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M3_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M3_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M4_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M4_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M4_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F1_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F1_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F1_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F2_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F2_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F2_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F4_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F1_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F1_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F1_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F1_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F1_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F3_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F3_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F4_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F4_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M1_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M1_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M4_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M4_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M1_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M1_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M1_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	42M2_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M2_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M2_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M3_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M3_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M3_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M4_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M1_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M1_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M2_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M2_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M2_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M3_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M3_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M3_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M4_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F1_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F1_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F1_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F2_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F2_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F4_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F4_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F1_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F1_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F1_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F2_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F2_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F2_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F3_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F3_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F3_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F4_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F4_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	Blank42.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank45.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M1_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M2_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M3_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M3_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M3_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M3_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M4_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M4_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	53F2_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F2_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F2_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F3_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F3_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F3_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F4_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F1_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55F1_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F1_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F2_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F2_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F2_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F3_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F3_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F3_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F3_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F4_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M1_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M1_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	55M3_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M3_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55M3_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M4_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	42M1_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M1_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M2_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M2_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M2_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M2_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	42M3_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M4_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M4_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M1_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M1_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M1_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M1_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M2_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M2_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M2_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M2_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M3_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M3_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M3_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M3_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M4_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F1_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F1_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F2_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F3_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F3_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F3_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F3_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F4_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F4_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F1_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F2_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F2_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F2_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F3_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F3_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F4_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	Blank30.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M2_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M2_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M3_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M4_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F1_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F2_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F2_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F3_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F3_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F4_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F4_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F1_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55F3_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F3_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F4_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M1_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M1_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M2_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M2_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M2_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55M3_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M3_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M3_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M3_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M3_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55M4_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55M4_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M1_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M2_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M2_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M3_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	42M3_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	42M4_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M4_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M4_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M1_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M1_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	43M1_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M1_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M1_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M2_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M3_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M3_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M3_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M3_striat_2.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M4_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	43M4_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F1_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F2_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F3_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F3_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F3_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F3_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F4_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F4_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F1_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	45F2_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F3_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	45F3_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F4_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F4_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	Blank40.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank49.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	52M1_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	52M1_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M2_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F1_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F1_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F2_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F2_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F2_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	53F3_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	53F4_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F4_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F1_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	55F2_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F3_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F4_blood_3.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F4_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M1_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55M1_brain_3.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M3_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55M3_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M3_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M4_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M1_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	42M2_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M2_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M3_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	42M3_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	42M4_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M4_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	42M4_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M1_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M4_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M4_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	43M4_hippo_2.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M4_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M4_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M4_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M4_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	44F1_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F1_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F2_cereb_3.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	44F2_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	44F2_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F2_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F3_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F3_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F4_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F4_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	44F4_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F1_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F1_serum_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F1_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F2_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F2_serum_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F2_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	45F4_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F4_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	45F4_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F4_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	Blank43.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	Blank47.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	52M1_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M1_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	52M2_prostate_3.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	52M3_kidney_2.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	52M3_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	52M4_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	52M4_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F1_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F1_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F1_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	53F1_vagina_2.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	53F2_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	53F3_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	53F4_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	53F4_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F4_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	53F4_liver_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	53F4_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F1_brain_1.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F1_brain_2.mzML	animal		10090|Mus musculus	brain				
+MSV000097802	55F1_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F2_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F2_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	55F2_kidney_1.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	55F2_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F2_vagina_3.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55F4_colon_3.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	55F4_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	55F4_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	55M1_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	55M4_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	55M4_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	Blank1_20231121143102.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097802	42M1_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M1_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M2_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	42M3_cereb_1.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	42M3_colon_2.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M3_lung_1.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	42M3_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	42M4_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	42M4_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	42M4_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	42M4_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M1_prostate_2.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M1_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M2_hippo_3.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	43M2_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	43M3_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M3_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	43M3_liver_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	43M3_lung_3.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	43M3_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	43M3_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	43M4_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	43M4_prostate_1.mzML	animal		10090|Mus musculus	prostate				
+MSV000097802	43M4_striat_3.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F1_hippo_1.mzML	animal		10090|Mus musculus	hippocampus				
+MSV000097802	44F1_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	44F1_vagina_1.mzML	animal		10090|Mus musculus	vagina				
+MSV000097802	44F2_blood_2.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	44F2_kidney_3.mzML	animal		10090|Mus musculus	kidney				
+MSV000097802	44F3_cortex_1.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	44F3_lung_2.mzML	animal		10090|Mus musculus	lung				
+MSV000097802	44F4_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	44F4_liver_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097802	45F1_cortex_2.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F1_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F1_heart_2.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F1_striat_1.mzML	animal		10090|Mus musculus	striatum				
+MSV000097802	45F2_cereb_2.mzML	animal		10090|Mus musculus	cerebellum				
+MSV000097802	45F3_heart_3.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	45F3_serum_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097802	45F4_blood_1.mzML	animal		10090|Mus musculus	blood				
+MSV000097802	45F4_colon_1.mzML	animal		10090|Mus musculus	colon				
+MSV000097802	45F4_cortex_3.mzML	animal		10090|Mus musculus	cortex				
+MSV000097802	45F4_heart_1.mzML	animal		10090|Mus musculus	heart				
+MSV000097802	Blank41.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

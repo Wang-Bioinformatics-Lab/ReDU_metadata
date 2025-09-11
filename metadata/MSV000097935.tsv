@@ -1,0 +1,929 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097935	P1_A10_01LJ01593_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate6_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E8_01LJ04700_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G10_01LJ03225_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B9_01LJ05555_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_H10_01LJ03357_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D7_01LJ02661_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G2_01LJ00721_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun4_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_B8_01LJ05490_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_D3_01LJ04192_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G1_01LJ00721_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_F3_01LJ05972_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Resuspension_blk_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_F1_01LJ05972_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_H9_01LJ06323_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_C2_01LJ02503_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H9_01LJ04966_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_E9_01LJ05936_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F10_01LJ01941_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_G8_01LJ04184_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_H3_V1LJ00526_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C1_01LJ01447_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_E8_01LJ02813_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate3_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C4_01LJ00467_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_D5_01LJ00505_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_G7_01LJ02166_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_D9_01LJ00515_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate1_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate1_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C10_01LJ00503_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C10_01LJ01518_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_A6_01LJ04392_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun6_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_H6_01LJ03318_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_B1_BDV100155_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B7_01LJ02357_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun3_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate9_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C1_01LJ02862_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_B4_01LJ00388_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_F6_01LJ04841_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G10_01LJ02190_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Extraction_blk_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P9_C3_01LJ02503_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_A3_01LJ00482_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_F7_01LJ05996_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Extraction_blk_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_B8_01LJ00424_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_B6_01LJ05448_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate7_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_D3_01LJ04517_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_H5_01LJ06243_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_E6_01LJ02726_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E10_01LJ04760_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_H10_01LJ06323_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D4_01LJ02605_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G5_V1LJ00557_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F10_01LJ04129_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F8_01LJ00619_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun1_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_B9_01LJ02357_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_H2_01LJ00872_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C3_01LJ00441_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F3_01LJ03933_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_F9_01LJ06043_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E2_01LJ01716_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_H8_01LJ02257_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun5_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_B3_01LJ05406_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_B5_01LJ05448_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F7_01LJ00618_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_B12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_F7_01LJ04841_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_D3_01LJ03734_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_D4_01LJ01601_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_C5_01LJ02403_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C3_01LJ01447_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_C1_01LJ05570_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_A3_01LJ00181_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C9_01LJ00503_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_A2_01LJ00482_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun6_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_postrun_Plate3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_D9_01LJ05748_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C10_01LJ03719_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_G3_01LJ03225_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_E1_01LJ01806_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_D8_01LJ00544_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E7_01LJ04700_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_A10_01LJ01300_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_E2_01LJ05878_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun2_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P1_F6_01LJ05501_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D1_01LJ02519_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_D9_01LJ00544_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B2_01LJ01597_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A2_01LJ03375_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F2_01LJ03933_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate4_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Extraction_blk_Plate3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate3_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_D10_01LJ01714_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_A1_01LJ01300_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_F5_01LJ05990_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_D9_01LJ01703_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_C3_01LJ02402_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_E5_01LJ02726_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_G2_01LJ04864_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G4_01LJ00734_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_D5_01LJ01601_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_H8_01LJ06251_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_postrun_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P9_F4_01LJ04129_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C3_01LJ06331_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_H3_01LJ06242_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A4_01LJ02329_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_F1_01LJ01882_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F1_BDV100155_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_E4_01LJ03864_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_D1_01LJ01714_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_H6_01LJ02227_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_H10_01LJ02258_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_F10_01LJ01941_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate7_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate2_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate1_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_B12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_A5_01LJ00514_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_prerun_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate8_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_H9_01LJ01024_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_E8_01LJ00565_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_E4_01LJ02726_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_D4_01LJ05672_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B9_01LJ02504_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P8_H2_01LJ06331_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_E2_01LJ00557_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_D1_01LJ03734_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_D6_01LJ05672_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_B10_01LJ01344_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_D1_01LJ00504_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Resuspension_blk_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P5_G7_01LJ04184_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G4_01LJ03070_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C4_V1LJ00526_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun4_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate9_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_G1_01LJ04130_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A9_01LJ02337_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_H6_01LJ00176_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_A4_01LJ00514_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_H6_01LJ04220_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C8_01LJ00468_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_E10_01LJ02814_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_G3_01LJ04130_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_D8_01LJ03741_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Resuspension_blk_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate6_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_E3_01LJ02693_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_G9_01LJ04184_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C6_01LJ00467_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_D9_01LJ05836_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C6_01LJ03597_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F10_01LJ00619_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun5_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P1_A8_01LJ00615_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_E7_01LJ00515_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_F2_01LJ01882_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_A2_01LJ04313_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_D3_01LJ01600_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_F5_01LJ05501_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_H9_01LJ00091_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_A4_01LJ01105_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_D7_01LJ03741_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate4_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_F2_01LJ04809_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_F1_01LJ05500_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun8_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P1_H5_01LJ00016_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B4_01LJ02350_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B3_01LJ01315_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B3_01LJ01597_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun1_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P5_B9_01LJ03575_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_H9_01LJ04226_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E8_01LJ05365_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_H4_01LJ00016_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E10_01LJ05491_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D8_01LJ02661_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_G6_01LJ04926_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_F9_01LJ05556_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E1_01LJ04877_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate4_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_F4_01LJ05990_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_H8_01LJ00091_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_B6_01LJ00388_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C1_V1LJ00456_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E6_01LJ01758_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A3_01LJ02266_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C10_01LJ04507_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_A12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_F9_01LJ04829_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F1_01LJ03933_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B2_01LJ02349_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_E1_01LJ03857_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun5_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_E3_01LJ05878_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun6_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P8_A12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Resuspension_blk_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_C1_01LJ00441_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G3_01LJ06150_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun1_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_A2_01LJ00181_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_B7_01LJ05490_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G5_01LJ00734_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_B3_01LJ03512_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_A2_01LJ01100_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun8_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P9_E5_01LJ03877_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C5_V1LJ00317_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A8_01LJ02337_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E9_01LJ05365_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_H7_01LJ00176_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_H1_01LJ04198_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_G8_01LJ02166_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_B3_V1LJ00507_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C6_01LJ03061_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_C6_01LJ04507_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B10_01LJ02358_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F6_01LJ03967_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E9_01LJ04700_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C9_01LJ03718_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_G4_01LJ04180_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_F10_01LJ05719_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_G6_01LJ04180_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_D9_01LJ04610_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_H3_01LJ02220_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E3_01LJ01716_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C2_01LJ00441_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G6_01LJ00734_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate2_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun5_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P6_G9_01LJ04897_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_D5_01LJ04531_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_D1_01LJ01600_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate1_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P1_D8_01LJ04610_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F7_01LJ03975_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B1_01LJ01344_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_H8_01LJ06323_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_D5_V1LJ00557_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate5_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_F3_01LJ02927_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B2_01LJ04399_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_D8_01LJ00515_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate9_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_E7_01LJ02813_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_prerun_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_midrun2_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P6_A4_01LJ04335_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Resuspension_blk_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P9_C4_01LJ03719_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_G8_01LJ04897_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F9_01LJ00619_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_C5_01LJ05610_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_H3_01LJ00012_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G2_V1LJ00507_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun8_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_H3_01LJ03293_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_H9_01LJ03323_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G6_01LJ06270_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A10_01LJ03495_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A9_01LJ03414_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G8_01LJ00845_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_E8_01LJ05936_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_D10_01LJ00544_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate6_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_A8_01LJ00306_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_D6_01LJ04470_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D10_01LJ02691_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E5_01LJ04692_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B1_01LJ01597_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun7_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_C2_01LJ05570_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_prerun_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Total_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_A7_01LJ00306_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_G8_01LJ06178_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F6_01LJ05719_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_F2_01LJ02827_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_E6_01LJ00558_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun8_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P8_B4_D1LJ00014_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate4_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Extraction_blk_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_C10_01LJ05634_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_A8_01LJ05281_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun7_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_prerun_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_midrun2_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P5_E7_01LJ03876_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_F1_01LJ02827_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_B7_01LJ02603_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_A12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate2_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F5_01LJ00614_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate6_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G4_01LJ05842_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_D2_V1LJ00588_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A7_01LJ02337_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate4_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun3_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_postrun_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_E10_01LJ05971_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_G5_01LJ02064_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_F10_01LJ04841_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Total_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_A7_01LJ01134_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_D1_V1LJ00588_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_C4_01LJ05610_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate2_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_H7_01LJ06251_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C2_V1LJ00456_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H3_01LJ04927_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B8_01LJ04458_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_postrun_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_D7_01LJ00515_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_E6_01LJ05907_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_D4_BDV100022_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_F7_01LJ05556_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_H8_01LJ01024_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_B1_01LJ03512_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_postrun.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_C6_01LJ02403_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C6_01LJ01448_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F4_01LJ00614_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E9_01LJ00586_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun3_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P6_D6_01LJ04531_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_H1_01LJ02220_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G7_01LJ06270_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_A10_01LJ05281_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_E2_01LJ02693_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_B9_01LJ00424_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G5_01LJ03070_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Resuspension_blk_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P3_B10_01LJ01344_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G7_01LJ03097_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_E7_01LJ04760_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_H9_01LJ02257_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun5_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P8_A7_01LJ01593_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_A9_01LJ00615_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_C8_01LJ02484_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_G6_01LJ02064_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E7_01LJ05491_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate1_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G9_01LJ03097_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate7_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_D7_01LJ04610_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_D4_01LJ00505_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_H1_01LJ00012_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G6_01LJ05842_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Total_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate5_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_E6_01LJ03864_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D6_01LJ02605_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_G6_01LJ04876_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun2_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_H6_01LJ06243_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate2_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C7_01LJ04170_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Extraction_blk_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_E4_01LJ00558_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_H5_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P5_H4_01LJ04220_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_F7_01LJ04829_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B4_01LJ03583_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_A6_01LJ00514_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Extraction_blk_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_A9_01LJ05201_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate8_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_D9_01LJ04605_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_F2_01LJ05972_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E1_01LJ04629_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C8_01LJ00503_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_F5_01LJ01896_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G5_01LJ05842_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_E1_01LJ05878_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate1_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_E10_01LJ00586_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_B9_01LJ05490_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_G3_01LJ04864_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_A3_BDV100193_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate6_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B7_01LJ02504_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_A9_01LJ05281_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun8_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_E5_01LJ00558_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_A9_01LJ00306_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_A5_01LJ04972_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C3_01LJ02862_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate9_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_A5_01LJ04335_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_E6_01LJ04760_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B5_01LJ04445_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C8_01LJ01451_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G4_01LJ06171_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_G7_01LJ04926_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_F1_01LJ04809_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G1_V1LJ00456_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F4_01LJ03967_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_B2_BDV100155_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D3_01LJ02519_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E3_V1LJ00507_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_F8_01LJ05556_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_H4_01LJ06243_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_H5_01LJ02227_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B8_01LJ05555_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_postrun_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P5_G5_01LJ04180_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_C9_01LJ02484_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate5_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E1_01LJ06330_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_H4_V1LJ00317_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate9_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_F6_01LJ01896_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A5_01LJ02329_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B8_01LJ02357_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_A2_01LJ02338_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C3_01LJ03591_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_D10_01LJ03789_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G9_01LJ00845_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_B4_01LJ03563_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate3_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B6_01LJ04445_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D2_01LJ02519_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_H2_01LJ03357_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun6_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_midrun4_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_C7_01LJ05611_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_C10_01LJ02503_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate4_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_C9_01LJ05611_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_H10_01LJ02258_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E4_D1LJ00014_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_D7_01LJ04627_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A2_01LJ02266_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_A10_01LJ01300_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_A1_01LJ00181_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G9_01LJ06177_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E3_01LJ04877_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_D5_01LJ03789_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate2_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate1_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F4_V1LJ00526_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun3_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_F6_01LJ02861_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B5_01LJ01331_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G7_01LJ06177_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_H5_01LJ00959_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_C9_01LJ05634_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate5_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_E2_01LJ03857_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_F9_01LJ02870_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C5_01LJ01448_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_B10_01LJ03583_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_A1_01LJ04971_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun3_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_midrun5_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P6_D10_01LJ04627_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate5_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C9_01LJ01451_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E2_01LJ04877_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C5_01LJ03597_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_E8_01LJ03876_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E3_01LJ04629_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_D3_01LJ00504_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_G7_01LJ04897_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_postrun_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Extraction_blk_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P5_A12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Total_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_G1_01LJ02190_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun3_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_F8_01LJ02870_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun6_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_midrun8_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P6_F8_01LJ04829_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_F5_01LJ04129_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_D4_01LJ03789_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate6_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G8_01LJ00747_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_F3_01LJ01882_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_H7_01LJ04969_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_H7_01LJ00091_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_H2_01LJ03293_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_G4_01LJ02064_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_E2_01LJ02814_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun8_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P1_C9_01LJ03974_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_F4_01LJ05501_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B2_01LJ02358_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_B8_01LJ00438_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun2_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_B10_01LJ00438_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F3_01LJ00587_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B10_01LJ04471_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G3_01LJ03063_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_F1_01LJ01941_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H10_01LJ04969_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_D3_01LJ05643_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B5_01LJ03583_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E8_01LJ01765_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_A7_01LJ05201_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun7_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P3_A6_01LJ01105_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_H5_01LJ04220_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_D5_01LJ04470_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_A8_01LJ01134_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate5_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_A9_01LJ01134_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_E9_01LJ05971_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F9_01LJ00618_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_D6_01LJ04627_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun4_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P8_D7_01LJ04621_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P1_H2_01LJ00012_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_D5_01LJ05672_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Extraction_blk_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P5_D4_01LJ03740_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_E5_01LJ05907_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_postrun_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_A6_01LJ04972_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun4_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P3_G3_01LJ01985_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_F7_01LJ01924_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B3_01LJ02358_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_A8_01LJ05201_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_D1_01LJ04517_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun6_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P5_G2_01LJ04130_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_E4_01LJ05907_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D9_01LJ02661_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_D2_01LJ02691_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate7_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B4_01LJ04445_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_D6_01LJ04621_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_prerun_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_prerun_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate7_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C10_01LJ04170_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun7_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P3_A3_01LJ01100_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G1_01LJ05841_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate3_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_F9_01LJ01924_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A6_01LJ03396_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_H1_01LJ03293_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C5_01LJ00467_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_D10_01LJ04621_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_D4_01LJ04470_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G6_01LJ03070_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_F4_01LJ04812_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B1_01LJ04399_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_C1_01LJ02402_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_E5_01LJ03864_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun7_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_C2_01LJ02402_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_F5_01LJ02861_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_F3_01LJ05500_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_G2_01LJ01985_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_E10_01LJ03877_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_A12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun1_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Blank_midrun5_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P3_F8_01LJ01924_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_H3_01LJ04198_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F8_01LJ03975_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C10_01LJ01518_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C4_01LJ01448_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_G2_01LJ03225_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_H7_01LJ03323_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_D7_01LJ04605_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate5_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C3_01LJ04474_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B6_01LJ02350_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_C8_01LJ05611_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_A4_01LJ00305_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C8_01LJ03718_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_B1_01LJ05406_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_F6_01LJ05990_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_H4_01LJ03318_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C7_01LJ03718_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G3_01LJ00721_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_D10_01LJ01714_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A4_01LJ03396_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B9_01LJ01338_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate3_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate8_poolQC_6.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_H1_01LJ06242_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_F6_01LJ04812_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate7_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_E9_01LJ03876_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_H4_01LJ00959_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_C4_01LJ02403_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H2_01LJ04927_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C8_01LJ04476_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_H3_01LJ00872_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C7_01LJ00468_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P9_G4_01LJ04186_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Resuspension_blk_Plate3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_C12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G3_D1LJ00014_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B8_01LJ02504_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_H7_01LJ02257_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B10_01LJ02603_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Extraction_blk_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_F9_01LJ05996_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_A9_01LJ00310_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B6_01LJ01331_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_H1_V1LJ00588_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B8_01LJ01338_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B7_01LJ04471_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G7_01LJ06014_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_H10_01LJ01024_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P8_B9_01LJ00438_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G1_01LJ06150_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_H8_01LJ04226_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_G4_BDV100118_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_prerun_Plate3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_F7_01LJ02870_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C2_01LJ02862_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_B12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G8_01LJ06014_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C7_01LJ01451_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_E3_01LJ03857_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_B4_01LJ05448_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate8_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E7_01LJ05365_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_D1_01LJ04192_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H6_01LJ04965_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E5_01LJ01758_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_prerun_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_A6_01LJ00305_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F6_01LJ00614_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Total_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H4_01LJ04965_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C4_01LJ04475_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_postrun_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_E1_01LJ02693_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun4_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate5_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E2_01LJ06331_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G8_01LJ03097_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B7_01LJ04458_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_D7_01LJ01703_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_H5_01LJ03318_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_H1_01LJ00872_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun7_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P9_E8_01LJ05971_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_C6_01LJ05610_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_A1_01LJ04313_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C9_01LJ00468_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_F8_01LJ06043_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A10_01LJ02338_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G2_01LJ05841_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_D5_01LJ03740_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun6_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P3_F4_01LJ01896_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E4_01LJ05249_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_A6_01LJ01593_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_A7_01LJ04392_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_E3_01LJ02814_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate6_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_B7_01LJ00424_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_D2_01LJ04517_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun1_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_C3_01LJ05570_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F5_V1LJ00317_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G3_01LJ05841_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_B1_01LJ00317_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate8_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_H8_01LJ03323_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A6_01LJ02329_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G10_01LJ06270_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_F10_01LJ06043_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate7_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_F10_01LJ02927_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun7_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate3_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_A7_01LJ04336_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_A1_01LJ00482_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_H10_01LJ00176_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C4_01LJ03061_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E9_01LJ01765_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E5_BDV100118_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_C12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F7_01LJ05719_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_A4_BDV100022_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Total_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate2_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_D1_01LJ05643_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_A2_01LJ04971_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B5_01LJ02501_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E6_01LJ04692_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_G1_01LJ04864_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_H5_01LJ04255_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F3_BDV100022_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_F8_01LJ05996_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H5_01LJ04965_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C4_01LJ03597_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_G10_01LJ02190_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E8_01LJ00586_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_B6_01LJ03563_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_H7_01LJ00993_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_G9_01LJ02166_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_B2_01LJ05406_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate4_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_H6_01LJ00016_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_H4_01LJ02227_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_C12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_B5_01LJ03563_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_C2_01LJ01447_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_D2_01LJ00504_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_E4_01LJ03877_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_A5_V1LJ00557_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A5_01LJ03396_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_H4_01LJ04255_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_H2_01LJ04198_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A1_01LJ03375_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_D2_01LJ04192_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun8_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Resuspension_blk_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P3_D8_01LJ01703_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G10_01LJ00845_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_A1_01LJ02266_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E10_01LJ01806_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B6_01LJ04471_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_E7_01LJ05936_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun3_Plate8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P6_A6_01LJ04335_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H1_01LJ04927_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C6_01LJ04475_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun7_Plate2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate9_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate4_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_G1_01LJ01985_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Resuspension_blk_Plate7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P9_A5_01LJ03495_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_A12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_A8_01LJ04336_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B4_01LJ02501_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_A5_01LJ01105_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_A2_01LJ06330_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_A3_01LJ04971_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_H1_01LJ02258_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun1_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P6_D4_01LJ04531_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_B6_01LJ02603_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F2_01LJ00587_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun2_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P4_F4_01LJ02861_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F1_01LJ00587_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_D8_01LJ05748_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_A1_01LJ06330_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_B7_01LJ03575_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_A9_01LJ04336_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate6_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_B12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_F2_01LJ02927_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F5_01LJ03967_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_B5_01LJ00388_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C1_01LJ04474_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G10_01LJ06178_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_H8_01LJ00993_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_A12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_B3_01LJ04399_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_C1_01LJ01518_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C5_01LJ04475_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun6_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P9_A4_01LJ03495_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate9_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_H10_01LJ04255_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_B10_01LJ05555_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_A10_01LJ00310_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_A8_01LJ00310_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_C7_01LJ02484_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C5_01LJ03061_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_G4_01LJ04876_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun4_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	Plate8_poolQC_2.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_B3_01LJ00317_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E5_01LJ05249_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_C5_01LJ03719_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_B2_01LJ03512_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate8_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E2_01LJ04629_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_E3_01LJ00557_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G7_01LJ00747_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun3_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P2_E1_01LJ00557_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B4_01LJ01331_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_D2_01LJ05643_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate1_poolQC_8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_A1_01LJ01100_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H8_01LJ04966_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B1_01LJ02349_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C8_01LJ03974_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_D8_01LJ04605_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_D2_01LJ01600_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate3_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_B2_01LJ00317_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_B5_BDV100118_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_C7_01LJ04507_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_F5_01LJ04812_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_C7_01LJ03974_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_D6_01LJ03740_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_A5_01LJ00305_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_H9_01LJ00993_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun2_Plate6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P1_A7_01LJ00615_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C2_01LJ03591_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_F2_BDV100193_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_H7_01LJ04966_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_C8_01LJ05634_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_F8_01LJ00618_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_G9_01LJ00747_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B7_01LJ01338_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_H3_01LJ03357_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_H9_01LJ06251_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_B6_01LJ02501_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_D7_01LJ05748_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B5_01LJ02350_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_G5_01LJ04876_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_H6_01LJ04969_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_E6_01LJ05249_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A8_01LJ03414_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_A12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_G10_01LJ04186_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_C12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_B3_01LJ02349_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C9_01LJ04476_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate7_poolQC_3.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_A4_01LJ04972_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Total_poolQC_9.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G2_01LJ03063_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_E6_01LJ05491_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G2_01LJ06150_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P1_F2_01LJ05500_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun4_Plate1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P5_B8_01LJ03575_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_D9_01LJ03741_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E7_01LJ01765_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_D6_01LJ00505_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_F3_01LJ02827_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E4_01LJ01758_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun2_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P3_H2_01LJ02220_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_H7_01LJ04226_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun1_Plate9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P6_B9_01LJ04458_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_G5_01LJ04186_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_C1_01LJ03591_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B2_01LJ01315_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_F3_01LJ04809_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_D10_01LJ05836_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Total_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_C6_01LJ04170_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P1_G9_01LJ06014_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_D8_01LJ05836_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_B12_Plateblk.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_C7_01LJ04476_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_A3_01LJ02338_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate9_poolQC_4.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A3_01LJ03375_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_D2_01LJ03734_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun1_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P6_C2_01LJ04474_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G6_01LJ06171_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G5_01LJ06171_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P8_D3_BDV100193_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_midrun5_Plate5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P7_H2_01LJ06242_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_A7_01LJ03414_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_D5_01LJ02605_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Total_poolQC_1.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E10_01LJ01806_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_D3_01LJ02691_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P7_G8_01LJ06177_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_E9_01LJ00565_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_E4_01LJ04692_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P9_G9_01LJ06178_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate8_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Blank_prerun_Plate4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097935	P3_D6_01LJ01601_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P5_F9_01LJ03975_V12.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate3_poolQC_5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_E9_01LJ02813_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P4_G1_01LJ03063_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_A3_01LJ04313_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	Plate2_poolQC_7.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P2_H6_01LJ00959_V10.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_E1_01LJ01716_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P3_B1_01LJ01315_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_G10_01LJ04926_V8.mzML	animal	biofluid	9606|Homo sapiens	blood serum				
+MSV000097935	P6_A10_01LJ04392_V5.mzML	animal	biofluid	9606|Homo sapiens	blood serum				

@@ -1,0 +1,764 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000088772	liver_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	Large_Intestine_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_illeum_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	cecum_contents_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	liver_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	heart_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_contents_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	liver_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	si_contents_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_duodenum_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	quad_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_illeum_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_contents_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	Large_Intestine_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_Large_Intestine_minus_QC3.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_illeum_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	si_jejunum_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	QC_si_illeum_2_3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	heart_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	cecum_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_illeum_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_illeum_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	QC_si_jejunum_2_7.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	LI_contents_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_contents_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	quad_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	quad_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_illeum_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_jejunum_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	si_jejunum_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	si_duodenum_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	QC_si_duodenum_minus_QC2.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	QC_quad_minus_QC3.mzML	animal		10090|Mus musculus	quadriceps				
+MSV000088772	cecum_contents_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	liver_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	cecum_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	quad_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	Large_Intestine_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	heart_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	heart_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	QC_cecum_contents_2_2.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Blank_ex_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	LI_contents_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_si_duodenum_5.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_jejunum_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	cecum_contents_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_contents_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	Large_Intestine_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_quad_minus_QC1.mzML	animal		10090|Mus musculus	quadriceps				
+MSV000088772	quad_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	quad_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_jejunum_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	cecum_contents_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	LI_contents_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	Large_Intestine_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	heart_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	heart_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	heart_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_jejunum_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	cecum_contents_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_si_jejunum_2_3.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	si_contents_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	liver_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	quad_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	Large_Intestine_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	quad_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	LI_contents_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	LI_contents_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_duodenum_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	cecum_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_LI_contents_minus_QC1.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_duodenum_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	liver_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	liver_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	cecum_contents_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_illeum_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	cecum_contents_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	LI_contents_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_contents_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	Blank_R_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex2_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	si_contents_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_duodenum_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_duodenum_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_illeum_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	si_illeum_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	liver_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	si_contents_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	si_contents_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	quad_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	QC_LI_contents_2_6.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_jejunum_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	heart_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	Large_Intestine_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_jejunum_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	QC_quad_2_4.mzML	animal		10090|Mus musculus	quadriceps				
+MSV000088772	cecum_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_duodenum_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	quad_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_jejunum_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	si_duodenum_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	LI_contents_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_contents_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	liver_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	si_jejunum_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	QC_liver_2_2.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	liver_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	cecum_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_jejunum_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	cecum_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	heart_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	LI_contents_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_illeum_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	quad_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	heart_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_illeum_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_duodenum_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_jejunum_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	si_contents_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	QC_si_jejunum_2_2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	liver_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_contents_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	cecum_contents_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Large_Intestine_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	Blank_ex2_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex2_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_23.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	si_contents_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	Large_Intestine_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	LI_contents_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_contents_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	heart_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_illeum_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	si_illeum_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	cecum_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_duodenum_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	liver_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	si_contents_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	si_contents_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	heart_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_contents_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	quad_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_illeum_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	quad_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_jejunum_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	Large_Intestine_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	heart_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_contents_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_duodenum_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	LI_contents_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_si_duodenum_1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	heart_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	liver_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_duodenum_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	si_illeum_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	liver_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	si_jejunum_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	si_jejunum_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	si_illeum_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	QC_si_contents_2_4.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	Large_Intestine_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_jejunum_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	quad_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	QC_cecum_contents_minus_QC1.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	quad_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_duodenum_21_15_INFECTED_WT_INF_1_10_7_2021_1_180_E1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	quad_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_jejunum_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	QC_si_contents_minus_QC3.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_illeum_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_illeum_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_contents_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	si_duodenum_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	liver_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_contents_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	si_duodenum_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	Blank_ex_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_17.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_27.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex2_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	cecum_contents_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	QC_si_illeum_minus_QC3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	cecum_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_illeum_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	quad_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	Large_Intestine_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	LI_contents_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_duodenum_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	QC_Large_Intestine_2_7.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_cecum_2_4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	QC_Large_Intestine_2_2.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	Large_Intestine_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_contents_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_si_illeum_2_5.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	cecum_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_jejunum_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	quad_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_duodenum_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	QC_liver_minus_QC2.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	liver_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_duodenum_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_jejunum_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	cecum_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_illeum_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_contents_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	QC_liver_2_4.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	Large_Intestine_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	quad_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_illeum_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	liver_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	si_jejunum_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	si_illeum_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	LI_contents_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	quad_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_duodenum_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_contents_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	cecum_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_cecum_contents_minus_QC3.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_contents_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	heart_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	QC_si_duodenum_2_2.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_contents_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	heart_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	QC_si_duodenum_4.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	QC_cecum_contents_2_3.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Blank_R_20.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_21.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	LI_contents_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_jejunum_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	QC_quad_minus_QC2.mzML	animal		10090|Mus musculus	quadriceps				
+MSV000088772	quad_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_duodenum_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	si_contents_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	LI_contents_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	LI_contents_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	quad_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_contents_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	heart_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_illeum_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	Large_Intestine_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	LI_contents_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_contents_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_illeum_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	si_duodenum_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	liver_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	Large_Intestine_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	LI_contents_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_duodenum_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	cecum_contents_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_Large_Intestine_2_3.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_contents_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	si_contents_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	liver_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	cecum_contents_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_quad_2_3.mzML	animal		10090|Mus musculus	quadriceps				
+MSV000088772	si_contents_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_jejunum_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	QC_cecum_minus_QC1.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_jejunum_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	si_duodenum_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	QC_liver_minus_QC1.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	liver_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_duodenum_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	cecum_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_illeum_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	quad_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_duodenum_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	cecum_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	quad_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	Blank_ex2_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_22.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	cecum_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Large_Intestine_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	Large_Intestine_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	quad_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	cecum_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_jejunum_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	si_duodenum_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_contents_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	cecum_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	quad_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	cecum_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	liver_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	quad_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_jejunum_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	LI_contents_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	cecum_contents_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	quad_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	liver_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	heart_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	heart_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	liver_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	cecum_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_illeum_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	Large_Intestine_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	liver_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	quad_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	QC_si_illeum_minus_QC2.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	quad_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_contents_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	Blank_R_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Large_Intestine_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	LI_contents_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	LI_contents_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_si_contents_2_3.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	heart_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_contents_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	si_contents_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	cecum_contents_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	heart_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	QC_si_illeum_2_4.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	QC_cecum_2_7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_contents_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	cecum_contents_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	liver_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	cecum_contents_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_jejunum_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	quad_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	heart_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	cecum_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_jejunum_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	liver_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	QC_quad_2_2.mzML	animal		10090|Mus musculus	quadriceps				
+MSV000088772	LI_contents_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_illeum_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	LI_contents_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	heart_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	Large_Intestine_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	LI_contents_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	LI_contents_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_jejunum_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	quad_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	quad_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_jejunum_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	QC_heart_2_6.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	cecum_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	QC_si_duodenum_minus_QC1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	heart_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	quad_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	QC_heart_minus_QC3.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	QC_si_jejunum_2_4.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	LI_contents_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_cecum_contents_2_7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	liver_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	Large_Intestine_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_heart_minus_QC1.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	QC_si_duodenum_2_7.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_duodenum_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_jejunum_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	Blank_ex2_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_25.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex2_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	si_jejunum_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	heart_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	cecum_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_contents_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_illeum_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	quad_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	liver_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	cecum_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_contents_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	liver_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	Large_Intestine_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_contents_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_duodenum_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	cecum_contents_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	quad_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	heart_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	cecum_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	quad_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_jejunum_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	quad_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_contents_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	heart_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_contents_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_jejunum_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	LI_contents_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	Large_Intestine_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_contents_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	Large_Intestine_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_illeum_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	liver_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	heart_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	Large_Intestine_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_contents_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	LI_contents_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	Large_Intestine_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_contents_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	heart_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	LI_contents_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_contents_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_illeum_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	si_contents_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	si_duodenum_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	si_duodenum_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	QC_cecum_minus_QC2.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Blank_R_24.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex2_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	QC_cecum_2_6.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_jejunum_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	si_illeum_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_contents_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	cecum_contents_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_cecum_contents_2_6.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_contents_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	Large_Intestine_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	liver_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_jejunum_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	quad_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	QC_si_jejunum_minus_QC2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	si_contents_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_contents_38_15_INFECTED_IL1R_INF_5_10_14_2021_5_182_F6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	liver_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	si_illeum_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	cecum_contents_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	heart_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_jejunum_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	cecum_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	Large_Intestine_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_contents_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Large_Intestine_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_cecum_2_2.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_contents_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_contents_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	LI_contents_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_contents_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_illeum_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	cecum_contents_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_jejunum_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	heart_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_contents_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	QC_Large_Intestine_2_4.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_contents_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_jejunum_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	LI_contents_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_jejunum_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	Large_Intestine_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_illeum_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	cecum_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	Blank_R_18.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex2_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	liver_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	heart_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_duodenum_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	cecum_contents_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_contents_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_jejunum_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	si_duodenum_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_duodenum_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	Large_Intestine_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_jejunum_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	quad_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	liver_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	heart_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_illeum_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	LI_contents_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	heart_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_jejunum_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	QC_si_duodenum_2_3.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_duodenum_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	cecum_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_contents_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	quad_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	si_duodenum_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	liver_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	cecum_contents_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Large_Intestine_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_duodenum_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	si_contents_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	heart_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_duodenum_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	cecum_contents_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	liver_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	cecum_contents_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	QC_Large_Intestine_2_6.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	quad_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	liver_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	QC_si_illeum_2_7.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	cecum_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Large_Intestine_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_si_jejunum_minus_QC3.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	QC_si_duodenum_3.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_jejunum_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	cecum_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	QC_liver_minus_QC3.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	Blank_R_26.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex2_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	QC_si_duodenum_2_4.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	liver_49_50_INFECTED_WT_INF_3_11_11_2021_10_184_A10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	cecum_contents_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	heart_11_15_UNINFECTED_WT_UNINF_3_10_7_2021_13_179_C9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	cecum_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_contents_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_LI_contents_2_2.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	heart_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	cecum_contents_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_jejunum_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	Large_Intestine_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_heart_2_2.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	Large_Intestine_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_contents_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	cecum_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_cecum_2_3.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	liver_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	QC_heart_minus_QC2.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	quad_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_duodenum_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_duodenum_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	Large_Intestine_57_50_UNINFECTED_WT_UNINF_2_11_18_2021_19_185_A5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_liver_2_6.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	QC_si_jejunum_minus_QC1.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	QC_LI_contents_2_3.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_cecum_minus_QC3.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	QC_cecum_contents_minus_QC2.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_duodenum_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	si_contents_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	QC_LI_contents_2.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	heart_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_contents_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	cecum_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	liver_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	liver_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	cecum_14_15_INFECTED_IL1R_INF_4_10_7_2021_4_179_F4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_si_jejunum_2_5.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	Large_Intestine_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_contents_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_contents_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	Large_Intestine_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_duodenum_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	heart_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_illeum_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	LI_contents_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	cecum_contents_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	Blank_ex_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex2_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	QC_si_duodenum_2.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	heart_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_duodenum_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	cecum_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_jejunum_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	LI_contents_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Large_Intestine_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_illeum_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	liver_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	Large_Intestine_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	Large_Intestine_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_contents_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	liver_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	si_illeum_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_illeum_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	Large_Intestine_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_contents_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_contents_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	liver_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_duodenum_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	si_jejunum_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	quad_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	LI_contents_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	liver_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	cecum_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_duodenum_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	Large_Intestine_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	Large_Intestine_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	Blank_ex_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	quad_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	si_duodenum_22_15_INFECTED_IL1R_INF_1_10_14_2021_1_180_F1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	LI_contents_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_illeum_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_duodenum_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	cecum_contents_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	liver_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	liver_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_illeum_5_15_INFECTED_WT_INF_2_10_7_2021_2_178_E3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	QC_cecum_contents_2_4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	toxo_NA_NA_cultured_parasites1_toxo_control_NA_NA_NA_178_A2.mzML	animal		10090|Mus musculus					
+MSV000088772	cecum_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_duodenum_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	LI_contents_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	quad_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	LI_contents_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_illeum_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	quad_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	LI_contents_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_contents_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_jejunum_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	heart_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	cecum_contents_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_duodenum_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	QC_si_contents_minus_QC2.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_illeum_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	QC_si_contents_2_2.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	Large_Intestine_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	QC_liver_2_3.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	LI_contents_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	QC_Large_Intestine_minus_QC2.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_si_contents_2_6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	heart_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_contents_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	heart_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	Large_Intestine_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	heart_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	cecum_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_illeum_26_15_INFECTED_IL1R_INF_2_10_14_2021_2_181_B3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	cecum_contents_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	heart_8_15_UNINFECTED_ILIR_UNINF_2_10_7_2021_12_178_H9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	cecum_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_duodenum_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	QC_heart_2_3.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_illeum_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	QC_LI_contents_minus_QC2.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	heart_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	Blank_R_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_19.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	si_jejunum_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	quad_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	QC_heart_2_4.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_contents_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	QC_si_duodenum_2_5.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	liver_55_50_INFECTED_WT_INF_2_11_18_2021_10_184_G10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	si_jejunum_42_50_UNINFECTED_WT_UNINF_1_11_11_2021_16_183_B2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	cecum_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_illeum_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	heart_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_duodenum_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	Large_Intestine_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_si_duodenum_minus_QC3.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	heart_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	heart_53_50_INFECTED_WT_INF_1_11_18_2021_8_184_E9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	si_contents_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A6.mzML	animal		10090|Mus musculus	small intestine			toxoplasmosis	
+MSV000088772	Large_Intestine_46_50_UNINFECTED_WT_UNINF_2_11_11_2021_18_183_F5.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	QC_si_contents_2_7.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	cecum_contents_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	QC_si_illeum_2_2.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	cecum_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	cecum_contents_33_15_INFECTED_WT_INF_4_10_14_2021_4_182_A7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	si_illeum_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	LI_contents_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	Large_Intestine_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	liver_24_15_UNINFECTED_IL1R_UNINF_1_10_14_2021_11_180_H10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_jejunum_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	LI_contents_12_15_UNINFECTED_IL1R_UNINF_3_10_7_2021_13_179_D8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	heart_32_15_UNINFECTED_IL1R_UNINF_3_10_14_2021_13_181_H9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	cecum_contents_9_15_INFECTED_WT_INF_3_10_7_2021_3_179_A7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	heart_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_jejunum_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	QC_quad_2_6.mzML	animal		10090|Mus musculus	quadriceps				
+MSV000088772	QC_Large_Intestine_minus_QC1.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_contents_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_illeum_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_illeum_19_15_UNINFECTED_WT_UNINF_5_10_7_2021_15_180_C3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	Large_Intestine_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	LI_contents_20_15_UNINFECTED_IL1R_UNINF_5_10_7_2021_15_180_D8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	quad_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	cecum_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E4.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	LI_contents_35_15_UNINFECTED_WT_UNINF_4_10_14_2021_14_182_C8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	cecum_contents_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_duodenum_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_jejunum_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	quad_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	liver_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	toxo_NA_NA_cultured_parasites2_toxo_control_NA_NA_NA_183_A2.mzML	animal		10090|Mus musculus					
+MSV000088772	Large_Intestine_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	liver_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	quad_31_15_UNINFECTED_WT_UNINF_3_10_14_2021_13_181_G11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	cecum_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Large_Intestine_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	Blank_ex_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Large_Intestine_2_15_INFECTED_IL1R_INF_1_10_7_2021_1_178_B5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	heart_44_50_UNINFECTED_WT_UNINF_1_11_11_2021_17_183_D9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	si_illeum_15_15_UNINFECTED_WT_UNINF_4_10_7_2021_14_179_G3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	si_illeum_25_15_INFECTED_WT_INF_2_10_14_2021_2_181_A3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	si_duodenum_58_50_UNINFECTED_WT_UNINF_2_11_18_2021_20_185_B1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	si_illeum_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	quad_29_15_INFECTED_WT_INF_3_10_14_2021_3_181_E11.mzML	animal		10090|Mus musculus	muscle			toxoplasmosis	
+MSV000088772	cecum_contents_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	QC_si_illeum_minus_QC1.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	cecum_56_50_UNINFECTED_WT_UNINF_2_11_18_2021_18_184_H4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_illeum_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	QC_si_contents_minus_QC1.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	si_duodenum_10_15_INFECTED_IL1R_INF_3_10_7_2021_3_179_B1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	si_contents_28_15_UNINFECTED_ILIR_UNINF_2_10_14_2021_12_181_D6.mzML	animal		10090|Mus musculus	small intestine				
+MSV000088772	heart_27_15_UNINFECTED_WT_UNINF_2_10_14_2021_12_181_C9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	QC_LI_contents_2_4.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_illeum_54_50_UNINFECTED_WT_UNINF_1_11_18_2021_17_184_F3.mzML	animal		10090|Mus musculus	ileum				
+MSV000088772	cecum_contents_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	LI_contents_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_illeum_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	si_duodenum_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H1.mzML	animal		10090|Mus musculus	duodenum				
+MSV000088772	cecum_contents_34_15_INFECTED_IL1R_INF_4_10_14_2021_4_182_B7.mzML	animal	biofluid	10090|Mus musculus	cecum			toxoplasmosis	
+MSV000088772	cecum_4_15_UNINFECTED_IL1R_UNINF_1_10_7_2021_11_178_D4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	si_jejunum_47_50_INFECTED_WT_INF_2_11_11_2021_9_183_G2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	liver_48_50_UNINFECTED_WT_UNINF_2_11_11_2021_19_183_H10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_duodenum_6_15_INFECTED_IL1R_INF_2_10_7_2021_2_178_F1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	heart_40_15_UNINFECTED_IL1R_UNINF_5_10_14_2021_15_182_H9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	Large_Intestine_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	quad_36_15_UNINFECTED_IL1R_UNINF_4_10_14_2021_14_182_D11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	QC_LI_contents_minus_QC3.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_jejunum_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G2.mzML	animal		10090|Mus musculus	jejunum				
+MSV000088772	quad_52_50_UNINFECTED_WT_UNINF_1_11_18_2021_16_184_D11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	liver_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G10.mzML	animal		10090|Mus musculus	liver				
+MSV000088772	si_illeum_30_15_INFECTED_IL1R_INF_3_10_14_2021_3_181_F3.mzML	animal		10090|Mus musculus	ileum			toxoplasmosis	
+MSV000088772	liver_13_15_INFECTED_WT_INF_4_10_7_2021_4_179_E10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	quad_39_15_UNINFECTED_WT_UNINF_5_10_14_2021_15_182_G11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	liver_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	liver_43_50_INFECTED_WT_INF_1_11_11_2021_7_183_C10.mzML	animal		10090|Mus musculus	liver			toxoplasmosis	
+MSV000088772	quad_7_15_UNINFECTED_WT_UNINF_2_10_7_2021_12_178_G11.mzML	animal		10090|Mus musculus	muscle				
+MSV000088772	cecum_16_15_UNINFECTED_IL1R_UNINF_4_10_7_2021_14_179_H4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	LI_contents_50_50_UNINFECTED_WT_UNIF_3_11_11_2021_20_184_B8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	heart_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C9.mzML	animal		10090|Mus musculus	heart				
+MSV000088772	LI_contents_18_15_INFECTED_IL1R_INF_5_10_7_2021_5_180_B8.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	LI_contents_3_15_UNINFECTED_WT_UNINF_1_10_7_2021_11_178_C8.mzML	animal		10090|Mus musculus	large intestine				
+MSV000088772	si_duodenum_37_15_INFECTED_WT_INF_5_10_14_2021_5_182_E1.mzML	animal		10090|Mus musculus	duodenum			toxoplasmosis	
+MSV000088772	si_jejunum_21_15_INFECTED_WT_INF_1_10_14_2021_1_180_E2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	heart_17_15_INFECTED_WT_INF_5_10_7_2021_5_180_A9.mzML	animal		10090|Mus musculus	heart			toxoplasmosis	
+MSV000088772	Large_Intestine_51_50_INFECTED_WT_INF_1_11_18_2021_7_184_C5.mzML	animal		10090|Mus musculus	large intestine			toxoplasmosis	
+MSV000088772	si_jejunum_45_50_INFECTED_WT_INF_2_11_11_2021_8_183_E2.mzML	animal		10090|Mus musculus	jejunum			toxoplasmosis	
+MSV000088772	cecum_contents_23_15_UNINFECTED_WT_UNINF_1_10_14_2021_11_180_G7.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000088772	Blank_ex2_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_ex2_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000088772	Blank_R_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

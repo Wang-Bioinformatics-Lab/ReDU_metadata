@@ -1,0 +1,1389 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000092571	P16_G11_A36_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_B3_A95_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_G6_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P9_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P2_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_H5_Blank_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P18_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P9_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P8_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P5_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P17_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P2_B11_A98_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_A8_A85_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_B10_A011_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_F2_A73_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_A2_B01_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_D8_A16_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P16_E10_A23_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_E2_A67_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_D5_A62_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_G1_A87_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_A7_A93_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_B10_A51_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_A3_A11_2_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_E2_A33_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_E2_A18_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_H7_A39_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_C8_A08_2_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P10_G4_A63_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_E10_A52_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_F5_A72_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_A4_A43_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_B1_A80_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_C9_A57_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_E5_A81_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_A4_A83_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_F10_A77_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_A6_A76_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_E4_A09_03_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_F11_A79_1_CRF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_B1_A95_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_C4_A94_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_A1_A90_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_F5_A40_1_DIST_M.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P3_A7_A42_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_B1_A39_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_G3_A39_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_F12_A39_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_D4_A14_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_A2_A80_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P6_B1_A93_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_D3_A20_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_F7_A75_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_B4_A49_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_D5_A100_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_B11_B11_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_B5_B08_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_B4_A42_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P6_F4_A86_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_E11_A88_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P9_D1_A95_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_F9_A69_1_DISTMES.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P18_A11_A87_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_C10_A49_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_D2_A03_02_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_C7_A08_1_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P17_G9_A79_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_A4_A15_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_A8_A85_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_A8_A04_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_C2_A73_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_F7_A73_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_A7_A87_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P18_A5_A84_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_C9_A60_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_E4_A66_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_A8_B04_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_G5_A12_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_A8_A29_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P13_A10_B06_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_C1_A93_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_C9_A26_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_B6_A29_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_A10_A46_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_D2_A49_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_B10_A72_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_A1_B01_1_GUT.mzML	animal		9606|Homo sapiens	small intestine			Crohn's disease	
+MSV000092571	P7_B10_A54_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_B6_A49_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_F4_A38_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P2_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P14_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_H3_Blank_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P14_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P3_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P9_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_G7_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P18_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_G3_A62_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_C11_A09_2_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P18_D11_A103_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_D6_A29_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_B4_B08_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_E5_A66_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_H6_A39_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_G7_A60_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_G10_A80_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_F4_A26_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_E2_A53_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_F1_A72_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_E1_A62_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_A10_A20_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_G5_A88_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_G4_A60_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_E5_A53_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_B9_A10_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_D6_A62_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_A5_A03_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_F1_A36_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_E4_A26_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_D7_A51_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_G4_A38_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_F8_A76_1_Plasma_20230724162437.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_A1_A63_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_C5_A50_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_E9_A70_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_H1_A72_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_B8_A04_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_A10_A43_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_E10_A35_4_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P4_B5_A69_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_C4_A08_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_E10_A29_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_A8_A93_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_B11_B12_1_GUT.mzML	animal		9606|Homo sapiens	small intestine			Crohn's disease	
+MSV000092571	P18_F3_A73_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_B8_A91_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_B4_B09_1_GUT.mzML	animal		9606|Homo sapiens	small intestine			Crohn's disease	
+MSV000092571	P2_D9_A110_1_Crf.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_A6_A15_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_F9_A35_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_C8_A40_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_C3_A73_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_F10_A77_1_Plasma_20230727110541.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_B7_A04_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_H2_A73_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_F4_A74_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_B6_A71_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_E7_A35_1_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P15_B3_A88_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_H1_A36_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_F1_A72_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_D7_A108_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_D9_A16_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_G7_A81_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_G1_A75_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_B1_A47_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_D3_A98_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_D10_A79_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_C5_A06_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_D4_A78_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_C8_A103_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_B4_A97_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_G9_A35_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_B3_A20_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_F6_A27_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_D7_A101_2_Plasma_20230724121818.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_A3_A65_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P19_A11_B06_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_E9_A28_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_C10_A104_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_D3_A50_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_E9_A68_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_C3_B13_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_E1_A80_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_B2_A95_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_A6_A95_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P14_B3_B07_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_C10_A96_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_D8_A22_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_E1_A107_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_D11_A52_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_D3_A43_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_F7_A57_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_E1_A104_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_D9_A52_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_A3_A91_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P16_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P17_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P12_G5_A80_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_G3_A108_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_B7_A37_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P8_D9_A07_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_E8_A35_2_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P16_E9_A23_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_E3_A66_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_A9_A16_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_D5_A28_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_E4_A68_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_B3_A41_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_C4_A23_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_C10_A75_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_A11_A95_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_D4_A04_02_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P19_C1_B12_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_E3_A31_1_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P17_B1_A47_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_A10_A78_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_D3_A61_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_B1_A68_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_A10_A90_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P10_E2_A48_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_C4_A47_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_A9_A98_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_F11_A39_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_C6_A95_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_D10_A104_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_A6_A14_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_E5_A50_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_A3_B02_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_A3_A42_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_C5_A08_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_C9_A10_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_A5_A14_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_F7_A38_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_F5_A74_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_F2_A73_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_D7_A101_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_B7_A90_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_F7_A62_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P4_F2_A84_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_A11_A05_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_C7_A95_3_Plasma_20230724163734.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_F4_A84_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_F9_A38_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_F8_A87_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_C7_A09_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_A10_A06_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_F9_A76_2_Plasma_20230724134903.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_C2_A53_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_F2_A56_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_D3_A13_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_D4_A66_1_UinvG_20230715182930.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_E11_A69_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_D6_A61_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_D3_A105_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_E5_A74_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_E11_A109_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_E5_A26_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_B2_A01_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_B9_A39_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P7_D7_A68_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P2_A10_A94_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_F3_A73_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_A3_A21_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P10_B6_A23_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_E3_A81_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_H10_A41_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_B1_A87_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P3_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P3_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P4_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P16_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_G12_Blank_7_20230724154541.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P2_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P2_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P18_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P6_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P4_D2_A76_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_F10_A77_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_C11_A26_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_F7_A92_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_C9_A93_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_D4_A50_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_C4_B17_1_GUT.mzML	animal		9606|Homo sapiens	small intestine			Crohn's disease	
+MSV000092571	P4_E6_A82_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_F10_A78_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P10_F1_A53_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_E8_A35_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_B8_A10_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_E11_A53_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_B12_A53_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_B3_A48_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_C9_A75_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_G4_A88_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_C2_B14_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_F1_A56_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_E8_A73_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_B7_A90_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_A9_A89_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_E7_A82_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_C7_A40_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_A9_A45_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_C2_A46_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_D11_A103_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_B9_A53_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P19_A10_B05_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_G3_A89_1_CRF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_E8_A22_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_B10_B11_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_C1_A108_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_C8_A95_4_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_F7_A86_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_C10_A09_1_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P14_B2_B07_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_C8_B15_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_A6_A26_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_D12_A66_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_D9_A102_2_Plasma_20230727105243.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_B6_A09_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_D10_A07_02_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_D8_A62_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_E8_A51_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_B10_A40_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P6_D7_A42_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_D11_A65_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_D1_A16_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_A7_B04_1_ENT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P15_F5_A74_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_B2_A88_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_F8_A93_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_A8_A18_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_B4_A08_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_F9_A76_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_C3_A07_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_E7_A35_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_D6_A78_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_H8_A40_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_B9_A29_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_D7_A63_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P5_D10_A67_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_F2_A36_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_G5_A38_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_C3_A13_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_E4_A105_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_C5_B14_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_H5_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P9_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P3_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P13_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P8_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P5_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P6_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_E8_A28_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_B9_A05_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_E10_A76_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_A4_A22_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P5_E8_A78_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P10_C6_A39_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_E4_A78_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P18_C8_A95_4_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_A3_A02_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_C5_A54_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_F1_A36_2_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P15_E9_A108_1_Plasma_20230724125712.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_C8_A75_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_G5_A65_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_E11_A36_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_E5_A33_2_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P11_G3_A37_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_F10_A38_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_B9_A87_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_D2_A10_2_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P13_B7_B10_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_D1_A42_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_E9_A83_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_A11_A20_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_A10_A37_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P18_C2_A93_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_B11_A37_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_G3_A88_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_F4_A56_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_A5_A44_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_D2_A42_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_C3_A04_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_D3_A60_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_E3_A20_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_D7_A101_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_D5_A61_2_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_F8_A28_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_D2_A61_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_D6_A21_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_D2_A18_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_C8_A56_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_F8_A63_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P2_D8_A108_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_B2_A94_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_D6_A63_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_A2_A91_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_C6_A74_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_A3_A12_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_C10_A14_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_A3_A74_4_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_D8_A65_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P9_B10_A88_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_E11_A24_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_C7_A09_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_A4_A82_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P5_A2_A11_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P6_F6_A91_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_C11_A98_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_B1_B06_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_F5_A86_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_E1_A66_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_F5_A74_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_D6_A51_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_D2_A12_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_E3_A67_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_D10_A52_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_A1_B01_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_E11_A55_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_E9_A108_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_B10_B12_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P19_A4_B02_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_B5_A49_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_G3_A76_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_F9_A28_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_F6_A75_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_B1_A01_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P12_H4_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P17_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P16_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P8_D5_A05_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_E2_A81_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_B11_A22_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_E7_A11_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_B1_A06_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_C8_B15_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_E9_A108_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_G11_A80_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_E4_A33_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_C4_A56_3_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_H2_A81_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_D2_A97_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_E8_A107_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_C11_A011_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_B1_A19_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_E7_A22_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_B8_A45_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_E4_A20_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_C5_A95_1_Plasma_20230724161140.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_C10_A94_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_B10_A46_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_A6_A65_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_C2_A100_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_A2_B01_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_C6_A09_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_A1_A07_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_A8_B04_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_A10_A19_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_F8_A58_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_G2_A105_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_C6_A95_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_G1_A101_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_D7_A22_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_G11_A62_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_F6_A57_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_E5_A69_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_D5_A50_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_A10_A20_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_C8_A26_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_C1_A06_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_G3_A110_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_B4_A69_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_F7_A75_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_B6_A03_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_B8_A87_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_E3_A09_02_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_A10_A86_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_D11_A73_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P13_C1_B14_1_MUC.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P16_F2_A25_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_A8_A97_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P18_C11_A98_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_G4_A04_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P18_C5_A95_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_A11_A87_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_G6_A78_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_C7_A95_3_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_C6_A92_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_F1_A84_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_A2_A82_2_Plasma_20230724120510.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_D1_A49_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_G5_A77_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_D5_A100_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_C6_A55_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_A6_B03_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_H4_A74_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_D10_A30_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_B7_A50_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_C2_A12_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_B6_A50_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_B3_A95_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_D9_A64_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_H4_Blank_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P5_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P5_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P12_H1_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P12_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P18_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P9_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P4_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P2_B7_A98_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_B10_A21_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_H4_A38_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_A2_B01_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_A1_A82_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_C1_A23_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_F1_A30_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_C9_A49_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_E9_A35_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_B11_A52_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_D10_A110_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_C1_A53_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_E12_A36_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_E7_A50_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_C1_A12_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_D1_A60_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_F6_A86_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_D3_A12_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P12_F3_A73_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_C2_B12_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_A5_A93_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_A1_A40_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_F8_A34_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_A2_A07_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_G4_A40_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_B11_A88_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_F8_A76_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_G7_A68_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_B5_A108_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_D8_A52_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_B7_A86_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_E1_A64_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_D7_A101_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_D8_A102_1_Plasma_20230724150648.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_G8_A60_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_D11_A64_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_B2_A104_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_A1_A41_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_E2_A28_1_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P14_B9_B10_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_D11_A47_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_A9_A05_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_G5_A32_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_A12_A19_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_E7_A54_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P19_A1_B01_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_B11_A92_2_Plasma_20230724155842.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_A5_A15_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_F6_A37_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_D5_A29_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_E3_A76_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P6_D8_A43_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_A4_A43_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_D4_A62_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_E7_A81_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P9_A2_A74_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_E2_A71_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_G10_A35_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_F2_A36_1_DISTAL_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P6_B10_A105_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P13_C3_B17_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_E11_A36_1_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P6_D3_A21_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_F1_A81_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_C9_A12_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_B7_B09_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_E5_A33_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_B6_A20_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_A4_B02_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_D1_A76_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_A5_A44_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_C7_A55_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_F3_A84_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_A1_A82_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_C7_A56_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_H10_Blank_17.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P17_F2_A70_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_G7_A39_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P17_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P13_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_E12_Blank_5_20230724140200.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P8_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P6_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P9_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P6_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P3_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P14_C9_B16_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_D2_A28_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_F11_A77_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_A1_A12_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_D3_A65_1_UinvG_20230715180333.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P13_F3_A37_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P6_E6_A71_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_F2_A73_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_E2_A104_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_A5_A83_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P5_B11_A41_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_A5_A65_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_B4_A22_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_B5_B08_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_B1_A87_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_G2_A30_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_E8_A70_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_A2_A19_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P9_B6_A84_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_C3_A54_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_D1_A104_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_H4_A62_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_E3_A53_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_C10_B16_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_G10_A41_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_E5_A10_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_C10_A61_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_A1_A01_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_A11_A46_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_B8_A103_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P2_B10_A98_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_B8_A21_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_B5_A45_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_B3_A88_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_C5_B14_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_A8_A66_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_C7_A25_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_E1_A08_02_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_E1_A25_1_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P5_E3_A72_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_D4_A20_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_F11_A100_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_H9_A40_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_C7_A92_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_G6_A39_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_F3_A37_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_D4_A27_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_A10_A46_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_B11_A107_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_G1_A39_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_A7_B04_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_F6_A57_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_E4_A53_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_D11_A105_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_G2_A59_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_C3_A48_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P7_D1_A62_2_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P5_A1_A06_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P10_A4_A12_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P19_C9_B16_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_E10_A108_2_Plasma_20230724153244.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_D11_A80_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_G2_A88_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_A4_A02_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_G2_A110_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_H5_A38_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_A8_A45_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_C6_A04_1_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P1_B7_A21_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_E7_A67_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_A7_A44_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_B6_A100_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_C1_A52_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_A11_A67_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_C2_A54_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_A2_A13_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_A12_A47_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_C3_A90_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_A4_B02_1_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P4_B7_A71_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_E1_A24_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_E9_A35_3_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P8_A1_A90_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P13_B8_B11_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_C2_A110_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P18_D10_A103_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_H3_A73_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_C11_A95_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P9_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_G11_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P16_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P18_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P5_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P6_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_G8_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P5_E4_A73_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P7_A5_A23_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_B8_A50_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_B4_A27_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_B8_A71_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_B2_A07_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_F11_A87_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_C7_A52_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_G10_A61_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_A8_A45_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_A3_A42_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_D7_A27_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_E11_A109_1_Plasma_20230724132308.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_B2_A21_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_B4_A107_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_F7_A57_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_C7_A48_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_B4_A97_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_C3_A47_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_E9_A74_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_B7_A51_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_F10_A29_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_B9_A21_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_B3_A07_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_B8_A27_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_A4_A41_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_B2_A48_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_C6_A07_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_A1_A41_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_E3_A105_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_D4_A100_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_G7_A34_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_G1_A109_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_F10_A60_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_C1_A55_2_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P6_B7_A101_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_G1_A78_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_F7_A27_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_E2_A104_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_C8_A16_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_B8_B10_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_A9_A67_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_G9_A61_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_D1_A98_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_B6_A90_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_F2_A30_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_G9_A69_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_D1_A12_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_C4_A49_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_F10_A58_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_F1_A89_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P7_E10_A87_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_B11_A46_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_G9_A90_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_A7_A16_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_H1_A81_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_F11_A75_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_D2_A59_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_A7_A95_2_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P6_B9_A104_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_C8_A10_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_B2_A47_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_A6_A84_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_C7_B15_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_D1_A98_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_G8_A69_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_C11_A57_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P13_D6_A15_1_CRF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P19_B6_B09_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_E5_A79_1_UnivG.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P11_A2_A01_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_A7_A85_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_F5_A90_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_A4_A93_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_F1_A72_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P4_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P14_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P5_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P12_H6_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P2_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P8_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_E7_A107_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_E6_A80_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_F8_A73_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_E10_A35_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_B11_A52_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_D5_A100_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_D4_A61_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_D7_A15_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_B11_B11_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_E7_A27_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_D5_A66_2_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P19_C4_B13_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_F10_A87_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_E1_A47_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_C4_A55_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_B9_B10_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_A8_A15_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_A10_A100_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P19_C3_B13_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_G1_A61_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_B4_A20_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_D7_A63_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_C2_A07_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_C5_A55_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_E8_A107_2_Plasma_20230724142756.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_E9_A12_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_D6_A15_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_A5_A75_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_F4_A31_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_B3_A02_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_G2_A39_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_E11_A80_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P19_A9_B05_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_D3_A99_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_C8_A92_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_B5_A97_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_F5_A74_2_Plasma_20230724141458.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_B7_A50_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_A5_A84_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_D1_A28_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_B1_B07_1_MUC.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P3_C6_A48_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_G4_A77_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_B4_B08_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_C1_A42_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_F4_A74_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_C7_B15_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_G11_A71_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_E6_A27_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_C9_A103_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_B8_A52_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_E10_A108_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_B7_A45_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_D1_A03_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_A2_A42_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_D11_A08_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_E6_A106_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_G8_A14_2_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_F10_A77_1_Plasma_20230724123115.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_A8_B05_1_UNGUT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P19_A7_B04_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_E2_A108_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_D7_A45_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_A9_B06_1_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P7_C7_A59_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_F8_A76_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_C5_A39_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_G8_A89_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_B3_A69_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_B1_A39_1_UinvG_20230715173737.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P13_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P6_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_G10_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P14_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P19_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P18_E11_A109_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_C11_A62_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P18_G2_A110_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_C12_A60_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_C9_A55_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_D10_A65_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_F9_A76_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_H2_A37_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_D8_A16_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_G1_A58_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_F9_A74_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_D9_A66_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_A9_A86_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_F8_A76_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_D10_A47_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_A6_A03_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_D5_A107_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_D7_A62_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_E3_A105_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_F8_A38_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_A3_A14_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_C8_A53_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_C3_A94_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_B10_A52_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_A4_A12_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P13_F6_A60_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P15_D6_A101_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_F3_A84_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_D10_A103_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_D8_A69_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_D9_A23_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_C4_A101_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_F5_A56_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_E5_A106_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_C2_B12_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_A5_A42_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_D12_A31_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_B2_A44_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_E1_A18_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_A6_A43_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_F10_A77_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_E7_A72_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_G9_A15_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P6_G7_A14_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_A7_A66_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_D8_A101_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_C3_A23_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_C2_A93_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_A9_A30_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_D9_A79_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_F6_A72_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_B9_A91_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_C10_A57_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_C5_A57_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P9_A11_A79_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_A9_A18_2_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_C6_A56_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_E6_A10_02_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_B9_A51_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_G10_A69_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_D6_A67_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_F9_A58_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_D9_A102_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_C4_A05_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_G7_A78_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_C5_A101_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_D3_A78_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_D11_A17_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_E1_A74_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_C5_A14_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_F3_A56_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_H2_Blank_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P4_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P12_H2_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P2_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P4_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P6_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P5_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_C3_A38_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_E7_A76_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P14_A5_B03_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_F11_A36_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_E11_A71_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_B3_A26_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P7_C3_A56_2_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_E6_A21_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_F4_A37_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_C4_A14_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_B5_A89_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_C1_A37_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_B7_A09_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_B11_A92_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_A8_A78_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_A3_A92_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_E2_A65_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_B11_A55_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_A6_A42_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_A6_A43_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_E6_A34_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_D2_A105_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_G6_A60_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_D6_A101_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_D4_A43_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_D9_A29_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_E9_A51_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_B9_A72_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_D6_A45_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_D11_A30_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_G1_A86_1_INV.mzML	animal		9606|Homo sapiens	small intestine			Crohn's disease	
+MSV000092571	P11_F7_A34_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_A11_A19_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_E6_A53_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_C3_A94_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_D7_A06_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_B9_B11_1_GUT.mzML	animal		9606|Homo sapiens	small intestine			Crohn's disease	
+MSV000092571	P9_B3_A81_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_D9_A71_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P8_B3_A105_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_B9_A51_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_D4_A100_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_C7_A95_3_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_E6_A69_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_A8_A88_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_G6_A32_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_A5_A12_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_A10_B05_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_B4_A89_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_B3_A44_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_F1_A24_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_D9_A103_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_C12_A27_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_B5_A46_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P10_D9_A46_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_A8_A42_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_F5_A26_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_E8_A83_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_E6_A75_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_E2_A25_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_D5_A15_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P18_C10_A96_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_E4_A49_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_E1_A52_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_D7_A79_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_D8_A06_02_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_A1_A79_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_D4_A60_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_A2_A42_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_A6_A84_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_F5_A37_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_E1_A69_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_D4_A28_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_B4_A82_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_A5_B03_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_C11_A75_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_H6_Blank_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_H7_Blank_14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P18_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P10_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P11_B11_A011_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_G8_A34_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_E3_A110_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_C7_A15_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_G2_A76_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_C4_A54_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_C1_A100_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_C5_A91_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_C6_A25_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_D6_A41_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_B11_A73_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_C9_A41_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_A9_A45_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_D8_A64_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_C7_A74_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_D9_A16_1_CRF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_C9_A16_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_B1_A103_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_B6_A45_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_D5_A61_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_B2_A20_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_D9_A52_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_C11_A59_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_G5_A11_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P7_E2_A75_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P7_D2_A63_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P7_D3_A65_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_C11_A57_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_B2_A88_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_F12_A78_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_A11_A91_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_B8_A51_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_H1_A62_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_A7_A76_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_D2_A99_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_B7_B09_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_E6_A67_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_D4_A107_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_E10_A83_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_A6_B03_1_MUC.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P11_A7_A04_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_B2_B07_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_F11_A29_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_G3_A79_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_C1_A73_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_B10_A54_1_UinvG_20230715171140.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P19_B3_B07_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_E9_A83_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P5_C2_A46_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P6_A3_A81_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_E3_A33_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_C6_A58_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_F4_A71_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_C4_A38_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_C9_A56_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_D1_A10_1_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P13_A11_B07_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_B2_A68_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_B5_A23_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_B2_B08_1_MUC.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P17_D1_A59_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_C10_A56_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P13_E6_A34_1_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P6_D10_A53_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_C4_A74_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_B9_A46_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_G11_A16_2_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_F6_A32_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_G2_A88_1_UN.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P3_A11_A43_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_B2_A88_1_Plasma_20230724133605.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_D10_A63_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_E1_A104_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_F4_A55_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_A3_A41_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_D10_A23_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_B3_B08_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_F2_A83_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_F9_A59_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_B5_A98_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_C11_A49_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_D7_A15_2_CRF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_F5_A32_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_C8_A48_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_A11_A21_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P16_F3_A25_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_G2_A79_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_B6_A97_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_E3_A65_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_D6_A101_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P12_H3_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P13_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P3_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P17_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P5_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P19_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P16_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P17_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P6_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_C8_A59_2_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_B3_A48_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_D2_A99_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_E4_A105_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_B5_A03_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_E10_A55_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_B8_A91_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_B5_A89_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_D2_A59_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P2_C7_A103_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_A7_A44_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_F10_A98_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_B5_B09_1_HMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P6_E4_A67_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_A11_A38_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_C3_A53_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_B8_A98_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P19_B8_B10_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_E2_A65_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_F11_A58_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_D10_A17_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_D11_A73_1_UinvG_20230715172439.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P1_C10_A26_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_E8_A68_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_B5_A20_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_G7_A89_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_B1_B06_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_H3_A62_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_E7_A69_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_E3_A25_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_D11_A57_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_D10_A72_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P5_B5_A28_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_F9_A76_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_A6_A16_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_G3_A110_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_E10_A108_2_Plasma_20230727111839.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_C11_A17_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_A6_A93_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_D5_A14_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_C6_B14_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_C6_B14_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_E8_A11_02_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_A2_A82_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_D10_A16_2_CRF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_C1_A46_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_A9_A42_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_F3_A71_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_C11_A104_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_C2_A23_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_A6_A84_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_B1_A43_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_C9_A96_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_D8_A46_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_E11_A83_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_E8_A82_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_A4_A65_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_B1_A20_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_E5_A21_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_C9_A96_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_C10_A17_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_C4_A94_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_E12_A72_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_C2_A56_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_E11_A29_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_C5_A25_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_B7_A26_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_B11_A05_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_F11_A60_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_D2_A18_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_G8_A79_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_C3_A100_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_A1_A74_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_F9_A87_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_C1_A93_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_B6_B10_1_GUT.mzML	animal		9606|Homo sapiens	small intestine			Crohn's disease	
+MSV000092571	P1_H12_Blank_19.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P3_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_H9_Blank_16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P18_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P17_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P8_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P2_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P16_B12_Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_F12_Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P13_G12_Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P19_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P13_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P17_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_B9_A91_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_B1_A22_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P9_A9_A78_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_B5_A49_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_C8_A57_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_A2_A41_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_D3_A04_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_C11_A42_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_B2_A23_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P7_B2_A40_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_G6_A81_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_C6_A103_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_D3_A99_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_E6_A106_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_B10_A92_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P1_D8_A27_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_A7_A14_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_A2_A91_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P17_D9_A63_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_A7_A28_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P3_G5_A60_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_C10_A011_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_A5_A94_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_B5_A08_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_G1_A109_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_B10_A92_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_B6_B09_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_H3_A37_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_F8_A57_4_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_D1_A18_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_C5_A48_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_C1_A88_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_D11_A24_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_C8_A09_2_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_F4_A74_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_A10_A67_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_G3_A31_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_B2_A81_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_A3_A83_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P6_G10_A16_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P9_C2_A89_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_D5_A44_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_B4_A89_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_E6_A50_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_B8_A38_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_A3_A83_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_C4_A90_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_G3_A59_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P15_D8_A102_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_F10_A35_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_A10_A86_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_E9_A55_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_D3_A60_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P9_B5_A83_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_D3_A28_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_E1_A31_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_B8_A52_1_UinvG_20230715175035.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_G2_A37_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_D5_A21_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_E2_A09_01_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P7_B6_A49_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P11_G1_A36_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_G2_A62_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_C9_A08_1_CRF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_B4_A02_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_C5_A95_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_A7_A16_1_InVG_20230714125927.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P5_D1_A58_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_C5_A74_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_A9_B05_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_G6_A66_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_E7_A107_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_C2_A37_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_E5_A68_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P8_B6_A110_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_D12_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_H11_Blank_18.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P9_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P14_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P3_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_G9_Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P7_H12_Blank_8_20230715224815.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_H1_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P16_C12_Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P1_H8_Blank_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P13_A12_Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P13_E12_Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P12_H12_Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092571	P15_B11_A92_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_A4_A93_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_F1_A70_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_G8_A40_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P2_D6_A107_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P4_D8_A79_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P13_D4_A14_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P18_E10_A108_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_E5_A106_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_F6_A75_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_D4_A66_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P12_G4_A80_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_D9_A102_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_E8_A107_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_B5_A89_2_Plasma_20230724131010.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_A6_B03_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_F2_A53_3_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_A9_A18_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P12_A11_A46_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_A3_B02_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P2_B9_A98_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P5_C6_A51_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P2_A9_A94_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_G4_A31_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_F6_A75_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_E4_A81_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P1_B12_A22_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P17_F10_A74_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P12_E10_A71_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_A2_A82_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P19_A3_B02_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_H2_A62_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_F9_A95_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_D4_A98_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_G9_A40_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_D5_A78_3_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_F5_A57_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_B3_A22_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_A9_A86_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_E3_A49_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P10_B10_A30_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_C11_A15_1_SuFat.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P6_G6_A12_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P15_A4_A83_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_B6_A90_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P18_D8_A102_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_B4_A48_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_C4_B13_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_E4_A33_1_UNMAT.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P10_C10_A41_2_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P3_B4_A45_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P19_A5_B03_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P4_G6_A88_5_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P18_F11_A77_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P11_F3_A31_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_D11_A18_1_DIST.mzML	animal		9606|Homo sapiens				Crohn's disease	
+MSV000092571	P12_F11_A77_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P16_B10_A06_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_C1_B12_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_A7_A85_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P5_A8_A18_1_InVG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P4_A2_A63_2_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P11_C6_A15_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P17_E10_A69_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P15_E2_A104_2_Plasma_20230724151946.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P7_A1_A18_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	
+MSV000092571	P8_D6_A05_02_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P9_A4_A75_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P16_G1_A30_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P13_C5_A04_1_INV_CRF.mzML	animal		9606|Homo sapiens	small intestine			Crohn's disease	
+MSV000092571	P12_F7_A75_2_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P3_E8_A55_1_CrF.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P14_B10_B11_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P14_A11_B06_1_Plasma.mzML	animal	biofluid	9606|Homo sapiens	blood plasma			Crohn's disease	
+MSV000092571	P10_F3_A54_1_MAT.mzML	animal		9606|Homo sapiens	adipose tissue			Crohn's disease	
+MSV000092571	P8_A11_A101_1_UinvG.mzML	animal		9606|Homo sapiens	mucosa			Crohn's disease	

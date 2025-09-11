@@ -1,0 +1,92 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000090290	R2_PA_OT_23.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_IB_6.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_OT_15.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_IB_18.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_blank5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	R2_blank10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	R2_UN_IB_58.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_IT_37.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_IB_2.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_OT_51.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_OT_27.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_blank8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	R2_PA_OB_20.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_LAC_sn1_65.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_IT_49.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_OB_36.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_OB_60.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_OT_31.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_OB_8.mzML	animal		10090|Mus musculus					
+MSV000090290	qc_10.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_OB_52.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_OT_59.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_OT_47.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_band3.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_OT_11.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_blank_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	R2_UN_IB_50.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PApell1_67.mzML	animal		10090|Mus musculus					
+MSV000090290	qc_6.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_Media1_61.mzML	animal		10090|Mus musculus					
+MSV000090290	qc_7.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_OB_48.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_OB_28.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_IB_38.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_IT_33.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_IT_5.mzML	animal		10090|Mus musculus					
+MSV000090290	qc_5.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_OT_7.mzML	animal		10090|Mus musculus					
+MSV000090290	qc_1.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_IT_17.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_blank9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	R2_PA_sn1_69.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_OB_32.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_OB_12.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_IT_45.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_Media2_62.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_LAC_pell2_64.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_sn2_70.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_OT_43.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_OT_3.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_IT_57.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_IT_1.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_IB_14.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_IB_46.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_IT_29.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_OT_19.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_OT_55.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_blank7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	band1.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_IB_26.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_IB_30.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_blank6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	qc_11.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_LAC_sn2_66.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_blank4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	R2_blank3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	qc_9.mzML	animal		10090|Mus musculus					
+MSV000090290	band2.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_OT_35.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_OB_44.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_OB_4.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_IB_42.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_IT_41.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_IT_53.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_OB_24.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_IB_54.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_IT_21.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_LAC_pell1_63.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_IT_25.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PApell2_68.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_PA_IB_22.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_blank2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000090290	R2_CO_OT_39.mzML	animal		10090|Mus musculus					
+MSV000090290	qc_8.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_IB_10.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_OB_16.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_IB_34.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_IT_13.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_UN_OB_56.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_SA_IT_9.mzML	animal		10090|Mus musculus					
+MSV000090290	R2_CO_OB_40.mzML	animal		10090|Mus musculus					

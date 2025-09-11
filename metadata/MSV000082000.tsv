@@ -1,0 +1,553 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000082000	Extraction solvent blank_RF11_01_8513.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_8514.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A15_RA2_01_8517.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A366_RA2_01_8582.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A81_RA5_01_7043.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A255_RB10_01_8537.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A383_RB7_01_8599.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A395_RE8_01_8619.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A211_RA11_01_7222.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16-Fetal-Liver_RF12_01_7299.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d_4_RH3_01_7103.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A367_RA3_01_8583.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A402_RF3_01_8626.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A393_RE6_01_8617.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A197_RF1_01_7266.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A9_RC11_01_7243.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A51_RA6_01_7045.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A211_RA11_01_7222.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A188_RA2_01_7040.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_serum_RC1_01_8605.mzXML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A32_RD12_01_7085.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A21_RB2_01_7054.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_RG1_01_7034.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A43_RD1_01_7245.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A45_RD9_01_7253.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RG12_01_7301.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7231.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8629.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A127_RB1_01_8528.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A113_RA9_01_7220.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A91_RD10_01_7082.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A272_RA4_01_7011.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_dil_fact_16_RE5_01_7032.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A389_RE2_01_8613.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A373_RA9_01_8589.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A65_RA3_01_7213.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A227_RC6_01_7237.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A412_RB11_01_8538.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A217_RB1_01_7053.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled-Sample-QC-Fetal-Liver_RF8_01_7276.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	QC_16_AF_RG5_01_8642.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A67_RA4_01_7214.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8_AF_RG4_01_8641.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A368_RA4_01_8584.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A64_RA1_01_7039.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_dil_4_RG3_01_7066.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A396_RE9_01_8620.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled-Sample-QC-Placenta_RH1_01_7274.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A239_RB8_01_8535.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A181_RB5_01_7228.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A129_RB2_01_8529.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A374_RA10_01_8590.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A374_RA10_01_8590.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A122_RD10_01_7254.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A164_RC4_01_7235.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A203_RE2_01_7258.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A381_RB5_01_8597.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A213_RA10_01_7221.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A173_RE4_01_7260.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A380_RB4_01_8596.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A199_RF3_01_7268.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A85_RB2_01_7225.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A392_RE5_01_8616.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A414_RA1_01_7211.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A380_RB4_01_8596.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RF11_01_7084.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction blank_RF1_01_7100.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7255.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7301.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8644.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7209.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7265.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A161_RC1_01_7232.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A258_RA1_01_7008.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A106_RC7_01_7238.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32_colon_RC6_01_8545.mzXML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_dil_32_RG6_01_7069.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A261_RC2_01_7018.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A19_RA3_01_7041.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A223_RE8_01_7264.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A234_RB5_01_8532.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A391_RE4_01_8615.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A17_RA3_01_8518.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_dil_2_RG2_01_7065.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d_1_RH5_01_7105.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A27_RA5_01_7215.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A75_RD1_01_7072.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A185_RB1_01_7224.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A235_RB6_01_8533.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8_serum_RC4_01_8608.mzXML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A229_RC2_01_7233.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2-Fetal-Liver_RF9_01_7296.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	QC_4-Fetal-Liver_RF10_01_7297.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A370_RA6_01_8586.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A365_RA1_01_8581.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A195_RF2_01_7267.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A201_RF4_01_7269.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d_2_RH2_01_7102.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A93_RD4_01_7075.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8-Liver_RE12_01_7292.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A417_RB8_01_7061.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A115_RE8_01_7094.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RF11_01_7026.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7107.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8579.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8546.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A179_RB3_01_7226.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A237_RB7_01_8534.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A414_RA1_01_7211.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2_AF_RG2_01_8639.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A150_RE4_01_7089.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A145_RD9_01_7081.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16_AF_RG5_01_8642.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_RG1_01_7064.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	QC_4_AF_RG3_01_8640.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A369_RA5_01_8585.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A372_RA8_01_8588.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A252_RE10_01_7096.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A57_RA6_01_8521.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A195_RF2_01_7267.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A119_RA10_01_8525.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A32_RD11_01_7083.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16_serum_RC5_01_8609.mzML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A274_RC4_01_7020.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A12_RD8_01_7252.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8_colon_RC4_01_8543.mzML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	A379_RB3_01_8595.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A368_RA4_01_8584.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_AF_RG1_01_8638.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A87_RA2_01_7212.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A382_RB6_01_8598.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A389_RE2_01_8613.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32_serum_RC6_01_8610.mzXML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	Pooled_AF_RG1_01_8638.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32_colon_RC6_01_8545.mzML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	A41_RE3_01_7088.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A388_RE1_01_8612.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2-Liver_RE10_01_7290.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A7_RD6_01_7250.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction blank_RF1_01_7100.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8629.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7037.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8546.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7014.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7219.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7283.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7289.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7295.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A73_RD2_01_7073.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled-Sample-QC-Liver_RE9_01_7275.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A281_RB2_01_7013.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A161_RC1_01_7232.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A206_RF5_01_7270.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A113_RA9_01_7220.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A159_RA11_01_7050.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A108_RC9_01_7240.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_dil_fact_2_RE2_01_7029.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_4-Liver_RE11_01_7291.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A14_RA1_01_8516.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A407_RF8_01_8634.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A394_RE7_01_8618.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A141_RD4_01_7248.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A173_RE4_01_7260.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A408_RF9_01_8635.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A109_RD3_01_7247.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8-Fetal-Liver_RF11_01_7298.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A43_RD1_01_7245.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A5_RE6_01_7091.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A144_RD5_01_7249.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A279_RD1_01_7022.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RG12_01_7283.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8644.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7084.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7077.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7007.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Pooled_sample_QC_Brain_dil_8_RG4_01_7067.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A227_RC6_01_7237.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_4_AF_RG3_01_8640.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A89_RE12_01_7098.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled-Sample-QC-Placenta_RH1_01_7274.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A417_RB8_01_7061.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2_serum_RC2_01_8606.mzXML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A292_RD4_01_7025.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8_serum_RC4_01_8608.mzML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A27_RA5_01_7215.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A97_RA7_01_8522.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A243_RD8_01_7080.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A53_RB7_01_7230.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2_AF_RG2_01_8639.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A115_RE8_01_7094.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2_serum_RC2_01_8606.mzML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A285_RD2_01_7023.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A257_RC1_01_7017.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32_AF_RG6_01_8643.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16-Fetal-intestine_RG5_01_7281.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A370_RA6_01_8586.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d_4_RH3_01_7103.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A403_RF4_01_8630.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RF11_01_7005.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7062.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7021.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7277.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction blank_RB9_01_7063.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7037.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8637.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7255.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7231.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7057.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A289_RB4_01_7016.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_dil_fact_2_RE2_01_7029.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A102_RA9_01_8524.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A241_RB9_01_8536.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16_colon_RD5_01_8544.mzML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	A191_RB7_01_7060.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A412_RB11_01_8538.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d32_RH6_01_7106.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A378_RB2_01_8594.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A106_RC7_01_7238.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A207_RF6_01_7271.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32-Fetal-Liver_RG10_01_7300.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A169_RE1_01_7257.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A375_RA11_01_8591.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A400_RF1_01_8624.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A69_RA8_01_7218.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A391_RE4_01_8615.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A137_RC12_01_7244.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A245_RD5_01_7076.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A400_RF1_01_8624.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A392_RE5_01_8616.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_4-Liver_RE11_01_7291.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	QC_8-Fetal-Intestine_RG4_01_7280.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A387_RB11_01_8603.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A219_RE3_01_7259.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A32_RD12_01_7085.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A395_RE8_01_8619.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A371_RA7_01_8587.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A404_RF5_01_8631.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_4_serum_RC3_01_8607.mzXML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A19_RA3_01_7041.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A159_RA11_01_7050.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A204_RE5_01_7261.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A367_RA3_01_8583.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A39_RA9_01_7048.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction blank_RB9_01_7063.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7051.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7014.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7295.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7099.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7241.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Pooled_sample_QC_dil_fact_8_RE4_01_7031.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A189_RB3_01_7055.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	P-Sample-QC-Fetal-Intestine_RG1_01_7273.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2_colon_RC2_01_8541.mzML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	A223_RE8_01_7264.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A125_RA12_01_8527.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A381_RB5_01_8597.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A268_RA3_01_7010.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A213_RA10_01_7221.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A398_RE11_01_8622.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A59_RA7_01_7046.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A247_RE9_01_7095.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A207_RF6_01_7271.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_4_colon_RC3_01_8542.mzXML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	QC_2-Fetal-Liver_RF9_01_7296.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d_1_RH5_01_7105.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A140_RD2_01_7246.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A134_RC8_01_7239.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A75_RD1_01_7072.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A245_RD5_01_7076.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A79_RA10_01_7049.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A201_RF4_01_7269.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A279_RD1_01_7022.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A164_RC4_01_7235.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A272_RA4_01_7011.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A69_RA8_01_7218.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RF11_01_7070.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7044.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8578.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A290_RD3_01_7024.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A136_RC10_01_7242.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_RH1_01_7101.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A199_RF3_01_7268.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A87_RA2_01_7212.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A156_RB6_01_7229.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A111_RE1_01_7086.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A373_RA9_01_8589.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_dil_8_RG4_01_7067.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A203_RE2_01_7258.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_dil_2_RG2_01_7065.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A83_RA6_01_7216.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_dil_fact_8_RE4_01_7031.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A15_RA2_01_8517.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A45_RD9_01_7253.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16-Liver_RH10_01_7293.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	QC_2-Fetal-Intestine_RG2_01_7278.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A287_RB3_01_7015.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A5_RE6_01_7091.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A197_RF1_01_7266.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_serum_RC1_01_8605.mzML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A365_RA1_01_8581.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A111_RE1_01_7086.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A7_RD6_01_7250.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A9_RC11_01_7243.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A398_RE11_01_8622.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A109_RD3_01_7247.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_4-Fetal-Intestine_RG3_01_7279.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A26_RA7_01_7217.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A73_RD2_01_7073.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A37_RA5_01_8520.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A371_RA7_01_8587.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A366_RA2_01_8582.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A410_RD7_01_7251.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A274_RC4_01_7020.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A281_RB2_01_7013.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A191_RB7_01_7060.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_dil_16_RG5_01_7068.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_dil_16_RG5_01_7068.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_dil_fact_16_RE5_01_7032.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A229_RC2_01_7233.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A226_RC5_01_7236.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RG12_01_7241.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8611.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7265.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7209.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7289.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8611.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8540.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7277.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A406_RF7_01_8633.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_colon_RC1_01_8539.mzML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	A183_RB4_01_7227.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A217_RB1_01_7053.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A151_RD6_01_7078.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A21_RB2_01_7054.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A150_RE4_01_7089.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_colon_RC1_01_8539.mzXML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	A122_RD10_01_7254.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A134_RC8_01_7239.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A222_RE7_01_7263.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A257_RC1_01_7017.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_RG1_01_7034.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A140_RD2_01_7246.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A206_RF5_01_7270.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A171_RE6_01_7262.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A67_RA4_01_7214.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16-Fetal-intestine_RG5_01_7281.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A385_RB9_01_8601.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A39_RA9_01_7048.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A384_RB8_01_8600.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A148_RE2_01_7087.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A390_RE3_01_8614.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A239_RB8_01_8535.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A408_RF9_01_8635.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A393_RE6_01_8617.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A376_RA12_01_8592.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RH11_01_8540.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7092.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7092.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	QC_8_AF_RG4_01_8641.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2-Liver_RE10_01_7290.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A261_RC2_01_7018.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A17_RA3_01_8518.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A81_RA5_01_7043.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A137_RC12_01_7244.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A153_RA12_01_7223.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A404_RF5_01_8631.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	P-Sample-QC-Fetal-Intestine_RG1_01_7273.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2-Fetal-Intestine_RG2_01_7278.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32-Liver_RH11_01_7294.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A222_RE7_01_7263.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A132_RB3_01_8530.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A235_RB6_01_8533.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32-Fetal-Liver_RG10_01_7300.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A219_RE3_01_7259.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A287_RB3_01_7015.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A399_RE12_01_8623.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32_serum_RC6_01_8610.mzML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A33_RA4_01_8519.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A32_RD11_01_7083.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A71_RD3_01_7074.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A46_RB5_01_7058.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A77_RA12_01_7052.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A382_RB6_01_8598.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A247_RE9_01_7095.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A254_RE11_01_7097.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A204_RE5_01_7261.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RH11_01_8637.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8578.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7044.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A61_RA4_01_7042.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A405_RF6_01_8632.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16_colon_RD5_01_8544.mzXML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	A409_RF10_01_8636.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A153_RA12_01_7223.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A252_RE10_01_7096.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A387_RB11_01_8603.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8_colon_RC4_01_8543.mzXML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	Pooled-Sample-QC-Fetal-Liver_RF8_01_7276.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A166_RC3_01_7234.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8-Fetal-Intestine_RG4_01_7280.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d_8_RH4_01_7104.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A41_RE3_01_7088.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A179_RB3_01_7226.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d_2_RH2_01_7102.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A151_RD6_01_7078.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A123_RA11_01_8526.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_4-Fetal-Liver_RF10_01_7297.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A14_RA1_01_8516.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A33_RA4_01_8519.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A231_RB4_01_8531.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16-Liver_RH10_01_7293.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	QC_32-Fetal-Intestine_RG6_01_7282.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A234_RB5_01_8532.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_RG1_01_7035.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_RH1_01_7101.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A61_RA4_01_7042.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A1_RE5_01_7090.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_2_colon_RC2_01_8541.mzXML	animal		10090|Mus musculus	colon			autism spectrum disorder	
+MSV000082000	A91_RD10_01_7082.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A119_RA10_01_8525.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A401_RF2_01_8625.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A388_RE1_01_8612.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A97_RA7_01_8522.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A277_RB1_01_7012.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8-Fetal-Liver_RF11_01_7298.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A148_RE2_01_7087.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RF11_01_7062.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8579.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7021.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7077.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7057.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A268_RA3_01_7010.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A108_RC9_01_7240.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A59_RA7_01_7046.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d32_RH6_01_7106.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A403_RF4_01_8630.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A24_RB4_01_7056.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A369_RA5_01_8585.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A285_RD2_01_7023.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled-Sample-QC-Liver_RE9_01_7275.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A77_RA12_01_7052.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32_AF_RG6_01_8643.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A407_RF8_01_8634.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A26_RA7_01_7217.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Ftl_brain_d_8_RH4_01_7104.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A409_RF10_01_8636.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A51_RA6_01_7045.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A132_RB3_01_8530.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A183_RB4_01_7227.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A185_RB1_01_7224.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A125_RA12_01_8527.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A255_RB10_01_8537.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A377_RB1_01_8593.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_dil_32_RG6_01_7069.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A401_RF2_01_8625.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A85_RB2_01_7225.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A379_RB3_01_8595.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A71_RD3_01_7074.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A1_RE5_01_7090.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A262_RA2_01_7009.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RF11_01_8514.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RG12_01_7219.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7005.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7107.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7099.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A188_RA2_01_7040.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A145_RD9_01_7081.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A64_RA1_01_7039.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A181_RB5_01_7228.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_8-Liver_RE12_01_7292.mzXML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A376_RA12_01_8592.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A24_RB4_01_7056.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_RG1_01_7035.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	A377_RB1_01_8593.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A243_RD8_01_7080.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A53_RB7_01_7230.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A378_RB2_01_8594.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A65_RA3_01_7213.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A290_RD3_01_7024.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A399_RE12_01_8623.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A129_RB2_01_8529.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A12_RD8_01_7252.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A386_RB10_01_8602.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A79_RA10_01_7049.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_32-Liver_RH11_01_7294.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	A166_RC3_01_7234.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A93_RD4_01_7075.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A169_RE1_01_7257.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A157_RA8_01_7047.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16_serum_RC5_01_8609.mzXML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A383_RB7_01_8599.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A405_RF6_01_8632.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A144_RD5_01_7249.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A384_RB8_01_8600.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A193_RB6_01_7059.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A241_RB9_01_8536.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_dil_4_RG3_01_7066.mzML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RF11_01_7007.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7036.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7026.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_8513.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7051.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	A37_RA5_01_8520.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A402_RF3_01_8626.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A209_RF7_01_7272.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A386_RB10_01_8602.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A410_RD7_01_7251.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A193_RB6_01_7059.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A127_RB1_01_8528.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A249_RD7_01_7079.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A136_RC10_01_7242.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A249_RD7_01_7079.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A262_RA2_01_7009.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A397_RE10_01_8621.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A57_RA6_01_8521.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A385_RB9_01_8601.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A258_RA1_01_7008.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A226_RC5_01_7236.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A83_RA6_01_7216.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A157_RA8_01_7047.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A46_RB5_01_7058.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A102_RA9_01_8524.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A390_RE3_01_8614.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Extraction solvent blank_RF11_01_7036.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RF11_01_7070.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8604.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	Extraction solvent blank_RH11_01_8604.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000082000	QC_32-Fetal-Intestine_RG6_01_7282.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A406_RF7_01_8633.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A375_RA11_01_8591.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A394_RE7_01_8618.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A189_RB3_01_7055.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A156_RB6_01_7229.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A396_RE9_01_8620.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A141_RD4_01_7248.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_16-Fetal-Liver_RF12_01_7299.mzML	animal		10090|Mus musculus	liver			autism spectrum disorder	
+MSV000082000	QC_4-Fetal-Intestine_RG3_01_7279.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A89_RE12_01_7098.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A292_RD4_01_7025.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A237_RB7_01_8534.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A209_RF7_01_7272.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A171_RE6_01_7262.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A289_RB4_01_7016.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A372_RA8_01_8588.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A397_RE10_01_8621.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A123_RA11_01_8526.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A231_RB4_01_8531.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	A277_RB1_01_7012.mzXML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	Pooled_sample_QC_Brain_RG1_01_7064.mzXML	animal		10090|Mus musculus	brain			autism spectrum disorder	
+MSV000082000	QC_4_serum_RC3_01_8607.mzML	animal	biofluid	10090|Mus musculus	blood serum			autism spectrum disorder	
+MSV000082000	A254_RE11_01_7097.mzML	animal		10090|Mus musculus				autism spectrum disorder	
+MSV000082000	QC_4_colon_RC3_01_8542.mzML	animal		10090|Mus musculus	colon			autism spectrum disorder	

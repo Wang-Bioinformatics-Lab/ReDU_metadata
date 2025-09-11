@@ -1,0 +1,99 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097772	serum_pos_36.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_53.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_20.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_50.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_57.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	blank15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	serum_pos_51.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_10.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_39.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_56.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_8.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_31.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_2.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	HILIC_QC_6.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_32.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	GABA_25uM_3.mzML	animal		10090|Mus musculus					
+MSV000097772	blank5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	serum_pos_38.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_44.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	GABA_25uM_1.mzML	animal		10090|Mus musculus					
+MSV000097772	blank8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	HILIC_QC_2.mzML	animal		10090|Mus musculus					
+MSV000097772	HILIC_QC_7.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_9.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_16.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	HILIC_QC_5.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_54.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_28.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	HILIC_QC_11.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_19.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_12.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_13.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	blank3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	blank13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	blank7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	HILIC_QC_8.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_34.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	GABA_40uM_1.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_48.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	HILIC_QC_12.mzML	animal		10090|Mus musculus					
+MSV000097772	GABA_40uM_2.mzML	animal		10090|Mus musculus					
+MSV000097772	HILIC_QC_3.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_35.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	GABA_30uM_3.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_22.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	GABA_10uM_3.mzML	animal		10090|Mus musculus					
+MSV000097772	blank14.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	blank12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	serum_pos_3.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_30.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_42.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_11.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_47.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_21.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	blank11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	blank9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	serum_pos_7.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_17.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_4.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_52.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	GABA_10uM_1.mzML	animal		10090|Mus musculus					
+MSV000097772	GABA_30uM_2.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_1.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_45.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	HILIC_QC_1.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_40.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_24.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_26.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_46.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_58.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_6.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	blank16.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	blank10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	serum_pos_33.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_49.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_18.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_5.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	GABA_25uM_2.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_14.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	blank1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	serum_pos_29.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_37.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	blank2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	HILIC_QC_9.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_55.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	blank6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	blank4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097772	serum_pos_23.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_15.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	serum_pos_25.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	HILIC_QC_10.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_41.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	GABA_30uM_1.mzML	animal		10090|Mus musculus					
+MSV000097772	GABA_40uM_3.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_27.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	HILIC_QC_4.mzML	animal		10090|Mus musculus					
+MSV000097772	serum_pos_43.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000097772	blank17.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

@@ -1,0 +1,1841 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000084322	Plate8_55312_Skin_GB5_01_27341.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55328_Skin_GG7_01_26872.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55148_Skin_GE3_01_27072.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45430_Skin_GB5_01_26579.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55170_Skin_GB6_01_27342.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65248_Skin_GB9_01_27225.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55586_Skin_Rerun_GF11_01_26550.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25432_Skin_GA5_01_26336.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25232_Skin_GB11_01_26134.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43290_Skin_GG11_01_26298.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25952_Skin_GB8_01_26354.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61576_Skin_GG2_01_27408.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_No_Injection_RA1_01_27011.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GF12_01_27406.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26620.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GE12_01_27083.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_55294_Skin_GB5_01_27032.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_54504_Skin_GF4_01_26515.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54772_Skin_GG10_01_27109.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43376_Skin_GE6_01_26264.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61362_Skin_GD9_01_26993.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25506_Skin_GC4_01_26972.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45736_Skin_GH10_01_27311.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60930_Skin_GD6_01_26610.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54718_Skin_GG2_01_27288.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61522_Skin_GC1_01_26731.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61936_Skin_GE9_01_26505.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43864_Skin_GH3_01_26303.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43448_Skin_GA6_01_26119.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54898_Skin_GH5_01_26883.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25576_Skin_GD2_01_26985.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64292_Skin_Rerun_GG3_01_26798.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61450_Skin_GE4_01_27382.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61758_Skin_GC3_01_26971.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45306_Skin_GA11_01_27333.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25846_Skin_GH11_01_26311.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25340_Skin_Rerun_GB5_01_26350.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64436_Skin_GA5_01_26452.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54536_Skin_GA7_01_27209.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44168_Skin_GD10_01_26995.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25326_Skin_GH5_01_27426.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC End_RA2_01_27444.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61592_Skin_GD3_01_26748.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61196_Skin_GG10_01_27297.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63738_Skin_GC5_01_26595.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44154_Skin_GE2_01_26260.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65068_Skin_GG11_01_27300.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45752_Skin_GH3_01_26668.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60622_Skin_GB10_01_27038.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55402_Skin_GH7_01_26545.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61196_Skin_GG10_01_27297.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55458_Skin_GF3_01_26403.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45342_Skin_Rerun_GC4_01_27438.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45610_Skin_GD2_01_27366.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64366_Skin_GH6_01_26436.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61160_Skin_GC4_01_27233.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43756_Skin_GB4_01_26348.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61988_Skin_GH8_01_26546.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44190_Skin_Rerun_GB6_01_27005.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61218_Skin_GF5_01_26641.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_45071_Skin_GF8_01_26520.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45430_Skin_GB5_01_26579.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43614_Skin_GG4_01_26290.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43340_Skin_GC7_01_26366.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54718_Skin_GG2_01_27288.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43288_Skin_GA11_01_26123.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43522_Skin_GD2_01_26322.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43270_Skin_GB6_01_26130.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43738_Skin_GC11_01_26370.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63716_Skin_Rerun_GH1_01_26684.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64834_Skin_GG8_01_26424.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43468_Skin_GF2_01_26274.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64240_Skin_GB9_01_26586.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61648_Skin_GE2_01_27380.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45718_Skin_GF6_01_26642.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60606_Skin_GF5_01_27088.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25684_Skin_GD11_01_26384.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60548_Skin_GG11_01_27110.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64638_Skin_GE11_01_26398.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61720_Skin_GC6_01_26736.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45608_Skin_GC7_01_27358.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_StartPlate3_RA2_01_26446.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_63754_Skin_GG7_01_27106.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61036_Skin_GD4_01_27248.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_EndPlate3_RA2_01_26554.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55436_Skin_GG11_01_26537.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45646_Skin_GC9_01_27360.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64436_Skin_GA5_01_26452.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65086_Skin_GB5_01_27220.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank _RA1_01_26379.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GA12_01_27335.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26753.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27463.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27119.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GF12_01_26415.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26658.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GH12_01_27436.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26710.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27098.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_60858_Skin_GA1_01_26560.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC End_RA2_01_27444.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43736_Skin_GC8_01_26367.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64510_Skin_GG3_01_26528.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64654_Skin_GH10_01_26441.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25378_Skin_GG6_01_27412.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25808_Skin_GB10_01_26356.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61412_Skin_GC10_01_26979.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55042_Skin_Rerun_GE6_01_26903.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_54556_Skin_GA3_01_26562.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25664_Skin_GF7_01_26280.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45752_Skin_GH3_01_26668.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45536_Skin_GE3_01_26764.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65212_Skin_GC7_01_27237.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_63682_Skin_GB8_01_27036.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64186_Skin_GF11_01_27284.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64690_Skin_GD10_01_26494.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54882_Skin_GD11_01_26758.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61990_Skin_GE8_01_26504.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_RA1_01_26583.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26915.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27385.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GG12_01_26430.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GG12_01_26300.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_25630_Skin_GF5_01_27397.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61738_Skin_GC6_01_26974.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25736_Skin_GH9_01_27432.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61720_Skin_GC6_01_26736.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45862_Skin_GE1_01_27070.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65068_Skin_GG11_01_27300.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63630_Skin_GF7_01_26644.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61252_Skin_GE7_01_26770.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_RA2_01_26699.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45826_Skin_GB8_01_26724.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64328_Skin_GC8_01_26599.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45918_Skin_GD5_01_26750.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63666_Skin_GA9_01_27211.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61342_Skin_GH7_01_27429.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_End_RA2_01_27012.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63628_Skin_GH6_01_26671.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45428_Skin_GA3_01_27204.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43666_Skin_GE9_01_26268.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63788_Skin_GH3_01_26881.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43684_Skin_GA10_01_26341.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55154_Skin_GD8_01_27064.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_43794_Skin_GA7_01_26945.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54932_Skin_GF2_01_26780.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45358_Skin_GA11_01_26572.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43648_Skin_GC5_01_26141.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60514_Skin_GB8_01_27345.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63774_Skin_GG3_01_26654.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60496_Skin_GC6_01_26478.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54644_Skin_GC1_01_27230.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54824_Skin_GH2_01_27114.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25270_Skin_GD11_01_26256.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54558_Skin_GG8_01_27107.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61972_Skin_GG9_01_27417.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45610_Skin_GD2_01_27366.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60966_Skin_GD3_01_27247.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61866_Skin_GH2_01_26432.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_62026_Skin_GG11_01_26427.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25468_Skin_GF3_01_26275.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61038_Skin_GC3_01_26593.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60678_Skin_GH7_01_27120.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60802_Skin_GF10_01_27283.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43540_Skin_GD5_01_26251.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64508_Skin_GB9_01_26469.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_60800_Skin_GD1_01_26746.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61954_Skin_GF11_01_26412.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64602_Skin_GG5_01_26420.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25376_Skin_Rerun_GA4_01_27002.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43268_Skin_GA8_01_26339.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61664_Skin_GH3_01_27115.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64402_Skin_GD5_01_26489.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43758_Skin_GC1_01_26359.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60568_Skin_GC6_01_27047.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45644_Skin_GH10_01_27123.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54968_Skin_GA2_01_27015.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54754_Skin_GC5_01_27046.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_55564_Skin_GC2_01_26592.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60908_Skin_GE8_01_27267.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25808_Skin_GB10_01_26356.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43612_Skin_GA4_01_26335.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65106_Skin_GA8_01_26569.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60442_Skin_GH11_01_27312.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64708_Skin_GC11_01_26483.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63664_Skin_GG5_01_26870.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64204_Skin_GF2_01_27274.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45664_Skin_GB9_01_27037.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64400_Skin_GG9_01_26535.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25268_Skin_GD3_01_26986.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54862_Skin_GF7_01_27091.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43864_Skin_GH3_01_26303.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25340_Skin_Rerun_GB5_01_26350.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55006_Skin_GC10_01_27361.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45934_Skin_GF3_01_27086.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43666_Skin_GE9_01_26268.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55098_Skin_GB10_01_26726.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61450_Skin_GE4_01_27382.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45304_Skin_GD10_01_27255.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60894_Skin_GF5_01_27277.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43398_Skin_GG3_01_26289.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43810_Skin_GC2_01_26137.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25326_Skin_GH5_01_27426.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45232_Skin_GD6_01_27250.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25398_Skin_GG8_01_26295.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_No_Injection_RA1_01_27013.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GA12_01_27215.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GH12_01_26679.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GB12_01_26590.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GG12_01_27299.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27398.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate9_Blank_Empty_Skin_GD12_01_26997.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GF12_01_26651.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27385.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26516.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GH12_01_26444.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GG12_01_26430.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GE12_01_27272.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GH12_01_27315.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_64618_Skin_GE2_01_26498.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63680_Skin_GG8_01_26660.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43628_Skin_GC3_01_26315.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25448_Skin_GA11_01_26949.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63790_Skin_GB2_01_26576.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65142_Skin_GG6_01_26657.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61612_Skin_GG6_01_26871.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60550_Skin_GE9_01_27079.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63664_Skin_GG5_01_26870.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64600_Skin_GE4_01_26390.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25288_Skin_GC3_01_26361.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25900_Skin_GG2_01_26288.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45486_Skin_GF8_01_27092.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25954_Skin_GC10_01_26369.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55206_Skin_GE11_01_27081.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64134_Skin_GE8_01_26395.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60836_Skin_GA10_01_26571.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60836_Skin_GA10_01_26571.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_RA1_01_26567.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GG12_01_27112.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26994.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26611.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_43520_Skin_GA9_01_26340.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60694_Skin_GD3_01_26607.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60620_Skin_GE8_01_27078.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43828_Skin_GE7_01_27386.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61880_Skin_GF5_01_26405.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61794_Skin_GD7_01_27372.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45198_Skin_GA6_01_27207.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64528_Skin_GE4_01_26500.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64744_Skin_GF1_01_26512.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45522_Skin_GF9_01_26788.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61110_Skin_GD7_01_26612.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25974_Skin_Rerun_GC4_01_26140.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61288_Skin_GD11_01_27376.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60928_Skin_GC2_01_27231.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64328_Skin_GC8_01_26599.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60908_Skin_GE8_01_27267.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_43794_Skin_GA7_01_26945.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54990_Skin_GD1_01_27056.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55314_Skin_GH11_01_27124.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43664_Skin_GG7_01_26294.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61830_Skin_GD7_01_26491.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60982_Skin_GG5_01_26656.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55076_Skin_GA10_01_27024.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_Rerun_RA2_01_26558.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43432_Skin_GA1_01_26113.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64618_Skin_GE2_01_26498.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64508_Skin_GB9_01_26469.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45520_Skin_GA11_01_26713.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45594_Skin_GB4_01_27340.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54954_Skin_GC3_01_27044.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63700_Skin_GA4_01_27205.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54918_Skin_Rerun_GB5_01_26894.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55258_Skin_GH2_01_26880.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45754_Skin_Rerun_GA4_01_26680.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45898_Skin_GB3_01_26718.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64240_Skin_GB9_01_26586.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43880_Skin_GA3_01_26116.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61360_Skin_GF3_01_26781.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45320_Skin_GC9_01_27051.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25630_Skin_GF5_01_27397.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_44046_Skin_GA11_01_26342.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25306_Skin_GD9_01_27374.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44132_Skin_GF5_01_26277.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_43774_Skin_GC11_01_26980.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45898_Skin_GB3_01_26718.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64278_Skin_GD2_01_26747.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_63844_Skin_GG5_01_27103.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45356_Skin_GB1_01_27216.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55240_Skin_GD2_01_27057.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45378_Skin_GF10_01_26647.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55330_Skin_GA6_01_26706.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_43720_Skin_GC8_01_26977.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25448_Skin_GA11_01_26949.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61090_Skin_GB4_01_26578.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45464_Skin_GF7_01_26786.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_MidPlate3_RA2_01_26510.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_54680_Skin_GB6_01_26580.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61052_Skin_GF9_01_27282.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64870_Skin_GA6_01_26453.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60766_Skin_GB11_01_27227.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61090_Skin_GB4_01_26578.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60620_Skin_GE8_01_27078.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44044_Skin_GG9_01_26296.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61506_Skin_GD6_01_26751.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43378_Skin_GA1_01_26332.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45250_Skin_GG9_01_27296.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_55494_Skin_GB11_01_26588.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44096_Skin_GD8_01_26992.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43412_Skin_GH1_01_26301.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54628_Skin_GA3_01_27016.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54600_Skin_GG9_01_27108.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_No_Injection_RA1_01_27119.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate9_Blank_Empty_Skin_GA12_01_26951.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27398.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26975.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27279.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GF12_01_27286.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GH12_01_26444.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GD12_01_26618.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27199.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26329.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26688.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26707.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_60376_Skin_GB6_01_26721.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62010_Skin_GH12_01_26553.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64636_Skin_GF10_01_26411.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45142_Skin_GD11_01_27067.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45286_Skin_GC1_01_27042.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61432_Skin_GE9_01_27388.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55589_Skin_GH8_01_26439.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_54738_Skin_GA2_01_27323.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55276_Skin_GA1_01_27322.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25900_Skin_GG2_01_26288.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61448_Skin_GG10_01_27418.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60982_Skin_GG5_01_26656.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_RA1_01_26886.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank _RA1_01_26365.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GC12_01_26320.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GF12_01_26793.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_64206_Skin_Rerun_GF1_01_26637.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54860_Skin_GA10_01_26712.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25828_Skin_GC5_01_26363.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54630_Skin_GA8_01_27210.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65214_Skin_GG9_01_26661.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61700_Skin_GC11_01_26742.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25556_Skin_GF10_01_27403.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45860_Skin_GD4_01_27059.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64708_Skin_GC11_01_26483.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61666_Skin_GB7_01_26723.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64940_Skin_GA2_01_27203.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43506_Skin_GB7_01_26131.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64978_Skin_GH9_01_26675.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55096_Skin_GF9_01_27093.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45484_Skin_Rerun_GC5_01_27439.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45774_Skin_GA5_01_26705.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64746_Skin_GH11_01_26549.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25772_Skin_GA9_01_26947.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45882_Skin_GF6_01_26784.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_60800_Skin_GD1_01_26746.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45680_Skin_GA4_01_27325.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_41486_Skin_GH7_01_26673.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45700_Skin_GA9_01_27331.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45896_Skin_GB2_01_26717.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63646_Skin_GC8_01_27239.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60534_Skin_GC11_01_27053.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54646_Skin_GB10_01_27226.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64206_Skin_Rerun_GF1_01_26637.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64818_Skin_GC3_01_26475.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45250_Skin_GG9_01_27296.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65230_Skin_GH11_01_26677.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60944_Skin_GF4_01_27276.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25792_Skin_GA6_01_26942.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55292_Skin_Rerun_GC2_01_26895.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43846_Skin_GA5_01_26118.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64780_Skin_GH6_01_26544.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64384_Skin_GB5_01_26465.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55294_Skin_GB5_01_27032.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45954_Skin_GE5_01_27074.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61846_Skin_GC2_01_26474.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43810_Skin_GC2_01_26137.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25290_Skin_GC7_01_26976.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43486_Skin_GA7_01_26120.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25736_Skin_GH9_01_27432.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25594_Skin_GA4_01_26117.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65050_Skin_GB3_01_27218.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61198_Skin_GD11_01_26616.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54934_Skin_GE8_01_26771.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45736_Skin_GH10_01_27311.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45880_Skin_GG1_01_26794.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64420_Skin_GB11_01_26471.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63738_Skin_GC5_01_26595.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45268_Skin_GF7_01_27280.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60476_Skin_GG4_01_27290.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60604_Skin_GC2_01_27352.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43414_Skin_GC10_01_26318.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64816_Skin_GD1_01_26485.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61686_Skin_GH1_01_26879.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43414_Skin_GC10_01_26318.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45808_Skin_GC11_01_26602.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25412_Skin_GA5_01_26941.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54880_Skin_GC7_01_26738.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60966_Skin_GD3_01_27247.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61268_Skin_GB11_01_26963.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61074_Skin_GC8_01_27359.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43736_Skin_GC8_01_26367.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54918_Skin_Rerun_GB5_01_26894.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61088_Skin_GC7_01_26598.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61288_Skin_GD11_01_27376.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25290_Skin_GC7_01_26976.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25520_Skin_Rerun_GB4_01_27004.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55438_Skin_GE10_01_26397.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54810_Skin_GB1_01_27028.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25304_Skin_GE8_01_27387.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61520_Skin_GG11_01_26876.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43542_Skin_GD8_01_26381.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25794_Skin_GF9_01_26282.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54772_Skin_GG10_01_27109.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25792_Skin_GA6_01_26942.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63788_Skin_GH3_01_26881.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_Blank_Empty_Skin_GG12_01_26538.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26407.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27465.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27431.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GD12_01_26761.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GE12_01_27392.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27020.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GC12_01_27055.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GA12_01_26343.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26557.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_55186_Skin_Rerun_GC3_01_27437.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54846_Skin_Rerun_GC4_01_26896.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25450_Skin_GE1_01_26387.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25556_Skin_GF10_01_27403.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60838_Skin_Rerun_GB7_01_26685.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_65070_Skin_GB6_01_27033.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64400_Skin_GG9_01_26535.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45666_Skin_GD9_01_27065.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62010_Skin_GH12_01_26553.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45896_Skin_GB2_01_26717.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54682_Skin_GE9_01_26772.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60548_Skin_GG11_01_27110.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61542_Skin_GE11_01_26774.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61018_Skin_GA6_01_26566.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_44170_Skin_GG11_01_27419.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63824_Skin_GC8_01_26739.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55024_Skin_GA5_01_27326.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64760_Skin_GD11_01_26495.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64528_Skin_GE4_01_26500.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64348_Skin_GA7_01_26568.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QCEnd_RA2_01_26689.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64904_Skin_GF9_01_26521.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45466_Skin_GF1_01_27084.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45754_Skin_Rerun_GA4_01_26565.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55546_Skin_GF2_01_26402.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_Blank_Empty_Skin_GD12_01_26496.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26658.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GE12_01_26511.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GC12_01_27364.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26933.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26393.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GC12_01_26745.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_43664_Skin_GG7_01_26294.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43290_Skin_GG11_01_26298.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43830_Skin_GB5_01_26129.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25578_Skin_GA9_01_26121.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61486_Skin_GA7_01_26708.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61522_Skin_GC1_01_26731.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61144_Skin_GF11_01_26790.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25304_Skin_GE8_01_27387.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55400_Skin_GH5_01_26435.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54754_Skin_GC5_01_27046.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65176_Skin_GB7_01_27223.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64564_Skin_Rerun_GH5_01_26551.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45284_Skin_GE1_01_27259.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54774_Skin_GH6_01_27118.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55220_Skin_GA3_01_26703.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44026_Skin_GE11_01_26270.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64220_Skin_GE8_01_26630.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43362_Skin_GH9_01_26309.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61540_Skin_GC4_01_27045.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25684_Skin_GD11_01_26384.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_65014_Skin_GH4_01_27116.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43902_Skin_GH6_01_27427.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61434_Skin_GG1_01_27407.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55040_Skin_GG1_01_27099.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61054_Skin_GD5_01_27249.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43557_Skin_GC9_01_26110.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55402_Skin_GH7_01_26545.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65104_Skin_GH4_01_26669.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43866_Skin_GD7_01_26253.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63608_Skin_GG4_01_26869.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC End_RA2_01_27316.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54862_Skin_GF7_01_27091.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60748_Skin_GE3_01_26624.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64544_Skin_GG10_01_26426.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45176_Skin_GH2_01_26667.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61844_Skin_GH3_01_26541.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45126_Skin_GD2_01_26606.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25828_Skin_GC5_01_26363.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65122_Skin_GD10_01_26615.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25578_Skin_GA9_01_26121.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_65178_Skin_Rerun_GD9_01_26900.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65142_Skin_GG6_01_26657.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25700_Skin_GH3_01_27424.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60858_Skin_GA1_01_26560.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61972_Skin_GG9_01_27417.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43360_Skin_GE3_01_26261.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25758_Skin_GD11_01_26996.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64744_Skin_GF1_01_26512.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54574_Skin_GG6_01_27104.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25484_Skin_GB2_01_26953.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54558_Skin_GG8_01_27107.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65176_Skin_GB7_01_27223.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61736_Skin_GC5_01_26973.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25648_Skin_GA6_01_26337.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61414_Skin_GA4_01_26704.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64078_Skin_Rerun_GF9_01_26414.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60946_Skin_GG3_01_27289.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64996_Skin_GB8_01_26585.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43434_Skin_GF10_01_26283.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45574_Skin_GA1_01_27014.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43396_Skin_GB9_01_26355.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61794_Skin_GD7_01_27372.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64510_Skin_GG3_01_26528.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43412_Skin_GH1_01_26301.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61844_Skin_GH3_01_26541.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54970_Skin_GF6_01_27089.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54954_Skin_GC3_01_27044.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64796_Skin_GE5_01_26391.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63716_Skin_Rerun_GH1_01_26684.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60838_Skin_Rerun_GB7_01_26685.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61614_Skin_Rerun_GD10_01_26902.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25650_Skin_GA7_01_26338.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45448_Skin_GE10_01_27269.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64674_Skin_GE3_01_26499.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25772_Skin_GA9_01_26947.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25288_Skin_GC3_01_26361.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60820_Skin_GG1_01_27287.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60426_Skin_GA9_01_26570.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_63808_Skin_GC10_01_27052.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25558_Skin_GB11_01_26357.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank Resuspension_RA1_01_27464.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate9_Blank_Empty_Skin_GC12_01_26983.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26785.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27011.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GE12_01_27083.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27048.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26737.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26737.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GA12_01_26460.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GC12_01_27244.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GG12_01_26878.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27443.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26393.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27236.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27238.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26899.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GD12_01_27378.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27010.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27034.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_60640_Skin_GB2_01_27337.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64314_Skin_GC10_01_27241.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61326_Skin_GG10_01_26875.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45322_Skin_GE4_01_27073.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54644_Skin_GC1_01_27230.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54968_Skin_GA2_01_27015.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61722_Skin_GE6_01_27384.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65230_Skin_GH11_01_26677.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43558_Skin_GB3_01_26127.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44026_Skin_GE11_01_26270.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65250_Skin_GD5_01_26609.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64492_Skin_GF2_01_26513.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55060_Skin_GD8_01_26755.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64292_Skin_Rerun_GG3_01_26798.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55492_Skin_GE7_01_26503.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25612_Skin_GB4_01_26128.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61700_Skin_GC11_01_26742.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43900_Skin_GG8_01_27415.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64112_Skin_GH3_01_26433.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45934_Skin_GF3_01_27086.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25614_Skin_GE8_01_26267.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_Blank_Empty_Skin_GA12_01_26460.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27464.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GE12_01_26511.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26944.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GA12_01_27215.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26567.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_62059_Skin_GE10_01_26506.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61268_Skin_GB11_01_26963.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61160_Skin_GC4_01_27233.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64834_Skin_GG8_01_26424.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60786_Skin_GD9_01_27254.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55170_Skin_GB6_01_27342.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63700_Skin_GA4_01_27205.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25866_Skin_GF1_01_26273.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64654_Skin_GH10_01_26441.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43650_Skin_GF4_01_26276.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43506_Skin_GB7_01_26131.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64096_Skin_GE11_01_26507.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60946_Skin_GG3_01_27289.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64148_Skin_GG8_01_26534.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44008_Skin_Rerun_GB7_01_27006.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44098_Skin_GD1_01_26321.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61146_Skin_GH5_01_27305.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61558_Skin_GH8_01_27430.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44060_Skin_GC8_01_26317.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55024_Skin_GA5_01_27326.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55314_Skin_GH11_01_27124.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65034_Skin_GH5_01_26670.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61232_Skin_GA10_01_27332.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61594_Skin_GB1_01_26716.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_63601_Skin_GE6_01_26392.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60874_Skin_GB2_01_27217.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_54610_Skin_GA2_01_26561.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61576_Skin_GG2_01_27408.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55292_Skin_Rerun_GC2_01_26895.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_55474_Skin_GE1_01_26999.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45628_Skin_GE2_01_27071.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64868_Skin_GB10_01_26470.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45140_Skin_GA8_01_27022.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60532_Skin_GB10_01_27347.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63772_Skin_Rerun_GF10_01_26905.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54808_Skin_GE7_01_27077.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61540_Skin_GC4_01_27045.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43484_Skin_GD7_01_26380.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55386_Skin_GF3_01_26514.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55420_Skin_GF5_01_26517.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60712_Skin_GD8_01_27253.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64976_Skin_GB4_01_27219.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43700_Skin_GH1_01_27422.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43936_Skin_GD3_01_26375.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64222_Skin_GF9_01_26646.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25738_Skin_GH10_01_26310.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61952_Skin_GB2_01_26462.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64762_Skin_GE6_01_26502.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64832_Skin_GG1_01_26416.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61216_Skin_GG5_01_27291.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45932_Skin_GB7_01_27344.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55456_Skin_GG7_01_26533.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45952_Skin_GB11_01_26727.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45176_Skin_GH2_01_26667.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64148_Skin_GG8_01_26534.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60396_Skin_GA4_01_26451.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25450_Skin_GE1_01_26387.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65034_Skin_GH5_01_26670.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25974_Skin_GC4_01_26139.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43376_Skin_GE6_01_26264.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44152_Skin_GH8_01_26308.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64688_Skin_GD3_01_26487.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64076_Skin_GF6_01_26406.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45502_Skin_GE1_01_26762.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62024_Skin_GD6_01_26490.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55420_Skin_GF5_01_26517.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25702_Skin_GF4_01_27396.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45198_Skin_GA6_01_27207.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45716_Skin_GH8_01_26674.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64364_Skin_GG1_01_26526.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64798_Skin_GH7_01_26438.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_41486_Skin_GH7_01_26673.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_54680_Skin_GB6_01_26580.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25432_Skin_GA5_01_26336.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43830_Skin_GB5_01_26129.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64366_Skin_GH6_01_26436.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43738_Skin_GC11_01_26370.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_No_Injection_RA1_01_27062.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GG12_01_27421.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GC12_01_27244.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27327.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GH12_01_26893.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26901.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26672.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GE12_01_26635.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GE12_01_26635.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26710.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_65084_Skin_GF4_01_26782.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61232_Skin_GA10_01_27332.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43988_Skin_GE10_01_27389.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45556_Skin_GC2_01_27043.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25362_Skin_GE2_01_27000.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61504_Skin_GA3_01_26939.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64456_Skin_GB4_01_26464.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54860_Skin_GA10_01_26712.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45630_Skin_GD3_01_27367.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_43720_Skin_GC8_01_26977.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55312_Skin_GB5_01_27341.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64112_Skin_GH3_01_26433.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25612_Skin_GB4_01_26128.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60512_Skin_GF10_01_27094.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64278_Skin_GD2_01_26747.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61306_Skin_GC3_01_26733.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43470_Skin_GD10_01_26383.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65228_Skin_GD8_01_26613.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank No Injection_RA1_01_27413.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27357.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_64096_Skin_GE11_01_26507.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25558_Skin_GB11_01_26357.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54666_Skin_GD7_01_27252.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64492_Skin_GF2_01_26513.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62046_Skin_GC7_01_26479.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_54610_Skin_GA2_01_26561.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55184_Skin_GC9_01_26740.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61722_Skin_GE6_01_27384.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43900_Skin_GG8_01_27415.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43326_Skin_GC2_01_26360.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60396_Skin_GA4_01_26451.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43918_Skin_GD10_01_26111.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43702_Skin_GG3_01_27409.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55112_Skin_GD4_01_26749.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_RA2_01_26330.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_55132_Skin_Rerun_GB3_01_27003.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45628_Skin_GE2_01_27071.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43952_Skin_GD3_01_26323.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25974_Skin_Rerun_GC4_01_26140.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_45071_Skin_GF8_01_26520.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_RA2_01_26699.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64294_Skin_GH1_01_27301.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_54524_Skin_GE5_01_26501.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45232_Skin_GD6_01_27250.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43990_Skin_GH10_01_27433.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43578_Skin_GF11_01_26284.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43952_Skin_GD3_01_26323.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61594_Skin_GB1_01_26716.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64724_Skin_GH10_01_26548.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61254_Skin_GG7_01_27414.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_64170_Skin_GC7_01_27049.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45356_Skin_GB1_01_27216.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25936_Skin_GD4_01_26250.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25324_Skin_GD6_01_26989.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_End_RA2_01_27012.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60964_Skin_GF1_01_27273.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64150_Skin_GA9_01_26456.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45306_Skin_GA11_01_27333.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45788_Skin_GE2_01_26763.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61412_Skin_GC10_01_26979.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61774_Skin_GC9_01_26978.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43630_Skin_GE1_01_26324.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_54530_Skin_GA1_01_26448.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_End_RA2_01_27128.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60714_Skin_GA5_01_27018.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64294_Skin_GH1_01_27301.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54752_Skin_GF2_01_27085.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65156_Skin_GA5_01_27206.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61520_Skin_GG11_01_26876.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55422_Skin_GG4_01_26529.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54600_Skin_GG9_01_27108.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61808_Skin_GD6_01_27061.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61036_Skin_GD4_01_27248.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65012_Skin_GB10_01_26587.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60692_Skin_GE3_01_27261.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60584_Skin_GA3_01_27324.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_54511_Skin_GH1_01_26539.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45716_Skin_GH8_01_26674.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_RA2_01_27200.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43450_Skin_GA8_01_26107.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65122_Skin_GD10_01_26615.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45376_Skin_Rerun_GF8_01_26904.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43628_Skin_GC3_01_26315.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60822_Skin_GH4_01_27304.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43756_Skin_GB4_01_26348.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60676_Skin_GB11_01_27348.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64564_Skin_Rerun_GH5_01_26551.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60764_Skin_GA10_01_27212.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43342_Skin_GB1_01_26344.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64960_Skin_GA9_01_26711.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45932_Skin_GB7_01_27344.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55040_Skin_GG1_01_27099.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63824_Skin_GC8_01_26739.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61414_Skin_GA4_01_26704.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55114_Skin_GA2_01_26702.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61290_Skin_GE11_01_27390.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC End_RA2_01_26914.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60532_Skin_GB10_01_27347.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43592_Skin_GD2_01_26374.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64710_Skin_GA8_01_26455.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25686_Skin_GE10_01_26269.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45702_Skin_Rerun2_GG6_01_27318.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25810_Skin_GB1_01_26125.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25504_Skin_GA8_01_26946.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60872_Skin_GH2_01_27302.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60640_Skin_GB2_01_27337.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55436_Skin_GG11_01_26537.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_Blank_Empty_Skin_GF12_01_26525.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27062.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26581.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GB12_01_26358.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27010.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GG12_01_26300.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26532.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26597.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27048.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27236.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26990.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GF12_01_27286.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GE12_01_26400.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GF12_01_26415.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27428.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26347.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26975.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27251.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_5ul_RA1_01_26970.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GA12_01_26574.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26990.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27076.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27279.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank _RA1_01_26365.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GB12_01_26136.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GH12_01_27127.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_54628_Skin_GA3_01_27016.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43304_Skin_GF8_01_26281.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54916_Skin_GH9_01_27122.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_54826_Skin_GD1_01_27365.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60498_Skin_GA4_01_27017.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25342_Skin_GD4_01_26987.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25880_Skin_GH7_01_26307.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_44046_Skin_GA11_01_26342.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45286_Skin_GC1_01_27042.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61938_Skin_Rerun_GD1_01_26682.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43324_Skin_GH5_01_26305.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60496_Skin_GC6_01_26478.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25720_Skin_GE3_01_27381.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25594_Skin_GA4_01_26117.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60424_Skin_GA7_01_26454.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64960_Skin_GA9_01_26711.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44080_Skin_GB9_01_26108.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25434_Skin_GD9_01_26382.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_Blank_Empty_Skin_GC12_01_26983.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27013.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26994.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GB12_01_27229.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26347.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GG12_01_26538.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27090.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_54646_Skin_GB10_01_27226.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45700_Skin_GA9_01_27331.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55366_Skin_GF1_01_26401.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54916_Skin_GH9_01_27122.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55544_Skin_GF6_01_26518.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63810_Skin_GD4_01_26608.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61592_Skin_GD3_01_26748.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54630_Skin_GA8_01_27210.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64580_Skin_GH11_01_26442.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_60404_Skin_GE2_01_26388.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43972_Skin_GA2_01_26106.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64132_Skin_GC1_01_26473.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61306_Skin_GC3_01_26733.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45644_Skin_GH10_01_27123.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60512_Skin_GF10_01_27094.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61952_Skin_GB2_01_26462.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45358_Skin_GA11_01_26572.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61756_Skin_GB10_01_26962.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_54844_Skin_GC6_01_27356.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61664_Skin_GH3_01_27115.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45464_Skin_GF7_01_26786.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25522_Skin_GA2_01_26333.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61398_Skin_Rerun_GC10_01_26897.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43630_Skin_GE1_01_26324.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44060_Skin_GC8_01_26317.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63774_Skin_GG3_01_26654.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65048_Skin_GH8_01_27309.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55566_Skin_GD2_01_26486.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61758_Skin_GC3_01_26971.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64276_Skin_GF8_01_26645.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60606_Skin_GF5_01_27088.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45520_Skin_GA11_01_26713.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61686_Skin_GH1_01_26879.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65120_Skin_GF4_01_26640.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45718_Skin_GF6_01_26642.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25412_Skin_GA5_01_26941.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43792_Skin_GD1_01_26373.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64636_Skin_GF10_01_26411.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61504_Skin_GA3_01_26939.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Resuspension_RA1_01_26447.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43880_Skin_GA3_01_26116.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64076_Skin_GF6_01_26406.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Mix_End_RA2_01_26327.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61376_Skin_GD7_01_26991.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60892_Skin_GD9_01_26614.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25324_Skin_GD6_01_26989.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_65014_Skin_GH4_01_27116.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45574_Skin_GA1_01_27014.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60514_Skin_GB8_01_27345.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60694_Skin_GD3_01_26607.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61864_Skin_GE9_01_26396.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45376_Skin_Rerun_GF8_01_26904.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45124_Skin_GA5_01_26564.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64996_Skin_GB8_01_26585.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55400_Skin_GH5_01_26435.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64384_Skin_GB5_01_26465.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64422_Skin_GG5_01_26530.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45844_Skin_GC5_01_26735.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43974_Skin_GF3_01_27395.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45214_Skin_GH10_01_26676.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54808_Skin_GE7_01_27077.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25830_Skin_GB3_01_26346.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45069_Skin_GG11_01_26663.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61038_Skin_GC3_01_26593.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55026_Skin_GA7_01_27329.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_43774_Skin_GC11_01_26980.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61666_Skin_GB7_01_26723.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55076_Skin_GA10_01_27024.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25220_Skin_GG5_01_26291.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25362_Skin_GE2_01_27000.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65212_Skin_GC7_01_27237.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55150_Skin_GC11_01_27362.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_65152_Skin_GE10_01_26773.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45500_Skin_GF4_01_27087.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64582_Skin_GF4_01_26404.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60382_Skin_GC4_01_26476.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63610_Skin_Rerun_GG1_01_26683.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61432_Skin_GE9_01_27388.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC End_RA2_01_26445.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60964_Skin_GF1_01_27273.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61880_Skin_GF5_01_26405.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60604_Skin_GC2_01_27352.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43398_Skin_GG3_01_26289.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55204_Skin_GG2_01_27100.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25470_Skin_GD4_01_26376.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54788_Skin_GG4_01_27102.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61182_Skin_GD11_01_27256.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43614_Skin_GG4_01_26290.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64330_Skin_GE11_01_26633.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54608_Skin_GG3_01_27101.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61556_Skin_GE4_01_26765.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54970_Skin_GF6_01_27089.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25486_Skin_GF6_01_27399.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55366_Skin_GF1_01_26401.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45880_Skin_GG1_01_26794.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60442_Skin_GH11_01_27312.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55062_Skin_GH8_01_26888.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64256_Skin_GG4_01_26655.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_54504_Skin_GF4_01_26515.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45160_Skin_GF2_01_26638.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60728_Skin_GC6_01_27235.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25774_Skin_GB10_01_26314.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60460_Skin_GH9_01_26547.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61326_Skin_GG10_01_26875.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_Blank_Empty_Skin_GD12_01_26386.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26583.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GB12_01_27041.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GF12_01_26793.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GB12_01_26472.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26935.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26933.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27201.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GC12_01_26745.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GB12_01_27229.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GH12_01_27127.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27463.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_5ul_GD12_01_26258.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate9_Blank_Empty_Skin_Rerun_GB12_01_27008.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27431.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GB12_01_26730.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GE12_01_26272.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_55168_Skin_GB1_01_27336.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61052_Skin_GF9_01_27282.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54896_Skin_GH9_01_26889.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55026_Skin_GA7_01_27329.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45106_Skin_GF5_01_26783.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61340_Skin_GA9_01_27023.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64150_Skin_GA9_01_26456.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54952_Skin_GD5_01_27060.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60728_Skin_GC6_01_27235.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64546_Skin_GB6_01_26466.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63702_Skin_GE9_01_27268.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_Blank_Empty_Skin_GF12_01_27406.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GA12_01_26715.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_55508_Skin_GH4_01_26542.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54594_Skin_GH5_01_27117.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_63601_Skin_GE6_01_26392.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64348_Skin_GA7_01_26568.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44062_Skin_rerun_GC1_01_26968.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61702_Skin_GD10_01_27375.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44024_Skin_GC6_01_26142.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_RA2_01_26330.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62059_Skin_GE10_01_26506.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61772_Skin_GD5_01_26988.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60440_Skin_GE6_01_26627.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_62026_Skin_GG11_01_26427.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_44010_Skin_GD6_01_26378.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43520_Skin_GA9_01_26340.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25306_Skin_GD9_01_27374.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64962_Skin_GC3_01_27232.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45196_Skin_GG8_01_26873.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61578_Skin_GB4_01_27031.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45810_Skin_Rerun_GE2_01_26623.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_44118_Skin_GC6_01_26364.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65228_Skin_GD8_01_26613.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55150_Skin_GC11_01_27362.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45450_Skin_GD10_01_27066.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61628_Skin_GH6_01_26884.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45538_Skin_GA6_01_27019.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60570_Skin_GB9_01_27346.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45378_Skin_GF10_01_26647.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45320_Skin_GC9_01_27051.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45162_Skin_GB3_01_26577.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43972_Skin_GA2_01_26106.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61304_Skin_GF1_01_27393.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43522_Skin_GD2_01_26322.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45322_Skin_GE4_01_27073.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60426_Skin_GA9_01_26570.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64782_Skin_GH4_01_26434.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25470_Skin_GD4_01_26376.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64134_Skin_GE8_01_26395.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54788_Skin_GG4_01_27102.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55204_Skin_GG2_01_27100.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43504_Skin_GC7_01_26316.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43557_Skin_GC9_01_26110.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62044_Skin_GC8_01_26480.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65214_Skin_GG9_01_26661.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61216_Skin_GG5_01_27291.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64962_Skin_GC3_01_27232.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55112_Skin_GD4_01_26749.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63718_Skin_GG7_01_26659.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64402_Skin_GD5_01_26489.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25700_Skin_GH3_01_27424.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65048_Skin_GH8_01_27309.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_60404_Skin_GE2_01_26388.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_StartPlate3_RA2_01_26446.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55472_Skin_GF10_01_26522.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45824_Skin_GB9_01_26725.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44080_Skin_GB9_01_26108.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55492_Skin_GE7_01_26503.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43594_Skin_GH6_01_26306.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43304_Skin_GF8_01_26281.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62046_Skin_GC7_01_26479.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25254_Skin_GF11_01_27404.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25794_Skin_GF9_01_26282.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_55564_Skin_GC2_01_26592.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_65194_Skin_GH7_01_26887.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61648_Skin_GE2_01_27380.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63736_Skin_GC11_01_27242.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43268_Skin_GA8_01_26339.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45916_Skin_GA8_01_26709.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43468_Skin_GF2_01_26274.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61974_Skin_GG4_01_26419.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45772_Skin_GB8_01_27224.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45680_Skin_GA4_01_27325.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44154_Skin_GE2_01_26260.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64942_Skin_GC5_01_27234.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64420_Skin_GB11_01_26471.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60642_Skin_GA7_01_27021.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_Blank_Empty_Skin_GF12_01_26651.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27238.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27034.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27293.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GB12_01_26590.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GC12_01_26484.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27265.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26688.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GH12_01_26893.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GD12_01_26496.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank _RA1_01_26437.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GC12_01_26484.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate9_Blank_Empty_Skin_Rerun_GB12_01_27008.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GA12_01_26124.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_55508_Skin_GH4_01_26542.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64924_Skin_GH9_01_26440.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61340_Skin_GA9_01_27023.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61738_Skin_GC6_01_26974.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45916_Skin_GA8_01_26709.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65032_Skin_Rerun_GE1_01_26622.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25540_Skin_GF6_01_26278.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61916_Skin_GH2_01_26540.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61484_Skin_GD8_01_27373.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45846_Skin_GB3_01_27030.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60784_Skin_GE11_01_27270.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45248_Skin_GF6_01_27278.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54538_Skin_GB7_01_27035.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43700_Skin_GH1_01_27422.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_EndPlate3_RA2_01_26554.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25540_Skin_GF6_01_26278.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45270_Skin_GE7_01_27266.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25376_Skin_Rerun_GA4_01_27002.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_Blank_Empty_Skin_GB12_01_26730.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26557.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GA12_01_27027.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_25666_Skin_GD5_01_26377.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_54738_Skin_GA2_01_27323.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_55004_Skin_Rerun_GB9_01_27007.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54790_Skin_GE5_01_26766.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60874_Skin_GB2_01_27217.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64530_Skin_GD9_01_26493.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60692_Skin_GE3_01_27261.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43612_Skin_GA4_01_26335.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Resuspension_RA1_01_26447.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60656_Skin_GA8_01_27330.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55510_Skin_GG9_01_26425.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25252_Skin_GG1_01_26287.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_25414_Skin_GH10_01_26890.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61072_Skin_GE4_01_27262.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64888_Skin_GE1_01_26497.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55222_Skin_GD5_01_27369.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64220_Skin_GE8_01_26630.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61398_Skin_Rerun_GC10_01_26897.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64456_Skin_GB4_01_26464.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54934_Skin_GE8_01_26771.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64544_Skin_GG10_01_26426.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64926_Skin_GD1_01_27245.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25234_Skin_Rerun_GA1_01_26937.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44116_Skin_GD9_01_26255.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25398_Skin_GG8_01_26295.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_End_RA2_01_27128.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64616_Skin_GC9_01_26481.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61484_Skin_GD8_01_27373.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC End_RA2_01_27316.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63736_Skin_GC11_01_27242.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65156_Skin_GA5_01_27206.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45450_Skin_GD10_01_27066.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_65194_Skin_GH7_01_26887.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45754_Skin_Rerun_GA4_01_26680.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64350_Skin_GH7_01_27308.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_65084_Skin_GF4_01_26782.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64438_Skin_GG2_01_26417.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45646_Skin_GC9_01_27360.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64672_Skin_GG2_01_26527.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55276_Skin_GA1_01_27322.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43324_Skin_GH5_01_26305.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45502_Skin_GE1_01_26762.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54664_Skin_GG7_01_27294.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64726_Skin_GG3_01_26418.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43758_Skin_GC1_01_26359.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25882_Skin_GG6_01_26292.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25664_Skin_GF7_01_26280.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45268_Skin_GF7_01_27280.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43988_Skin_GE10_01_27389.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61072_Skin_GE4_01_27262.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64638_Skin_GE11_01_26398.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61198_Skin_GD11_01_26616.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61234_Skin_GF3_01_26639.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64364_Skin_GG1_01_26526.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65086_Skin_GB5_01_27220.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_60478_Skin_GA10_01_26948.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25918_Skin_GC9_01_26368.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25974_Skin_GC4_01_26139.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25378_Skin_GG6_01_27412.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62060_Skin_GD8_01_26492.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_Blank_Empty_Skin_GE12_01_27392.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GA12_01_26574.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GG12_01_26665.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26700.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GD12_01_27258.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26913.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GA12_01_27027.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GH12_01_26313.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GB12_01_26358.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate9_Blank_Empty_Skin_GA12_01_26951.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27307.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27443.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26584.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26886.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_45392_Skin_GG10_01_26662.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_60478_Skin_GA10_01_26948.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_44010_Skin_GD6_01_26378.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25504_Skin_GA8_01_26946.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45284_Skin_GE1_01_27259.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55348_Skin_GE10_01_27080.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25342_Skin_GD4_01_26987.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61736_Skin_GC5_01_26973.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64422_Skin_GG5_01_26530.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61808_Skin_GD6_01_27061.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55096_Skin_GF9_01_27093.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25628_Skin_GB6_01_26352.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64710_Skin_GA8_01_26455.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64312_Skin_GE4_01_26625.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25270_Skin_GD11_01_26256.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55256_Skin_GC1_01_27351.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64184_Skin_GE10_01_26632.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25702_Skin_GF4_01_27396.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25648_Skin_GA6_01_26337.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55386_Skin_GF3_01_26514.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45248_Skin_GF6_01_27278.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank No Injection_RA1_01_27321.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GA12_01_26124.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank _RA1_01_26437.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GA12_01_27335.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26611.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_54572_Skin_GA11_01_27025.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44024_Skin_GC6_01_26142.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64472_Skin_GF7_01_26408.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60856_Skin_GE5_01_26626.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25758_Skin_GD11_01_26996.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64890_Skin_GH1_01_26431.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54774_Skin_GH6_01_27118.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43808_Skin_GG4_01_27410.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64976_Skin_GB4_01_27219.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45536_Skin_GE3_01_26764.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45160_Skin_GF2_01_26638.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_55528_Skin_GC9_01_26600.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61882_Skin_GD4_01_27368.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43866_Skin_GD7_01_26253.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64652_Skin_GB8_01_26468.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61612_Skin_GG6_01_26871.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61054_Skin_GD5_01_27249.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45106_Skin_GF5_01_26783.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63810_Skin_GD4_01_26608.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61180_Skin_Rerun_GC4_01_26681.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45860_Skin_GD4_01_27059.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64472_Skin_GF7_01_26408.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43686_Skin_GA10_01_26122.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25722_Skin_GH2_01_27423.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64098_Skin_GF7_01_26519.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60658_Skin_Rerun_GB3_01_27339.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54824_Skin_GH2_01_27114.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_63808_Skin_GC10_01_27052.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25360_Skin_GF8_01_27401.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60586_Skin_GC8_01_27050.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61866_Skin_GH2_01_26432.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61110_Skin_GD7_01_26612.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45664_Skin_GB9_01_27037.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60730_Skin_GG8_01_27295.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_64170_Skin_GC7_01_27049.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64242_Skin_GH11_01_26891.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60750_Skin_GC10_01_26601.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_54844_Skin_GC6_01_27356.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55472_Skin_GF10_01_26522.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43936_Skin_GD3_01_26375.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61108_Skin_GE7_01_26629.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64474_Skin_GB1_01_26461.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61558_Skin_GH8_01_27430.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61810_Skin_GC5_01_26477.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64888_Skin_GE1_01_26497.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63666_Skin_GA9_01_27211.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_45090_Skin_GE7_01_26394.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_55494_Skin_GB11_01_26588.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_54511_Skin_GH1_01_26539.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60584_Skin_GA3_01_27324.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64258_Skin_GB4_01_26719.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64998_Skin_GF3_01_27275.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54988_Skin_GH4_01_26882.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64330_Skin_GE11_01_26633.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55278_Skin_GA6_01_27328.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55278_Skin_GA6_01_27328.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64474_Skin_GB1_01_26461.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43844_Skin_GD8_01_26254.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60802_Skin_GF10_01_27283.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61378_Skin_GF9_01_27402.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25542_Skin_GG5_01_27411.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43486_Skin_GA7_01_26120.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55530_Skin_Rerun_GG7_01_26428.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55078_Skin_GH1_01_27113.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45234_Skin_GF8_01_27281.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44044_Skin_GG9_01_26296.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43434_Skin_GF10_01_26283.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61470_Skin_GD6_01_27370.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55348_Skin_GE10_01_27080.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55098_Skin_GB10_01_26726.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64114_Skin_GA2_01_26449.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45270_Skin_GE7_01_27266.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61362_Skin_GD9_01_26993.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25916_Skin_Rerun_GC11_01_26325.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54736_Skin_GA1_01_27202.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45772_Skin_GB8_01_27224.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_Blank_Empty_Skin_GH12_01_27315.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_5ul_RA1_01_26970.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GH12_01_26313.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26769.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26628.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26899.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GB12_01_27350.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GC12_01_26604.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26532.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26915.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27465.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27343.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26584.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GG12_01_27421.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_64312_Skin_GE4_01_26625.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54682_Skin_GE9_01_26772.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61468_Skin_GF7_01_27400.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45846_Skin_GB3_01_27030.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55510_Skin_GG9_01_26425.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43772_Skin_GB7_01_26353.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61000_Skin_GC1_01_26591.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43882_Skin_GE1_01_27379.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55134_Skin_GH8_01_27121.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61542_Skin_GE11_01_26774.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64870_Skin_GA6_01_26453.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45414_Skin_GH3_01_27303.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61162_Skin_GC9_01_27240.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54664_Skin_GG7_01_27294.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64222_Skin_GF9_01_26646.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC End_RA2_01_26914.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43306_Skin_GE5_01_26263.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63772_Skin_Rerun_GF10_01_26905.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank No Injection_RA1_01_27201.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GG12_01_26665.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GB12_01_26472.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_60498_Skin_GA4_01_27017.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44132_Skin_GF5_01_26277.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_63844_Skin_GG5_01_27103.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54538_Skin_GB7_01_27035.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_RA2_01_27200.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55006_Skin_GC10_01_27361.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45788_Skin_GE2_01_26763.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_65152_Skin_GE10_01_26773.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64168_Skin_GB3_01_26463.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25810_Skin_GB1_01_26125.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61434_Skin_GG1_01_27407.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45826_Skin_GB8_01_26724.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64924_Skin_GH9_01_26440.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25756_Skin_GH2_01_26302.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60980_Skin_GC6_01_26596.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45538_Skin_GA6_01_27019.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61270_Skin_GB8_01_26960.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64760_Skin_GD11_01_26495.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25522_Skin_GA2_01_26333.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60712_Skin_GD8_01_27253.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_54716_Skin_GE9_01_26631.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25576_Skin_GD2_01_26985.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45824_Skin_GB9_01_26725.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55186_Skin_Rerun_GC3_01_27437.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64796_Skin_GE5_01_26391.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61830_Skin_GD7_01_26491.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25720_Skin_GE3_01_27381.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25844_Skin_GE7_01_26266.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25880_Skin_GH7_01_26307.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65032_Skin_Rerun_GE1_01_26622.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45392_Skin_GG10_01_26662.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_62008_Skin_GG6_01_26421.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25686_Skin_GE10_01_26269.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54708_Skin_GF11_01_27095.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54702_Skin_GE6_01_27264.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64078_Skin_Rerun_GF9_01_26414.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62024_Skin_GD6_01_26490.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_54716_Skin_GE9_01_26631.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60872_Skin_GH2_01_27302.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64616_Skin_GC9_01_26481.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61342_Skin_GH7_01_27429.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61900_Skin_GE3_01_26389.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55206_Skin_GE11_01_27081.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61324_Skin_GD7_01_27063.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25592_Skin_GB2_01_26345.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55184_Skin_GC9_01_26740.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_44170_Skin_GG11_01_27419.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25866_Skin_GF1_01_26273.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_RA2_01_26934.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55589_Skin_GH8_01_26439.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45126_Skin_GD2_01_26606.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54736_Skin_GA1_01_27202.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64386_Skin_GC10_01_26482.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45304_Skin_GD10_01_27255.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_60376_Skin_GB6_01_26721.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25938_Skin_GB2_01_26126.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45608_Skin_GC7_01_27358.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61254_Skin_GG7_01_27414.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25220_Skin_GG5_01_26291.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64276_Skin_GF8_01_26645.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64386_Skin_GC10_01_26482.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63680_Skin_GG8_01_26660.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65050_Skin_GB3_01_27218.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43918_Skin_GD10_01_26111.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61182_Skin_GD11_01_27256.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54896_Skin_GH9_01_26889.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64904_Skin_GF9_01_26521.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61506_Skin_GD6_01_26751.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25396_Skin_GD1_01_26984.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43484_Skin_GD7_01_26380.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43378_Skin_GA1_01_26332.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank No Injection_RA1_01_27208.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GD12_01_26386.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26769.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27343.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27413.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GD12_01_26618.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27321.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GD12_01_27258.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26329.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26785.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GD12_01_26761.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GE12_01_26272.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27428.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26868.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26620.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26643.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27357.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GB12_01_27041.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GA12_01_26343.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	QC Start_RA2_01_27320.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43504_Skin_GC7_01_26316.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61470_Skin_GD6_01_27370.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45414_Skin_GH3_01_27303.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64458_Skin_GG6_01_26531.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64566_Skin_GF8_01_26409.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Mix_End_RA2_01_26327.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64940_Skin_GA2_01_27203.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65106_Skin_GA8_01_26569.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61578_Skin_GB4_01_27031.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43686_Skin_GA10_01_26122.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64690_Skin_GD10_01_26494.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63628_Skin_GH6_01_26671.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61988_Skin_GH8_01_26546.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64204_Skin_GF2_01_27274.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45702_Skin_Rerun2_GG6_01_27318.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61378_Skin_GF9_01_27402.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64530_Skin_GD9_01_26493.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60382_Skin_GC4_01_26476.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61396_Skin_GH11_01_27434.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_43938_Skin_Rerun_GC2_01_27009.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55078_Skin_GH1_01_27113.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_Blank_Empty_Skin_GC12_01_26372.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GE12_01_26400.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26559.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26581.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27020.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GB12_01_27350.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_64724_Skin_GH10_01_26548.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64926_Skin_GD1_01_27245.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55062_Skin_GH8_01_26888.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61774_Skin_GC9_01_26978.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61486_Skin_GA7_01_26708.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44098_Skin_GD1_01_26321.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55364_Skin_GG9_01_26874.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63718_Skin_GG7_01_26659.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43326_Skin_GC2_01_26360.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61702_Skin_GD10_01_27375.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60568_Skin_GC6_01_27047.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60406_Skin_GA11_01_26459.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64798_Skin_GH7_01_26438.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64674_Skin_GE3_01_26499.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25864_Skin_GG10_01_26297.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25722_Skin_GH2_01_27423.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63610_Skin_Rerun_GG1_01_26683.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61162_Skin_GC9_01_27240.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64816_Skin_GD1_01_26485.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_63682_Skin_GB8_01_27036.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_44082_Skin_GF2_01_27394.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61902_Skin_GB1_01_26575.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61902_Skin_GB1_01_26575.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64168_Skin_GB3_01_26463.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55422_Skin_GG4_01_26529.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60658_Skin_Rerun_GB3_01_27339.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61918_Skin_GB7_01_26467.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55222_Skin_GD5_01_27369.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64852_Skin_Rerun_GA10_01_26458.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43808_Skin_GG4_01_27410.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65140_Skin_GB6_01_27221.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64906_Skin_GD4_01_26488.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64782_Skin_GH4_01_26434.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_55528_Skin_GC9_01_26600.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61144_Skin_GF11_01_26790.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44008_Skin_Rerun_GB7_01_27006.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61468_Skin_GF7_01_27400.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45394_Skin_GE2_01_27260.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64256_Skin_GG4_01_26655.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64998_Skin_GF3_01_27275.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64438_Skin_GG2_01_26417.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43844_Skin_GD8_01_26254.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60748_Skin_GE3_01_26624.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43342_Skin_GB1_01_26344.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25506_Skin_GC4_01_26972.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55114_Skin_GA2_01_26702.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25592_Skin_GB2_01_26345.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64458_Skin_GG6_01_26531.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64906_Skin_GD4_01_26488.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60764_Skin_GA10_01_27212.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25232_Skin_GB11_01_26134.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55546_Skin_GF2_01_26402.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_43938_Skin_Rerun_GC2_01_27009.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25738_Skin_GH10_01_26310.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25234_Skin_Rerun_GA1_01_26937.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25614_Skin_GE8_01_26267.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43360_Skin_GE3_01_26261.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63702_Skin_GE9_01_27268.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55258_Skin_GH2_01_26880.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65140_Skin_GB6_01_27221.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54952_Skin_GD5_01_27060.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60476_Skin_GG4_01_27290.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60786_Skin_GD9_01_27254.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_63646_Skin_GC8_01_27239.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60944_Skin_GF4_01_27276.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61792_Skin_GB5_01_26956.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55242_Skin_Rerun_GF1_01_26779.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45500_Skin_GF4_01_27087.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45104_Skin_GG2_01_26653.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45790_Skin_GH6_01_27306.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60766_Skin_GB11_01_27227.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45774_Skin_GA5_01_26705.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64854_Skin_GG10_01_26536.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_61146_Skin_GH5_01_27305.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60980_Skin_GC6_01_26596.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54572_Skin_GA11_01_27025.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25628_Skin_GB6_01_26352.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43882_Skin_GE1_01_27379.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60678_Skin_GH7_01_27120.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65250_Skin_GD5_01_26609.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61108_Skin_GE7_01_26629.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43540_Skin_GD5_01_26251.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45952_Skin_GB11_01_26727.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43722_Skin_GB8_01_26132.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61650_Skin_GE6_01_27075.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61938_Skin_Rerun_GD1_01_26682.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61304_Skin_GF1_01_27393.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_54530_Skin_GA1_01_26448.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61810_Skin_GC5_01_26477.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61124_Skin_GF11_01_26648.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25938_Skin_GB2_01_26126.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank No Injection_RA1_01_27371.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27327.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26597.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GH12_01_26679.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GG12_01_26878.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GB12_01_26136.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26969.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26707.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_Blank_Empty_Skin_GF12_01_26525.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27293.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GC12_01_27364.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GA12_01_26715.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GC12_01_27055.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26722.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26628.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_55060_Skin_GD8_01_26755.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61180_Skin_Rerun_GC4_01_26681.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_45728_Skin_GA2_01_26938.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61650_Skin_GE6_01_27075.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63644_Skin_Rerun_GG2_01_26797.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_65178_Skin_Rerun_GD9_01_26900.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61126_Skin_GD3_01_27058.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64582_Skin_GF4_01_26404.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61846_Skin_GC2_01_26474.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45808_Skin_GC11_01_26602.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60462_Skin_GH4_01_27425.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45212_Skin_GE5_01_27263.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43916_Skin_GD6_01_26252.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45882_Skin_GF6_01_26784.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43340_Skin_GC7_01_26366.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64726_Skin_GG3_01_26418.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25830_Skin_GB3_01_26346.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64780_Skin_GH6_01_26544.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_45728_Skin_GA2_01_26938.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_Blank_Empty_Skin_GG12_01_27112.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26969.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27371.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GC12_01_26320.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26722.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate9_25268_Skin_GD3_01_26986.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60730_Skin_GG8_01_27295.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43650_Skin_GF4_01_26276.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61252_Skin_GE7_01_26770.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64494_Skin_GA3_01_26450.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25360_Skin_GF8_01_27401.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25916_Skin_Rerun_GC11_01_26325.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43990_Skin_GH10_01_27433.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_RA2_01_26934.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45810_Skin_Rerun_GE2_01_26623.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44096_Skin_GD8_01_26992.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25666_Skin_GD5_01_26377.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55364_Skin_GG9_01_26874.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60894_Skin_GF5_01_27277.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_Rerun_RA2_01_26558.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25486_Skin_GF6_01_27399.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54574_Skin_GG6_01_27104.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_44082_Skin_GF2_01_27394.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64818_Skin_GC3_01_26475.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61628_Skin_GH6_01_26884.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64186_Skin_GF11_01_27284.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25952_Skin_GB8_01_26354.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61270_Skin_GB8_01_26960.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25650_Skin_GA7_01_26338.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25972_Skin_GC4_01_26362.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64672_Skin_GG2_01_26527.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43576_Skin_GC1_01_26109.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55148_Skin_GE3_01_27072.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65158_Skin_GD2_01_27246.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43396_Skin_GB9_01_26355.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61864_Skin_GE9_01_26396.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25434_Skin_GD9_01_26382.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61614_Skin_Rerun_GD10_01_26902.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_55004_Skin_Rerun_GB9_01_27007.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55168_Skin_GB1_01_27336.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60642_Skin_GA7_01_27021.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63790_Skin_GB2_01_26576.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54990_Skin_GD1_01_27056.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45214_Skin_GH10_01_26676.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43470_Skin_GD10_01_26383.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55154_Skin_GD8_01_27064.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64852_Skin_Rerun_GA10_01_26458.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64868_Skin_GB10_01_26470.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55350_Skin_GB2_01_27029.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61630_Skin_GD7_01_26754.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43722_Skin_GB8_01_26132.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54790_Skin_GE5_01_26766.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61324_Skin_GD7_01_27063.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45196_Skin_GG8_01_26873.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_61126_Skin_GD3_01_27058.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61916_Skin_GH2_01_26540.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55328_Skin_GG7_01_26872.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55330_Skin_GA6_01_26706.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45178_Skin_GH9_01_27310.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_55132_Skin_Rerun_GB3_01_27003.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_65070_Skin_GB6_01_27033.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64688_Skin_GD3_01_26487.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43684_Skin_GA10_01_26341.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55456_Skin_GG7_01_26533.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43448_Skin_GA6_01_26119.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC End_RA2_01_26445.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60440_Skin_GE6_01_26627.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61234_Skin_GF3_01_26639.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44168_Skin_GD10_01_26995.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54882_Skin_GD11_01_26758.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45486_Skin_GF8_01_27092.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25846_Skin_GH11_01_26311.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_55256_Skin_GC1_01_27351.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54702_Skin_GE6_01_27264.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61396_Skin_GH11_01_27434.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55134_Skin_GH8_01_27121.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_RA1_01_26868.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_Blank_Empty_Skin_GC12_01_26372.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GE12_01_26777.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate9_Blank_Empty_Skin_GD12_01_26997.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26753.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GD12_01_27069.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27251.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27307.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GE12_01_27272.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26958.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27222.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank _RA1_01_26379.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GF12_01_26286.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26958.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank _RA1_01_26422.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27222.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_43846_Skin_GA5_01_26118.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60424_Skin_GA7_01_26454.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45630_Skin_GD3_01_27367.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64942_Skin_GC5_01_27234.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45069_Skin_GG11_01_26663.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61772_Skin_GD5_01_26988.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_54524_Skin_GE5_01_26501.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45754_Skin_Rerun_GA4_01_26565.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25954_Skin_GC10_01_26369.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45466_Skin_GF1_01_27084.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_44188_Skin_GE5_01_27383.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45162_Skin_GB3_01_26577.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45340_Skin_Rerun_GB11_01_27125.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43702_Skin_GG3_01_27409.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55042_Skin_Rerun_GE6_01_26903.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45340_Skin_Rerun_GB11_01_27125.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25468_Skin_GF3_01_26275.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60656_Skin_GA8_01_27330.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55240_Skin_GD2_01_27057.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64602_Skin_GG5_01_26420.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43558_Skin_GB3_01_26127.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45394_Skin_GE2_01_27260.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54594_Skin_GH5_01_27117.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60930_Skin_GD6_01_26610.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_54556_Skin_GA3_01_26562.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64258_Skin_GB4_01_26719.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25882_Skin_GG6_01_26292.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_RA1_01_26407.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_62044_Skin_GC8_01_26480.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43592_Skin_GD2_01_26374.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43648_Skin_GC5_01_26141.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64350_Skin_GH7_01_27308.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65104_Skin_GH4_01_26669.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54810_Skin_GB1_01_27028.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43578_Skin_GF11_01_26284.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45862_Skin_GE1_01_27070.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64566_Skin_GF8_01_26409.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60820_Skin_GG1_01_27287.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61376_Skin_GD7_01_26991.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25844_Skin_GE7_01_26266.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61018_Skin_GA6_01_26566.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44190_Skin_Rerun_GB6_01_27005.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64132_Skin_GC1_01_26473.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64890_Skin_GH1_01_26431.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_62060_Skin_GD8_01_26492.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43828_Skin_GE7_01_27386.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45212_Skin_GE5_01_27263.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64762_Skin_GE6_01_26502.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC_MidPlate3_RA2_01_26510.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_62008_Skin_GG6_01_26421.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	QCEnd_RA2_01_26689.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60570_Skin_GB9_01_27346.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64600_Skin_GE4_01_26390.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64114_Skin_GA2_01_26449.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43954_Skin_GA3_01_26334.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61630_Skin_GD7_01_26754.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43954_Skin_GA3_01_26334.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25756_Skin_GH2_01_26302.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43450_Skin_GA8_01_26107.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55530_Skin_Rerun_GG7_01_26428.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60714_Skin_GA5_01_27018.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45234_Skin_GF8_01_27281.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55438_Skin_GE10_01_26397.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25396_Skin_GD1_01_26984.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25252_Skin_GG1_01_26287.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61756_Skin_GB10_01_26962.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43902_Skin_GH6_01_27427.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61074_Skin_GC8_01_27359.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54988_Skin_GH4_01_26882.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61828_Skin_GB1_01_26952.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64184_Skin_GE10_01_26632.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64494_Skin_GA3_01_26450.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_55350_Skin_GB2_01_27029.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25542_Skin_GG5_01_27411.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60550_Skin_GE9_01_27079.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43772_Skin_GB7_01_26353.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54752_Skin_GF2_01_27085.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45342_Skin_Rerun_GC4_01_27438.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61974_Skin_GG4_01_26419.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65120_Skin_GF4_01_26640.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61556_Skin_GE4_01_26765.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43432_Skin_GA1_01_26113.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63644_Skin_Rerun_GG2_01_26797.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43362_Skin_GH9_01_26309.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61218_Skin_GF5_01_26641.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_65012_Skin_GB10_01_26587.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_RA1_01_26700.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26901.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27105.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate7_Blank_Empty_Skin_GD12_01_27069.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26944.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26643.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GD12_01_27378.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank Resuspension_RA1_01_27199.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26559.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate4_Blank_Empty_Skin_GG12_01_27299.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_26672.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_5ul_GD12_01_26258.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate1_Blank_Empty_Skin_GF12_01_26286.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26913.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate8_Blank_Empty_Skin_GH12_01_27436.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate2_43542_Skin_GD8_01_26381.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61448_Skin_GG10_01_27418.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44134_Skin_GE4_01_26262.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43306_Skin_GE5_01_26263.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60928_Skin_GC2_01_27231.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25484_Skin_GB2_01_26953.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_25520_Skin_Rerun_GB4_01_27004.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45124_Skin_GA5_01_26564.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45844_Skin_GC5_01_26735.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60462_Skin_GH4_01_27425.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61936_Skin_GE9_01_26505.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank_No_Injection_RA1_01_27105.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate3_55544_Skin_GF6_01_26518.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_63630_Skin_GF7_01_26644.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43288_Skin_GA11_01_26123.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64546_Skin_GB6_01_26466.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_25254_Skin_GF11_01_27404.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_25414_Skin_GH10_01_26890.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54898_Skin_GH5_01_26883.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_63754_Skin_GG7_01_27106.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64854_Skin_GG10_01_26536.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54932_Skin_GF2_01_26780.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61918_Skin_GB7_01_26467.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65158_Skin_GD2_01_27246.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_45104_Skin_GG2_01_26653.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45428_Skin_GA3_01_27204.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61000_Skin_GC1_01_26591.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54666_Skin_GD7_01_27252.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_54536_Skin_GA7_01_27209.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25864_Skin_GG10_01_26297.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45522_Skin_GF9_01_26788.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64098_Skin_GF7_01_26519.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_64314_Skin_GC10_01_27241.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_54826_Skin_GD1_01_27365.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60910_Skin_GA11_01_27213.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60586_Skin_GC8_01_27050.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25972_Skin_GC4_01_26362.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60534_Skin_GC11_01_27053.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45140_Skin_GA8_01_27022.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43594_Skin_GH6_01_26306.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43576_Skin_GC1_01_26109.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61954_Skin_GF11_01_26412.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_60622_Skin_GB10_01_27038.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43270_Skin_GB6_01_26130.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	QC Start_RA2_01_27320.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45790_Skin_GH6_01_27306.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_44188_Skin_GE5_01_27383.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54880_Skin_GC7_01_26738.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_61360_Skin_GF3_01_26781.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61088_Skin_GC7_01_26598.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55242_Skin_Rerun_GF1_01_26779.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61882_Skin_GD4_01_27368.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_44062_Skin_rerun_GC1_01_26968.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_45090_Skin_GE7_01_26394.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_55474_Skin_GE1_01_26999.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45484_Skin_Rerun_GC5_01_27439.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54608_Skin_GG3_01_27101.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25774_Skin_GB10_01_26314.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_43916_Skin_GD6_01_26252.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55566_Skin_GD2_01_26486.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25902_Skin_GH4_01_26304.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_54846_Skin_Rerun_GC4_01_26896.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60460_Skin_GH9_01_26547.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_61990_Skin_GE8_01_26504.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_43792_Skin_GD1_01_26373.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_61290_Skin_GE11_01_27390.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_61124_Skin_GF11_01_26648.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60750_Skin_GC10_01_26601.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_61900_Skin_GE3_01_26389.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44152_Skin_GH8_01_26308.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60856_Skin_GE5_01_26626.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_64242_Skin_GH11_01_26891.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_64978_Skin_GH9_01_26675.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45954_Skin_GE5_01_27074.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64832_Skin_GG1_01_26416.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_45594_Skin_GB4_01_27340.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61828_Skin_GB1_01_26952.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45448_Skin_GE10_01_27269.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45556_Skin_GC2_01_27043.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45142_Skin_GD11_01_27067.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60784_Skin_GE11_01_27270.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64652_Skin_GB8_01_26468.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60822_Skin_GH4_01_27304.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25902_Skin_GH4_01_26304.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_55458_Skin_GF3_01_26403.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_45666_Skin_GD9_01_27065.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_45178_Skin_GH9_01_27310.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_64746_Skin_GH11_01_26549.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44116_Skin_GD9_01_26255.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_60406_Skin_GA11_01_26459.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_25936_Skin_GD4_01_26250.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_43974_Skin_GF3_01_27395.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_63608_Skin_GG4_01_26869.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate8_60676_Skin_GB11_01_27348.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate9_61792_Skin_GB5_01_26956.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_64580_Skin_GH11_01_26442.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_44118_Skin_GC6_01_26364.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_60910_Skin_GA11_01_27213.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate5_60892_Skin_GD9_01_26614.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate7_54708_Skin_GF11_01_27095.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_45918_Skin_GD5_01_26750.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate2_25918_Skin_GC9_01_26368.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate1_44134_Skin_GE4_01_26262.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate3_55586_Skin_Rerun_GF11_01_26550.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate6_55220_Skin_GA3_01_26703.mzXML	animal		9606|Homo sapiens	skin				
+MSV000084322	Plate4_65248_Skin_GB9_01_27225.mzML	animal		9606|Homo sapiens	skin				
+MSV000084322	Blank Resuspension_RA1_01_27265.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27090.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27098.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate5_Blank_Empty_Skin_GC12_01_26604.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank No Injection_RA1_01_27208.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_27076.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_No_Injection_RA1_01_26935.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Plate6_Blank_Empty_Skin_GE12_01_26777.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank _RA1_01_26422.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000084322	Blank_RA1_01_26516.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

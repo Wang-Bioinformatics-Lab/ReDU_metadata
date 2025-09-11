@@ -1,0 +1,1285 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000093200	41095.mzML	animal		9606|Homo sapiens					
+MSV000093200	99031.mzML	animal		9606|Homo sapiens					
+MSV000093200	153045.mzML	animal		9606|Homo sapiens					
+MSV000093200	77336.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate_11_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	130419.mzML	animal		9606|Homo sapiens					
+MSV000093200	123288.mzML	animal		9606|Homo sapiens					
+MSV000093200	159618.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000446.mzML	animal		9606|Homo sapiens					
+MSV000093200	43543.mzML	animal		9606|Homo sapiens					
+MSV000093200	159047.mzML	animal		9606|Homo sapiens					
+MSV000093200	113331.mzML	animal		9606|Homo sapiens					
+MSV000093200	152321.mzML	animal		9606|Homo sapiens					
+MSV000093200	148626.mzML	animal		9606|Homo sapiens					
+MSV000093200	147513.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate9_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_1_9_H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	109509.mzML	animal		9606|Homo sapiens					
+MSV000093200	41228.mzML	animal		9606|Homo sapiens					
+MSV000093200	156251.mzML	animal		9606|Homo sapiens					
+MSV000093200	159054.mzML	animal		9606|Homo sapiens					
+MSV000093200	136895.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000536.mzML	animal		9606|Homo sapiens					
+MSV000093200	159228.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_7_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	126520.mzML	animal		9606|Homo sapiens					
+MSV000093200	164307.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_10_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	96259.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_2_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	123088.mzML	animal		9606|Homo sapiens					
+MSV000093200	149120.mzML	animal		9606|Homo sapiens					
+MSV000093200	119245.mzML	animal		9606|Homo sapiens					
+MSV000093200	119192.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000088.mzML	animal		9606|Homo sapiens					
+MSV000093200	23486.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000196.mzML	animal		9606|Homo sapiens					
+MSV000093200	164369.mzML	animal		9606|Homo sapiens					
+MSV000093200	145748.mzML	animal		9606|Homo sapiens					
+MSV000093200	103361.mzML	animal		9606|Homo sapiens					
+MSV000093200	48174.mzML	animal		9606|Homo sapiens					
+MSV000093200	122501.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000074.mzML	animal		9606|Homo sapiens					
+MSV000093200	158690.mzML	animal		9606|Homo sapiens					
+MSV000093200	48159.mzML	animal		9606|Homo sapiens					
+MSV000093200	155130.mzML	animal		9606|Homo sapiens					
+MSV000093200	145916.mzML	animal		9606|Homo sapiens					
+MSV000093200	164270.mzML	animal		9606|Homo sapiens					
+MSV000093200	153399.mzML	animal		9606|Homo sapiens					
+MSV000093200	138218.mzML	animal		9606|Homo sapiens					
+MSV000093200	124543.mzML	animal		9606|Homo sapiens					
+MSV000093200	133310.mzML	animal		9606|Homo sapiens					
+MSV000093200	112782.mzML	animal		9606|Homo sapiens					
+MSV000093200	132836.mzML	animal		9606|Homo sapiens					
+MSV000093200	148385.mzML	animal		9606|Homo sapiens					
+MSV000093200	149432.mzML	animal		9606|Homo sapiens					
+MSV000093200	126384.mzML	animal		9606|Homo sapiens					
+MSV000093200	153156.mzML	animal		9606|Homo sapiens					
+MSV000093200	151707.mzML	animal		9606|Homo sapiens					
+MSV000093200	136720.mzML	animal		9606|Homo sapiens					
+MSV000093200	136600.mzML	animal		9606|Homo sapiens					
+MSV000093200	124287.mzML	animal		9606|Homo sapiens					
+MSV000093200	108424.mzML	animal		9606|Homo sapiens					
+MSV000093200	136819.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_13_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate13_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_7_7_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate11_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate9_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate10_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate13_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate2_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_6_6_F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	153751.mzML	animal		9606|Homo sapiens					
+MSV000093200	153195.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_6_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	51203.mzML	animal		9606|Homo sapiens					
+MSV000093200	52981.mzML	animal		9606|Homo sapiens					
+MSV000093200	110021.mzML	animal		9606|Homo sapiens					
+MSV000093200	123797.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate14_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	44533.mzML	animal		9606|Homo sapiens					
+MSV000093200	153077.mzML	animal		9606|Homo sapiens					
+MSV000093200	138970.mzML	animal		9606|Homo sapiens					
+MSV000093200	111324.mzML	animal		9606|Homo sapiens					
+MSV000093200	Column_Clean_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000359.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000111.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003227.mzML	animal		9606|Homo sapiens					
+MSV000093200	134636.mzML	animal		9606|Homo sapiens					
+MSV000093200	103463.mzML	animal		9606|Homo sapiens					
+MSV000093200	158651.mzML	animal		9606|Homo sapiens					
+MSV000093200	77804.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001419.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000856.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate14_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_6_6_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate2_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_8_8_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate4_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate6_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate1_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_5_12_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	147767.mzML	animal		9606|Homo sapiens					
+MSV000093200	126947.mzML	animal		9606|Homo sapiens					
+MSV000093200	156245.mzML	animal		9606|Homo sapiens					
+MSV000093200	101292.mzML	animal		9606|Homo sapiens					
+MSV000093200	164342.mzML	animal		9606|Homo sapiens					
+MSV000093200	159243.mzML	animal		9606|Homo sapiens					
+MSV000093200	126943.mzML	animal		9606|Homo sapiens					
+MSV000093200	153690.mzML	animal		9606|Homo sapiens					
+MSV000093200	134256.mzML	animal		9606|Homo sapiens					
+MSV000093200	158377.mzML	animal		9606|Homo sapiens					
+MSV000093200	51828.mzML	animal		9606|Homo sapiens					
+MSV000093200	125155.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_1_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	112988.mzML	animal		9606|Homo sapiens					
+MSV000093200	163589.mzML	animal		9606|Homo sapiens					
+MSV000093200	149952.mzML	animal		9606|Homo sapiens					
+MSV000093200	152566.mzML	animal		9606|Homo sapiens					
+MSV000093200	140061.mzML	animal		9606|Homo sapiens					
+MSV000093200	125350.mzML	animal		9606|Homo sapiens					
+MSV000093200	151072.mzML	animal		9606|Homo sapiens					
+MSV000093200	78837.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001219.mzML	animal		9606|Homo sapiens					
+MSV000093200	149606.mzML	animal		9606|Homo sapiens					
+MSV000093200	124658.mzML	animal		9606|Homo sapiens					
+MSV000093200	136035.mzML	animal		9606|Homo sapiens					
+MSV000093200	113349.mzML	animal		9606|Homo sapiens					
+MSV000093200	136138.mzML	animal		9606|Homo sapiens					
+MSV000093200	50897.mzML	animal		9606|Homo sapiens					
+MSV000093200	51302.mzML	animal		9606|Homo sapiens					
+MSV000093200	123286.mzML	animal		9606|Homo sapiens					
+MSV000093200	109403.mzML	animal		9606|Homo sapiens					
+MSV000093200	151002.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000586.mzML	animal		9606|Homo sapiens					
+MSV000093200	149638.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_12_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	149204.mzML	animal		9606|Homo sapiens					
+MSV000093200	155639.mzML	animal		9606|Homo sapiens					
+MSV000093200	153680.mzML	animal		9606|Homo sapiens					
+MSV000093200	119617.mzML	animal		9606|Homo sapiens					
+MSV000093200	164280.mzML	animal		9606|Homo sapiens					
+MSV000093200	119530.mzML	animal		9606|Homo sapiens					
+MSV000093200	41040.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000079.mzML	animal		9606|Homo sapiens					
+MSV000093200	143614.mzML	animal		9606|Homo sapiens					
+MSV000093200	136449.mzML	animal		9606|Homo sapiens					
+MSV000093200	164554.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_4_5_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate1_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate10_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate13_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_10_8_F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_8_8_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate11_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate13_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_9_12_H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	135003.mzML	animal		9606|Homo sapiens					
+MSV000093200	151833.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000610.mzML	animal		9606|Homo sapiens					
+MSV000093200	112496.mzML	animal		9606|Homo sapiens					
+MSV000093200	164496.mzML	animal		9606|Homo sapiens					
+MSV000093200	138636.mzML	animal		9606|Homo sapiens					
+MSV000093200	131360.mzML	animal		9606|Homo sapiens					
+MSV000093200	152272.mzML	animal		9606|Homo sapiens					
+MSV000093200	101260.mzML	animal		9606|Homo sapiens					
+MSV000093200	155795.mzML	animal		9606|Homo sapiens					
+MSV000093200	148142.mzML	animal		9606|Homo sapiens					
+MSV000093200	107515.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001373.mzML	animal		9606|Homo sapiens					
+MSV000093200	148332.mzML	animal		9606|Homo sapiens					
+MSV000093200	159692.mzML	animal		9606|Homo sapiens					
+MSV000093200	151157.mzML	animal		9606|Homo sapiens					
+MSV000093200	164295.mzML	animal		9606|Homo sapiens					
+MSV000093200	95665.mzML	animal		9606|Homo sapiens					
+MSV000093200	130424.mzML	animal		9606|Homo sapiens					
+MSV000093200	145753.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003143.mzML	animal		9606|Homo sapiens					
+MSV000093200	136559.mzML	animal		9606|Homo sapiens					
+MSV000093200	158040.mzML	animal		9606|Homo sapiens					
+MSV000093200	146821.mzML	animal		9606|Homo sapiens					
+MSV000093200	164698.mzML	animal		9606|Homo sapiens					
+MSV000093200	48019.mzML	animal		9606|Homo sapiens					
+MSV000093200	164024.mzML	animal		9606|Homo sapiens					
+MSV000093200	149637.mzML	animal		9606|Homo sapiens					
+MSV000093200	138641.mzML	animal		9606|Homo sapiens					
+MSV000093200	22HM6221.mzML	animal		9606|Homo sapiens					
+MSV000093200	105477.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_PlateBile_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate5_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate11_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate2_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	133858.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000512.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate_12_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	148467.mzML	animal		9606|Homo sapiens					
+MSV000093200	159696.mzML	animal		9606|Homo sapiens					
+MSV000093200	75245.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000486.mzML	animal		9606|Homo sapiens					
+MSV000093200	149406.mzML	animal		9606|Homo sapiens					
+MSV000093200	147755.mzML	animal		9606|Homo sapiens					
+MSV000093200	44744.mzML	animal		9606|Homo sapiens					
+MSV000093200	109418.mzML	animal		9606|Homo sapiens					
+MSV000093200	131192.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000858.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000734.mzML	animal		9606|Homo sapiens					
+MSV000093200	147660.mzML	animal		9606|Homo sapiens					
+MSV000093200	82442.mzML	animal		9606|Homo sapiens					
+MSV000093200	113672.mzML	animal		9606|Homo sapiens					
+MSV000093200	108623.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_3_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	130259.mzML	animal		9606|Homo sapiens					
+MSV000093200	164076.mzML	animal		9606|Homo sapiens					
+MSV000093200	152445.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000135.mzML	animal		9606|Homo sapiens					
+MSV000093200	43618.mzML	animal		9606|Homo sapiens					
+MSV000093200	109569.mzML	animal		9606|Homo sapiens					
+MSV000093200	133280.mzML	animal		9606|Homo sapiens					
+MSV000093200	155473.mzML	animal		9606|Homo sapiens					
+MSV000093200	33724.mzML	animal		9606|Homo sapiens					
+MSV000093200	40228.mzML	animal		9606|Homo sapiens					
+MSV000093200	105659.mzML	animal		9606|Homo sapiens					
+MSV000093200	153274.mzML	animal		9606|Homo sapiens					
+MSV000093200	156024.mzML	animal		9606|Homo sapiens					
+MSV000093200	145469.mzML	animal		9606|Homo sapiens					
+MSV000093200	145900.mzML	animal		9606|Homo sapiens					
+MSV000093200	155469.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000142.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000524.mzML	animal		9606|Homo sapiens					
+MSV000093200	99101.mzML	animal		9606|Homo sapiens					
+MSV000093200	152727.mzML	animal		9606|Homo sapiens					
+MSV000093200	22HM6222_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	155741.mzML	animal		9606|Homo sapiens					
+MSV000093200	151552.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_2_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	164719.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate_11_4.mzML	animal		9606|Homo sapiens					
+MSV000093200	62839.mzML	animal		9606|Homo sapiens					
+MSV000093200	145447.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001127.mzML	animal		9606|Homo sapiens					
+MSV000093200	139930.mzML	animal		9606|Homo sapiens					
+MSV000093200	159666.mzML	animal		9606|Homo sapiens					
+MSV000093200	151010.mzML	animal		9606|Homo sapiens					
+MSV000093200	101471.mzML	animal		9606|Homo sapiens					
+MSV000093200	164033.mzML	animal		9606|Homo sapiens					
+MSV000093200	158006.mzML	animal		9606|Homo sapiens					
+MSV000093200	164390.mzML	animal		9606|Homo sapiens					
+MSV000093200	149773.mzML	animal		9606|Homo sapiens					
+MSV000093200	48165.mzML	animal		9606|Homo sapiens					
+MSV000093200	152231.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_5_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	111278.mzML	animal		9606|Homo sapiens					
+MSV000093200	Solvent_BLANK_Plate14_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate11_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_4_5_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_3_3_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_2_4_G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_3_3_H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_6_6_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	69750.mzML	animal		9606|Homo sapiens					
+MSV000093200	152424.mzML	animal		9606|Homo sapiens					
+MSV000093200	151143.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000934.mzML	animal		9606|Homo sapiens					
+MSV000093200	133401.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003580.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000086.mzML	animal		9606|Homo sapiens					
+MSV000093200	147729.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000494.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000096.mzML	animal		9606|Homo sapiens					
+MSV000093200	108364.mzML	animal		9606|Homo sapiens					
+MSV000093200	118723.mzML	animal		9606|Homo sapiens					
+MSV000093200	146079.mzML	animal		9606|Homo sapiens					
+MSV000093200	164798.mzML	animal		9606|Homo sapiens					
+MSV000093200	33616.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_8_8_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate3_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate6_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate7_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_3_3_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate12_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	40001073.mzML	animal		9606|Homo sapiens					
+MSV000093200	139939.mzML	animal		9606|Homo sapiens					
+MSV000093200	107786.mzML	animal		9606|Homo sapiens					
+MSV000093200	23958.mzML	animal		9606|Homo sapiens					
+MSV000093200	73307.mzML	animal		9606|Homo sapiens					
+MSV000093200	32136.mzML	animal		9606|Homo sapiens					
+MSV000093200	139543.mzML	animal		9606|Homo sapiens					
+MSV000093200	31962.mzML	animal		9606|Homo sapiens					
+MSV000093200	147505.mzML	animal		9606|Homo sapiens					
+MSV000093200	112271.mzML	animal		9606|Homo sapiens					
+MSV000093200	59927.mzML	animal		9606|Homo sapiens					
+MSV000093200	123042.mzML	animal		9606|Homo sapiens					
+MSV000093200	48229.mzML	animal		9606|Homo sapiens					
+MSV000093200	153120.mzML	animal		9606|Homo sapiens					
+MSV000093200	164323.mzML	animal		9606|Homo sapiens					
+MSV000093200	118160.mzML	animal		9606|Homo sapiens					
+MSV000093200	33133.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000356.mzML	animal		9606|Homo sapiens					
+MSV000093200	134180.mzML	animal		9606|Homo sapiens					
+MSV000093200	151303.mzML	animal		9606|Homo sapiens					
+MSV000093200	164730.mzML	animal		9606|Homo sapiens					
+MSV000093200	118811.mzML	animal		9606|Homo sapiens					
+MSV000093200	136028.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000351.mzML	animal		9606|Homo sapiens					
+MSV000093200	158662.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003230.mzML	animal		9606|Homo sapiens					
+MSV000093200	155087.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_7_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	159234.mzML	animal		9606|Homo sapiens					
+MSV000093200	101265.mzML	animal		9606|Homo sapiens					
+MSV000093200	158984.mzML	animal		9606|Homo sapiens					
+MSV000093200	106064.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001360.mzML	animal		9606|Homo sapiens					
+MSV000093200	41365.mzML	animal		9606|Homo sapiens					
+MSV000093200	53006.mzML	animal		9606|Homo sapiens					
+MSV000093200	133276.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_13_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003097.mzML	animal		9606|Homo sapiens					
+MSV000093200	158971.mzML	animal		9606|Homo sapiens					
+MSV000093200	136469.mzML	animal		9606|Homo sapiens					
+MSV000093200	149917.mzML	animal		9606|Homo sapiens					
+MSV000093200	124679.mzML	animal		9606|Homo sapiens					
+MSV000093200	153062.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000451.mzML	animal		9606|Homo sapiens					
+MSV000093200	138772.mzML	animal		9606|Homo sapiens					
+MSV000093200	74128.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_8_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	145100.mzML	animal		9606|Homo sapiens					
+MSV000093200	126203.mzML	animal		9606|Homo sapiens					
+MSV000093200	136855.mzML	animal		9606|Homo sapiens					
+MSV000093200	163602.mzML	animal		9606|Homo sapiens					
+MSV000093200	133821.mzML	animal		9606|Homo sapiens					
+MSV000093200	159599.mzML	animal		9606|Homo sapiens					
+MSV000093200	156261.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_4_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	152006.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_1_9_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate7_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate8_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_1_9_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate13_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_7_7_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_3_3_G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate13_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate13_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_9_12_G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	101457.mzML	animal		9606|Homo sapiens					
+MSV000093200	124618.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000599.mzML	animal		9606|Homo sapiens					
+MSV000093200	134114.mzML	animal		9606|Homo sapiens					
+MSV000093200	143748.mzML	animal		9606|Homo sapiens					
+MSV000093200	152096.mzML	animal		9606|Homo sapiens					
+MSV000093200	74513.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003247.mzML	animal		9606|Homo sapiens					
+MSV000093200	113364.mzML	animal		9606|Homo sapiens					
+MSV000093200	147803.mzML	animal		9606|Homo sapiens					
+MSV000093200	132723.mzML	animal		9606|Homo sapiens					
+MSV000093200	124356.mzML	animal		9606|Homo sapiens					
+MSV000093200	149452.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate14_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	110499.mzML	animal		9606|Homo sapiens					
+MSV000093200	149160.mzML	animal		9606|Homo sapiens					
+MSV000093200	103360.mzML	animal		9606|Homo sapiens					
+MSV000093200	111885.mzML	animal		9606|Homo sapiens					
+MSV000093200	159644.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate9_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_7_7_G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	79556.mzML	animal		9606|Homo sapiens					
+MSV000093200	151647.mzML	animal		9606|Homo sapiens					
+MSV000093200	101481.mzML	animal		9606|Homo sapiens					
+MSV000093200	113333.mzML	animal		9606|Homo sapiens					
+MSV000093200	156269.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000275.mzML	animal		9606|Homo sapiens					
+MSV000093200	135552.mzML	animal		9606|Homo sapiens					
+MSV000093200	152709.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001351.mzML	animal		9606|Homo sapiens					
+MSV000093200	132704.mzML	animal		9606|Homo sapiens					
+MSV000093200	136488.mzML	animal		9606|Homo sapiens					
+MSV000093200	132768.mzML	animal		9606|Homo sapiens					
+MSV000093200	118598.mzML	animal		9606|Homo sapiens					
+MSV000093200	148649.mzML	animal		9606|Homo sapiens					
+MSV000093200	122484.mzML	animal		9606|Homo sapiens					
+MSV000093200	158847.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_11_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	43409.mzML	animal		9606|Homo sapiens					
+MSV000093200	125439.mzML	animal		9606|Homo sapiens					
+MSV000093200	148665.mzML	animal		9606|Homo sapiens					
+MSV000093200	158324.mzML	animal		9606|Homo sapiens					
+MSV000093200	152252.mzML	animal		9606|Homo sapiens					
+MSV000093200	123503.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000474.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_5_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	147617.mzML	animal		9606|Homo sapiens					
+MSV000093200	113134.mzML	animal		9606|Homo sapiens					
+MSV000093200	131382.mzML	animal		9606|Homo sapiens					
+MSV000093200	134933.mzML	animal		9606|Homo sapiens					
+MSV000093200	163934.mzML	animal		9606|Homo sapiens					
+MSV000093200	109420.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000976.mzML	animal		9606|Homo sapiens					
+MSV000093200	32841.mzML	animal		9606|Homo sapiens					
+MSV000093200	152407.mzML	animal		9606|Homo sapiens					
+MSV000093200	134230.mzML	animal		9606|Homo sapiens					
+MSV000093200	125166.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003102.mzML	animal		9606|Homo sapiens					
+MSV000093200	135504.mzML	animal		9606|Homo sapiens					
+MSV000093200	164552.mzML	animal		9606|Homo sapiens					
+MSV000093200	123877.mzML	animal		9606|Homo sapiens					
+MSV000093200	145393.mzML	animal		9606|Homo sapiens					
+MSV000093200	22HM6196.mzML	animal		9606|Homo sapiens					
+MSV000093200	50895.mzML	animal		9606|Homo sapiens					
+MSV000093200	152753.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_5_12_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_6_6_G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate12_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_5_12_H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_4_5_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate9_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_PlateBile_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_7_7_F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	152317.mzML	animal		9606|Homo sapiens					
+MSV000093200	Column_Clean_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	149828.mzML	animal		9606|Homo sapiens					
+MSV000093200	141483.mzML	animal		9606|Homo sapiens					
+MSV000093200	151376.mzML	animal		9606|Homo sapiens					
+MSV000093200	147506.mzML	animal		9606|Homo sapiens					
+MSV000093200	82429.mzML	animal		9606|Homo sapiens					
+MSV000093200	152212.mzML	animal		9606|Homo sapiens					
+MSV000093200	153192.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_1_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	156364.mzML	animal		9606|Homo sapiens					
+MSV000093200	159145.mzML	animal		9606|Homo sapiens					
+MSV000093200	130555.mzML	animal		9606|Homo sapiens					
+MSV000093200	118997.mzML	animal		9606|Homo sapiens					
+MSV000093200	103035.mzML	animal		9606|Homo sapiens					
+MSV000093200	147734.mzML	animal		9606|Homo sapiens					
+MSV000093200	125171.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate12_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate11_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_7_7_H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	151120.mzML	animal		9606|Homo sapiens					
+MSV000093200	130811.mzML	animal		9606|Homo sapiens					
+MSV000093200	159037.mzML	animal		9606|Homo sapiens					
+MSV000093200	72046.mzML	animal		9606|Homo sapiens					
+MSV000093200	151443.mzML	animal		9606|Homo sapiens					
+MSV000093200	151770.mzML	animal		9606|Homo sapiens					
+MSV000093200	156365.mzML	animal		9606|Homo sapiens					
+MSV000093200	137532.mzML	animal		9606|Homo sapiens					
+MSV000093200	145395.mzML	animal		9606|Homo sapiens					
+MSV000093200	164105.mzML	animal		9606|Homo sapiens					
+MSV000093200	159688.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000335.mzML	animal		9606|Homo sapiens					
+MSV000093200	44099.mzML	animal		9606|Homo sapiens					
+MSV000093200	113017.mzML	animal		9606|Homo sapiens					
+MSV000093200	109608.mzML	animal		9606|Homo sapiens					
+MSV000093200	141749.mzML	animal		9606|Homo sapiens					
+MSV000093200	155430.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001227.mzML	animal		9606|Homo sapiens					
+MSV000093200	152817.mzML	animal		9606|Homo sapiens					
+MSV000093200	152377.mzML	animal		9606|Homo sapiens					
+MSV000093200	119202.mzML	animal		9606|Homo sapiens					
+MSV000093200	153148.mzML	animal		9606|Homo sapiens					
+MSV000093200	23410.mzML	animal		9606|Homo sapiens					
+MSV000093200	22HM6221_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	119173.mzML	animal		9606|Homo sapiens					
+MSV000093200	145505.mzML	animal		9606|Homo sapiens					
+MSV000093200	136853.mzML	animal		9606|Homo sapiens					
+MSV000093200	153269.mzML	animal		9606|Homo sapiens					
+MSV000093200	133485.mzML	animal		9606|Homo sapiens					
+MSV000093200	164277.mzML	animal		9606|Homo sapiens					
+MSV000093200	50070.mzML	animal		9606|Homo sapiens					
+MSV000093200	109459.mzML	animal		9606|Homo sapiens					
+MSV000093200	136489.mzML	animal		9606|Homo sapiens					
+MSV000093200	78954.mzML	animal		9606|Homo sapiens					
+MSV000093200	164104.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_8_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	137072.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000468.mzML	animal		9606|Homo sapiens					
+MSV000093200	146479.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate6_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_2_4_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate11_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_4_5_G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate7_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_2_4_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate11_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	134975.mzML	animal		9606|Homo sapiens					
+MSV000093200	159590.mzML	animal		9606|Homo sapiens					
+MSV000093200	138284.mzML	animal		9606|Homo sapiens					
+MSV000093200	135411.mzML	animal		9606|Homo sapiens					
+MSV000093200	110470.mzML	animal		9606|Homo sapiens					
+MSV000093200	126423.mzML	animal		9606|Homo sapiens					
+MSV000093200	155458.mzML	animal		9606|Homo sapiens					
+MSV000093200	135562.mzML	animal		9606|Homo sapiens					
+MSV000093200	123753.mzML	animal		9606|Homo sapiens					
+MSV000093200	152073.mzML	animal		9606|Homo sapiens					
+MSV000093200	123271.mzML	animal		9606|Homo sapiens					
+MSV000093200	126916.mzML	animal		9606|Homo sapiens					
+MSV000093200	148017.mzML	animal		9606|Homo sapiens					
+MSV000093200	153642.mzML	animal		9606|Homo sapiens					
+MSV000093200	158894.mzML	animal		9606|Homo sapiens					
+MSV000093200	23487.mzML	animal		9606|Homo sapiens					
+MSV000093200	126517.mzML	animal		9606|Homo sapiens					
+MSV000093200	158860.mzML	animal		9606|Homo sapiens					
+MSV000093200	151589.mzML	animal		9606|Homo sapiens					
+MSV000093200	38119.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_9_12_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_10_8_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_10_8_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_9_12_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate9_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	SRM_Plate_6_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	139906.mzML	animal		9606|Homo sapiens					
+MSV000093200	146407.mzML	animal		9606|Homo sapiens					
+MSV000093200	109550.mzML	animal		9606|Homo sapiens					
+MSV000093200	158088.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate13_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	111288.mzML	animal		9606|Homo sapiens					
+MSV000093200	158294.mzML	animal		9606|Homo sapiens					
+MSV000093200	126099.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_7_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	126109.mzML	animal		9606|Homo sapiens					
+MSV000093200	118804.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000614.mzML	animal		9606|Homo sapiens					
+MSV000093200	158091.mzML	animal		9606|Homo sapiens					
+MSV000093200	145722.mzML	animal		9606|Homo sapiens					
+MSV000093200	145845.mzML	animal		9606|Homo sapiens					
+MSV000093200	158041.mzML	animal		9606|Homo sapiens					
+MSV000093200	145097.mzML	animal		9606|Homo sapiens					
+MSV000093200	145993.mzML	animal		9606|Homo sapiens					
+MSV000093200	153069.mzML	animal		9606|Homo sapiens					
+MSV000093200	152037.mzML	animal		9606|Homo sapiens					
+MSV000093200	22HM6222.mzML	animal		9606|Homo sapiens					
+MSV000093200	158890.mzML	animal		9606|Homo sapiens					
+MSV000093200	140035.mzML	animal		9606|Homo sapiens					
+MSV000093200	155616.mzML	animal		9606|Homo sapiens					
+MSV000093200	79337.mzML	animal		9606|Homo sapiens					
+MSV000093200	137035.mzML	animal		9606|Homo sapiens					
+MSV000093200	164269.mzML	animal		9606|Homo sapiens					
+MSV000093200	125298.mzML	animal		9606|Homo sapiens					
+MSV000093200	100316.mzML	animal		9606|Homo sapiens					
+MSV000093200	133331.mzML	animal		9606|Homo sapiens					
+MSV000093200	143576.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003256.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate_12_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	151016.mzML	animal		9606|Homo sapiens					
+MSV000093200	48135.mzML	animal		9606|Homo sapiens					
+MSV000093200	147663.mzML	animal		9606|Homo sapiens					
+MSV000093200	136602.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000927.mzML	animal		9606|Homo sapiens					
+MSV000093200	103235.mzML	animal		9606|Homo sapiens					
+MSV000093200	113518.mzML	animal		9606|Homo sapiens					
+MSV000093200	151679.mzML	animal		9606|Homo sapiens					
+MSV000093200	140399.mzML	animal		9606|Homo sapiens					
+MSV000093200	130474.mzML	animal		9606|Homo sapiens					
+MSV000093200	145597.mzML	animal		9606|Homo sapiens					
+MSV000093200	155090.mzML	animal		9606|Homo sapiens					
+MSV000093200	49233.mzML	animal		9606|Homo sapiens					
+MSV000093200	124363.mzML	animal		9606|Homo sapiens					
+MSV000093200	163625.mzML	animal		9606|Homo sapiens					
+MSV000093200	60787.mzML	animal		9606|Homo sapiens					
+MSV000093200	147806.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate12_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate2_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_5_12_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_2_4_F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate1_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_6_6_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate3_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_PlateBile_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_10_8_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate13_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	152459.mzML	animal		9606|Homo sapiens					
+MSV000093200	132720.mzML	animal		9606|Homo sapiens					
+MSV000093200	163528.mzML	animal		9606|Homo sapiens					
+MSV000093200	164442.mzML	animal		9606|Homo sapiens					
+MSV000093200	149806.mzML	animal		9606|Homo sapiens					
+MSV000093200	101690.mzML	animal		9606|Homo sapiens					
+MSV000093200	152387.mzML	animal		9606|Homo sapiens					
+MSV000093200	103029.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_12_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	126857.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_6_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	130659.mzML	animal		9606|Homo sapiens					
+MSV000093200	153107.mzML	animal		9606|Homo sapiens					
+MSV000093200	156015.mzML	animal		9606|Homo sapiens					
+MSV000093200	23383.mzML	animal		9606|Homo sapiens					
+MSV000093200	99087.mzML	animal		9606|Homo sapiens					
+MSV000093200	109506.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_1_200_Plate_1_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003176.mzML	animal		9606|Homo sapiens					
+MSV000093200	110018.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate1_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate1_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate3_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate1_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_1_9_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	103314.mzML	animal		9606|Homo sapiens					
+MSV000093200	158223.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001412.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000529.mzML	animal		9606|Homo sapiens					
+MSV000093200	155759.mzML	animal		9606|Homo sapiens					
+MSV000093200	137743.mzML	animal		9606|Homo sapiens					
+MSV000093200	152534.mzML	animal		9606|Homo sapiens					
+MSV000093200	109543.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000707.mzML	animal		9606|Homo sapiens					
+MSV000093200	123135.mzML	animal		9606|Homo sapiens					
+MSV000093200	152411.mzML	animal		9606|Homo sapiens					
+MSV000093200	78041.mzML	animal		9606|Homo sapiens					
+MSV000093200	123119.mzML	animal		9606|Homo sapiens					
+MSV000093200	158321.mzML	animal		9606|Homo sapiens					
+MSV000093200	151834.mzML	animal		9606|Homo sapiens					
+MSV000093200	118348.mzML	animal		9606|Homo sapiens					
+MSV000093200	126421.mzML	animal		9606|Homo sapiens					
+MSV000093200	156296.mzML	animal		9606|Homo sapiens					
+MSV000093200	132765.mzML	animal		9606|Homo sapiens					
+MSV000093200	149616.mzML	animal		9606|Homo sapiens					
+MSV000093200	111598.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000172.mzML	animal		9606|Homo sapiens					
+MSV000093200	159635.mzML	animal		9606|Homo sapiens					
+MSV000093200	136478.mzML	animal		9606|Homo sapiens					
+MSV000093200	134103.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000941.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000218.mzML	animal		9606|Homo sapiens					
+MSV000093200	105481.mzML	animal		9606|Homo sapiens					
+MSV000093200	50748.mzML	animal		9606|Homo sapiens					
+MSV000093200	105649.mzML	animal		9606|Homo sapiens					
+MSV000093200	110041.mzML	animal		9606|Homo sapiens					
+MSV000093200	155453.mzML	animal		9606|Homo sapiens					
+MSV000093200	158639.mzML	animal		9606|Homo sapiens					
+MSV000093200	148156.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000266.mzML	animal		9606|Homo sapiens					
+MSV000093200	133468.mzML	animal		9606|Homo sapiens					
+MSV000093200	138787.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate6_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate6_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_2_4_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate6_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_3_3_F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_5_12_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate7_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_1_9_F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_8_8_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_6_6_H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	151578.mzML	animal		9606|Homo sapiens					
+MSV000093200	122458.mzML	animal		9606|Homo sapiens					
+MSV000093200	112468.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000955.mzML	animal		9606|Homo sapiens					
+MSV000093200	40010.mzML	animal		9606|Homo sapiens					
+MSV000093200	39838.mzML	animal		9606|Homo sapiens					
+MSV000093200	156797.mzML	animal		9606|Homo sapiens					
+MSV000093200	39216.mzML	animal		9606|Homo sapiens					
+MSV000093200	151103.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_11_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	126245.mzML	animal		9606|Homo sapiens					
+MSV000093200	102237.mzML	animal		9606|Homo sapiens					
+MSV000093200	152559.mzML	animal		9606|Homo sapiens					
+MSV000093200	153939.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate1_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate13_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate13_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_2_4_H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	153391.mzML	animal		9606|Homo sapiens					
+MSV000093200	152526.mzML	animal		9606|Homo sapiens					
+MSV000093200	49251.mzML	animal		9606|Homo sapiens					
+MSV000093200	109688.mzML	animal		9606|Homo sapiens					
+MSV000093200	153918.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001362.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000721.mzML	animal		9606|Homo sapiens					
+MSV000093200	111377.mzML	animal		9606|Homo sapiens					
+MSV000093200	74335.mzML	animal		9606|Homo sapiens					
+MSV000093200	153805.mzML	animal		9606|Homo sapiens					
+MSV000093200	51205.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001404.mzML	animal		9606|Homo sapiens					
+MSV000093200	23960.mzML	animal		9606|Homo sapiens					
+MSV000093200	140395.mzML	animal		9606|Homo sapiens					
+MSV000093200	152152.mzML	animal		9606|Homo sapiens					
+MSV000093200	148328.mzML	animal		9606|Homo sapiens					
+MSV000093200	155020.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001200.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_Bile_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_12_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	159709.mzML	animal		9606|Homo sapiens					
+MSV000093200	111720.mzML	animal		9606|Homo sapiens					
+MSV000093200	139853.mzML	animal		9606|Homo sapiens					
+MSV000093200	145357.mzML	animal		9606|Homo sapiens					
+MSV000093200	135246.mzML	animal		9606|Homo sapiens					
+MSV000093200	137594.mzML	animal		9606|Homo sapiens					
+MSV000093200	111243.mzML	animal		9606|Homo sapiens					
+MSV000093200	123721.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000743.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000349.mzML	animal		9606|Homo sapiens					
+MSV000093200	108678.mzML	animal		9606|Homo sapiens					
+MSV000093200	155561.mzML	animal		9606|Homo sapiens					
+MSV000093200	152125.mzML	animal		9606|Homo sapiens					
+MSV000093200	164560.mzML	animal		9606|Homo sapiens					
+MSV000093200	153290.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_4_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	124385.mzML	animal		9606|Homo sapiens					
+MSV000093200	134613.mzML	animal		9606|Homo sapiens					
+MSV000093200	159602.mzML	animal		9606|Homo sapiens					
+MSV000093200	48750.mzML	animal		9606|Homo sapiens					
+MSV000093200	59407.mzML	animal		9606|Homo sapiens					
+MSV000093200	151732.mzML	animal		9606|Homo sapiens					
+MSV000093200	153707.mzML	animal		9606|Homo sapiens					
+MSV000093200	50712.mzML	animal		9606|Homo sapiens					
+MSV000093200	148606.mzML	animal		9606|Homo sapiens					
+MSV000093200	138794.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001188.mzML	animal		9606|Homo sapiens					
+MSV000093200	50850.mzML	animal		9606|Homo sapiens					
+MSV000093200	149682.mzML	animal		9606|Homo sapiens					
+MSV000093200	164395.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate5_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_9_12_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_3_3_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate10_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	40001357.mzML	animal		9606|Homo sapiens					
+MSV000093200	138075.mzML	animal		9606|Homo sapiens					
+MSV000093200	111716.mzML	animal		9606|Homo sapiens					
+MSV000093200	164071.mzML	animal		9606|Homo sapiens					
+MSV000093200	147798.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001113.mzML	animal		9606|Homo sapiens					
+MSV000093200	149180.mzML	animal		9606|Homo sapiens					
+MSV000093200	112887.mzML	animal		9606|Homo sapiens					
+MSV000093200	110492.mzML	animal		9606|Homo sapiens					
+MSV000093200	110549.mzML	animal		9606|Homo sapiens					
+MSV000093200	152089.mzML	animal		9606|Homo sapiens					
+MSV000093200	133253.mzML	animal		9606|Homo sapiens					
+MSV000093200	159154.mzML	animal		9606|Homo sapiens					
+MSV000093200	118810.mzML	animal		9606|Homo sapiens					
+MSV000093200	52253.mzML	animal		9606|Homo sapiens					
+MSV000093200	153333.mzML	animal		9606|Homo sapiens					
+MSV000093200	109385.mzML	animal		9606|Homo sapiens					
+MSV000093200	126958.mzML	animal		9606|Homo sapiens					
+MSV000093200	126896.mzML	animal		9606|Homo sapiens					
+MSV000093200	118731.mzML	animal		9606|Homo sapiens					
+MSV000093200	51960.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_7_7_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	50823.mzML	animal		9606|Homo sapiens					
+MSV000093200	158230.mzML	animal		9606|Homo sapiens					
+MSV000093200	159710.mzML	animal		9606|Homo sapiens					
+MSV000093200	48179.mzML	animal		9606|Homo sapiens					
+MSV000093200	100473.mzML	animal		9606|Homo sapiens					
+MSV000093200	156098.mzML	animal		9606|Homo sapiens					
+MSV000093200	164761.mzML	animal		9606|Homo sapiens					
+MSV000093200	135997.mzML	animal		9606|Homo sapiens					
+MSV000093200	149426.mzML	animal		9606|Homo sapiens					
+MSV000093200	134905.mzML	animal		9606|Homo sapiens					
+MSV000093200	123517.mzML	animal		9606|Homo sapiens					
+MSV000093200	145113.mzML	animal		9606|Homo sapiens					
+MSV000093200	159096.mzML	animal		9606|Homo sapiens					
+MSV000093200	108648.mzML	animal		9606|Homo sapiens					
+MSV000093200	147544.mzML	animal		9606|Homo sapiens					
+MSV000093200	133046.mzML	animal		9606|Homo sapiens					
+MSV000093200	152525.mzML	animal		9606|Homo sapiens					
+MSV000093200	156318.mzML	animal		9606|Homo sapiens					
+MSV000093200	126869.mzML	animal		9606|Homo sapiens					
+MSV000093200	110566.mzML	animal		9606|Homo sapiens					
+MSV000093200	148059.mzML	animal		9606|Homo sapiens					
+MSV000093200	159617.mzML	animal		9606|Homo sapiens					
+MSV000093200	133309.mzML	animal		9606|Homo sapiens					
+MSV000093200	156790.mzML	animal		9606|Homo sapiens					
+MSV000093200	125339.mzML	animal		9606|Homo sapiens					
+MSV000093200	136159.mzML	animal		9606|Homo sapiens					
+MSV000093200	137179.mzML	animal		9606|Homo sapiens					
+MSV000093200	126230.mzML	animal		9606|Homo sapiens					
+MSV000093200	133877.mzML	animal		9606|Homo sapiens					
+MSV000093200	147571.mzML	animal		9606|Homo sapiens					
+MSV000093200	159957.mzML	animal		9606|Homo sapiens					
+MSV000093200	53663.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_Bile_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001072.mzML	animal		9606|Homo sapiens					
+MSV000093200	156804.mzML	animal		9606|Homo sapiens					
+MSV000093200	33762.mzML	animal		9606|Homo sapiens					
+MSV000093200	155369.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_2_4_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate5_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate5_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate7_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_7_7_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate10_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate7_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate3_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	38539.mzML	animal		9606|Homo sapiens					
+MSV000093200	101831.mzML	animal		9606|Homo sapiens					
+MSV000093200	110449.mzML	animal		9606|Homo sapiens					
+MSV000093200	134105.mzML	animal		9606|Homo sapiens					
+MSV000093200	151752.mzML	animal		9606|Homo sapiens					
+MSV000093200	152952.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000085.mzML	animal		9606|Homo sapiens					
+MSV000093200	139919.mzML	animal		9606|Homo sapiens					
+MSV000093200	123514.mzML	animal		9606|Homo sapiens					
+MSV000093200	146091.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000208.mzML	animal		9606|Homo sapiens					
+MSV000093200	135421.mzML	animal		9606|Homo sapiens					
+MSV000093200	153655.mzML	animal		9606|Homo sapiens					
+MSV000093200	130807.mzML	animal		9606|Homo sapiens					
+MSV000093200	108671.mzML	animal		9606|Homo sapiens					
+MSV000093200	151774.mzML	animal		9606|Homo sapiens					
+MSV000093200	133886.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000454.mzML	animal		9606|Homo sapiens					
+MSV000093200	152141.mzML	animal		9606|Homo sapiens					
+MSV000093200	136874.mzML	animal		9606|Homo sapiens					
+MSV000093200	40752.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_8_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	159904.mzML	animal		9606|Homo sapiens					
+MSV000093200	152292.mzML	animal		9606|Homo sapiens					
+MSV000093200	139617.mzML	animal		9606|Homo sapiens					
+MSV000093200	153804.mzML	animal		9606|Homo sapiens					
+MSV000093200	74531.mzML	animal		9606|Homo sapiens					
+MSV000093200	153079.mzML	animal		9606|Homo sapiens					
+MSV000093200	151611.mzML	animal		9606|Homo sapiens					
+MSV000093200	138106.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate10_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	131101.mzML	animal		9606|Homo sapiens					
+MSV000093200	156458.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001104.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_3_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	153550.mzML	animal		9606|Homo sapiens					
+MSV000093200	137562.mzML	animal		9606|Homo sapiens					
+MSV000093200	139040.mzML	animal		9606|Homo sapiens					
+MSV000093200	152176.mzML	animal		9606|Homo sapiens					
+MSV000093200	152686.mzML	animal		9606|Homo sapiens					
+MSV000093200	22HM6194_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	139736.mzML	animal		9606|Homo sapiens					
+MSV000093200	146732.mzML	animal		9606|Homo sapiens					
+MSV000093200	135078.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000558.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000219.mzML	animal		9606|Homo sapiens					
+MSV000093200	138115.mzML	animal		9606|Homo sapiens					
+MSV000093200	164090.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003476.mzML	animal		9606|Homo sapiens					
+MSV000093200	164074.mzML	animal		9606|Homo sapiens					
+MSV000093200	153889.mzML	animal		9606|Homo sapiens					
+MSV000093200	126291.mzML	animal		9606|Homo sapiens					
+MSV000093200	134619.mzML	animal		9606|Homo sapiens					
+MSV000093200	153409.mzML	animal		9606|Homo sapiens					
+MSV000093200	149759.mzML	animal		9606|Homo sapiens					
+MSV000093200	48011.mzML	animal		9606|Homo sapiens					
+MSV000093200	148621.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000535.mzML	animal		9606|Homo sapiens					
+MSV000093200	119325.mzML	animal		9606|Homo sapiens					
+MSV000093200	79418.mzML	animal		9606|Homo sapiens					
+MSV000093200	159152.mzML	animal		9606|Homo sapiens					
+MSV000093200	148026.mzML	animal		9606|Homo sapiens					
+MSV000093200	134241.mzML	animal		9606|Homo sapiens					
+MSV000093200	156058.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000879.mzML	animal		9606|Homo sapiens					
+MSV000093200	38281.mzML	animal		9606|Homo sapiens					
+MSV000093200	158875.mzML	animal		9606|Homo sapiens					
+MSV000093200	101266.mzML	animal		9606|Homo sapiens					
+MSV000093200	164834.mzML	animal		9606|Homo sapiens					
+MSV000093200	153227.mzML	animal		9606|Homo sapiens					
+MSV000093200	33767.mzML	animal		9606|Homo sapiens					
+MSV000093200	155699.mzML	animal		9606|Homo sapiens					
+MSV000093200	44542.mzML	animal		9606|Homo sapiens					
+MSV000093200	153515.mzML	animal		9606|Homo sapiens					
+MSV000093200	113866.mzML	animal		9606|Homo sapiens					
+MSV000093200	77477.mzML	animal		9606|Homo sapiens					
+MSV000093200	33134.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_10_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	152674.mzML	animal		9606|Homo sapiens					
+MSV000093200	101691.mzML	animal		9606|Homo sapiens					
+MSV000093200	44971.mzML	animal		9606|Homo sapiens					
+MSV000093200	147502.mzML	animal		9606|Homo sapiens					
+MSV000093200	139453.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate11_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate4_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate2_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_PlateBile_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate4_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_5_12_F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate6_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate4_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate14_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_6_6_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_4_5_F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	40003062.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_13_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	110047.mzML	animal		9606|Homo sapiens					
+MSV000093200	137557.mzML	animal		9606|Homo sapiens					
+MSV000093200	153357.mzML	animal		9606|Homo sapiens					
+MSV000093200	60137.mzML	animal		9606|Homo sapiens					
+MSV000093200	126473.mzML	animal		9606|Homo sapiens					
+MSV000093200	118589.mzML	animal		9606|Homo sapiens					
+MSV000093200	136189.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_9_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	153383.mzML	animal		9606|Homo sapiens					
+MSV000093200	111850.mzML	animal		9606|Homo sapiens					
+MSV000093200	132501.mzML	animal		9606|Homo sapiens					
+MSV000093200	108689.mzML	animal		9606|Homo sapiens					
+MSV000093200	125335.mzML	animal		9606|Homo sapiens					
+MSV000093200	163522.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000542.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate7_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_1_9_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	109417.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003089.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003234.mzML	animal		9606|Homo sapiens					
+MSV000093200	158886.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000169.mzML	animal		9606|Homo sapiens					
+MSV000093200	145132.mzML	animal		9606|Homo sapiens					
+MSV000093200	158114.mzML	animal		9606|Homo sapiens					
+MSV000093200	39348.mzML	animal		9606|Homo sapiens					
+MSV000093200	124393.mzML	animal		9606|Homo sapiens					
+MSV000093200	164267.mzML	animal		9606|Homo sapiens					
+MSV000093200	125435.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_2_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	159993.mzML	animal		9606|Homo sapiens					
+MSV000093200	148600.mzML	animal		9606|Homo sapiens					
+MSV000093200	151424.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate_12_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	69079.mzML	animal		9606|Homo sapiens					
+MSV000093200	151536.mzML	animal		9606|Homo sapiens					
+MSV000093200	112764.mzML	animal		9606|Homo sapiens					
+MSV000093200	134936.mzML	animal		9606|Homo sapiens					
+MSV000093200	152100.mzML	animal		9606|Homo sapiens					
+MSV000093200	159643.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000761.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_9_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003159.mzML	animal		9606|Homo sapiens					
+MSV000093200	143243.mzML	animal		9606|Homo sapiens					
+MSV000093200	136906.mzML	animal		9606|Homo sapiens					
+MSV000093200	48493.mzML	animal		9606|Homo sapiens					
+MSV000093200	124201.mzML	animal		9606|Homo sapiens					
+MSV000093200	151748.mzML	animal		9606|Homo sapiens					
+MSV000093200	124621.mzML	animal		9606|Homo sapiens					
+MSV000093200	122450.mzML	animal		9606|Homo sapiens					
+MSV000093200	164681.mzML	animal		9606|Homo sapiens					
+MSV000093200	138750.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000489.mzML	animal		9606|Homo sapiens					
+MSV000093200	164340.mzML	animal		9606|Homo sapiens					
+MSV000093200	41865.mzML	animal		9606|Homo sapiens					
+MSV000093200	138580.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000572.mzML	animal		9606|Homo sapiens					
+MSV000093200	110811.mzML	animal		9606|Homo sapiens					
+MSV000093200	62087.mzML	animal		9606|Homo sapiens					
+MSV000093200	138801.mzML	animal		9606|Homo sapiens					
+MSV000093200	158357.mzML	animal		9606|Homo sapiens					
+MSV000093200	110428.mzML	animal		9606|Homo sapiens					
+MSV000093200	23426.mzML	animal		9606|Homo sapiens					
+MSV000093200	119647.mzML	animal		9606|Homo sapiens					
+MSV000093200	145978.mzML	animal		9606|Homo sapiens					
+MSV000093200	148032.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_10_8_H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate11_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate3_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_4_5_H.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate13_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_8_8_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate2_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate1_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate9_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate12_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	137765.mzML	animal		9606|Homo sapiens					
+MSV000093200	153908.mzML	animal		9606|Homo sapiens					
+MSV000093200	131116.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000966.mzML	animal		9606|Homo sapiens					
+MSV000093200	152973.mzML	animal		9606|Homo sapiens					
+MSV000093200	163696.mzML	animal		9606|Homo sapiens					
+MSV000093200	158036.mzML	animal		9606|Homo sapiens					
+MSV000093200	145391.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate13_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	143029.mzML	animal		9606|Homo sapiens					
+MSV000093200	143714.mzML	animal		9606|Homo sapiens					
+MSV000093200	130414.mzML	animal		9606|Homo sapiens					
+MSV000093200	152791.mzML	animal		9606|Homo sapiens					
+MSV000093200	134174.mzML	animal		9606|Homo sapiens					
+MSV000093200	109565.mzML	animal		9606|Homo sapiens					
+MSV000093200	130839.mzML	animal		9606|Homo sapiens					
+MSV000093200	151484.mzML	animal		9606|Homo sapiens					
+MSV000093200	164454.mzML	animal		9606|Homo sapiens					
+MSV000093200	153320.mzML	animal		9606|Homo sapiens					
+MSV000093200	158914.mzML	animal		9606|Homo sapiens					
+MSV000093200	23471.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_10_8_G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_10_8_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate5_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_9_12_A.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	40003225.mzML	animal		9606|Homo sapiens					
+MSV000093200	164638.mzML	animal		9606|Homo sapiens					
+MSV000093200	147741.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001363.mzML	animal		9606|Homo sapiens					
+MSV000093200	52725.mzML	animal		9606|Homo sapiens					
+MSV000093200	119633.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000590.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate_11_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	153795.mzML	animal		9606|Homo sapiens					
+MSV000093200	151992.mzML	animal		9606|Homo sapiens					
+MSV000093200	130657.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_10_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	152264.mzML	animal		9606|Homo sapiens					
+MSV000093200	147507.mzML	animal		9606|Homo sapiens					
+MSV000093200	145472.mzML	animal		9606|Homo sapiens					
+MSV000093200	109974.mzML	animal		9606|Homo sapiens					
+MSV000093200	149940.mzML	animal		9606|Homo sapiens					
+MSV000093200	140233.mzML	animal		9606|Homo sapiens					
+MSV000093200	156049.mzML	animal		9606|Homo sapiens					
+MSV000093200	41810.mzML	animal		9606|Homo sapiens					
+MSV000093200	131048.mzML	animal		9606|Homo sapiens					
+MSV000093200	146516.mzML	animal		9606|Homo sapiens					
+MSV000093200	145942.mzML	animal		9606|Homo sapiens					
+MSV000093200	164018.mzML	animal		9606|Homo sapiens					
+MSV000093200	156231.mzML	animal		9606|Homo sapiens					
+MSV000093200	118781.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001276.mzML	animal		9606|Homo sapiens					
+MSV000093200	124211.mzML	animal		9606|Homo sapiens					
+MSV000093200	135184.mzML	animal		9606|Homo sapiens					
+MSV000093200	137689.mzML	animal		9606|Homo sapiens					
+MSV000093200	147698.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000507.mzML	animal		9606|Homo sapiens					
+MSV000093200	134902.mzML	animal		9606|Homo sapiens					
+MSV000093200	137575.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001065.mzML	animal		9606|Homo sapiens					
+MSV000093200	156471.mzML	animal		9606|Homo sapiens					
+MSV000093200	156374.mzML	animal		9606|Homo sapiens					
+MSV000093200	108401.mzML	animal		9606|Homo sapiens					
+MSV000093200	138148.mzML	animal		9606|Homo sapiens					
+MSV000093200	126283.mzML	animal		9606|Homo sapiens					
+MSV000093200	101801.mzML	animal		9606|Homo sapiens					
+MSV000093200	149591.mzML	animal		9606|Homo sapiens					
+MSV000093200	156079.mzML	animal		9606|Homo sapiens					
+MSV000093200	137756.mzML	animal		9606|Homo sapiens					
+MSV000093200	139881.mzML	animal		9606|Homo sapiens					
+MSV000093200	133859.mzML	animal		9606|Homo sapiens					
+MSV000093200	38303.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_5_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	BLANK_SEP_3_3_E.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate8_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate5_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_1_9_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate13_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate2_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	118592.mzML	animal		9606|Homo sapiens					
+MSV000093200	126073.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001403.mzML	animal		9606|Homo sapiens					
+MSV000093200	118601.mzML	animal		9606|Homo sapiens					
+MSV000093200	152671.mzML	animal		9606|Homo sapiens					
+MSV000093200	158383.mzML	animal		9606|Homo sapiens					
+MSV000093200	131045.mzML	animal		9606|Homo sapiens					
+MSV000093200	149851.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000100.mzML	animal		9606|Homo sapiens					
+MSV000093200	139644.mzML	animal		9606|Homo sapiens					
+MSV000093200	152725.mzML	animal		9606|Homo sapiens					
+MSV000093200	151098.mzML	animal		9606|Homo sapiens					
+MSV000093200	146127.mzML	animal		9606|Homo sapiens					
+MSV000093200	Pooled_Milk_Plate13_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	149462.mzML	animal		9606|Homo sapiens					
+MSV000093200	151015.mzML	animal		9606|Homo sapiens					
+MSV000093200	149572.mzML	animal		9606|Homo sapiens					
+MSV000093200	151151.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_PlateBile_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate8_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate9_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	153627.mzML	animal		9606|Homo sapiens					
+MSV000093200	50203.mzML	animal		9606|Homo sapiens					
+MSV000093200	149414.mzML	animal		9606|Homo sapiens					
+MSV000093200	131389.mzML	animal		9606|Homo sapiens					
+MSV000093200	92044.mzML	animal		9606|Homo sapiens					
+MSV000093200	82621.mzML	animal		9606|Homo sapiens					
+MSV000093200	149430.mzML	animal		9606|Homo sapiens					
+MSV000093200	126545.mzML	animal		9606|Homo sapiens					
+MSV000093200	139649.mzML	animal		9606|Homo sapiens					
+MSV000093200	78682.mzML	animal		9606|Homo sapiens					
+MSV000093200	112993.mzML	animal		9606|Homo sapiens					
+MSV000093200	112540.mzML	animal		9606|Homo sapiens					
+MSV000093200	145336.mzML	animal		9606|Homo sapiens					
+MSV000093200	125257.mzML	animal		9606|Homo sapiens					
+MSV000093200	149632.mzML	animal		9606|Homo sapiens					
+MSV000093200	125101.mzML	animal		9606|Homo sapiens					
+MSV000093200	153758.mzML	animal		9606|Homo sapiens					
+MSV000093200	132716.mzML	animal		9606|Homo sapiens					
+MSV000093200	158661.mzML	animal		9606|Homo sapiens					
+MSV000093200	149921.mzML	animal		9606|Homo sapiens					
+MSV000093200	136535.mzML	animal		9606|Homo sapiens					
+MSV000093200	123031.mzML	animal		9606|Homo sapiens					
+MSV000093200	158313.mzML	animal		9606|Homo sapiens					
+MSV000093200	76855.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000363.mzML	animal		9606|Homo sapiens					
+MSV000093200	139908.mzML	animal		9606|Homo sapiens					
+MSV000093200	146491.mzML	animal		9606|Homo sapiens					
+MSV000093200	146521.mzML	animal		9606|Homo sapiens					
+MSV000093200	80653.mzML	animal		9606|Homo sapiens					
+MSV000093200	126436.mzML	animal		9606|Homo sapiens					
+MSV000093200	134110.mzML	animal		9606|Homo sapiens					
+MSV000093200	148978.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000095.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_9_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	103467.mzML	animal		9606|Homo sapiens					
+MSV000093200	22HM6227.mzML	animal		9606|Homo sapiens					
+MSV000093200	152062.mzML	animal		9606|Homo sapiens					
+MSV000093200	151785.mzML	animal		9606|Homo sapiens					
+MSV000093200	141203.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000108.mzML	animal		9606|Homo sapiens					
+MSV000093200	104264.mzML	animal		9606|Homo sapiens					
+MSV000093200	152118.mzML	animal		9606|Homo sapiens					
+MSV000093200	152715.mzML	animal		9606|Homo sapiens					
+MSV000093200	123276.mzML	animal		9606|Homo sapiens					
+MSV000093200	109528.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate10_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate12_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_3_3_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate11_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate10_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_7_7_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate2_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate8_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_4_5_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	111857.mzML	animal		9606|Homo sapiens					
+MSV000093200	97985.mzML	animal		9606|Homo sapiens					
+MSV000093200	156559.mzML	animal		9606|Homo sapiens					
+MSV000093200	22HM6194.mzML	animal		9606|Homo sapiens					
+MSV000093200	50728.mzML	animal		9606|Homo sapiens					
+MSV000093200	146913.mzML	animal		9606|Homo sapiens					
+MSV000093200	81905.mzML	animal		9606|Homo sapiens					
+MSV000093200	131100.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003389.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000701.mzML	animal		9606|Homo sapiens					
+MSV000093200	126897.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_4_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	131392.mzML	animal		9606|Homo sapiens					
+MSV000093200	151844.mzML	animal		9606|Homo sapiens					
+MSV000093200	151786.mzML	animal		9606|Homo sapiens					
+MSV000093200	Solvent_BLANK_Plate12_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_1_9_G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate5_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	134969.mzML	animal		9606|Homo sapiens					
+MSV000093200	153065.mzML	animal		9606|Homo sapiens					
+MSV000093200	159097.mzML	animal		9606|Homo sapiens					
+MSV000093200	159729.mzML	animal		9606|Homo sapiens					
+MSV000093200	132900.mzML	animal		9606|Homo sapiens					
+MSV000093200	131082.mzML	animal		9606|Homo sapiens					
+MSV000093200	119917.mzML	animal		9606|Homo sapiens					
+MSV000093200	41905.mzML	animal		9606|Homo sapiens					
+MSV000093200	110166.mzML	animal		9606|Homo sapiens					
+MSV000093200	149371.mzML	animal		9606|Homo sapiens					
+MSV000093200	159652.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_Bile_2.mzML	animal		9606|Homo sapiens					
+MSV000093200	153041.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001402.mzML	animal		9606|Homo sapiens					
+MSV000093200	153123.mzML	animal		9606|Homo sapiens					
+MSV000093200	152110.mzML	animal		9606|Homo sapiens					
+MSV000093200	109516.mzML	animal		9606|Homo sapiens					
+MSV000093200	118352.mzML	animal		9606|Homo sapiens					
+MSV000093200	50890.mzML	animal		9606|Homo sapiens					
+MSV000093200	138631.mzML	animal		9606|Homo sapiens					
+MSV000093200	140603.mzML	animal		9606|Homo sapiens					
+MSV000093200	149150.mzML	animal		9606|Homo sapiens					
+MSV000093200	123704.mzML	animal		9606|Homo sapiens					
+MSV000093200	123096.mzML	animal		9606|Homo sapiens					
+MSV000093200	73953.mzML	animal		9606|Homo sapiens					
+MSV000093200	109589.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003479.mzML	animal		9606|Homo sapiens					
+MSV000093200	149942.mzML	animal		9606|Homo sapiens					
+MSV000093200	152057.mzML	animal		9606|Homo sapiens					
+MSV000093200	139611.mzML	animal		9606|Homo sapiens					
+MSV000093200	153056.mzML	animal		9606|Homo sapiens					
+MSV000093200	109629.mzML	animal		9606|Homo sapiens					
+MSV000093200	100420.mzML	animal		9606|Homo sapiens					
+MSV000093200	124524.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_11_1.mzML	animal		9606|Homo sapiens					
+MSV000093200	119810.mzML	animal		9606|Homo sapiens					
+MSV000093200	135639.mzML	animal		9606|Homo sapiens					
+MSV000093200	51768.mzML	animal		9606|Homo sapiens					
+MSV000093200	158988.mzML	animal		9606|Homo sapiens					
+MSV000093200	136520.mzML	animal		9606|Homo sapiens					
+MSV000093200	149978.mzML	animal		9606|Homo sapiens					
+MSV000093200	50710.mzML	animal		9606|Homo sapiens					
+MSV000093200	59213.mzML	animal		9606|Homo sapiens					
+MSV000093200	124514.mzML	animal		9606|Homo sapiens					
+MSV000093200	50062.mzML	animal		9606|Homo sapiens					
+MSV000093200	44969.mzML	animal		9606|Homo sapiens					
+MSV000093200	75219.mzML	animal		9606|Homo sapiens					
+MSV000093200	50871.mzML	animal		9606|Homo sapiens					
+MSV000093200	163503.mzML	animal		9606|Homo sapiens					
+MSV000093200	40001208.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000681.mzML	animal		9606|Homo sapiens					
+MSV000093200	138076.mzML	animal		9606|Homo sapiens					
+MSV000093200	159669.mzML	animal		9606|Homo sapiens					
+MSV000093200	126942.mzML	animal		9606|Homo sapiens					
+MSV000093200	123752.mzML	animal		9606|Homo sapiens					
+MSV000093200	105489.mzML	animal		9606|Homo sapiens					
+MSV000093200	105479.mzML	animal		9606|Homo sapiens					
+MSV000093200	122494.mzML	animal		9606|Homo sapiens					
+MSV000093200	156188.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003394.mzML	animal		9606|Homo sapiens					
+MSV000093200	148037.mzML	animal		9606|Homo sapiens					
+MSV000093200	164229.mzML	animal		9606|Homo sapiens					
+MSV000093200	151155.mzML	animal		9606|Homo sapiens					
+MSV000093200	152441.mzML	animal		9606|Homo sapiens					
+MSV000093200	135242.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate3_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_2_4_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_9_12_F.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate9_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate11_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate3_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_6_6_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Pooled_Milk_Plate_11_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	152599.mzML	animal		9606|Homo sapiens					
+MSV000093200	134210.mzML	animal		9606|Homo sapiens					
+MSV000093200	138337.mzML	animal		9606|Homo sapiens					
+MSV000093200	148180.mzML	animal		9606|Homo sapiens					
+MSV000093200	152405.mzML	animal		9606|Homo sapiens					
+MSV000093200	102566.mzML	animal		9606|Homo sapiens					
+MSV000093200	159945.mzML	animal		9606|Homo sapiens					
+MSV000093200	146707.mzML	animal		9606|Homo sapiens					
+MSV000093200	76862.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003081.mzML	animal		9606|Homo sapiens					
+MSV000093200	131864.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000706.mzML	animal		9606|Homo sapiens					
+MSV000093200	138201.mzML	animal		9606|Homo sapiens					
+MSV000093200	136006.mzML	animal		9606|Homo sapiens					
+MSV000093200	146779.mzML	animal		9606|Homo sapiens					
+MSV000093200	122406.mzML	animal		9606|Homo sapiens					
+MSV000093200	148278.mzML	animal		9606|Homo sapiens					
+MSV000093200	44508.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate7_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_5_12_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	69735.mzML	animal		9606|Homo sapiens					
+MSV000093200	145918.mzML	animal		9606|Homo sapiens					
+MSV000093200	123103.mzML	animal		9606|Homo sapiens					
+MSV000093200	155597.mzML	animal		9606|Homo sapiens					
+MSV000093200	152051.mzML	animal		9606|Homo sapiens					
+MSV000093200	137776.mzML	animal		9606|Homo sapiens					
+MSV000093200	159044.mzML	animal		9606|Homo sapiens					
+MSV000093200	111772.mzML	animal		9606|Homo sapiens					
+MSV000093200	164265.mzML	animal		9606|Homo sapiens					
+MSV000093200	32961.mzML	animal		9606|Homo sapiens					
+MSV000093200	118754.mzML	animal		9606|Homo sapiens					
+MSV000093200	149953.mzML	animal		9606|Homo sapiens					
+MSV000093200	151656.mzML	animal		9606|Homo sapiens					
+MSV000093200	149379.mzML	animal		9606|Homo sapiens					
+MSV000093200	153746.mzML	animal		9606|Homo sapiens					
+MSV000093200	40003188.mzML	animal		9606|Homo sapiens					
+MSV000093200	145117.mzML	animal		9606|Homo sapiens					
+MSV000093200	76190.mzML	animal		9606|Homo sapiens					
+MSV000093200	112488.mzML	animal		9606|Homo sapiens					
+MSV000093200	43951.mzML	animal		9606|Homo sapiens					
+MSV000093200	126476.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000929.mzML	animal		9606|Homo sapiens					
+MSV000093200	143742.mzML	animal		9606|Homo sapiens					
+MSV000093200	119313.mzML	animal		9606|Homo sapiens					
+MSV000093200	112390.mzML	animal		9606|Homo sapiens					
+MSV000093200	130737.mzML	animal		9606|Homo sapiens					
+MSV000093200	164230.mzML	animal		9606|Homo sapiens					
+MSV000093200	132870.mzML	animal		9606|Homo sapiens					
+MSV000093200	76906.mzML	animal		9606|Homo sapiens					
+MSV000093200	44848.mzML	animal		9606|Homo sapiens					
+MSV000093200	126082.mzML	animal		9606|Homo sapiens					
+MSV000093200	101497.mzML	animal		9606|Homo sapiens					
+MSV000093200	134746.mzML	animal		9606|Homo sapiens					
+MSV000093200	158011.mzML	animal		9606|Homo sapiens					
+MSV000093200	148599.mzML	animal		9606|Homo sapiens					
+MSV000093200	138633.mzML	animal		9606|Homo sapiens					
+MSV000093200	159094.mzML	animal		9606|Homo sapiens					
+MSV000093200	111707.mzML	animal		9606|Homo sapiens					
+MSV000093200	40035.mzML	animal		9606|Homo sapiens					
+MSV000093200	164032.mzML	animal		9606|Homo sapiens					
+MSV000093200	123073.mzML	animal		9606|Homo sapiens					
+MSV000093200	138282.mzML	animal		9606|Homo sapiens					
+MSV000093200	132646.mzML	animal		9606|Homo sapiens					
+MSV000093200	130471.mzML	animal		9606|Homo sapiens					
+MSV000093200	40000244.mzML	animal		9606|Homo sapiens					
+MSV000093200	135995.mzML	animal		9606|Homo sapiens					
+MSV000093200	111804.mzML	animal		9606|Homo sapiens					
+MSV000093200	133247.mzML	animal		9606|Homo sapiens					
+MSV000093200	SRM_Plate_3_3.mzML	animal		9606|Homo sapiens					
+MSV000093200	137781.mzML	animal		9606|Homo sapiens					
+MSV000093200	149857.mzML	animal		9606|Homo sapiens					
+MSV000093200	134973.mzML	animal		9606|Homo sapiens					
+MSV000093200	NoInj_BLANK_Plate8_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate4_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate12_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	Solvent_BLANK_Plate11_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_9_12_C.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate6_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate10_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate4_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate5_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	NoInj_BLANK_Plate3_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_10_8_B.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_5_12_G.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093200	BLANK_SEP_4_5_D.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

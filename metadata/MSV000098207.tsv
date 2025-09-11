@@ -1,0 +1,11 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000098207	Blank_out.mzML			2|Bacteria					
+MSV000098207	SynCom_control2.mzML			2|Bacteria					
+MSV000098207	SynCom_no_pseudmonas2.mzML			2|Bacteria					
+MSV000098207	SynCom_control1.mzML			2|Bacteria					
+MSV000098207	SynCom_PK_PV_2.mzML			2|Bacteria					
+MSV000098207	Blank.mzML			2|Bacteria					
+MSV000098207	SynCom_PK_PV_1.mzML			2|Bacteria					
+MSV000098207	SynCom_viridiflava_2.mzML			2|Bacteria					
+MSV000098207	SynCom_viridiflava_1.mzML			2|Bacteria					
+MSV000098207	SynCom_no_pseudmonas1.mzML			2|Bacteria					

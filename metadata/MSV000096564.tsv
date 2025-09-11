@@ -1,0 +1,341 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000096564	P_blank_E5_20241223220823.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223223410.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241126123532.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224051506.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223151530.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224035745.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_Food_IBD_A8_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	Plate3_Pooled_QC1.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_26_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_18_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_10_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	P_Food_IBD_D1_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_A2_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_16_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_25_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease	
+MSV000096564	15663_800805_30_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_26_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_13_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_10_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	P_Food_IBD_B7_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_blank_E5_20241224012151.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224030610.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223235131.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241127164853.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223190745.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224014742.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_Food_IBD_B12_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_11_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_28_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_9_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_8_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_15_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_20_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_17_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_24_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_23_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_18_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	P_Food_IBD_D3_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_5_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	Plate2_Pooled_QC3.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_29_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	P_Food_IBD_C6_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	Master_QC4.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_QC_E1.mzML	animal		9606|Homo sapiens					
+MSV000096564	blank_0_20241127105350.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223165844.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224074954.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241126143132.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_1_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	P_Food_IBD_A10_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_C3_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_2_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	P_Food_IBD_B9_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_26_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_26_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_22_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	P_Food_IBD_A3_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_6_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_22_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_30_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_5_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_8_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_3_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_29_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_1_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	P_Food_IBD_A11_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_20_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_19_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease	
+MSV000096564	P_Food_IBD_C10_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_A1_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_6_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_7_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_1_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	P_blank_E5_20241224033157.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223232543.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241128010147.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223202512.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224021435.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E4_20241224005604.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223181607.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241128160304.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224044918.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_17_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	P_Food_IBD_D2_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_A7_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	Plate1_Pooled_QC6.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_C4_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_2_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	P_Food_IBD_A6_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_4_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_15_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_28_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	Master_QC6.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_23_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	P_Food_IBD_C8_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_3_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	P_Food_IBD_B4_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_B8_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_28_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	P_blank_E5_20241223193332.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224072407.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241128050624.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E4_20241224085440.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223211648.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223172432.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224024020.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_4_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	P_Food_IBD_D4_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_32_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease	
+MSV000096564	15663_800805_20_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	Plate1_Pooled_QC1.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_14_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease	
+MSV000096564	15663_800805_16_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	P_Food_IBD_D5_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_B3_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_27_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_27_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_20_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_26_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	P_Food_IBD_A12_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_16_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_3_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	blank_0_20241127125645.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241126175838.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223214235.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E4_20241224081541.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223163256.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_15_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_9_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_25_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease	
+MSV000096564	P_Food_IBD_B1_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_13_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	Plate1_Pooled_QC2.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_29_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_18_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_25_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease	
+MSV000096564	15663_800805_1_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	blank_1_20241128170725.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241126124824.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241127212253.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224054056.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_23_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	P_Food_IBD_C2_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_B11_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_30_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	Plate2_Pooled_QC5.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_5_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_23_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	P_Food_IBD_C12_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_21_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	Plate1_Pooled_QC7.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_22_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	Master_QC5.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_27_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	Plate1_Pooled_QC3.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_16_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	P_Food_IBD_C9_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_blank_E5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241128002307.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E4_20241223135805.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223160708.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E4_20241224003014.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241126171904.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E4_20241224090733.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E4_20241223133216.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_4_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_21_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_4_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_11_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_21_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_11_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_2_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_28_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_1_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_3_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_4_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	Plate2_Pooled_QC4.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_21_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	P_QC_E2.mzML	animal		9606|Homo sapiens					
+MSV000096564	Master_QC8.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_10_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	P_Food_IBD_C1_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_15_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_5_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_9_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	P_blank_E5_20241223205101.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223175020.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223144942.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241127163558.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223184157.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_16_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_28_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_28_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_8_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_30_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_15_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_32_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease	
+MSV000096564	15663_800805_7_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_4_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_22_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_7_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_11_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_9_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_2_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	Master_QC1.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_C5_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_blank_E5_20241223195924.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224063232.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241125140102.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224060643.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223225956.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_11_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_15_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_5_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	P_Food_IBD_B2_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_16_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_1_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_2_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_23_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	P_Food_IBD_A9_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_10_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_8_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_29_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_22_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_6_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_23_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_14_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease	
+MSV000096564	15663_800805_9_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_21_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	Master_QC7.mzML	animal		9606|Homo sapiens					
+MSV000096564	blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224042333.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241128164142.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241126122240.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241224065820.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241126213856.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241128092357.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241127174020.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_Food_IBD_B5_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_5_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	P_Food_IBD_C11_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_2_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	Plate2_Pooled_QC6.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_7_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_11_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	Plate1_Pooled_QC4.mzML	animal		9606|Homo sapiens					
+MSV000096564	P_Food_IBD_B10_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_5_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	Plate1_Pooled_QC5.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_9_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	P_Food_IBD_A4_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_28_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	P_Food_IBD_B6_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	Plate2_Pooled_QC1.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_5_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_29_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_9_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	P_QC_E3.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_11_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	P_blank_E4_20241224082837.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E4_20241224001718.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	P_blank_E5_20241223154119.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241126211309.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_25_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease	
+MSV000096564	15663_800805_8_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_27_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_30_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_12_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_23_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_6_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	P_Food_IBD_C7_Frozen.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_16_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_29_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_21_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_18_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_22_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	blank_0_20241126140545.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_6_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_27_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_22_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_7_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_23_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_1_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	Master_QC2.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_3_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_3_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_6_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_4_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_25_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease	
+MSV000096564	15663_800805_1_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_27_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	blank_1_20241128100233.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241125133514.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241127205705.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241125170122.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_0_20241127133526.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_19_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease	
+MSV000096564	15663_800805_18_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_26_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_2_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_11_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_26_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_15_V4_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_6_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_3_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	P_Food_IBD_A5_Fresh.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_10_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_20_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_30_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	blank_0_20241126120947.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_12_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_31_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_7_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_18_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_6_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_3_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		healthy	healthy
+MSV000096564	15663_800805_18_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_10_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_26_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_24_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_8_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_4_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		healthy	healthy
+MSV000096564	15663_800805_2_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_18_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_15_V3_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_31_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	blank_0_20241126101045.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	blank_1_20241128044038.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000096564	15663_800805_16_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_25_V1_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease	
+MSV000096564	Master_QC3.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_20_V2_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	Plate2_Pooled_QC2.mzML	animal		9606|Homo sapiens					
+MSV000096564	15663_800805_22_V4_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		inflammatory bowel disease remission	
+MSV000096564	15663_800805_9_V1_Serum.mzML	animal		9606|Homo sapiens	Serum	female		inflammatory bowel disease remission	
+MSV000096564	15663_800805_10_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	male		healthy	healthy
+MSV000096564	15663_800805_10_V2_Serum.mzML	animal		9606|Homo sapiens	Serum	male		healthy	healthy
+MSV000096564	15663_800805_28_V3_Plasma.mzML	animal		9606|Homo sapiens	Plasma	female		inflammatory bowel disease remission	
+MSV000096564	blank_0.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

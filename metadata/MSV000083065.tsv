@@ -1,0 +1,573 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000083065	Solvent Blank_RD12_01_38651.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_GE7_01_35845.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	TW-BN-002_RB9_01_35967.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BA-002_RB5_01_35963.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BV-001_RE6_01_35900.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF4_peri_1x_RC2_01_38629.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AV-001_RH8_01_35938.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CB-002_RC2_01_35972.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DF-001_RA7_01_35853.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR18-001_RE5_01_35014.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AG-001_RA3_01_35949.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CA-001_RC4_01_35974.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR18-002_RE4_01_35013.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AF-001_RF4_01_35910.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR7-002_RE8_01_35017.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR63-001_RA2_01_34963.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF6_peri_1x_RD5_01_38644.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR53-001_RC2_01_34987.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR7-001_RE9_01_35018.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DQ-001_RH3_01_35048.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF1_peri_1x_RC1_01_38628.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	GF5_port_10x_RE6_01_38605.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-DK-001_RH9_01_35054.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CN-001_RC6_01_35876.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CE-001_RG9_01_35927.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BT-002_RB11_01_35969.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AN-002_RA5_01_35951.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BN-002_RB9_01_35967.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CQ-001_RB12_01_35870.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF1_port_10x_RE8_01_38607.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BE-001_RE10_01_35904.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF3_port_10x_RF6_01_38617.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BJ-002_RD7_01_35889.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR7-002_RE8_01_35017.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DQ-002_RH4_01_35049.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AE-002_RD12_01_35894.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BJ-002_RD7_01_35889.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	blank_RA1_01_34962.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RG2_01_35035.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RF12_01_38623.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	GF5_peri_10x_RF3_01_38614.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-CCI-001_RD2_01_35884.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR26-002_RD3_01_35000.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AP-001_RG12_01_35930.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BI-002_RB7_01_35965.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CT-001_RB9_01_35867.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF1_peri_10x_RF9_01_38620.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AI-001_RA4_01_35950.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CB-001_RC3_01_35973.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DJ-001_RH11_01_35056.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CO-002_RC4_01_35874.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BD-001_RD6_01_35888.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AX-001_RE1_01_35895.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AI-002_RD11_01_35893.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BO-002_RE5_01_35899.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-D1-001_RA2_01_35848.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CK-002_RC10_01_35880.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF6_port_10x_RE3_01_38602.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR55-001_RB7_01_34980.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR21-002_RD9_01_35006.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DJ-001_RH11_01_35056.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CT-002_RB8_01_35866.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AZ-001_RH2_01_35932.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF4_port_10x_RE10_01_38609.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	GF5_peri_1x_RD3_01_38642.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	blank_RF1_01_35907.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RC1_01_35971.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	TW-AI-001_RA4_01_35950.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR58-002_RA11_01_34972.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DH-001_RA3_01_35849.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR63-002_RA3_01_34964.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF5_port_10x_RE6_01_38605.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR53-002_RB12_01_34985.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DX-001_RG7_01_35040.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR20-001_RD12_01_35009.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-EE-001_RG3_01_35036.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CF-002_RC6_01_35976.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DB-002_RA8_01_35854.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DK-001_RH9_01_35054.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF3_port_1x_RD6_01_38645.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AX-002_RE9_01_35903.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AO-001_RG3_01_35921.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR5-001_RF4_01_35025.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BV-001_RE6_01_35900.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF4_port_10x_RE7_01_38606.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BI-001_RC7_01_35977.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF6_port_10x_RE3_01_38602.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	SPF4_port_1x_RC10_01_38637.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AZ-002_RH9_01_35939.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF1_port_1x_RC8_01_38635.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AF-002_RE8_01_35902.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF4_peri_10x_RF7_01_38618.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BI-001_RH10_01_35940.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR52-003_RB10_01_34983.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR55-002_RB5_01_34978.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AN-001_RF5_01_35911.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AY-001_RF6_01_35912.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	FS-CIR2-006_RF9_01_35030.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DM-002_RH7_01_35052.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CD-001_RF3_01_35909.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR60-002_RA7_01_34968.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR20-002_RD11_01_35008.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DI-002_RC11_01_35981.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	Solvent Blank_RE11_01_38626.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RE1_01_35010.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RB1_01_34974.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RE11_01_38610.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RE11_01_38598.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RD1_01_35883.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RA1_01_35847.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RG1_01_35919.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	GF6_peri_1x_RD5_01_38644.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	GF3_port_10x_RF10_01_38621.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	GF2_peri_10x_RE5_01_38604.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR63-002_RA3_01_34964.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CW-001_RB5_01_35863.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR19-001_RE3_01_35012.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CN-002_RC7_01_35877.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DI-002_RH12_01_35057.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR22-002_RD7_01_35004.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CF-001_RC5_01_35975.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DU-001_RG9_01_35042.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CZ-001_RB2_01_35860.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CS-002_RB10_01_35868.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BE-001_RE10_01_35904.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR58-001_RA12_01_34973.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DI-002_RH12_01_35057.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR60-003_RA6_01_34967.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR51-0012_RC6_01_34991.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AY-002_RG5_01_35923.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR61-002_RA4_01_34965.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CZ-001_RB2_01_35860.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR55-002_RB5_01_34978.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR16-002_RE6_01_35015.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BQ-002_RF9_01_35915.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF4_peri_10x_RF7_01_38618.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR60-002_RA7_01_34968.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CL-002_RC8_01_35878.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CP-001_RC3_01_35873.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	FS-CIR2-009_RF8_01_35029.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR26-001_RD4_01_35001.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	EtOH_blank_GE7_01_35058.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RB1_01_35859.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	TW-BL-002_RG6_01_35924.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF5_port_1x_RC6_01_38633.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR61-002_RA4_01_34965.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	FS-CIR2-002_RF10_01_35031.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR19-001_RE3_01_35012.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR42-002_RC8_01_34993.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR5-002_RF3_01_35024.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR5-006_RE11_01_35020.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF4_port_10x_RE7_01_38606.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	GF6_port_1x_RC3_01_38630.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	SPF3_peri_10x_RE4_01_38603.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-CK-002_RC10_01_35880.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AT-002_RG2_01_35920.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-EH-002_RF12_01_35033.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CI-002_RC12_01_35882.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR59-002_RA9_01_34970.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR58-001_RA12_01_34973.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BU-001_RB12_01_35970.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BS-002_RH5_01_35935.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AK-002_RA8_01_35954.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR19-002_RE2_01_35011.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AA-002_RG11_01_35929.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AU-001_RG10_01_35928.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF5_peri_1x_RD3_01_38642.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-CQ-002_RB11_01_35869.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CN-001_RC6_01_35876.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AM-002_RF12_01_35918.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF6_port_1x_RC3_01_38630.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BO-002_RE5_01_35899.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF5_port_1x_RC6_01_38633.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AW-001_RB2_01_35960.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DB-002_RA8_01_35854.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DZ-001_RG6_01_35039.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BS-001_RG7_01_35925.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CC-001_RD10_01_35892.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DP-002_RH5_01_35050.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AZ-002_RH9_01_35939.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CO-001_RC5_01_35875.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CL-001_RC9_01_35879.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BK-001_RE4_01_35898.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DG-002_RA4_01_35850.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AW-001_RB2_01_35960.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	EtOH_blank_GE7_01_35943.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_RH12_01_38597.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_GE7_01_35845.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RC1_01_34986.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RF1_01_35022.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RE11_01_38626.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RC11_01_38638.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	TW-CQ-002_RB11_01_35869.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BV-002_RF2_01_35908.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AK-002_RA8_01_35954.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR4-001_RF7_01_35028.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF4_peri_10x_RE2_01_38601.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	GF1_peri_10x_RE1_01_38600.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR51-004_RC4_01_34989.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CE-001_RG9_01_35927.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF1_port_10x_RE8_01_38607.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-DR-002_RG12_01_35045.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AX-001_RE1_01_35895.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BS-002_RH5_01_35935.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF2_peri_1x_RD1_01_38640.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	SPF3_peri_1x_RC4_01_38631.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BN-001_RB10_01_35968.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DM-002_RH7_01_35052.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-EE-001_RG3_01_35036.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DZ-002_RG4_01_35037.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR52-003_RB10_01_34983.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR22-001_RD8_01_35005.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR59-002_RA9_01_34970.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AG-002_RA2_01_35948.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR60-001_RA8_01_34969.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BG-001_RG4_01_35922.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR41-001_RC11_01_34996.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BI-001_RH10_01_35940.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF2_port_10x_RF8_01_38619.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BV-002_RF2_01_35908.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AP-002_RA9_01_35955.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BZ-001_RF10_01_35916.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	blank_RC1_01_35971.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RB1_01_35959.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	EtOH_blank_GE7_01_35943.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RG1_01_35919.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	TW-CE-002_RH7_01_35937.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BT-002_RB11_01_35969.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR42-001_RC9_01_34994.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AT-001_RA10_01_35956.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF4_peri_10x_RE2_01_38601.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-DZ-002_RG4_01_35037.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR21-002_RD9_01_35006.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CA-002_RH6_01_35936.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CS-002_RB10_01_35868.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR4-003_RF5_01_35026.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CI-001_RC9_01_35979.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR63-001_RA2_01_34963.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF3_peri_10x_RF2_01_38613.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-DH-001_RA3_01_35849.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF3_peri_1x_RD2_01_38641.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AQ-001_RA12_01_35958.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DZ-001_RG6_01_35039.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BE-002_RF7_01_35913.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CY-002_RB3_01_35861.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BE-002_RF7_01_35913.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DS-002_RG10_01_35043.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR16-001_RE7_01_35016.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BK-002_RE11_01_35905.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BD-002_RE3_01_35897.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CB-002_RC2_01_35972.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR57-002_RB2_01_34975.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	FS-CIR-001_RF11_01_35032.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-EH-002_RF12_01_35033.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	blank_RG2_01_35035.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RE11_01_38610.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RE11_01_38598.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_GE7_01_35945.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	EtOH_blank_GE7_01_35843.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RB1_01_34974.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RD1_01_34998.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RE12_01_38611.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	TW-DX-001_RG7_01_35040.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BI-002_RB7_01_35965.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AX-002_RE9_01_35903.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CD-001_RF3_01_35909.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AN-001_RF5_01_35911.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR59-001_RA10_01_34971.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CV-001_RB7_01_35865.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BZ-002_RG8_01_35926.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BL-001_RF8_01_35914.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	FS-CIR-001_RF11_01_35032.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF2_port_1x_RC9_01_38636.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BI-001_RC7_01_35977.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR54-002_RB8_01_34981.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR23-001_RD6_01_35003.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DJ-002_RH10_01_35055.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF3_port_1x_RD10_01_38649.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-DQ-002_RH4_01_35049.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	FS-CIR2-002_RF10_01_35031.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CN-002_RC7_01_35877.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR55-004_RB4_01_34977.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR54-001_RB9_01_34982.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF3_peri_10x_RF2_01_38613.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BT-001_RH12_01_35942.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR60-003_RA6_01_34967.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DR-001_RH2_01_35047.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CC-002_RE7_01_35901.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR23-001_RD6_01_35003.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR59-001_RA10_01_34971.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR21-001_RD10_01_35007.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AK-001_RA6_01_35952.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF3_port_10x_RF10_01_38621.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AV-001_RH8_01_35938.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DG-001_RA5_01_35851.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR51-005_RC3_01_34988.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	blank_RC1_01_34986.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_GE7_01_35945.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RD12_01_38651.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RH1_01_35931.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RC1_01_35871.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	GF2_peri_1x_RC5_01_38632.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-DF-001_RA7_01_35853.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DU-002_RG8_01_35041.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CP-001_RC3_01_35873.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BM-002_RH11_01_35941.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DP-002_RH5_01_35050.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BZ-002_RG8_01_35926.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CH-002_RD3_01_35885.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR23-002_RD5_01_35002.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CB-001_RC3_01_35973.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR61-001_RA5_01_34966.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR22-002_RD7_01_35004.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DF-002_RA6_01_35852.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CC-001_RD10_01_35892.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BA-001_RB6_01_35964.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR23-002_RD5_01_35002.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR7-001_RE9_01_35018.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AA-002_RG11_01_35929.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CU-002_RB6_01_35864.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR51-004_RC4_01_34989.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	Solvent Blank_RD11_01_38650.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_RH12_01_38597.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RF11_01_38622.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_GE7_01_34960.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RB1_01_35959.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	GF6_peri_10x_RF5_01_38616.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR20-002_RD11_01_35008.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CW-001_RB5_01_35863.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR53-001_RC2_01_34987.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AT-001_RA10_01_35956.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR51-005_RC3_01_34988.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AR-001_RB4_01_35962.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AM-001_RA7_01_35953.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AN-002_RA5_01_35951.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AQ-001_RA12_01_35958.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AZ-001_RH2_01_35932.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CQ-001_RB12_01_35870.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BQ-001_RE12_01_35906.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CL-002_RC8_01_35878.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DA-001_RA11_01_35857.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DA-001_RA11_01_35857.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF1_peri_1x_RD9_01_38648.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-CV-001_RB7_01_35865.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR55-003_RB6_01_34979.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR22-001_RD8_01_35005.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BK-002_RE11_01_35905.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DG-002_RA4_01_35850.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DJ-002_RH10_01_35055.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-D1-001_RA2_01_35848.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF3_peri_1x_RC4_01_38631.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	GF5_peri_10x_RF3_01_38614.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	SPF3_port_10x_RF6_01_38617.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AF-002_RE8_01_35902.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AY-002_RG5_01_35923.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BL-002_RG6_01_35924.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CH-001_RD4_01_35886.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CI-001_RC9_01_35979.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF2_peri_10x_RF1_01_38612.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR57-001_RB3_01_34976.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR51-003_RC5_01_34990.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF3_port_1x_RD10_01_38649.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-CI-002_RC12_01_35882.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-EE-002_RG1_01_35034.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DB-001_RC10_01_35980.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AG-001_RA3_01_35949.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	blank_RA1_01_35847.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RH1_01_35931.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RE12_01_38611.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RC12_01_38639.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RA1_01_34962.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RF1_01_35907.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RC11_01_38638.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RF12_01_38623.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	TW-BM-002_RH11_01_35941.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR20-001_RD12_01_35009.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR5-006_RE11_01_35020.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AG-002_RA2_01_35948.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CC-002_RE7_01_35901.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR5-003_RF2_01_35023.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR55-004_RB4_01_34977.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AP-002_RA9_01_35955.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR5-003_RF2_01_35023.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CT-001_RB9_01_35867.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CH-002_RD3_01_35885.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DA-002_RA10_01_35856.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BU-002_RD9_01_35891.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF1_peri_1x_RD9_01_38648.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR51-001_RC7_01_34992.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR5-001_RF4_01_35025.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DK-002_RH8_01_35053.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR51-003_RC5_01_34990.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CH-001_RD4_01_35886.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CP-002_RC2_01_35872.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF1_port_1x_RC8_01_38635.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BO-001_RD8_01_35890.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BZ-001_RF10_01_35916.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR61-001_RA5_01_34966.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BK-001_RE4_01_35898.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CU-002_RB6_01_35864.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	blank_RA1_01_35947.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RH1_01_35046.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RD11_01_38650.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RE1_01_35010.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	GF1_peri_1x_RC1_01_38628.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR58-002_RA11_01_34972.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR42-001_RC9_01_34994.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR32-001_RD2_01_34999.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR4-003_RF5_01_35026.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR32-002_RC12_01_34997.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR16-002_RE6_01_35015.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF4_port_1x_RC7_01_38634.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AK-001_RA6_01_35952.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BG-002_RH3_01_35933.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR42-002_RC8_01_34993.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CG-001_RC8_01_35978.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DP-001_RH6_01_35051.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR6-002_RE10_01_35019.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DP-001_RH6_01_35051.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR41-002_RC10_01_34995.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DS-002_RG10_01_35043.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DG-001_RA5_01_35851.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF3_peri_1x_RD2_01_38641.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR55-003_RB6_01_34979.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DA-002_RA10_01_35856.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BD-002_RE3_01_35897.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR32-002_RC12_01_34997.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DY-002_RG5_01_35038.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BJ-001_RB8_01_35966.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR51-0012_RC6_01_34991.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR57-002_RB2_01_34975.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CF-002_RC6_01_35976.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF4_port_10x_RE10_01_38609.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AI-002_RD11_01_35893.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	blank_RE2_01_35896.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RC12_01_38639.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RC1_01_35871.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RE2_01_35896.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RH1_01_35046.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	CIR54-001_RB9_01_34982.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	SPF4_port_1x_RC10_01_38637.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AT-002_RG2_01_35920.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR52-001_RB11_01_34984.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CY-001_RA12_01_35858.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR41-002_RC10_01_34995.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF1_port_10x_RF4_01_38615.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR4-002_RF6_01_35027.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR21-001_RD10_01_35007.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF2_peri_10x_RE5_01_38604.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AM-002_RF12_01_35918.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DU-001_RG9_01_35042.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AY-001_RF6_01_35912.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BN-001_RB10_01_35968.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF2_port_1x_RC9_01_38636.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AV-002_RB3_01_35961.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR6-002_RE10_01_35019.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR6-001_RE12_01_35021.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CD-002_RF11_01_35917.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR54-002_RB8_01_34981.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AW-002_RD5_01_35887.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF1_peri_10x_RF9_01_38620.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AO-001_RG3_01_35921.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF2_port_10x_RE9_01_38608.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR26-002_RD3_01_35000.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR4-001_RF7_01_35028.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	CIR18-001_RE5_01_35014.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BM-001_RH4_01_35934.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CO-002_RC4_01_35874.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR19-002_RE2_01_35011.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	blank_RD1_01_35883.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	EtOH_blank_GE7_01_35982.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_GE7_01_34960.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	EtOH_blank_GE7_01_35058.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_RH12_01_38625.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RA1_01_35947.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	blank_RF1_01_35022.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Blank_injection_RH12_01_38625.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	SPF4_peri_1x_RD7_01_38646.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-DS-001_RG11_01_35044.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AF-001_RF4_01_35910.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CT-002_RB8_01_35866.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-TB-001_RA9_01_35855.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF4_peri_1x_RD7_01_38646.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BQ-001_RE12_01_35906.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF2_peri_10x_RF1_01_38612.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	SPF2_port_10x_RE9_01_38608.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-DS-001_RG11_01_35044.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR57-001_RB3_01_34976.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BT-001_RH12_01_35942.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CY-002_RB3_01_35861.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CK-001_RC11_01_35881.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF1_peri_10x_RE1_01_38600.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR32-001_RD2_01_34999.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CO-001_RC5_01_35875.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BU-002_RD9_01_35891.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AP-001_RG12_01_35930.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CY-001_RA12_01_35858.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BS-001_RG7_01_35925.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CW-002_RB4_01_35862.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DB-001_RC10_01_35980.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BA-001_RB6_01_35964.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF1_port_1x_RD4_01_38643.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-AR-001_RB4_01_35962.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	SPF2_peri_1x_RD1_01_38640.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-CF-001_RC5_01_35975.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	blank_RD1_01_34998.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	EtOH_blank_GE7_01_35843.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	Solvent Blank_RF11_01_38622.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	GF2_peri_1x_RC5_01_38632.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR4-002_RF6_01_35027.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DF-002_RA6_01_35852.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DY-002_RG5_01_35038.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR26-001_RD4_01_35001.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-AV-002_RB3_01_35961.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CW-002_RB4_01_35862.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BM-001_RH4_01_35934.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CCI-001_RD2_01_35884.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DI-002_RC11_01_35981.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CE-002_RH7_01_35937.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AE-002_RD12_01_35894.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CD-002_RF11_01_35917.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BA-002_RB5_01_35963.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AU-002_RA11_01_35957.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CP-002_RC2_01_35872.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BG-002_RH3_01_35933.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BO-001_RD8_01_35890.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DU-002_RG8_01_35041.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BD-001_RD6_01_35888.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DR-002_RG12_01_35045.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR16-001_RE7_01_35016.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF4_peri_1x_RC2_01_38629.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BG-001_RG4_01_35922.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR41-001_RC11_01_34996.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CA-002_RH6_01_35936.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF4_port_1x_RC7_01_38634.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	GF1_port_10x_RF4_01_38615.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	SPF3_port_1x_RD6_01_38645.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	blank_RB1_01_35859.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	EtOH_blank_GE7_01_35982.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000083065	CIR6-001_RE12_01_35021.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	GF2_port_1x_RD8_01_38647.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR5-002_RF3_01_35024.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CG-001_RC8_01_35978.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF1_port_1x_RD4_01_38643.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	SPF3_peri_10x_RE4_01_38603.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	FS-CIR2-009_RF8_01_35029.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	FS-CIR2-006_RF9_01_35030.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF2_port_10x_RF8_01_38619.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-BJ-001_RB8_01_35966.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-TB-001_RA9_01_35855.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR51-001_RC7_01_34992.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DK-002_RH8_01_35053.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-EE-002_RG1_01_35034.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-CL-001_RC9_01_35879.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR18-002_RE4_01_35013.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-CA-001_RC4_01_35974.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AM-001_RA7_01_35953.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR53-002_RB12_01_34985.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BL-001_RF8_01_35914.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AW-002_RD5_01_35887.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF6_peri_10x_RF5_01_38616.mzML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	CIR52-001_RB11_01_34984.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-BQ-002_RF9_01_35915.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	GF2_port_1x_RD8_01_38647.mzXML	animal		10090|Mus musculus	blood			healthy	healthy
+MSV000083065	TW-CK-001_RC11_01_35881.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-DQ-001_RH3_01_35048.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AU-002_RA11_01_35957.mzXML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-AU-001_RG10_01_35928.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	TW-BU-001_RB12_01_35970.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR55-001_RB7_01_34980.mzXML	animal		9606|Homo sapiens	blood			liver cirrhosis	
+MSV000083065	TW-DR-001_RH2_01_35047.mzML	animal		9606|Homo sapiens	blood			healthy	healthy
+MSV000083065	CIR60-001_RA8_01_34969.mzML	animal		9606|Homo sapiens	blood			liver cirrhosis	

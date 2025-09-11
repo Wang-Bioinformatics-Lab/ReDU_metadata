@@ -1,0 +1,51 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097962	ID_04.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_280.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_276.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_271.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_288.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_290.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_283.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_274.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	sample_289.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_272.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_286.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_270.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_15.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	sample_277.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_268.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_281.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	ID_01.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	ID_03.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_269.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	pool_qc_STm_liver_diet_6.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	ID_02.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	pool_qc_STm_liver_diet_5.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_287.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_13.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	sample_285.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_279.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_284.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	pool_qc_STm_liver_diet_4.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	Blank_01.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	sample_273.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	pool_qc_STm_liver_diet_1.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_02.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	sample_275.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	sample_282.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	sample_278.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	pool_qc_STm_liver_diet_3.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	pool_qc_STm_liver_diet_2.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	sample_275_10x.mzML	animal		10090|Mus musculus	liver				
+MSV000097962	Blank_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097962	Blank_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

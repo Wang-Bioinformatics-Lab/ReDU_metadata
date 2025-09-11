@@ -1,0 +1,439 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000092833	P1_A7_Sample_x3149938.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_B1_BLANK_HNRC_1_1B.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_H10_Sample_X3140493.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_D4_BLANK_HNRC_4_4D.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_G4_Sample_X3144104.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P1_F7_Sample_X3159373.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_C3_Sample_X3165906.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_E9_Sample_X3156296.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_E9_Sample_X3149648.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_D12_Sample_X3148282.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_C7_Sample_X3154708.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_A1_Sample_X3149762.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_E8_Sample_x3144618.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_C1_BLANK_HNRC_1_1C.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_F9_BLANK_HNRC_4_9F.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_B5_Sample_X3151860.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_E12_Sample_X3146836.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_H9_Sample_X3148692.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_F10_BLANK_HNRC_4_10F.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_E10_Sample_X3152613.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_G10_Sample_X3159113.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_G8_Sample_X3146815.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_1.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_G5_Sample_X3166616.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_D12_Sample_x3151014.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_10.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_F1_Sample_x3148381.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_p3p4_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_p3p4_0.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P4_A1_Sample_X3160366.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_D8_Sample_x3150365.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_C12_Sample_X3158004.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_A6_Sample_X3165523.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_B10_Sample_X3144441.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_D6_Sample_X3148030.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_B6_Sample_x3144070.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_C10_BLANK_HNRC_4_10C.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_B7_Sample_x3161751.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_G2_Sample_x3156238.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_C7_Sample_x3164702.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P3_A8_Sample_X3144044.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_G1_Sample_x3158948.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_B7_Sample_X3146854.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_p3p4_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_0.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P3_G8_Sample_X3147861.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_C8_Sample_X3145594.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_H8_Sample_X3158938.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_E5_Sample_X3148047.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_F4_Sample_X3148489.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P3_E4_Sample_X3159973.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_E8_Sample_X3165226.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_F11_Sample_x3163255.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_G6_Sample_X3152549.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_H12_Sample_x3148134.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_6.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_H1_Sample_x3157101.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_B6_Sample_x3149368.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_6.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_A8_Sample_x3147880.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_A8_Sample_X3155959.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_B1_Sample_X3154987.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_H2_BLANK_HNRC_2_2H.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_H5_Sample_x3156091.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_B11_Sample_X3142513.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P3_D10_Sample_X3159933.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_H11_BLANK_HNRC_4_11H.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_G11_Sample_X3157950.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_B5_Sample_X3164880.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_F11_BLANK_HNRC_4_11F.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_G5_Sample_x3139960.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_G4_BLANK_HNRC_4_4G.mzML	animal		9606|Homo sapiens					
+MSV000092833	Blank_HNRC_end.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P1_G3_Sample_X3167088.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_G1_Sample_x3152227.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_A7_Sample_X3148726.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_D6_Sample_X3162200.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_A12_Sample_X3146540.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P2_D9_Sample_X3159042.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_C4_Sample_X3164504.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_B1_Sample_X3158092.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_B2_Sample_x3151907.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_A9_Sample_X3161292.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_G12_Sample_X3159505.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_G7_Sample_X3167024.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_A4_BLANK_HNRC_4_4A.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_E9_BLANK_HNRC_4_9E.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_E10_Sample_X3149941.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_E11_Sample_X3164390.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_H4_BLANK_HNRC_4_4H.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_A11_Sample_x3144610.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_A6_Sample_x3147873.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P4_E10_BLANK_HNRC_4_10E.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_C11_Sample_x3167358.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_F4_Sample_x3158708.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_F2_BLANK_HNRC_2_2F.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_C8_Sample_X3154878.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_F5_Sample_X3144117.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_B9_Sample_X3157394.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_H9_Sample_x3152781.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_B5_Sample_X3152461.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_B7_Sample_x3149663.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_D1_Sample_X3143600.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	QC_HNRC_0_p3p4_9.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_G7_Sample_x3148482.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P4_H5_Sample_X3157111.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_A10_Sample_X3152879.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_D2_Sample_X3139038.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_F8_Sample_X3148734.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_C12_BLANK_HNRC_4_12C.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_H12_Sample_X3160521.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_H8_Sample_x3157719.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_8.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_B2_BLANK_HNRC_2_2B.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_D12_Sample_x3156721.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P3_F6_Sample_X3146877.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_D1_BLANK_HNRC_1_1D.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_G2_BLANK_HNRC_2_2G.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_E11_BLANK_HNRC_4_11E.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_B11_BLANK_HNRC_4_11B.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_D6_Sample_X3145480.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_C10_Sample_X3156146.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_F7_Sample_X3158629.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_B9_Sample_X3144759.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_A1_BLANK_HNRC_1_1A.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_A6_Sample_X3149264.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_8.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_B3_BLANK_HNRC_3_3B.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_D9_Sample_X3148553.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_B8_Sample_X3168404.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_C9_Sample_X3148813.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_p3p4_END.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_p3p4_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P4_B12_BLANK_HNRC_4_12B.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_B10_BLANK_HNRC_4_10B.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_E10_Sample_x3137731.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_1.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_B5_Sample_x3154992.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_D10_BLANK_HNRC_4_10D.mzML	animal		9606|Homo sapiens					
+MSV000092833	QC_HNRC_0_p3p4_7.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_A5_Sample_X3144272.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_C7_Sample_X3163019.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_E11_Sample_X3144228.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_E3_Sample_x3149712.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_D7_Sample_x3161091.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P3_F7_Sample_X3150003.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_E4_Sample_X3156040.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_E6_Sample_X3165529.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_H3_Sample_X3160426.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_D2_Sample_x3151121.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_G5_Sample_X3152233.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_E6_Sample_X3145248.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_A1_Sample_x3160553.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_B4_Sample_x3160605.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_A12_Sample_X3148348.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_H8_Sample_X3168086.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P2_E6_Sample_X3147775.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_G8_Sample_X3156371.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_H3_BLANK_HNRC_3_3H.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_E7_Sample_X3150389.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_B9_Sample_X3147350.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_C11_Sample_X3159681.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_G6_Sample_X3150089.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_H9_BLANK_HNRC_4_9H.mzML	animal		9606|Homo sapiens					
+MSV000092833	Blank_HNRC_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_p3p4_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_p3p4_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P2_D3_Sample_x3148224.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_E2_Sample_x3164927.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_H7_Sample_x3150346.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_B8_Sample_x3157268.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_D3_Sample_X3147482.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_B6_Sample_x3158722.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_C1_Sample_x3156747.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_G9_Sample_x3161641.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_D5_Sample_X3163040.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_3.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_E12_BLANK_HNRC_4_12E.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_D9_Sample_X3157299.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_F3_Sample_x3140299.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P3_C5_Sample_x3160658.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P4_G1_Sample_X3163074.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_A2_Sample_X3143593.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_A3_BLANK_HNRC_3_3A.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_C8_Sample_x3147149.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_A2_Sample_X3168483.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_G9_Sample_X3170393.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_G9_BLANK_HNRC_4_9G.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_F3_Sample_X3168692.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_p3p4_10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_p3p4_11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P2_F8_Sample_x3162162.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_E2_Sample_X3152104.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_A3_Sample_x3152819.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_G6_Sample_X3147936.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_E5_Sample_x3148183.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P1_C6_Sample_X3167536.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_A12_BLANK_HNRC_4_12A.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_A10_Sample_x3161799.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_A4_Sample_x3159302.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_B6_Sample_X3146047.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_F12_BLANK_HNRC_4_12F.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_G12_Sample_x3160965.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_E3_Sample_X3148904.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_B4_BLANK_HNRC_4_4B.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_D7_Sample_X3150253.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_B10_Sample_X3144677.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_C6_Sample_X3152303.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_D7_Sample_X3148352.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_G4_Sample_X3152400.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_E6_Sample_X3142698.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P2_F3_Sample_X3139986.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_B8_Sample_X3150217.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_F9_Sample_x3162216.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P4_B9_Sample_x3150364.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_C12_Sample_X3159277.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_C9_Sample_X3165576.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_F6_Sample_X3168487.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_H10_BLANK_HNRC_4_10H.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_F4_Sample_x3156177.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_H4_Sample_X3157364.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_A12_Sample_X3155226.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_H1_BLANK_HNRC_1_1H.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_C10_Sample_x3148972.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_A11_Sample_X3160588.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_H6_Sample_x3154669.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_E4_BLANK_HNRC_4_4E.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_H4_Sample_x3156404.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_F12_Sample_X3148431.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_D11_BLANK_HNRC_4_11D.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_H10_Sample_X3172079.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_F1_Sample_X3149464.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_E12_Sample_X3159451.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P3_B12_Sample_x3152474.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_F1_BLANK_HNRC_1_1F.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_E11_Sample_x3148887.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_G7_Sample_X3148665.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_F6_Sample_X3144000.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_A2_Sample_X3157971.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_3.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_F9_Sample_X3160773.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_F12_Sample_x3152735.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_F2_Sample_x3148613.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_G10_Sample_X3145412.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_D5_Sample_X3143542.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_B8_Sample_x3162102.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_C12_Sample_X3162149.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_11.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_G2_Sample_X3148765.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_G12_BLANK_HNRC_4_12G.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_D5_Sample_X3140410.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_H11_Sample_X3157058.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_H6_Sample_X3159447.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_D11_Sample_X3148257.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_B3_Sample_x3147464.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_D11_Sample_X3149920.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_A10_BLANK_HNRC_4_10A.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_H1_Sample_x3161085.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_END.mzML	animal		9606|Homo sapiens					
+MSV000092833	Blank_HNRC_p3p4_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P1_H2_Sample_X3159441.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_A10_Sample_X3145232.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_E8_Sample_X3162159.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_B3_Sample_x3147970.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_D6_Sample_x3147123.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_F5_Sample_x3144049.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_A9_Sample_X3148474.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_G2_Sample_X3167390.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_C5_Sample_x3159712.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_A9_Sample_x3160627.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_D3_BLANK_HNRC_3_3D.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_C11_Sample_X3167975.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_E2_Sample_X3148175.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P1_E7_Sample_X3148182.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_A2_BLANK_HNRC_2_2A.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_D2_Sample_X3162461.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_E3_Sample_X3143566.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P1_F10_Sample_X3155201.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_4.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_F10_Sample_x3156089.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_C1_Sample_X3160974.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_E1_BLANK_HNRC_1_1E.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_A4_Sample_X3161821.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_F9_Sample_X3143799.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_C3_Sample_x3152328.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_D12_BLANK_HNRC_4_12D.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_C2_BLANK_HNRC_2_2C.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_A9_Sample_X3150293.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_F7_Sample_x3171534.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_C3_BLANK_HNRC_3_3C.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_G3_Sample_X3144020.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_C5_Sample_X3143069.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_H3_Sample_X3161550.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_C3_Sample_x3149382.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_G9_Sample_x3164537.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_C2_Sample_X3167050.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_p3p4_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P2_H10_Sample_x3162111.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_10.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_D8_Sample_X3149693.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_H12_Sample_X3149890.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_C6_Sample_X3158952.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_G7_Sample_X3158130.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_C2_Sample_X3143758.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_H6_Sample_X3140924.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_E12_Sample_X3139655.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_G3_Sample_X3145946.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_2.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_H7_Sample_X3148303.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_12.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_G11_BLANK_HNRC_4_11G.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_H5_Sample_X3154973.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_B10_Sample_X3146823.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_F6_Sample_X3145145.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_E1_Sample_X3162056.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_H8_Sample_X3140903.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_G11_Sample_X3166835.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_H2_Sample_X3161252.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_end.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_G12_Sample_X3160677.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_9.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_F10_Sample_X3150464.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_D10_Sample_x3149969.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_12.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_E4_Sample_x3157411.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_G3_BLANK_HNRC_3_3G.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_H11_Sample_X3145275.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_B1_Sample_x3157679.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P1_H3_Sample_X3167950.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_D8_Sample_X3159818.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P3_G4_Sample_x3157227.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_4.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_D11_Sample_X3139931.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_G11_Sample_X3143561.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P3_E5_Sample_X3155219.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_G10_BLANK_HNRC_4_10G.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_C2_Sample_X3146791.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_E7_Sample_x3148590.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_E1_Sample_x3151913.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P1_F8_Sample_X3157032.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_H7_Sample_X3152278.mzML	animal		9606|Homo sapiens					
+MSV000092833	QC_HNRC_0_p3p4_11.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_A5_Sample_X3140920.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_F4_BLANK_HNRC_4_4F.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_F3_BLANK_HNRC_3_3F.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_A3_Sample_x3164137.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_D9_Sample_X3165029.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_F2_Sample_x3144136.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P3_A5_Sample_X3149703.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_B7_Sample_X3163198.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_B2_Sample_X3157028.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P3_A11_Sample_x3161302.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_G1_BLANK_HNRC_1_1G.mzML	animal		9606|Homo sapiens					
+MSV000092833	Blank_HNRC_p3p4_6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P4_C11_BLANK_HNRC_4_11C.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_F8_Sample_x3156518.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_C1_Sample_x3157920.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_F5_Sample_X3167400.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_G10_Sample_x3157309.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_H5_Sample_x3150019.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P1_A4_Sample_X3156294.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P1_B4_Sample_X3145431.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_B12_Sample_X3164179.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_A8_Sample_x3144123.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_F11_Sample_X3159618.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_C8_Sample_X3161102.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_D2_BLANK_HNRC_2_2D.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_D10_Sample_X3145052.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_A11_BLANK_HNRC_4_11A.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_C4_BLANK_HNRC_4_4C.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_E2_BLANK_HNRC_2_2E.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_G6_Sample_x3160411.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_G5_Sample_X3143754.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_A7_Sample_X3159936.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_D1_Sample_X3143439.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_C9_Sample_X3143677.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P2_A5_Sample_x3147538.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_H11_Sample_x3140845.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_D1_Sample_X3152871.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_H2_Sample_x3140420.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P1_E5_Sample_x3155593.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_C4_Sample_x3156557.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_A7_Sample_X3148264.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_7.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_E9_Sample_X3168244.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_A3_Sample_X3151898.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_D3_Sample_x3152455.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_D4_Sample_x3148448.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_B11_Sample_x3157350.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_E7_Sample_X3157495.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_5.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_F1_Sample_X3148056.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_C6_Sample_X3160537.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_5.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_H7_Sample_X3161574.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_F12_Sample_X3157997.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_D5_Sample_x3151481.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_H6_Sample_X3163494.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_H12_BLANK_HNRC_4_12H.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_B11_Sample_x3159338.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	P2_B12_Sample_x3147840.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_E1_Sample_X3154344.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_H1_Sample_x3165511.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	Blank_HNRC_p3p4_12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_p3p4_4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	Blank_HNRC_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000092833	P1_C5_Sample_X3145225.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_D7_Sample_x3148590.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_C9_Sample_X3156237.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_C10_Sample_X3155559.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_A6_Sample_X3156373.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_2.mzML	animal		9606|Homo sapiens					
+MSV000092833	P2_C4_Sample_X3145194.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		human immunodeficiency virus infectious disease	
+MSV000092833	QC_HNRC_0_p3p4_0.mzML	animal		9606|Homo sapiens					
+MSV000092833	P3_E3_BLANK_HNRC_3_3E.mzML	animal		9606|Homo sapiens					
+MSV000092833	P1_H9_Sample_X3150329.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_D4_Sample_x3159698.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P3_F2_Sample_X3168063.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_G8_Sample_x3156417.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_F5_Sample_x3164876.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P1_H4_Sample_X3156507.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P4_E8_Sample_X3161499.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		negative human immunodeficiency virus infectious disease	
+MSV000092833	P2_B4_Sample_x3148644.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P2_D4_Sample_X3152833.mzML	animal		9606|Homo sapiens					
+MSV000092833	P4_B3_Sample_X3161416.mzML	animal	biofluid	9606|Homo sapiens	feces	Female		negative human immunodeficiency virus infectious disease	
+MSV000092833	P4_B2_Sample_X3146031.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	
+MSV000092833	P3_D8_Sample_x3160357.mzML	animal	biofluid	9606|Homo sapiens	feces	Male		human immunodeficiency virus infectious disease	

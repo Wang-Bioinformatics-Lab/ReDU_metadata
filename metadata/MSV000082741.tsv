@@ -1,0 +1,605 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000082741	20160818_S00024466_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024388_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024432_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024291_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024434_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024342_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024421_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024328_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024328_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024320_Repeat_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024268_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024300_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024462_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024438_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024295_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024418_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024365_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024304_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024324_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024347_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024400_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024384_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024281_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024315_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024424_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024299_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024413_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024371_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024290_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024423_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024355_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024233_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024311_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024282_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024330_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024314_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_SM_CS00000003-2_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_PP_CS00000004-6_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_PP_CS00000004-3_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_TP_CS00000001-5_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_TP_CS00000001-7_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_PP_CS00000004-6_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_PP_CS00000004-1_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_PP_CS00000004-6_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_PP_CS00000004-3_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_PP_CS00000004-3_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_PP_CS00000004-5_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024327_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024449_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024294_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024402_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024453_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024445_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024249_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024456_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024268_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024366_Repeat1_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024251_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024361_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024395_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024356_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024321_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024357_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024427_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024288_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024233_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024361_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024378_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024437_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024321_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_SM_CS00000003-7_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_TP_CS00000001-6_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_TP_CS00000001-4_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_TP_CS00000001-5_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_TP_CS00000001-3_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_TP_CS00000001-5_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_SM_CS00000003-5_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_SM_CS00000003-3_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_TP_CS00000001-1_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_TP_CS00000001-4_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_PP_CS00000004-5_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_PP_CS00000004-4_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_SM_CS00000003-6_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_S00024265_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024463_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024302_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024385_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024381_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024370_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024417_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024237_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024465_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024441_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024372_Repeat_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024453_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024439_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024422_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024389_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024415_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024431_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024435_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024454_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024348_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024410_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024338_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024369_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024458_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_PP_CS00000004-3_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_SM_CS00000003-6_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_SM_CS00000003-7_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_SM_CS00000003-3_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_TP_CS00000001-6_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_PP_CS00000004-7_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_NP_CS00000004-6_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_TP_CS00000001-4_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_PP_CS00000004-2_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_SM_CS00000003-7_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_S00024385_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024325_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024285_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024291_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024360_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024306_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024446_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024337_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024236_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024303_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024327_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024380_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024324_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024325_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024307_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024297_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024437_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024363_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024432_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024417_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024271_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024312_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024349_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024366_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024240_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024393_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024304_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024355_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024415_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024276_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024408_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024409_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024260_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024409_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024346_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024287_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_TP_CS00000001-1_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_SM_CS00000003-4_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_TP_CS00000001-5_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_TP_CS00000001-5_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_PP_CS00000004-4_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_PP_CS00000004-7_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_TP_CS00000001-2_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_PP_CS00000004-5_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024379_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024389_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024464_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024402_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024429_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024250_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024340_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024331_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024276_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024239_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024446_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024399_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024231_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024411_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024241_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024345_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024265_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024369_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024426_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024336_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024341_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024439_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024395_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024429_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024431_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024448_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024412_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024251_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024426_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024236_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024298_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_SM_CS00000003-5_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_PP_CS00000004-1_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_PP_CS00000004-4_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_PP_CS00000004-7_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_SM_CS00000003-2_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_SM_CS00000003-2_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_S00024362_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024457_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024300_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024398_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024273_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024443_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024405_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024312_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024313_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024326_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024323_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024463_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024345_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024392_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024358_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024352_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024350_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024403_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024442_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_SM_CS00000003-1_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_PP_CS00000004-4_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_PP_CS00000004-5_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_SM_CS00000003-6_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_S00024315_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024339_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024398_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024334_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024288_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024434_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024449_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024396_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024256_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024311_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024286_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024354_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024319_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024373_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024344_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024443_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024392_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024343_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024364_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024445_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024299_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024309_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024404_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024390_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024413_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024433_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024320_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024269_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_SM_CS00000003-1_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_TP_CS00000001-2_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_PP_CS00000004-5_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_PP_CS00000004-2_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_TP_CS00000001-3_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_TP_CS00000001-4_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_S00024286_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024375_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024423_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024326_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024351_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024377_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024363_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024342_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024275_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024387_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024375_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024466_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024451_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024394_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024283_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024323_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024254_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024332_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024310_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024412_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024447_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024277_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_SM_CS00000003-4_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_TP_CS00000001-3_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_TP_CS00000001-7_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_PP_CS00000004-2_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_TP_CS00000001-6_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_SM_CS00000003-2_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_SM_CS00000003-6_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_PP_CS00000004-6_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024273_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024332_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024396_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024339_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024376_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024247_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024352_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024289_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024440_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024388_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024393_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024455_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024374_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024378_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024368_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024461_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024407_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_PP_CS00000004-3_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_SM_CS00000003-4_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_SM_CS00000003-1_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_PP_CS00000004-2_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_TP_CS00000001-4_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_TP_CS00000001-1_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_TP_CS00000001-2_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_SM_CS00000003-3_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_S00024272_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024239_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024266_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024347_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024416_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024264_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024397_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024284_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024386_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024318_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024253_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024308_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024267_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024335_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024448_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_PP_CS00000004-7_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_TP_CS00000001-6_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_SM_CS00000003-5_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_TP_CS00000001-1_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_NP_CS00000001-2_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_PP_CS00000004-1_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024454_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024318_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024428_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024422_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024333_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024250_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024354_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024371_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024390_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024405_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024436_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024444_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024270_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024278_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024282_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024370_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024289_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024267_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024407_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024278_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024234_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024458_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024334_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024335_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024383_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_PP_CS00000004-7_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_TP_CS00000001-7_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_SM_CS00000003-7_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_S00024438_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024424_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024259_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024242_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024421_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024235_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024322_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024274_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024297_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024420_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024391_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024253_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024428_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024248_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024358_Repeat_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_TP_CS00000001-4_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_TP_CS00000001-3_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_SM_CS00000003-7_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_S00024279_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024258_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024436_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024380_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024382_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024451_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024274_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024320_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024261_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024316_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024261_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024281_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024386_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024401_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024381_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024460_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024238_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024232_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024410_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024364_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024391_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024330_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_TP_CS00000001-3_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_SM_CS00000003-4_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_PP_CS00000004-3_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_PP_CS00000004-1_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_TP_CS00000001-6_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_S00024244_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024270_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024441_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024316_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024301_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024406_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024255_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024271_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024242_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024269_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024351_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024430_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024348_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024406_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024419_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024357_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024292_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024340_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024450_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_SM_CS00000003-2_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_SM_CS00000003-6_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_S00024462_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024384_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024245_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024275_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024465_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024379_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024301_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024327_Repeat_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024419_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024241_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024427_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024420_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024317_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024329_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024287_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_PP_CS00000004-2_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_SM_CS00000003-1_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_TP_CS00000001-7_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_S00024245_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024374_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024450_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024377_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024408_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024430_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024303_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024238_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024440_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_S00024459_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024331_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024277_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024373_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024414_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_TP_CS00000001-2_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_TP_CS00000001-2_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_PP_CS00000004-5_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_SM_CS00000003-4_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_S00024367_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024375_Repeat_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024254_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024263_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024260_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024323_Repeat1_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024305_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024356_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024353_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024294_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024255_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024252_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024302_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024457_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024295_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024272_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_SM_CS00000003-5_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_TP_CS00000001-7_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_SM_CS00000003-2_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_TP_CS00000001-3_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_SM_CS00000003-6_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_S00024329_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024418_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024309_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024249_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024293_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024353_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024322_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024296_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024296_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024403_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_SM_CS00000003-4_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_SM_CS00000003-1_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_PP_CS00000004-2_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024414_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024279_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024358_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024246_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024240_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024350_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024425_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024341_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024444_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024344_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024307_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024336_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160818_S00024416_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024285_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024263_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_NP_CS00000004-7_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024284_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024308_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024425_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024280_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024383_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024435_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024314_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024360_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024376_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_SM_CS00000003-3_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_S00024292_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024232_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024337_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024258_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024235_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024433_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024310_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024452_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024262_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024259_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024231_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_TP_CS00000001-6_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_SM_CS00000003-1_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160907_S00024257_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024394_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024404_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024306_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024248_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024237_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024338_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024362_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024266_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024350_Repeat_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024365_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_TP_CS00000001-1_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_PP_CS00000004-1_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024368_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024455_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024442_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024456_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024290_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160907_S00024244_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024317_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024397_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024283_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_S00024372_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024359_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024246_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024461_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_S00024256_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024452_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024257_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024460_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_TP_CS00000001-7_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160820_S00024411_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_S00024459_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161105_S00024366_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024264_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160818_S00024447_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024349_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_NP_CS00000001-1_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_TP_CS00000001-5_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160909_S00024247_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024346_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024400_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_S00024382_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024262_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024387_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160820_S00024464_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_PP_CS00000004-4_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160907_SM_CS00000003-5_P.mzXML	animal		10090|Mus musculus					
+MSV000082741	20160818_PP_CS00000004-1_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20161103_PP_CS00000004-6_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024293_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161103_S00024333_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024305_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024399_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160818_PP_CS00000004-4_P.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160820_SM_CS00000003-3_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161105_S00024367_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024319_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161105_S00024359_N.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20161103_S00024313_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_SM_CS00000003-7_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_S00024386_Repeat_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160907_S00024234_P.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_S00024252_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20161105_SM_CS00000003-3_N.mzXML	animal		10090|Mus musculus					
+MSV000082741	20161103_S00024343_P.mzXML	animal		10090|Mus musculus	dorsal root ganglion				
+MSV000082741	20160909_S00024280_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160820_S00024401_N.mzXML	animal	biofluid	10090|Mus musculus	blood plasma				
+MSV000082741	20160909_S00024298_N.mzXML	animal		10090|Mus musculus	sciatic nerve				
+MSV000082741	20160909_SM_CS00000003-5_N.mzXML	animal		10090|Mus musculus					

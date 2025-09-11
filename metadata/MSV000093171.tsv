@@ -1,0 +1,63 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000093171	1362-Serum.mzXML	animal		10090|Mus musculus	blood				
+MSV000093171	1360-F1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1358-F0.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1362-K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000093171	1358-F3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1361-F5.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1360-K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000093171	1359-F5.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1361-IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000093171	1358-GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000093171	Blank00.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093171	1359-IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000093171	1362-CO.mzXML	animal		10090|Mus musculus	colon				
+MSV000093171	1361-K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000093171	1361-CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000093171	1362-F1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1360-CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000093171	1358-F1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	Blank01.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093171	1362-IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000093171	1360-Serum.mzXML	animal		10090|Mus musculus	blood				
+MSV000093171	1358-K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000093171	1359-L.mzXML	animal		10090|Mus musculus	liver				
+MSV000093171	1359-F3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1359-Serum.mzXML	animal		10090|Mus musculus	blood				
+MSV000093171	1358-F5.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1362-GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000093171	1361-CO.mzXML	animal		10090|Mus musculus	colon				
+MSV000093171	1361-GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000093171	1358-Serum.mzXML	animal		10090|Mus musculus	blood				
+MSV000093171	1361-F3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1361-L.mzXML	animal		10090|Mus musculus	liver				
+MSV000093171	1360-CO.mzXML	animal		10090|Mus musculus	colon				
+MSV000093171	1360-F3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1358-IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000093171	Blank03.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093171	Blank04.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093171	1362-CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000093171	1361-F1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1360-L.mzXML	animal		10090|Mus musculus	liver				
+MSV000093171	1362-L.mzXML	animal		10090|Mus musculus	liver				
+MSV000093171	Blank07.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093171	1360-F5.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1362-F3.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1362-F5.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1362-F0.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1358-L.mzXML	animal		10090|Mus musculus	liver				
+MSV000093171	1358-CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000093171	1360-F0.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1360-IL.mzXML	animal		10090|Mus musculus	ileum				
+MSV000093171	1359-CO.mzXML	animal		10090|Mus musculus	colon				
+MSV000093171	1360-GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000093171	Blank02.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093171	1359-K.mzXML	animal		10090|Mus musculus	kidney				
+MSV000093171	1359-F1.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1361-Serum.mzXML	animal		10090|Mus musculus	blood				
+MSV000093171	1359-F0.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1359-CE.mzXML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000093171	1361-F0.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000093171	1359-GB.mzXML	animal	biofluid	10090|Mus musculus	bile				
+MSV000093171	Blank05.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000093171	Blank06.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

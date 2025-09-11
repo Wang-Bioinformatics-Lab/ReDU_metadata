@@ -1,0 +1,85 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000089518	19_23N_Veh_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	14_20R_BSHpos_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	30_17N_BSHneg_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	12_20N_BSHpos_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	blank_B12b.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	blank_A12a.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	11_18B_BSHneg_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	19_23N_Veh_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	41_21B_BSHpos_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	31_17L_BSHneg_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	5_16L_BSHneg_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	blank_A12b.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	blank_C12b.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	2_24L_Veh_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	31_17L_BSHneg_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	13_20L_BSHpos_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	33_17B_BSHneg_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	36_19R_BSHpos_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	37_19B_BSHpos_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	41_21B_BSHpos_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	40_21R_BSHpos_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	blank_D7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	35_19L_BSHpos_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	17_22L_BSHpos_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	1_24N_Veh_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	25_26R_Veh_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	16_22N_BSHpos_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	39_21L_BSHpos_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	1_24N_Veh_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	33_17B_BSHneg_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	29_15B_BSHneg_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	27_15L_BSHneg_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	20_23L_Veh_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	14_20R_BSHpos_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	22_25N_Veh_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	27_15L_BSHneg_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	35_19L_BSHpos_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	32_17R_BSHneg_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	2_24L_Veh_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	34_19N_BSHpos_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	32_17R_BSHneg_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	18_22B_BSHpos_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	blank_B12b.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	38_21N_BSHpos_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	4_16N_BSHneg_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	10_18R_BSHneg_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	37_19B_BSHpos_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	28_15R_BSHneg_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	20_23L_Veh_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	22_25N_Veh_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	28_15R_BSHneg_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	11_18B_BSHneg_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	40_21R_BSHpos_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	26_15N_BSHneg_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	21_23R_Veh_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	12_20N_BSHpos_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	blank_C12a.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	blank_B12a.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	15_20B_BSHpos_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	23_25L_Veh_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	39_21L_BSHpos_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	29_15B_BSHneg_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	26_15N_BSHneg_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	21_23R_Veh_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	25_26R_Veh_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	10_18R_BSHneg_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	13_20L_BSHpos_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	4_16N_BSHneg_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	23_25L_Veh_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	blank_C12a.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	blank_A12a.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	36_19R_BSHpos_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	17_22L_BSHpos_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	16_22N_BSHpos_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	38_21N_BSHpos_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	18_22B_BSHpos_HFD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	30_17N_BSHneg_HFD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	34_19N_BSHpos_NCD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	blank_B12a.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	5_16L_BSHneg_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	blank_A12b.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	15_20B_BSHpos_NCD.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000089518	blank_C12b.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000089518	blank_D7.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value

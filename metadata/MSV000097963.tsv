@@ -1,0 +1,75 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000097963	sample_228.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_256.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_242.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	pool_qc_STm_ileum_diet_2.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_233.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_227.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_262.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_264.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_261.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_244.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	ID_01.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_236.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_246.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_265.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_254.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_222.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_251.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	ID_03.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	pool_qc_STm_ileum_diet_6.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_257.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	pool_qc_STm_ileum_diet_4.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_247.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	pool_qc_STm_ileum_diet_7.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	Blank_2_20250326204403.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	sample_255.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_240.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_238.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	Blank_3_20250326210218.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	ID_04.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_249.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_259.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_266.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_241.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_225.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_243.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_231.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_239.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_250.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_260.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	Blank_9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	sample_223.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_226.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_234.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	Blank_01.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	pool_qc_STm_ileum_diet_3.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_248.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_245.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_267.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_224.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_263.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	pool_qc_STm_ileum_diet_5.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_220.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_229.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_258.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	Blank_1_20250326202549.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	Blank_02.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	Blank_1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	sample_221.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_230.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_219.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	pool_qc_STm_ileum_diet_8.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_232.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	pool_qc_STm_ileum_diet_9.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_253.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_237.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	Blank_7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	Blank_2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	Blank_3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	Blank_8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000097963	pool_qc_STm_ileum_diet_1.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	ID_02.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_218.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_252.mzML	animal		10090|Mus musculus	ileum				
+MSV000097963	sample_235.mzML	animal		10090|Mus musculus	ileum				

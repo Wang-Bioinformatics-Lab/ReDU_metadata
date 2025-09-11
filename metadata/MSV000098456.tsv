@@ -1,0 +1,97 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000098456	241127_Tauro_beta_MCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_ND_ABX_195_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_ND_1_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_GCDCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_ND_ABX_192_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_CtrlD_serum_1_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	250618_1um_IS2_100_MeOH_DDA_cent_pos9.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_Blank_100_MeOH_IS1_DDA_cent_pos9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	250618_1um_IS2_100_MeOH_DDA_cent_pos5.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_CtrlD_serum_2_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241227_CD_ABX_498_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_ND_NoABX_149_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_CD_ABX_495_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_PS_fed_serum_1_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241227_CD_NoABX_301_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_CD_ABX_494_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250108_ND_5_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241127_ABX_ND_1_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_ND_ABX_194_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_ABX_ND_3_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_ABX_CD_2_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_PS_fed_serum_5_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241127_CD_3_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_CtrlD_serum_4_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241127_UDCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_LCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_CtrlD_serum_3_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos3.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	250108_ND_1_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	250108_ND_BS_5_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241227_CD_ABX_496_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_CD_NoABX_309_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_CD_ABX_497_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_Blank_100_MeOH_IS1_DDA_cent_pos12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	250108_Blank_100_MeOH_IS1_pos4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	250618_1um_IS2_100_MeOH_DDA_cent_pos6.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_ND_2_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250108_ND_BS_3_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241227_ND_ABX_193_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_CDCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_TCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_TDCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_Blank_100_MeOH_IS1_DDA_cent_pos11.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241227_ND_NoABX_146_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_GCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250108_Blank_100_MeOH_IS1_pos7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241227_CD_NoABX_302_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_Tauro_alpha_MCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_alpha_MCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_PS_fed_serum_4_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241127_ABX_CD_3_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_ND_NoABX_147_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_Blank_100_MeOH_IS1_DDA_cent_pos10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos9.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241127_Blank_100_MeOH_IS1_DDA_cent_pos8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	250108_ND_2_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	250108_ND_4_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	250108_Blank_100_MeOH_IS1_pos6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241127_beta_MCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_PS_fed_serum_3_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos10.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	250108_ND_BS_2_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241127_ABX_CD_1_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_ND_NoABX_150_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_TUDCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos6.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos7.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	250618_1um_IS2_100_MeOH_DDA_cent_pos8.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_DCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_CD_1_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_ND_ABX_191_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_ABX_ND_2_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_ND_3_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_PS_fed_serum_2_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	250618_1um_IS2_100_MeOH_DDA_cent_pos10.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos4.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241127_omega_MCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250108_ND_BS_4_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	250108_Blank_100_MeOH_IS1_pos5.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241127_HDCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos8.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	250108_ND_BS_1_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241127_CD_2_EXP3_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_CD_NoABX_305_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	241227_ND_NoABX_148_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250108_ND_3_serum_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241127_CA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_1um_IS2_100_MeOH_DDA_cent_pos7.mzML	animal		10090|Mus musculus					
+MSV000098456	241127_gamma_MCA_DDA_cent_pos.mzML	animal		10090|Mus musculus					
+MSV000098456	250618_WT_CtrlD_serum_5_DDA_cent_pos.mzML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000098456	241227_Blank_50_MeOH_IS1_DDA_cent_pos12.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098456	241227_CD_NoABX_303_DDA_cent_pos.mzML	animal		10090|Mus musculus					

@@ -1,0 +1,349 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000098103	20240909_Erin_CirMiceBApos_073_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_217_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_190_Blood_576_T8.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_315_Colon_482_T4.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_274_Cecum_480_T4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_248_Brain_556_T4.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_203_Blood_553_T4.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_311_Colon_687_T8.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_328_ColonConts_253_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_320_Colon_298_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_204_Blood_Pool.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_023_IlealCont_318_T16.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_050_CecalConts_550_T4.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_270_Cecum_319_T16.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_086_Liver_283_T16.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_034_IlealCont_401_T20.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_164_JejunumConts_201_T12.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_039_CecalConts_527_T4.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_340_ColonConts_207_T12.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_214_Blood_24_T0.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_097_Liver_375_T20_20240912110055.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_222_Brain_303_T16.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_149_JejunumConts_86_T0.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_332_ColonConts_605_T8.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_202_Blood_689_T8.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_163_JejunumConts_385_T20.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_339_ColonConts_92_T0.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_013_IlealCont_Pool.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_088_Liver_122_T12.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_290_Colon_Pool.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_244_Brain_165_T12.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_238_Brain_280_T16.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_329_ColonConts_69_T0.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_196_Blood_606_T8.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_261_Cecum_595_T8.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_319_Colon_68_T0.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_188_Blood_93_T0.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_291_Colon_404_T20.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_326_ColonConts_Pool.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_185_Blood_346_T20.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_037_Blank_20240910120422.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_144_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_037_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_308_Colon_574_T4.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_058_CecalConts_504_T4.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_167_JejunumConts_247_T16.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_343_ColonConts_345_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_312_Colon_Pool.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_173_JejunumConts_224_T12.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_327_ColonConts_299_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_307_Colon_22_T0.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_064_CecalConts_603_T8.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_262_Cecum_342_T16.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_338_ColonConts_575_T4.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_192_Blood_406_T20.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_171_JejunumConts_500_T4.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_046_CecalConts_665_T8.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_105_Liver_490_T4.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_075_Liver_7_T0.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_333_ColonConts_276_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_103_Liver_168_T12.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_147_JejunumConts_546_T4.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_168_JejunumConts_Pool.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_334_ColonConts_230_T12.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_113_Feces_9_T0.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_059_CecalConts_458_T20.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_318_Colon_45_T0.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_223_Brain_533_T4.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_323_Colon_Pool.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_153_JejunumConts_569_T4.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_150_JejunumConts_293_T16.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_183_Blood_622_T8.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_156_JejunumConts_523_T4.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_265_Cecum_Pool.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_048_CecalConts_90_T0.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_304_Colon_321_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_254_Cecum_Pool.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_292_Colon_551_T4.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_043_CecalConts_435_T20.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_259_Cecum_402_T20.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_082_Liver_237_T16.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_233_Brain_326_T16.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_028_IlealCont_88_T0.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_279_Cecum_685_T8.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_277_Cecum_204_T12.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_018_IlealCont_42_T0.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_178_JejunumConts_17_T0.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_266_Cecum_158_T12.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_342_ColonConts_552_T4.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_159_JejunumConts_132_T12.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_193_Blood_Pool.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_069_CecalConts_596_T8.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_231_Brain_418_T20.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_239_Brain_73_T0.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_143_Feces_Pool.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_309_Colon_137_T12.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_038_CecalConts_Pool.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_098_Liver_191_T12.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_017_IlealCont_203_T12.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_245_Brain_119_T12.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_085_Liver_Pool.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_157_JejunumConts_Pool.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_218_Braini_Pool.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_232_Brain_257_T16.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_246_Brain_211_T12.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_301_Colon_Pool.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_004_IlealCont_134_T12.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_119_Feces_308_T16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_007_IlealCont_456_T20.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_068_CecalConts_320_T16.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_102_Liver_145_T12.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_305_Colon_160_T12.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_056_CecalConts_389_T20.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_139_Feces_584_T8.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_166_JejunumConts_682_T8.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_078_Liver_444_T20.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_297_Colon_505_T4.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_310_Colon_436_T20.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_172_JejunumConts_339_T16.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_145_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_325_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_289_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_253_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_126_Feces_538_T4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_137_Feces_78_T0.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_142_Feces_216_T12.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_101_Liver_467_T4.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_042_CecalConts_182_T12.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_099_Liver_612_T8.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_083_Liver_651_T8.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_084_Liver_214_T12.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_220_Brain_409_T20.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_282_Cecum_457_T20.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_014_IlealCont_65_T0.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_194_Blood_139_T12.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_275_Cecum_503_T4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_212_Blood_507_T4.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_176_JejunumConts_638_T8.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_191_Blood_47_T0.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_236_Brain_487_T4.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_162_JejunumConts_399_T20.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_117_Feces_101_T0.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_057_CecalConts_642_T8.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_247_Brain_669_T8.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_062_CecalConts_159_T12.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_160_JejunumConts_362_T20.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_206_Blood_530_T4.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_330_ColonConts_46_T0.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_317_Colon_390_T20.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_063_CecalConts_274_T16.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_154_JejunumConts_109_T0.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_285_Cecum_66_T0.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_019_IlealCont_548_T4.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_033_IlealCont_111_T0.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_072_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_216_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_252_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_230_Brain_234_T16.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_136_Feces_423_T20.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_081_Liver_559_T4.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_201_Blood_300_T16.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_303_Colon_275_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_235_Brain_372_T20.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_250_Brain_188_T12.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_234_Brain_441_T20.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_080_Liver_582_T8.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_208_Blood_1_T0.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_174_JejunumConts_454_T20.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_094_Liver_329_T16.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_184_Blood_645_T8.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_114_Feces_147_T12.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_243_Brain_4_T0.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_161_JejunumConts_270_T16.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_060_CecalConts_Pool.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_095_Liver_672_T8.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_215_Blood_Pool.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_189_Blood_461_T4.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_278_Cecum_434_T20.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_132_Feces_Pool.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_040_CecalConts_205_T12.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_179_JejunumConts_Pool.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_079_Liver_352_T20.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_294_Colon_344_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_200_Blood_254_T16.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_071_CecalConts_Pool.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_041_CecalConts_21_T0.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_110_Feces_Pool.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_324_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_073_Blank_20240912111708.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_341_ColonConts_598_T8.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_092_Liver_306_T16.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_134_Feces_124_T12.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_106_Liver_628_T8.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_096_Liver_Pool.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_251_Braini_Pool.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_077_Liver_536_T4.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_116_Feces_630_T8.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_141_Feces_414_T20.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_016_IlealCont_479_T4.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_024_IlealCont_Pool.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_125_Feces_285_T16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_337_ColonConts_Pool.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_249_Brain_142_T12.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_213_Blood_438_T20.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_272_Cecum_365_T20.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_205_Blood_484_T4.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_313_Colon_459_T20.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_003_IlealCont_663_T8.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_268_Cecum_273_T16.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_045_CecalConts_136_T12.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_021_IlealCont_571_T4.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_037_Blank_20240911095843.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_037_Blank_20240910130607.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_001_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_036_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_129_Feces_653_T8.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_049_CecalConts_Pool.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_030_IlealCont_525_T4.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_148_JejunumConts_63_T0.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_054_CecalConts_403_T20.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_273_Cecum_549_T4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_029_IlealCont_341_T16.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_227_Brain_510_T4.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_199_Blood_323_T16.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_281_Cecum_664_T8.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_170_JejunumConts_316_T16.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_195_Blood_185_T12.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_130_Feces_377_T20.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_006_IlealCont_364_T20.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_027_IlealCont_295_T16.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_107_Liver_Pool.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_061_CecalConts_44_T0.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_047_CecalConts_481_T4.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_121_Feces_Pool.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_187_Blood_116_T12.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_140_Feces_193_T12.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_180_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_288_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_298_Colon_206_T12.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_067_CecalConts_366_T20.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_314_Colon_367_T20.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_051_CecalConts_113_T0.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_133_Feces_674_T8.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_296_Colon_597_T8.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_089_Liver_30_T0.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_118_Feces_354_T20.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_228_Brain_625_T8.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_053_CecalConts_686_T8.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_074_Liver_Pool.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_255_Cecum_572_T4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_260_Cecum_296_T16.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_011_IlealCont_601_T8.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_224_Brain_609_T8.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_207_Blood_369_T20.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_020_IlealCont_180_T12.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_256_Cecum_181_T12.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_090_Liver_53_T0.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_210_Blood_415_T20.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_346_ColonConts_405_T20.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_035_IlealCont_Pool.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_263_Cecum_526_T4.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_197_Blood_162_T12.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_026_IlealCont_272_T16.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_240_Braini_Pool.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_124_Feces_614_T8.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_269_Cecum_602_T8.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_295_Colon_114_T0.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_123_Feces_239_T16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_138_Feces_331_T16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_287_Cecum_Pool.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_271_Cecum_250_T16.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_087_Liver_99_T0.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_151_JejunumConts_661_T8.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_065_CecalConts_228_T12.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_300_Colon_643_T8.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_008_IlealCont_640_T8.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_120_Feces_469_T4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_097_Liver_375_T20_20240912174534.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_025_IlealCont_502_T4.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_283_Cecum_20_T0.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_108_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_198_Blood_70_T0.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_335_ColonConts_322_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_066_CecalConts_297_T16.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_015_IlealCont_19_T0.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_322_Colon_666_T8.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_122_Feces_32_T0.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_242_Brain_579_T8.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_128_Feces_446_T20.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_076_Liver_513_T4.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_211_Blood_231_T16.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_055_CecalConts_343_T16.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_115_Feces_262_T16.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_264_Cecum_135_T12.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_093_Liver_412_T20.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_280_Cecum_112_T0.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_091_Liver_421_T20.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_302_Colon_229_T12.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_276_Cecum_Pool.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_237_Brain_50_T0.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_127_Feces_561_T4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_316_Colon_604_T8.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_345_ColonConts_368_T20.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_010_IlealCont_249_T16.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_111_Feces_515_T4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_005_IlealCont_157_T12.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_331_ColonConts_506_T4.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_131_Feces_170_T12.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_336_ColonConts_161_T12.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_012_IlealCont_226_T12.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_225_Brain_648_T8.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_299_Colon_91_T0.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_219_Brain_27_T0.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_052_CecalConts_573_T4.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_022_IlealCont_433_T20.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_112_Feces_492_T4.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_226_Brain_349_T20.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_097_Liver_375_T20.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_181_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_284_Cecum_227_T12.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_165_JejunumConts_40_T0.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_146_JejunumConts_Pool.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_286_Cecum_89_T0.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_186_Blood_208_T12.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_032_IlealCont_594_T8.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_347_ColonConts_483_T4.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_209_Blood_277_T16.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_258_Cecum_43_T0.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_321_Colon_528_T4.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_175_JejunumConts_431_T20.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_306_Colon_252_T16.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_241_Brain_464_T4.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_267_Cecum_388_T20.mzML	animal	biofluid	10090|Mus musculus	cecum				
+MSV000098103	20240909_Erin_CirMiceBApos_135_Feces_55_T0.mzML	animal	biofluid	10090|Mus musculus	feces				
+MSV000098103	20240909_Erin_CirMiceBApos_104_Liver_260_T16.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_152_JejunumConts_155_T12.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_221_Brain_96_T0.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_044_CecalConts_67_T0.mzML	animal		10090|Mus musculus	caecum				
+MSV000098103	20240909_Erin_CirMiceBApos_109_Blank.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000098103	20240909_Erin_CirMiceBApos_002_IlealCont_Pool.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_100_Liver_76_T0.mzML	animal		10090|Mus musculus	liver				
+MSV000098103	20240909_Erin_CirMiceBApos_344_ColonConts_115_T0.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_293_Colon_183_T12.mzML	animal		10090|Mus musculus	colon				
+MSV000098103	20240909_Erin_CirMiceBApos_182_Blood_Pool.mzML	animal		10090|Mus musculus	blood				
+MSV000098103	20240909_Erin_CirMiceBApos_009_IlealCont_387_T20.mzML	animal		10090|Mus musculus	ileum				
+MSV000098103	20240909_Erin_CirMiceBApos_229_Braini_Pool.mzML	animal		10090|Mus musculus	brain				
+MSV000098103	20240909_Erin_CirMiceBApos_169_JejunumConts_477_T4.mzML	animal		10090|Mus musculus	jejunum				
+MSV000098103	20240909_Erin_CirMiceBApos_257_Cecum_641_T8.mzML	animal	biofluid	10090|Mus musculus	cecum				

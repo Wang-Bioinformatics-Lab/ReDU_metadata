@@ -1,0 +1,514 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000081343	EZ734.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	ms_ileum_8d_exp2_a1BAD.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ716.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ104.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ190.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ390.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ304.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ792.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ32.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ266.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ267.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ176.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ783.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ776.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ664.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ766.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ384.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ456.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ383.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ719.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ103.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ177.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	ms_ileum_8d_exp2_a1GOOD.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ81.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ601.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ773.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ171.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ539.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ522.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ665.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ694.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ593.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ14.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ610.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	ms_feces_8d_exp2_cifnar3BAD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ233.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ232.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ642.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ555.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ43.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ741.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ16.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ117.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ591.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ114.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ155.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ305.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ90.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ82.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ647.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ186.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ557.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ87.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	Blk_no_inj_02.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_18.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_22.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_07.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_35.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_20.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_40.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_17.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_13.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_32.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_35_170710165958.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_33.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_21.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_37.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_39.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ41.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ45.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ255.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ765.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ521.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ396.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ501.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ575.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ733.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ695.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ503.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ319.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ39.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ397.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ44.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ153.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ643.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ609.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ160.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ768.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ20.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ774.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ663.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ530.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ675.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ116.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ784.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ178.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ387.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ34.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ767.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ528.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ398.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ331.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ329.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ365.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ258.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	ms_ileum_8d_exp2_ciso4BAD.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ604.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	Solvent_Blank_41.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_16.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_34.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_03.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_01_Rerun.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_27.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_10.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_14.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_38.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_12.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ715.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ322.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ461.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ211.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ698.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ739.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ781.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ508.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ370.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ789.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ770.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ489.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ572.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ462.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ573.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ798.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ596.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ264.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ671.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ300.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ432.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ371.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ468.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ112.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	ms_ileum_8d_exp2_ciso4GOOD.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ437.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ367.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ732.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ253.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ600.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ668.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ799.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ175.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ335.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	ms_feces_8d_exp2_a1BAD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ110.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ115.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ382.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ269.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ626.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	ms_feces_8d_exp2_a1GOOD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ679.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ800.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ179.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ523.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ181.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ48.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ152.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ576.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ605.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ796.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ622.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ395.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ470.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ452.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ183.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	Solvent_Blank_43.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_35.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_09.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_42.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ779.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ49.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ363.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ394.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ795.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ648.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ102.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ18.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ750.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ120.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ47.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ624.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ184.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ720.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ231.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ790.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ239.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ457.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ15.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ12.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ533.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ364.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ592.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ532.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	ms_feces_8d_exp2_c3BAD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ482.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ459.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ552.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ621.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ262.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ488.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ551.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ159.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ392.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ649.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ579.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ676.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ763.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ666.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ667.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ172.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ330.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ673.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ118.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ156.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ506.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ527.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	Solvent_Blank_30.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_16.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_20.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_05.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_23.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_04.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ455.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ484.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ598.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ538.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ189.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ747.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ672.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ738.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	ms_ileum_8d_exp1_u4BAD.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ735.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ645.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ185.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ717.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ106.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ259.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ607.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ558.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ595.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ83.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ235.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ625.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ42.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ439.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ483.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ554.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ782.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ301.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ487.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ526.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ674.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ490.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ307.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ36.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ606.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ308.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ556.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ769.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ265.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ697.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	Solvent_Blank_09.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_28.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_26.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_13.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_28.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_27.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_25.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_38_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_35_170710171321.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_26.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ571.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ749.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ748.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ107.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ630.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ302.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ623.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ434.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ119.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ435.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ737.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ534.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ669.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ257.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ37.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ151.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ504.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ537.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ260.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ603.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	Solvent_Blank_06.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_05.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_08.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_23.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_25.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_30.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_33.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_06.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ325.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ787.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ731.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ388.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ89.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ389.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ40.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ369.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ460.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	ms_ileum_8d_exp1_u4GOOD.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ678.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ502.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ693.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	ms_feces_8d_exp2_a1_170710131052BAD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ454.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ303.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ509.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	ms_feces_8d_exp2_cifnar3GOOD.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ88.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ580.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ696.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ324.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ791.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ13.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ680.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ714.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	Blk_no_inj_11.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_37.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_32.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_24.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_39.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_42.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_41.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_08.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_22.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_36.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_01_Rerun.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_02.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_15.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ793.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ254.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ180.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ559.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ536.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ742.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ85.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ599.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ332.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ158.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ691.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ740.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ270.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ629.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ438.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ764.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ433.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ465.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ464.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ560.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ777.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ608.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ797.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ718.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ661.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ101.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ574.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ33.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ268.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ263.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ469.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ467.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ778.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ772.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	Blk_no_inj_17.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_10.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_29.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_12.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ252.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ677.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ320.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ650.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ644.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ505.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ385.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ334.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ451.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ366.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ529.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ531.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ594.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ86.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ780.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ458.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ785.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ84.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ641.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ463.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ440.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	Solvent_Blank_19.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_35_170710161602.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_43.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_01.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ393.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ597.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ17.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ646.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ744.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ775.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ788.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ786.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ306.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ326.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ108.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ157.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ794.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ105.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ578.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ187.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ318.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ507.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ391.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ328.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ485.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	Blk_no_inj_14.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_40.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_38_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_24.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_19.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_38.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_34.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_03.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_28_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ368.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ333.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ700.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ577.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ111.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ431.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ540.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ762.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ19.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ553.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ743.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ386.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ436.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ327.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ261.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ236.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ212.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ771.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ466.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	Solvent_Blank_11.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_01.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_07.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_18.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ453.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ745.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ713.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ524.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ711.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ381.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ154.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ486.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ692.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ234.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ628.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ237.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ510.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ11.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ481.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	Blk_no_inj_21.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_36.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Blk_no_inj_31.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_31.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	Solvent_Blank_15.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ525.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ761.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ321.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ627.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ670.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ712.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ38.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ736.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ535.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ238.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ699.mzXML	animal		10090|Mus musculus	colon				
+MSV000081343	EZ35.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ251.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	Blk_no_inj_28_2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ46.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ323.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ240.mzXML	animal	biofluid	10090|Mus musculus	blood serum				
+MSV000081343	EZ173.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ182.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	Solvent_Blank_29.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ256.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ746.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ113.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ50.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ109.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	Solvent_Blank_04.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000081343	EZ174.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ602.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ662.mzXML	animal		10090|Mus musculus	ileum				
+MSV000081343	EZ188.mzXML	animal	biofluid	10090|Mus musculus	feces				
+MSV000081343	EZ31.mzXML	animal		10090|Mus musculus	ileum				

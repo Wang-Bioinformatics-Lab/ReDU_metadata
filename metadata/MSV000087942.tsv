@@ -1,0 +1,439 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000087942	Blank_10_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_09_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_00_P01_no_inj_RERUNS.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_133.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_101.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_061.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_077.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_020_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_159.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_027.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_045.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_024_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_111.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_159.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_162.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_121.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_01_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_070.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_085.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_097.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_039.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_036_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_G12_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_D11_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_E12_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_003.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_096.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_032.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_095_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_136.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_053.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_087.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_110.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_070.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_083.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_049_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_165.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_001.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_023_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_148.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_042.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_051.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_032.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_035_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_105.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_C12_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_C11_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_F12_P1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_069_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_047_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_157.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_125.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_054.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_094.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_033_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_A11_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_05_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_126.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_103.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_093.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_100.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_130.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_151.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_167.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_168.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_009.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_087.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_025.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_116.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_158.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_01_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_B12_P1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_D12_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_00_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_G12_P1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_A12_P1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_079.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_158.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_007.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_026.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_055_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_048_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_E12_P1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_H12_P1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_08_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_11_P02_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_011.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_129.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_140.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_063.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_049_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_021.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_142.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_080.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_118.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_092.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_018_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_154.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_143.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_008.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_112.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_029.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_F11_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_04_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_06_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_D12_P1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_07_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_03_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_034.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_152.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_E12_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_F11_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_B12_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_10_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_107.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_133.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_010.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_019.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_151.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_131.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_040.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_083.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_164.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_088.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_006.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_127.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_132.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_078.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_031_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_141.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_150.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_028.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_B11_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_H11_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_B11_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_043.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_068.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_105.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_089.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_082.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_130.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_060.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_H12_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_09_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_B12_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_A12_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_11_P02_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_F12_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_090.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_123.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_168.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_149.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_097.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_134.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_110.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_163.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_046.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_140.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_074.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_098.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_065.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_017_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_084.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_124.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_00_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_03_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_152.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_145.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_106.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_076.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_011.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_066_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_01_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_D11_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_06_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_G11_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_00_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_C12_P1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_128.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_013.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_028.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_138.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_165.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_153.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_001.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_005.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_059.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_073_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_052.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_035_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_051.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_120.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_044.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_134.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_014.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_108.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_034.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_065.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_091.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_056.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_002.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_H11_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_08_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_12_P02_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_02_P02_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_07_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_06_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_167.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_014.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_066_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_153.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_094.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_067.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_054.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_129.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_109.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_163.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_100.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_147.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_085.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_007.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_012.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_148.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_137.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_057_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_078.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_021.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_117.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_103.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_10_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_D12_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_E12_P1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_G11_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_C12_P1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_01_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_052.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_016.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_146.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_038.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_071.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_135.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_131.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_067.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_026.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_156.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_036_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_024_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_F12_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_02_P01_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_050.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_017_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_064_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_062.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_076.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_045.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_H12_P1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_07_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_05_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_H12_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_04_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_C11_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_113.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_156.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_121.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_041.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_096.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_142.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_161.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_081.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_053.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_E11_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_03_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_A12_P1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_020_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_143.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_102_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_089.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_113.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_155.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_08_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_04_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_07_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_05_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_12_P01_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_033_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_068.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_061.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_101.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_122.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_004.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_079.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_080.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_050.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_138.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_136.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_018_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_074.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_056.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_098.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_127.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_022.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_009.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_086.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_048_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_104.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_123.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_155.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_099.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_A12_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_00_P01_no_inj_RERUNS.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_015_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_023_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_064_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_015_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_031_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_086.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_A11_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_E11_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_00_P01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_039.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_146.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_022.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_091.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_010.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_114.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_063.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_093.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_116.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_166.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_154.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_106.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_042.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_043.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_128.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_132.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_016.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_008.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_144.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_029.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_137.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_C12_P2.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_B12_P1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_03_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_06_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_08_P02_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_108.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_095_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_112.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_160.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_135.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_075.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_046.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_139.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_071.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_012.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_073_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_062.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_104.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_157.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_037.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_117.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_09_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_12_P01_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_G12_P2.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_04_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_05_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_160.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_124.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_002.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_115_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_075.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_111.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_013.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_118.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_059.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_109.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_092.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_11_P01_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_060.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_126.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_107.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_047_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_141.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_041.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_G12_P1.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_02_P01_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_02_P02_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_F12_P1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_09_P02_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_12_P02_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Blank_D12_P1.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_030.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_125.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_027.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_006.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_149.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_144.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_145.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_082.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_030.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_147.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_040.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_162.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_038.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_102_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_069_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_081.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_150.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_037.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_119.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_10_P01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_114.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_025.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_119.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_090.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_161.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Blank_11_P01_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087942	Tube_057_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_115_RERUNS.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_072.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_019.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_004.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_044.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_122.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_058.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_139.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_058.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_166.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_084.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_099.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_055_RERUNS.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_072.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_077.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_088.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_005.mzXML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_003.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_120.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	
+MSV000087942	Tube_164.mzML	animal	biofluid	9606|Homo sapiens	feces			inflammatory bowel disease	

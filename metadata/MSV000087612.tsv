@@ -1,0 +1,467 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	AgeInYears	DOIDCommonName	HealthStatus
+MSV000087612	Blank_Plate01_05_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_11_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_00_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_06_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_09_no_inj_20210531130040.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_02_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	5.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176813.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T36_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T40_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00177364.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T15_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176701.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T29_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00177841.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176745.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T12_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176731.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T28_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	39.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T19_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	17.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176563.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T31_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T6_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T36_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	60.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176603.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	31.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T34_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	38.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T1_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate02_07_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_09_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	X00176685.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T31_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	90.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T42_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T10_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	24.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	81.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	30.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	7.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	19.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	86.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X0017663.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176735.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	55.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	11.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T43_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176551.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T35_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176761.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	32.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T13_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	83.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	38.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	76.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	9.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T16_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T45_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	8.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176669.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176549.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate02_06_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_07_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_09_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_09_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_02_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_08_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	49.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T35_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176759.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	5.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T44_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	52.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	79.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T4_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T28_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176739.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176761.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T26_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T2_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176701.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T37_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T11_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176739.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T10_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T34_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T41_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T14_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176747.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	89.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	58.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	55.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T5_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176771.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T17_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T45_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	66.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00177249.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176637.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176791.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T44_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176597.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	32.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate02_03_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_07_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_09_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	54.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176661.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176803.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	75.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176775.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176609.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00177249.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176573.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176569.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T8_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T2_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T43_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T42_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176595.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176813.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T32_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	49.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	77.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176647.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X0017663.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176771.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	2.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T32_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate02_06_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_10_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_04_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_10_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_04_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	T38_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	42.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T7_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T38_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00177841.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	7.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176583.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	16.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176603.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	37.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T7_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176541.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176669.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	28.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T18_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T37_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	69.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176757.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176741.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T3_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T9_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	10.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	58.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176583.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176729.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	64.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate01_00_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_11_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	T5_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	24.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	77.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	65.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176731.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	4.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	47.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	74.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00177364.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176727.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	89.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	87.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	27.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	53.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176779.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T26_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	28.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176705.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Pre_Sequence_02.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_01_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_09_no_inj_20210528141303.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_08_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_04_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	T15_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176597.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176817.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176685.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176657.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T33_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	23.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T27_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	81.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176541.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176809.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	19.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	1.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	34.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	22.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	14.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	70.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T6_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T16_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00178211.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176817.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate01_01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Post_Sequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_04_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	T4_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	16.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	72.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176645.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176569.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T41_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176647.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T20_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	85.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176707.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	70.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176613.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	62.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	74.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00178211.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00178352.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176689.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	83.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176649.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T29_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T27_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176593.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	56.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176591.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176735.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T13_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	61.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate01_05_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_02_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	37.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176741.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176809.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	69.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176703.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176589.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	78.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176547.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T30_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	86.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00177974.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176689.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	46.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	85.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176833.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	67.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	48.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	29.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	35.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	80.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	26.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T1_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176611.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	71.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176605.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176613.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176827.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate01_03_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	73.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	53.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T20_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176693.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176595.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176599.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	44.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	41.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	50.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	51.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176657.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	57.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	8.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	12.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176727.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	6.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176799.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T17_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	27.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176759.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T8_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176729.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate01_09_no_inj_20210528141303.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	X00176705.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	3.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	10.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	71.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T30_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	90.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	59.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T18_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	18.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	13.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	84.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176715.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T11_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	21.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	31.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176665.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	9.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176551.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176521.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	46.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	17.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T3_Post.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	11.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00178352.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	18.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate02_10_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_03_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_05_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	22.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	68.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176665.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176659.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	84.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176605.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	54.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T40_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T19_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	36.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176589.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T39_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176747.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176661.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	44.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	88.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	12.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	34.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T33_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176651.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	25.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176703.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate01_11_no_inj_End.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_06_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_08_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_03_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_05_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_07_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	X00176563.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	68.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	50.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	30.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176553.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	73.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	52.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	40.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176581.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T9_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	45.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T12_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176815.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	41.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	80.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	82.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T39_Pre.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176779.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	59.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	79.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	20.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	33.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	45.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	42.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	88.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	26.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	T14_Final.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	63.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate01_00_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_08_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_02_no_inj_Presequence.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	67.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	2.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	47.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176803.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	64.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	25.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176775.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176533.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	62.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	72.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176637.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	3.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	82.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176745.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176609.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176599.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176707.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176691.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	66.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176593.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	21.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176549.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	75.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	51.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	60.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	91.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	36.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	87.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	39.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176757.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	76.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	20.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate02_10_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_01_no_inj.mzXML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate02_00_no_inj.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	6.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	78.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176791.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176717.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176799.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	29.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176717.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	15.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	15.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	43.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	91.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176767.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00177974.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	40.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	56.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	48.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	23.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176581.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	57.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176815.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176553.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	65.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	35.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	Blank_Plate02_09_no_inj_20210531130040.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	Blank_Plate01_11_no_inj_End.mzML	blank_analysis	blank_analysis	missing_value	missing_value	missing_value		missing_value	missing_value
+MSV000087612	X00176611.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176547.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176691.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	14.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176715.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176659.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	4.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176651.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	61.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176833.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176573.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176649.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176645.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	33.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	43.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176767.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176521.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	1.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	63.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176591.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176693.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176533.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176677.mzXML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176827.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	13.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
+MSV000087612	X00176677.mzML	animal	biofluid	9606|Homo sapiens	feces			schizophrenia	
