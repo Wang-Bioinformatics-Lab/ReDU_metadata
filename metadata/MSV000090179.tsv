@@ -1,0 +1,81 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	SampleCollectionMethod	SampleExtractionMethod	InternalStandardsUsed	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	SubjectIdentifierAsRecorded	AgeInYears	BiologicalSex	UBERONBodyPartName	TermsofPosition	HealthStatus	DOIDCommonName	ComorbidityListDOIDIndex	SampleCollectionDateandTime	Country	HumanPopulationDensity	LatitudeandLongitude	DepthorAltitudeMeters	qiita_sample_name	UniqueSubjectID	LifeStage	UBERONOntologyIndex	DOIDOntologyIndex	NCBIRank	NCBIDivision	ENVOEnvironmentBiome	ENVOEnvironmentMaterial	ENVOEnvironmentBiomeIndex	ENVOEnvironmentMaterialIndex
+MSV000090179	neg_mouse_female_brain_4w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.083333	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_12w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.25	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_25w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.520833	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_48w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_78w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1.625	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_4w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.083333	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_12w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.25	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_25w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.520833	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_48w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_78w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1.625	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_4w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.083333	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_12w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.25	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_25w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.520833	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_48w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_78w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1.625	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_4w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.083333	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_12w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.25	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_25w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.520833	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_48w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1	female	brain		healthy																		
+MSV000090179	neg_mouse_female_brain_78w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1.625	female	brain		healthy																		
+MSV000090180	neg_mouse_female_spinal_4w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.083333	female	spinal cord		healthy																		
+MSV000090181	neg_mouse_female_spinal_12w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.25	female	spinal cord		healthy																		
+MSV000090182	neg_mouse_female_spinal_25w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.520833	female	spinal cord		healthy																		
+MSV000090183	neg_mouse_female_spinal_48w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1	female	spinal cord		healthy																		
+MSV000090184	neg_mouse_female_spinal_78w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1.625	female	spinal cord		healthy																		
+MSV000090185	neg_mouse_female_spinal_4w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.083333	female	spinal cord		healthy																		
+MSV000090186	neg_mouse_female_spinal_12w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.25	female	spinal cord		healthy																		
+MSV000090187	neg_mouse_female_spinal_25w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.520833	female	spinal cord		healthy																		
+MSV000090188	neg_mouse_female_spinal_48w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1	female	spinal cord		healthy																		
+MSV000090189	neg_mouse_female_spinal_78w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1.625	female	spinal cord		healthy																		
+MSV000090190	neg_mouse_female_spinal_4w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.083333	female	spinal cord		healthy																		
+MSV000090191	neg_mouse_female_spinal_12w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.25	female	spinal cord		healthy																		
+MSV000090192	neg_mouse_female_spinal_25w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.520833	female	spinal cord		healthy																		
+MSV000090193	neg_mouse_female_spinal_48w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1	female	spinal cord		healthy																		
+MSV000090194	neg_mouse_female_spinal_78w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1.625	female	spinal cord		healthy																		
+MSV000090195	neg_mouse_female_spinal_4w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.083333	female	spinal cord		healthy																		
+MSV000090196	neg_mouse_female_spinal_12w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.25	female	spinal cord		healthy																		
+MSV000090197	neg_mouse_female_spinal_25w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			0.520833	female	spinal cord		healthy																		
+MSV000090198	neg_mouse_female_spinal_48w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1	female	spinal cord		healthy																		
+MSV000090199	neg_mouse_female_spinal_78w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (negative)			1.625	female	spinal cord		healthy																		
+MSV000090200	pos_mouse_female_brain_4w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.083333	female	brain		healthy																		
+MSV000090201	pos_mouse_female_brain_12w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.25	female	brain		healthy																		
+MSV000090202	pos_mouse_female_brain_25w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.520833	female	brain		healthy																		
+MSV000090203	pos_mouse_female_brain_48w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1	female	brain		healthy																		
+MSV000090204	pos_mouse_female_brain_78w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1.625	female	brain		healthy																		
+MSV000090205	pos_mouse_female_brain_4w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.083333	female	brain		healthy																		
+MSV000090206	pos_mouse_female_brain_12w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.25	female	brain		healthy																		
+MSV000090207	pos_mouse_female_brain_25w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.520833	female	brain		healthy																		
+MSV000090208	pos_mouse_female_brain_48w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1	female	brain		healthy																		
+MSV000090209	pos_mouse_female_brain_78w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1.625	female	brain		healthy																		
+MSV000090210	pos_mouse_female_brain_4w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.083333	female	brain		healthy																		
+MSV000090211	pos_mouse_female_brain_12w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.25	female	brain		healthy																		
+MSV000090212	pos_mouse_female_brain_25w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.520833	female	brain		healthy																		
+MSV000090213	pos_mouse_female_brain_48w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1	female	brain		healthy																		
+MSV000090214	pos_mouse_female_brain_78w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1.625	female	brain		healthy																		
+MSV000090215	pos_mouse_female_brain_4w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.083333	female	brain		healthy																		
+MSV000090216	pos_mouse_female_brain_12w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.25	female	brain		healthy																		
+MSV000090217	pos_mouse_female_brain_25w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.520833	female	brain		healthy																		
+MSV000090218	pos_mouse_female_brain_48w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1	female	brain		healthy																		
+MSV000090219	pos_mouse_female_brain_78w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1.625	female	brain		healthy																		
+MSV000090220	pos_mouse_female_spinal_4w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.083333	female	spinal cord		healthy																		
+MSV000090221	pos_mouse_female_spinal_12w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.25	female	spinal cord		healthy																		
+MSV000090222	pos_mouse_female_spinal_25w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.520833	female	spinal cord		healthy																		
+MSV000090223	pos_mouse_female_spinal_48w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1	female	spinal cord		healthy																		
+MSV000090224	pos_mouse_female_spinal_78w_1.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1.625	female	spinal cord		healthy																		
+MSV000090225	pos_mouse_female_spinal_4w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.083333	female	spinal cord		healthy																		
+MSV000090226	pos_mouse_female_spinal_12w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.25	female	spinal cord		healthy																		
+MSV000090227	pos_mouse_female_spinal_25w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.520833	female	spinal cord		healthy																		
+MSV000090228	pos_mouse_female_spinal_48w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1	female	spinal cord		healthy																		
+MSV000090229	pos_mouse_female_spinal_78w_2.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1.625	female	spinal cord		healthy																		
+MSV000090230	pos_mouse_female_spinal_4w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.083333	female	spinal cord		healthy																		
+MSV000090231	pos_mouse_female_spinal_12w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.25	female	spinal cord		healthy																		
+MSV000090232	pos_mouse_female_spinal_25w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.520833	female	spinal cord		healthy																		
+MSV000090233	pos_mouse_female_spinal_48w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1	female	spinal cord		healthy																		
+MSV000090234	pos_mouse_female_spinal_78w_3.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1.625	female	spinal cord		healthy																		
+MSV000090235	pos_mouse_female_spinal_4w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.083333	female	spinal cord		healthy																		
+MSV000090236	pos_mouse_female_spinal_12w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.25	female	spinal cord		healthy																		
+MSV000090237	pos_mouse_female_spinal_25w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			0.520833	female	spinal cord		healthy																		
+MSV000090238	pos_mouse_female_spinal_48w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1	female	spinal cord		healthy																		
+MSV000090239	pos_mouse_female_spinal_78w_4.mzML	animal	tissue	10090|Mus musculus						electrospray ionization (positive)			1.625	female	spinal cord		healthy																		
