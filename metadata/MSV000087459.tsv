@@ -1,0 +1,20 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	Exposure	YearOfAnalysis	MassSpectrometer	IonizationSourceAndPolarity	Sample_Name	Group
+MSV000087459	20210209_blk_1_pos.mzML	blank_analysis	blank_analysis	missing value	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	BLANK_1	BLK
+MSV000087459	20210209_ctr_1_pos.mzML	culture_mammalian	culture_mammalian	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	CONTROL_1	CTR
+MSV000087459	20210209_ctr_2_pos.mzML	culture_mammalian	culture_mammalian	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	CONTROL_2	CTR
+MSV000087459	20210209_ctr_3_pos.mzML	culture_mammalian	culture_mammalian	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	CONTROL_3	CTR
+MSV000087459	20210209_erl_1_pos.mzML	molecular_standards	defined_standards	missing value	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	ERLOTINIB_1	STD
+MSV000087459	20210209_med_1_pos.mzML	blank_culturemedia	blank_culturemedia	missing value	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	MEDIUM_1	BLK
+MSV000087459	20210209_met_1_pos.mzML	molecular_standards	defined_standards	missing value	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	METFORMIN_1	STD
+MSV000087459	20210209_odc_1_pos.mzML	culture_mammalian	culture_mammalian	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	ODC_1	ODC
+MSV000087459	20210209_odc_2_pos.mzML	culture_mammalian	culture_mammalian	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	ODC_2	ODC
+MSV000087459	20210209_odc_3_pos.mzML	culture_mammalian	culture_mammalian	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	ODC_3	ODC
+MSV000087459	20210209_par_1_pos.mzML	molecular_standards	defined_standards	missing value	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	PARTHENOLIDE_1	STD
+MSV000087459	20210209_qc_1_pos.mzML	pool_QC	pool_QC	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	QC_1	QC
+MSV000087459	20210209_qc_2_pos.mzML	pool_QC	pool_QC	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	QC_2	QC
+MSV000087459	20210209_qc_3_pos.mzML	pool_QC	pool_QC	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	QC_3	QC
+MSV000087459	20210209_qc_4_pos.mzML	pool_QC	pool_QC	9606|Homo sapiens	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	QC_4	QC
+MSV000087459	20210209_rap_1_pos.mzML	molecular_standards	defined_standards	missing value	missing value	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	RAPTA_1	STD
+MSV000087459	20210209_sun_1_pos.mzML	culture_mammalian	culture_mammalian	9606|Homo sapiens	exposure to sunitinib	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	SUNITINIB_1	SUN
+MSV000087459	20210209_sun_2_pos.mzML	culture_mammalian	culture_mammalian	9606|Homo sapiens	exposure to sunitinib	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	SUNITINIB_2	SUN
+MSV000087459	20210209_sun_3_pos.mzML	culture_mammalian	culture_mammalian	9606|Homo sapiens	exposure to sunitinib	2021	Q Exactive|MS:1001911	electrospray ionization (positive)	SUNITINIB_3	SUN

@@ -1,0 +1,14 @@
+MassiveID	filename	SampleType	SampleTypeSub1	MassSpectrometer	IonizationSourceAndPolarity	ENVOEnvironmentMaterial	Sample	Sample_Type	Time_Point
+MSV000090181	DOM_Interlab-LCMS_Lab15_A5M_Pos_MS2_rep1.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	A5M	Sample	5
+MSV000090181	DOM_Interlab-LCMS_Lab15_A5M_Pos_MS2_rep2.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	A5M	Sample	5
+MSV000090181	DOM_Interlab-LCMS_Lab15_A5M_Pos_MS2_rep3.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	A5M	Sample	5
+MSV000090181	DOM_Interlab-LCMS_Lab15_A15M_Pos_MS2_rep1.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	A15M	Sample	15
+MSV000090181	DOM_Interlab-LCMS_Lab15_A15M_Pos_MS2_rep2.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	A15M	Sample	15
+MSV000090181	DOM_Interlab-LCMS_Lab15_A15M_Pos_MS2_rep3.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	A15M	Sample	15
+MSV000090181	DOM_Interlab-LCMS_Lab15_A45M_Pos_MS2_rep1.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	A45M	Sample	45
+MSV000090181	DOM_Interlab-LCMS_Lab15_A45M_Pos_MS2_rep2.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	A45M	Sample	45
+MSV000090181	DOM_Interlab-LCMS_Lab15_A45M_Pos_MS2_rep3.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	A45M	Sample	45
+MSV000090181	DOM_Interlab-LCMS_Lab15_M_Pos_MS2_rep1.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	M	Sample	0
+MSV000090181	DOM_Interlab-LCMS_Lab15_M_Pos_MS2_rep2.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	M	Sample	0
+MSV000090181	DOM_Interlab-LCMS_Lab15_M_Pos_MS2_rep3.mzML	environmental	dissolvedorganicmatter_water_saline	Q Exactive HF|MS:1002523	electrospray ionization (positive)	sea water	M	Sample	0
+MSV000090181	DOM_Interlab-LCMS_Lab15_PPL_Pos_MS2.mzML	blank_extraction	blank_extraction	Q Exactive HF|MS:1002523	electrospray ionization (positive)	missing value	PPL	Process_Blank	missing value

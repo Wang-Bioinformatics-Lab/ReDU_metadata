@@ -1,0 +1,34 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	SampleOrigin
+MSV000087365	A2.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtA
+MSV000087365	A3.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtA
+MSV000087365	A4.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtA
+MSV000087365	B2.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtB
+MSV000087365	B3.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtB
+MSV000087365	B4.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtB
+MSV000087365	C2.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtC
+MSV000087365	C3.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtC
+MSV000087365	C4.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtC
+MSV000087365	D2.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtD
+MSV000087365	D3.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtD
+MSV000087365	D4.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtD
+MSV000087365	E2.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtE
+MSV000087365	E3.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtE
+MSV000087365	E4.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtE
+MSV000087365	HSTA2.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	HSTA
+MSV000087365	HSTA3.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	HSTA
+MSV000087365	HSTA4.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	HSTA
+MSV000087365	KO2.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtKO
+MSV000087365	KO3.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtKO
+MSV000087365	KO4.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	SirtKO
+MSV000087365	MMG2.mzML	blank_analysis	blank_analysis	missing value	missing value	Blank
+MSV000087365	MMG3.mzML	blank_analysis	blank_analysis	missing value	missing value	Blank
+MSV000087365	MMG4.mzML	blank_analysis	blank_analysis	missing value	missing value	Blank
+MSV000087365	WT2.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	Wild-Type
+MSV000087365	WT3.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	Wild-Type
+MSV000087365	WT4.mzML	culture_fungal	culture_fungal	746128|Aspergillus fumigatus	missing value	Wild-Type
+MSV000087365	BL2.mzML	blank_analysis	blank_analysis	missing value	missing value	Blank
+MSV000087365	BL3.mzML	blank_analysis	blank_analysis	missing value	missing value	Blank
+MSV000087365	BL4.mzML	blank_analysis	blank_analysis	missing value	missing value	Blank
+MSV000087365	QC2.mzML	pool_QC	pool_QC	missing value	missing value	missing value
+MSV000087365	QC3.mzML	pool_QC	pool_QC	missing value	missing value	missing value
+MSV000087365	QC4.mzML	pool_QC	pool_QC	missing value	missing value	missing value

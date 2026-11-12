@@ -1,0 +1,53 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	SubjectIdentifierAsRecorded	UBERONBodyPartName	DOIDCommonName	table_filename	ATTRIBUTE_patient	ATTRIBUTE_diseasestate	ATTRIBUTE_countingday	sample_kind
+MSV000082667	fox.E355.sputum.1_BA12_01_4791.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_E355_sputum_1_RA12_01_20595.mzXML	fox	E	355	sputum
+MSV000082667	fox.U181.sputum.1_BA4_01_4784.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U181_sputum_1_RA4_01_20588.mzXML	fox	U	181	sputum
+MSV000082667	fox.U181.sputum.2_BA5_01_4785.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U181_sputum_2_RA5_01_20589.mzXML	fox	U	181	sputum
+MSV000082667	fox.U181.sputum.3_BA6_01_4786.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U181_sputum_3_RA6_01_20590.mzXML	fox	U	181	sputum
+MSV000082667	fox.U233.sputum.1_BA1_01_4781.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U233_sputum_1_RA1_01_20585.mzXML	fox	U	233	sputum
+MSV000082667	fox.U233.sputum.2_BA2_01_4782.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U233_sputum_2_RA2_01_20586.mzXML	fox	U	233	sputum
+MSV000082667	fox.U233.sputum.3_BA3_01_4783.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U233_sputum_3_RA3_01_20587.mzXML	fox	U	233	sputum
+MSV000082667	fox.U282.sputum.1_BA7_01_4787.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U282_sputum_1_RA7_01_20591.mzXML	fox	U	282	sputum
+MSV000082667	fox.U282.sputum.2_BA8_01_4788.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U282_sputum_2_RA8_01_20592.mzXML	fox	U	282	sputum
+MSV000082667	fox.U282.sputum.3_BA9_01_4789.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U282_sputum_3_RA9_01_20593.mzXML	fox	U	282	sputum
+MSV000082667	fox.U321.sputum.1_BB1_01_4793.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U321_sputum_1_RB1_01_20596.mzXML	fox	U	321	sputum
+MSV000082667	fox.U321.sputum.2_BB2_01_4794.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U321_sputum_2_RB2_01_20597.mzXML	fox	U	321	sputum
+MSV000082667	fox.U321.sputum.3_BB3_01_4795.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U321_sputum_3_RB3_01_20598.mzXML	fox	U	321	sputum
+MSV000082667	fox.U323.sputum.1_BB4_01_4796.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U323_sputum_1_RB4_01_20599.mzXML	fox	U	323	sputum
+MSV000082667	fox.U323.sputum.2_BB5_01_4797.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U323_sputum_2_RB5_01_20600.mzXML	fox	U	323	sputum
+MSV000082667	fox.U323.sputum.3_BB6_01_4798.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U323_sputum_3_RB6_01_20601.mzXML	fox	U	323	sputum
+MSV000082667	fox.U325.sputum.1_BB7_01_4799.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U325_sputum_1_RB7_01_20602.mzXML	fox	U	325	sputum
+MSV000082667	fox.U325.sputum.2_BB8_01_4800.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U325_sputum_2_RB8_01_20603.mzXML	fox	U	325	sputum
+MSV000082667	fox.U325.sputum.3_BB9_01_4801.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U325_sputum_3_RB9_01_20604.mzXML	fox	U	325	sputum
+MSV000082667	fox.U327.sputum.1_BC1_01_4805.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U327_sputum_1_RC1_01_20607.mzXML	fox	U	327	sputum
+MSV000082667	fox.U327.sputum.2_BC2_01_4806.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U327_sputum_2_RC2_01_20608.mzXML	fox	U	327	sputum
+MSV000082667	fox.U327.sputum.3_BC3_01_4807.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U327_sputum_3_RC3_01_20609.mzXML	fox	U	327	sputum
+MSV000082667	fox.U330.sputum.1_BC4_01_4808.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U330_sputum_1_RC4_01_20610.mzXML	fox	U	330	sputum
+MSV000082667	fox.U330.sputum.2_BC5_01_4809.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U330_sputum_2_RC5_01_20611.mzXML	fox	U	330	sputum
+MSV000082667	fox.U330.sputum.3_BC6_01_4810.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U330_sputum_3_RC6_01_20612.mzXML	fox	U	330	sputum
+MSV000082667	fox.U331.sputum.1_BC7_01_4811.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U331_sputum_1_RC7_01_20613.mzXML	fox	U	331	sputum
+MSV000082667	fox.U331.sputum.2_BC8_01_4812.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U331_sputum_2_RC8_01_20614.mzXML	fox	U	331	sputum
+MSV000082667	fox.U331.sputum.3_BC9_01_4813.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U331_sputum_3_RC9_01_20615.mzXML	fox	U	331	sputum
+MSV000082667	fox.U333.sputum.1_BD1_01_4817.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U333_sputum_1_RD1_01_20618.mzXML	fox	U	333	sputum
+MSV000082667	fox.U333.sputum.2_BD2_01_4818.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U333_sputum_2_RD2_01_20619.mzXML	fox	U	333	sputum
+MSV000082667	fox.U333.sputum.3_BD3_01_4819.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U333_sputum_3_RD3_01_20620.mzXML	fox	U	333	sputum
+MSV000082667	fox.U334.sputum.1_BD4_01_4820.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U334_sputum_1_RD4_01_20621.mzXML	fox	U	334	sputum
+MSV000082667	fox.U334.sputum.2_BD5_01_4821.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U334_sputum_2_RD5_01_20622.mzXML	fox	U	334	sputum
+MSV000082667	fox.U334.sputum.3_BD6_01_4822.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U334_sputum_3_RD6_01_20623.mzXML	fox	U	334	sputum
+MSV000082667	fox.U335.sputum.1_BD7_01_4823.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U335_sputum_1_RD7_01_20624.mzXML	fox	U	335	sputum
+MSV000082667	fox.U335.sputum.2_BD8_01_4824.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U335_sputum_2_RD8_01_20625.mzXML	fox	U	335	sputum
+MSV000082667	fox.U335.sputum.3_BD9_01_4825.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U335_sputum_3_RD9_01_20626.mzXML	fox	U	335	sputum
+MSV000082667	fox.U338.sputum.1_BE1_01_4828.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U338_sputum_1_RE1_01_20628.mzXML	fox	U	338	sputum
+MSV000082667	fox.U338.sputum.2_BE2_01_4829.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U338_sputum_2_RE2_01_20629.mzXML	fox	U	338	sputum
+MSV000082667	fox.U338.sputum.3_BE3_01_4830.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U338_sputum_3_RE3_01_20630.mzXML	fox	U	338	sputum
+MSV000082667	fox.U340.sputum.1_BE4_01_4831.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U340_sputum_1_RE4_01_20631.mzXML	fox	U	340	sputum
+MSV000082667	fox.U340.sputum.2_BE5_01_4832.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U340_sputum_2_RE5_01_20632.mzXML	fox	U	340	sputum
+MSV000082667	fox.U340.sputum.3_BE6_01_4833.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U340_sputum_3_RE6_01_20633.mzXML	fox	U	340	sputum
+MSV000082667	fox.U342.sputum.1_BE7_01_4834.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U342_sputum_1_RE7_01_20634.mzXML	fox	U	342	sputum
+MSV000082667	fox.U342.sputum.2_BE8_01_4835.mzXML	animal	biofluid	9606|Homo sapiens	fox	sputum	cystic fibrosis	fox_U342_sputum_2_RE8_01_20635.mzXML	fox	U	342	sputum
+MSV000082667	No Sample Blank_RA10_01_20594.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	No Sample Blank_RA10_01_20594.mzXML	No Sample Blank	No Sample Blank	No Sample Blank	No Sample Blank
+MSV000082667	No Sample Blank_RB10_01_20605.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	No Sample Blank_RB10_01_20605.mzXML	No Sample Blank	No Sample Blank	No Sample Blank	No Sample Blank
+MSV000082667	No Sample Blank_RC10_01_20616.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	No Sample Blank_RC10_01_20616.mzXML	No Sample Blank	No Sample Blank	No Sample Blank	No Sample Blank
+MSV000082667	QC_RH12_01_20583.mzXML	pool_QC	pool_QC	missing value	missing value	missing value	missing value	QC_RH12_01_20583.mzXML	QC	QC	QC	QC
+MSV000082667	QC_RH12_01_20636.mzXML	pool_QC	pool_QC	missing value	missing value	missing value	missing value	QC_RH12_01_20636.mzXML	QC	QC	QC	QC
+MSV000082667	Swab Blank_RD10_01_20627.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	Swab Blank_RD10_01_20627.mzXML	Swab Blank	Swab Blank	Swab Blank	Swab Blank
+MSV000082667	blank injection_RG10_01_20581.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	blank injection_RG10_01_20581.mzXML	blank injection	blank injection	blank injection	blank injection

@@ -1,0 +1,135 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	UBERONBodyPartName	COORDINATE_X	COORDINATE_Y	COORDINATE_Z	COORDINATE_radius	Well	point	Tissue
+MSV000098205	Blank112-MeOH.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank128-MeOH.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank16-MeOH.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank1_NI.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank32-MeOH.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank48-MeOH.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank64-MeOH.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank80-MeOH.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank8_NI.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank96-MeOH.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank_PostQC1.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Blank_PostQC2.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	MeOH_Neg.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	Pt3D-0.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.092341028	2.297934771	0.8199065329999999	4.0	P5-A1	0.0	Stipe
+MSV000098205	Pt3D-1.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.161903933	2.9613993169999997	0.696469426	4.0	P5-B1	1.0	FertilePortion
+MSV000098205	Pt3D-10.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.23210990399999998	1.405977249	0.563679159	4.0	P5-C2	10.0	Rhizomorphs
+MSV000098205	Pt3D-100.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.168729305	2.3496417999999997	0.24057038100000003	4.0	P6-B6	100.0	Stipe
+MSV000098205	Pt3D-101.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.070805699	2.24021101	0.151155159	4.0	P6-C6	101.0	Stipe
+MSV000098205	Pt3D-102.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.050826404000000006	2.018495798	0.126794353	4.0	P6-D6	102.0	Stipe
+MSV000098205	Pt3D-103.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.053459827	1.8446131940000001	0.129174396	4.0	P6-E6	103.0	Rhizomorphs
+MSV000098205	Pt3D-104.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.013477063999999999	1.6500079630000002	0.22608321899999997	4.0	P6-F6	104.0	Rhizomorphs
+MSV000098205	Pt3D-105.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.039082516	1.5867906809999999	0.022925716000000002	4.0	P6-G6	105.0	Rhizomorphs
+MSV000098205	Pt3D-106.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.089781485	1.372990251	0.114516295	4.0	P6-H6	106.0	Rhizomorphs
+MSV000098205	Pt3D-107.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.119934082	1.074243307	0.117154047	4.0	P6-A7	107.0	Rhizomorphs
+MSV000098205	Pt3D-108.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.14979018300000002	0.91300416	0.128828153	4.0	P6-B7	108.0	Rhizomorphs
+MSV000098205	Pt3D-109.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.14915914800000002	0.73201102	0.098635294	4.0	P6-C7	109.0	Rhizomorphs
+MSV000098205	Pt3D-11.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.138070688	1.393777728	0.766987503	4.0	P5-D2	11.0	Rhizomorphs
+MSV000098205	Pt3D-110.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.14483964400000002	0.537880361	0.083407797	4.0	P6-D7	110.0	Rhizomorphs
+MSV000098205	Pt3D-111.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.001950162	0.313322365	-0.06512139	4.0	P6-E7	111.0	LarvaCuticle
+MSV000098205	Pt3D-112.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.020345606000000002	0.333752573	-0.241253644	4.0	P6-F7	112.0	LarvaCuticle
+MSV000098205	Pt3D-113.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	-0.01752631	0.356930465	-0.43092736600000003	4.0	P6-G7	113.0	LarvaCuticle
+MSV000098205	Pt3D-114.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.074329823	0.420833856	-0.6256955270000001	4.0	P6-H7	114.0	LarvaCuticle
+MSV000098205	Pt3D-115.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.072524481	0.551697731	-0.797130108	4.0	P6-A8	115.0	LarvaCuticle
+MSV000098205	Pt3D-116.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.005450455999999999	0.40244469	-0.85671699	4.0	P6-B8	116.0	LarvaCuticle
+MSV000098205	Pt3D-117.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.126147702	0.38809418700000003	0.156461239	4.0	P6-C8	117.0	SmoothHyphae
+MSV000098205	Pt3D-12.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.143866628	1.159383893	0.8130956290000001	4.0	P5-E2	12.0	Rhizomorphs
+MSV000098205	Pt3D-13.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.095749758	0.991950095	0.405679345	4.0	P5-F2	13.0	Rhizomorphs
+MSV000098205	Pt3D-14.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.09978677300000001	0.970597088	0.804629922	4.0	P5-G2	14.0	Rhizomorphs
+MSV000098205	Pt3D-15.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.085926667	0.859018266	0.61989665	4.0	P5-H2	15.0	Rhizomorphs
+MSV000098205	Pt3D-16.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.059823491	0.8051060440000001	0.7866497640000001	4.0	P5-A3	16.0	Rhizomorphs
+MSV000098205	Pt3D-17.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.116966851	0.65726018	0.543305695	4.0	P5-B3	17.0	SmoothHyphae
+MSV000098205	Pt3D-18.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.059897091	0.589924455	0.7520042659999999	4.0	P5-C3	18.0	Rhizomorphs
+MSV000098205	Pt3D-19.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.161297515	0.869217336	0.327515244	4.0	P5-D3	19.0	Rhizomorphs
+MSV000098205	Pt3D-2.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.06009708	2.8182492260000003	0.725328922	4.0	P5-C1	2.0	FertilePortion
+MSV000098205	Pt3D-20.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	exoskeleton	0.17300351	0.443226248	0.630615234	4.0	P5-E3	20.0	Exoskeleton
+MSV000098205	Pt3D-21.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.229905665	0.5092580320000001	0.450553328	4.0	P5-F3	21.0	SmoothHyphae-Endosclerotium
+MSV000098205	Pt3D-22.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.12408041199999999	0.494577825	0.323158562	4.0	P5-G3	22.0	LarvaCuticle
+MSV000098205	Pt3D-23.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.247247905	0.262917548	0.541126013	4.0	P5-H3	23.0	SmoothHyphae
+MSV000098205	Pt3D-24.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.217417836	0.359660417	0.326341957	4.0	P5-A4	24.0	Endosclerotium
+MSV000098205	Pt3D-25.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.274812579	0.156247467	0.356140554	4.0	P5-B4	25.0	LarvaCuticle
+MSV000098205	Pt3D-26.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.069684841	0.496670306	0.119921573	4.0	P5-C4	26.0	Rhizomorphs
+MSV000098205	Pt3D-27.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.259892315	0.096352749	0.15588463800000002	4.0	P5-D4	27.0	LarvaCuticle
+MSV000098205	Pt3D-28.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.26227611300000003	0.216980129	-0.0016811670000000001	4.0	P5-E4	28.0	Endosclerotium
+MSV000098205	Pt3D-29.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.247273877	0.055546715999999996	-0.099828735	4.0	P5-F4	29.0	LarvaCuticle
+MSV000098205	Pt3D-3.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.034513168	2.6984095569999997	0.739957392	4.0	P5-D1	3.0	Stipe
+MSV000098205	Pt3D-30.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.26615572	0.22338831399999998	-0.221472874	4.0	P5-G4	30.0	Endosclerotium
+MSV000098205	Pt3D-31.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.251030326	0.07365258	-0.319477648	4.0	P5-H4	31.0	LarvaCuticle
+MSV000098205	Pt3D-32.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.254076749	0.23386947800000002	-0.39994645100000004	4.0	P5-A5	32.0	Endosclerotium
+MSV000098205	Pt3D-33.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.23501786600000002	0.127110943	-0.508520365	4.0	P5-B5	33.0	LarvaCuticle
+MSV000098205	Pt3D-34.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.22806283800000002	0.282468438	-0.594101369	4.0	P5-C5	34.0	Endosclerotium
+MSV000098205	Pt3D-35.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.196094871	0.231578067	-0.763052046	4.0	P5-D5	35.0	LarvaCuticle
+MSV000098205	Pt3D-36.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.25462532	0.403466046	-0.783287525	4.0	P5-E5	36.0	Endosclerotium
+MSV000098205	Pt3D-37.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.179897234	0.42676073299999995	-0.8900179859999999	4.0	P5-F5	37.0	LarvaCuticle
+MSV000098205	Pt3D-38.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.20376065399999999	0.546773732	-0.8030280470000001	4.0	P5-G5	38.0	LarvaCuticle
+MSV000098205	Pt3D-39.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.1893747	0.41693723200000005	-0.645957887	4.0	P5-H5	39.0	LarvaCuticle
+MSV000098205	Pt3D-4.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.019055469	2.59004426	0.7743631009999999	4.0	P5-E1	4.0	Stipe
+MSV000098205	Pt3D-40.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.165148556	0.364259809	-0.493309289	4.0	P5-A6	40.0	LarvaCuticle
+MSV000098205	Pt3D-41.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.167245328	0.901665747	0.158823729	4.0	P5-B6	41.0	Rhizomorphs
+MSV000098205	Pt3D-42.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.19523349399999998	0.33236029699999997	-0.312385947	4.0	P5-C6	42.0	LarvaCuticle
+MSV000098205	Pt3D-43.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.197554544	0.31559974	-0.106715061	4.0	P5-D6	43.0	LarvaCuticle
+MSV000098205	Pt3D-44.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	0.123305902	0.329430342	0.08598811199999999	4.0	P5-E6	44.0	LarvaCuticle
+MSV000098205	Pt3D-45.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.143612996	1.065898061	-0.168644249	4.0	P5-F6	45.0	Rhizomorphs
+MSV000098205	Pt3D-46.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.121721514	1.08999157	0.19456400000000001	4.0	P5-G6	46.0	Rhizomorphs
+MSV000098205	Pt3D-47.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.112528719	1.405958772	0.0058218340000000006	4.0	P5-H6	47.0	Rhizomorphs
+MSV000098205	Pt3D-48.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.139501035	1.34168601	0.20359452100000003	4.0	P5-A7	48.0	Rhizomorphs
+MSV000098205	Pt3D-49.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.128903225	1.5619418619999998	0.054910235	4.0	P5-B7	49.0	Rhizomorphs
+MSV000098205	Pt3D-5.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.067775734	2.472428083	0.806343913	4.0	P5-F1	5.0	Stipe
+MSV000098205	Pt3D-50.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.166429266	1.6044847969999998	0.250448078	4.0	P5-C7	50.0	Rhizomorphs
+MSV000098205	Pt3D-51.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.12414582800000001	1.7921441790000001	0.13536833199999998	4.0	P5-D7	51.0	Rhizomorphs
+MSV000098205	Pt3D-52.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.075256504	2.026850462	0.137143344	4.0	P5-E7	52.0	Stipe
+MSV000098205	Pt3D-53.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.061645687000000005	2.2004187109999997	0.18431522	4.0	P5-F7	53.0	Stipe
+MSV000098205	Pt3D-54.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.05906634	2.4407522680000002	0.19549115	4.0	P5-G7	54.0	Stipe
+MSV000098205	Pt3D-55.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.115725741	2.629339218	0.174001068	4.0	P5-H7	55.0	Stipe
+MSV000098205	Pt3D-56.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.14849709	2.815474987	0.144408241	4.0	P5-A8	56.0	FertilePortion
+MSV000098205	Pt3D-57.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.129734486	3.0108249189999996	0.148086622	4.0	P5-B8	57.0	FertilePortion
+MSV000098205	Pt3D-58.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.138908491	2.720103025	0.28157106	4.0	P5-C8	58.0	FertilePortion
+MSV000098205	Pt3D-59.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.180947825	2.86519146	0.37380394299999997	4.0	P6-A1	59.0	FertilePortion
+MSV000098205	Pt3D-6.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.095843673	2.143187046	0.786540389	4.0	P5-G1	6.0	Stipe
+MSV000098205	Pt3D-60.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.180180043	3.0144221780000002	0.381735027	4.0	P6-B1	60.0	FertilePortion
+MSV000098205	Pt3D-61.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.136617035	2.578171015	0.302845925	4.0	P6-C1	61.0	Stipe
+MSV000098205	Pt3D-62.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.152844191	0.7396308779999999	0.349203676	4.0	P6-D1	62.0	Rhizomorphs
+MSV000098205	Pt3D-63.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	-0.004610746	0.286652863	-0.829895794	4.0	P6-E1	63.0	LarvaCuticle
+MSV000098205	Pt3D-64.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.089956045	0.315569341	-0.7096430659999999	4.0	P6-F1	64.0	Endosclerotium
+MSV000098205	Pt3D-65.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	-0.078396276	0.186671063	-0.559089065	4.0	P6-G1	65.0	LarvaCuticle
+MSV000098205	Pt3D-66.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.093712144	0.269281626	-0.38453123	4.0	P6-H1	66.0	Endosclerotium
+MSV000098205	Pt3D-67.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	-0.11836730699999999	0.155073538	-0.31568414	4.0	P6-A2	67.0	LarvaCuticle
+MSV000098205	Pt3D-68.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.08515553199999999	0.262213677	-0.211970225	4.0	P6-B2	68.0	Endosclerotium
+MSV000098205	Pt3D-69.mzML	animal	insect	7041|Coleoptera	6545 Q-TOF LC/MS|MS:1002791	insect embryonic/larval cuticle	-0.042636689000000005	0.081954204	-0.08397445099999999	4.0	P6-C2	69.0	LarvaCuticle
+MSV000098205	Pt3D-7.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.099925734	1.949376941	0.729413152	4.0	P5-H1	7.0	Stipe
+MSV000098205	Pt3D-70.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.11485941699999999	0.22626622	0.022865487	4.0	P6-D2	70.0	Endosclerotium
+MSV000098205	Pt3D-71.mzML	missing value	missing value	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.131759301	0.18838539699999998	0.199131757	4.0	P6-E2	71.0	LarvaCuticle-SmoothHyphae
+MSV000098205	Pt3D-72.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.13668598199999998	0.357036859	0.36665850899999997	4.0	P6-F2	72.0	SmoothHyphae
+MSV000098205	Pt3D-73.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.08526296900000001	0.243499413	0.551070988	4.0	P6-G2	73.0	SmoothHyphae
+MSV000098205	Pt3D-74.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.195658416	0.5539390439999999	0.31858444199999997	4.0	P6-H2	74.0	Rhizomorphs
+MSV000098205	Pt3D-75.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.184668854	0.727460682	0.30058378	4.0	P6-A3	75.0	Rhizomorphs
+MSV000098205	Pt3D-76.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.09285748	0.43681907700000006	0.634919405	4.0	P6-B3	76.0	Rhizomorphs
+MSV000098205	Pt3D-77.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.11269036699999999	0.591688097	0.5318584439999999	4.0	P6-C3	77.0	Rhizomorphs
+MSV000098205	Pt3D-78.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.042583812	0.697826803	0.7417280079999999	4.0	P6-D3	78.0	Rhizomorphs
+MSV000098205	Pt3D-79.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.144815609	0.736951411	0.605782568	4.0	P6-E3	79.0	Rhizomorphs
+MSV000098205	Pt3D-8.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.10166999	1.766559362	0.689752758	4.0	P5-A2	8.0	Rhizomorphs
+MSV000098205	Pt3D-80.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.15641407699999998	0.917207062	0.553765595	4.0	P6-F3	80.0	Rhizomorphs
+MSV000098205	Pt3D-81.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.031983063	1.01026845	0.7776621579999999	4.0	P6-G3	81.0	Rhizomorphs
+MSV000098205	Pt3D-82.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.12240909800000001	1.0385177140000001	0.356504589	4.0	P6-H3	82.0	Rhizomorphs
+MSV000098205	Pt3D-83.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.119582668	1.3797500130000002	0.6219301220000001	4.0	P6-A4	83.0	Rhizomorphs
+MSV000098205	Pt3D-84.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.009488053	1.496566176	0.7331985240000001	4.0	P6-B4	84.0	Rhizomorphs
+MSV000098205	Pt3D-85.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.008003399999999999	1.711499214	0.7024918790000001	4.0	P6-C4	85.0	Rhizomorphs
+MSV000098205	Pt3D-86.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.0036290190000000003	1.906492352	0.74129349	4.0	P6-D4	86.0	Stipe
+MSV000098205	Pt3D-87.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.007968434	2.100923538	0.794131041	4.0	P6-E4	87.0	Stipe
+MSV000098205	Pt3D-88.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.01647046	2.4040501119999997	0.8220366840000001	4.0	P6-F4	88.0	Stipe
+MSV000098205	Pt3D-89.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.07762052900000001	2.595024586	0.780549169	4.0	P6-G4	89.0	Stipe
+MSV000098205	Pt3D-9.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.108958364	1.594652891	0.690159023	4.0	P5-B2	9.0	Rhizomorphs
+MSV000098205	Pt3D-90.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.20909909899999998	2.773597956	0.736790717	4.0	P6-H4	90.0	FertilePortion
+MSV000098205	Pt3D-91.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.300397843	2.9308705330000002	0.71962899	4.0	P6-A5	91.0	FertilePortion
+MSV000098205	Pt3D-92.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.24514602100000002	2.6894009110000003	0.283623815	4.0	P6-B5	92.0	FertilePortion
+MSV000098205	Pt3D-93.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.26350837899999996	2.962434053	0.391959399	4.0	P6-C5	93.0	FertilePortion
+MSV000098205	Pt3D-94.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.238591209	2.834305763	0.23255400399999998	4.0	P6-D5	94.0	FertilePortion
+MSV000098205	Pt3D-95.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.01547999	3.00090456	0.155760452	4.0	P6-E5	95.0	FertilePortion
+MSV000098205	Pt3D-96.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.013945541	2.86298871	0.083443098	4.0	P6-F5	96.0	FertilePortion
+MSV000098205	Pt3D-97.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	0.025162475	2.74265027	0.195686206	4.0	P6-G5	97.0	FertilePortion
+MSV000098205	Pt3D-98.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.18803410199999998	2.499831915	0.283990383	4.0	P6-H5	98.0	Stipe
+MSV000098205	Pt3D-99.mzML	fungi	fungi_insitu	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	-0.002157521	2.478902817	0.195319772	4.0	P6-A6	99.0	Stipe
+MSV000098205	QC-2.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	QC1.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098205	QC2_129.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value

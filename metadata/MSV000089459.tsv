@@ -1,0 +1,49 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	SubjectIdentifierAsRecorded	UBERONBodyPartName	Sample_ID	ATTRIBUTE_SampleType	ATTRIBUTE_CageNo	ATTRIBUTE_EarTagLocation	ATTRIBUTE_BSHStatus	ATTRIBUTE_EnvironmentAirStatus	SampleGroupFreeText
+MSV000089459	1_TR21_N.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR21_N	feces	1_TR21_N	fecal	TR21	N	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	2_TR21_L.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR21_L	feces	2_TR21_L	fecal	TR21	L	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	3_TR21_R.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR21_R	feces	3_TR21_R	fecal	TR21	R	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	4_TR21_B.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR21_B	feces	4_TR21_B	fecal	TR21	B	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	5_TR21_LL.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR21_LL	feces	5_TR21_LL	fecal	TR21	LL	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	6_TR22_N.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR22_N	feces	6_TR22_N	fecal	TR22	N	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	7_TR22_L.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR22_L	feces	7_TR22_L	fecal	TR22	L	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	8_TR22_R.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR22_R	feces	8_TR22_R	fecal	TR22	R	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	9_TR22_B.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR22_B	feces	9_TR22_B	fecal	TR22	B	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	10_TR22_LL.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR22_LL	feces	10_TR22_LL	fecal	TR22	LL	BSH_neg	Air	BSHStatus: BSH_neg; Environment Air Status: Air
+MSV000089459	11_TR23_N.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR23_N	feces	11_TR23_N	fecal	TR23	N	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	12_TR23_L.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR23_L	feces	12_TR23_L	fecal	TR23	L	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	13_TR23_R.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR23_R	feces	13_TR23_R	fecal	TR23	R	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	14_TR23_B.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR23_B	feces	14_TR23_B	fecal	TR23	B	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	15_TR23_LL.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR23_LL	feces	15_TR23_LL	fecal	TR23	LL	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	16_TR24_N.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR24_N	feces	16_TR24_N	fecal	TR24	N	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	17_TR24_L.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR24_L	feces	17_TR24_L	fecal	TR24	L	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	18_TR24_R.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR24_R	feces	18_TR24_R	fecal	TR24	R	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	19_TR24_B.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR24_B	feces	19_TR24_B	fecal	TR24	B	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	20_TR24_LL.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR24_LL	feces	20_TR24_LL	fecal	TR24	LL	BSH_neg	IHC	BSHStatus: BSH_neg; Environment Air Status: IHC
+MSV000089459	21_TR25_N.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR25_N	feces	21_TR25_N	fecal	TR25	N	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	22_TR25_L.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR25_L	feces	22_TR25_L	fecal	TR25	L	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	23_TR25_R.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR25_R	feces	23_TR25_R	fecal	TR25	R	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	24_TR25_B.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR25_B	feces	24_TR25_B	fecal	TR25	B	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	25_TR25_LL.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR25_LL	feces	25_TR25_LL	fecal	TR25	LL	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	26_TR26_N.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR26_N	feces	26_TR26_N	fecal	TR26	N	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	27_TR26_L.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR26_L	feces	27_TR26_L	fecal	TR26	L	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	28_TR26_R.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR26_R	feces	28_TR26_R	fecal	TR26	R	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	29_TR26_B.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR26_B	feces	29_TR26_B	fecal	TR26	B	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	30_TR26_LL.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR26_LL	feces	30_TR26_LL	fecal	TR26	LL	BSH_pos	Air	BSHStatus: BSH_pos; Environment Air Status: Air
+MSV000089459	31_TR27_N.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR27_N	feces	31_TR27_N	fecal	TR27	N	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	32_TR27_L.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR27_L	feces	32_TR27_L	fecal	TR27	L	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	33_TR27_R.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR27_R	feces	33_TR27_R	fecal	TR27	R	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	34_TR27_B.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR27_B	feces	34_TR27_B	fecal	TR27	B	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	35_TR27_LL.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR27_LL	feces	35_TR27_LL	fecal	TR27	LL	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	36_TR28_N.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR28_N	feces	36_TR28_N	fecal	TR28	N	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	37_TR28_L.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR28_L	feces	37_TR28_L	fecal	TR28	L	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	38_TR28_R.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR28_R	feces	38_TR28_R	fecal	TR28	R	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	39_TR28_B.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR28_B	feces	39_TR28_B	fecal	TR28	B	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	40_TR28_LL.mzML	animal	missing value	10090|Mus musculus	Q Exactive|MS:1001911	TR28_LL	feces	40_TR28_LL	fecal	TR28	LL	BSH_pos	IHC	BSHStatus: BSH_pos; Environment Air Status: IHC
+MSV000089459	blank.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089459	blank_E12a.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089459	blank_E12b.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089459	blank_F12a.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089459	blank_F12b.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089459	blank_G12a.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089459	blank_G12b.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089459	blank_H8.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value

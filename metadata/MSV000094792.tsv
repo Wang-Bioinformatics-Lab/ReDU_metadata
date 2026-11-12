@@ -1,0 +1,9 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	Genus	Sample
+MSV000094792	p1.mzML	molecular_standards	defined_standards	missing value	6530A Q-TOF LC/MS|MS:1002786	Standard	Standard
+MSV000094792	Corallium.mzML	animal	marine_coral	142104|Corallium rubrum	6530A Q-TOF LC/MS|MS:1002786	Corallium	Corallium
+MSV000094792	Erythropodium.mzML	animal	marine_coral	86550|Erythropodium caribaeorum	6530A Q-TOF LC/MS|MS:1002786	Erythropodium	Erythropodium
+MSV000094792	Renilla.mzML	animal	marine_coral	6135|Renilla koellikeri	6530A Q-TOF LC/MS|MS:1002786	Renilla	Renilla
+MSV000094792	Dicotella.mzML	animal	marine_coral	767270|Dichotella gemmacea	6530A Q-TOF LC/MS|MS:1002786	Dicotella	Dicotella
+MSV000094792	Briareum.mzML	animal	marine_coral_branching	86543|Briareum asbestinum	6530A Q-TOF LC/MS|MS:1002786	Briareum	branching
+MSV000094792	BriareumC.mzML	animal	marine_coral_encrusting	86543|Briareum asbestinum	6530A Q-TOF LC/MS|MS:1002786	Briareum	encrusting
+MSV000094792	Stylatula.mzML	animal	marine_coral	1214922|Stylatula elongata	6530A Q-TOF LC/MS|MS:1002786	Stylatula	Stylatula

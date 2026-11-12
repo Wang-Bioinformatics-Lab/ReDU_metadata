@@ -1,0 +1,26 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	sample_id	genotype	group	listed_raw_file_name
+ST003376	Alb_1974_1.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1974_1_WT Vehicle	Wild-type	Vehicle	Alb-1974_1.mzXML
+ST003376	Alb_1978_5.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1978_5_WT Vehicle	Wild-type	Vehicle	Alb-1978_5.mzXML
+ST003376	Alb_1983_10.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1983_10_WT Vehicle	Wild-type	Vehicle	Alb-1983_10.mzXML
+ST003376	Alb_1996_23.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1996_23_WT Vehicle	Wild-type	Vehicle	Alb-1996_23.mzXML
+ST003376	Alb_3703_25.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_3703_25_WT Vehicle	Wild-type	Vehicle	Alb-3703_25.mzXML
+ST003376	Alb_1976_3.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1976_3_WT BPA	Wild-type	BPA	Alb-1976_3.mzXML
+ST003376	Alb_1982_9.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1982_9_WT BPA	Wild-type	BPA	Alb-1982_9.mzXML
+ST003376	Alb_1988_15.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1988_15_WT BPA	Wild-type	BPA	Alb-1988_15.mzXML
+ST003376	Alb_1991_18.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1991_18_WT BPA	Wild-type	BPA	Alb-1991_18.mzXML
+ST003376	Alb_1995_22.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1995_22_WT BPA	Wild-type	BPA	Alb-1995_22.mzXML
+ST003376	Alb_1997_24.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1997_24_WT BPA	Wild-type	BPA	Alb-1997_24.mzXML
+ST003376	Alb_1975_2.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1975_2_KO Vehicle	LACLYKO	Vehicle	Alb-1975_2.mzXML
+ST003376	Alb_1979_6.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1979_6_KO Vehicle	LACLYKO	Vehicle	Alb-1979_6.mzXML
+ST003376	Alb_1980_7.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1980_7_KO Vehicle	LACLYKO	Vehicle	Alb-1980_7.mzXML
+ST003376	Alb_1985_12.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1985_12_KO Vehicle	LACLYKO	Vehicle	Alb-1985_12.mzXML
+ST003376	Alb_1987_14.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1987_14_KO Vehicle	LACLYKO	Vehicle	Alb-1987_14.mzXML
+ST003376	Alb_1992_19.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1992_19_KO Vehicle	LACLYKO	Vehicle	Alb-1992_19.mzXML
+ST003376	Alb_1993_20.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1993_20_KO Vehicle	LACLYKO	Vehicle	Alb-1993_20.mzXML
+ST003376	Alb_1977_4.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1977_4_KO BPA	LACLYKO	BPA	Alb-1977_4.mzXML
+ST003376	Alb_1981_8.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1981_8_KO BPA	LACLYKO	BPA	Alb-1981_8.mzXML
+ST003376	Alb_1984_11.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1984_11_KO BPA	LACLYKO	BPA	Alb-1984_11.mzXML
+ST003376	Alb_1986_13.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1986_13_KO BPA	LACLYKO	BPA	Alb-1986_13.mzXML
+ST003376	Alb_1989_16.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1989_16_KO BPA	LACLYKO	BPA	Alb-1989_16.mzXML
+ST003376	Alb_1990_17.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1990_17_KO BPA	LACLYKO	BPA	Alb-1990_17.mzXML
+ST003376	Alb_1994_21.mzXML	animal	tissue	10090|Mus musculus	liver	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C30)	Alb_1994_21_KO BPA	LACLYKO	BPA	Alb-1994_21.mzXML

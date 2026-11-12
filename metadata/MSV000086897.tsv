@@ -1,0 +1,21 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	IonizationSourceAndPolarity	Sample_ID	Genotype
+MSV000086897	Sa_001_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_001	Wild-type
+MSV000086897	Sa_001_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_001	Wild-type
+MSV000086897	Sa_002_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_002	Wild-type
+MSV000086897	Sa_002_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_002	Wild-type
+MSV000086897	Sa_003_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_003	Wild-type
+MSV000086897	Sa_003_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_003	Wild-type
+MSV000086897	Sa_004_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_004	Wild-type
+MSV000086897	Sa_004_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_004	Wild-type
+MSV000086897	Sa_005_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_005	Wild-type
+MSV000086897	Sa_005_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_005	Wild-type
+MSV000086897	Sa_006_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_006	GmMYB176-GmbZIP5-overexpressed
+MSV000086897	Sa_006_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_006	GmMYB176-GmbZIP5-overexpressed
+MSV000086897	Sa_007_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_007	GmMYB176-GmbZIP5-overexpressed
+MSV000086897	Sa_007_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_007	GmMYB176-GmbZIP5-overexpressed
+MSV000086897	Sa_008_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_008	GmMYB176-GmbZIP5-overexpressed
+MSV000086897	Sa_008_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_008	GmMYB176-GmbZIP5-overexpressed
+MSV000086897	Sa_009_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_009	GmMYB176-GmbZIP5-overexpressed
+MSV000086897	Sa_009_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_009	GmMYB176-GmbZIP5-overexpressed
+MSV000086897	Sa_010_pos.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (positive)	Sa_010	GmMYB176-GmbZIP5-overexpressed
+MSV000086897	Sa_010_neg.mzML	plant	plant_angiospermae	3847|Glycine max	root	Q Exactive|MS:1001911	electrospray ionization (negative)	Sa_010	GmMYB176-GmbZIP5-overexpressed

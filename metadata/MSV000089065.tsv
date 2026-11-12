@@ -1,0 +1,112 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	YearOfAnalysis	teeth_position	Smoker_1_2	Tea_1_2	Coffee_1_2	Intrinsic_Extrinsic_stain_I_E
+MSV000089065	A1.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	1	2	E
+MSV000089065	A4.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	1	1	1	E
+MSV000089065	B17.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	1	2	E
+MSV000089065	B19.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	1	2	E
+MSV000089065	B20.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	2	E
+MSV000089065	B36.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	1	1	E
+MSV000089065	B39.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	2	E
+MSV000089065	B41.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	1	1	E
+MSV000089065	B45.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	B48.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	24	1	1	2	E
+MSV000089065	B51.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	1	1	1	E
+MSV000089065	B53.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	B59.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	1	1	E
+MSV000089065	B64.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	26	2	2	2	E
+MSV000089065	B69.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	B73.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	2	E
+MSV000089065	B78.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	2	E
+MSV000089065	B84.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	1	E
+MSV000089065	B100.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	36	2	1	2	E
+MSV000089065	C1.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	1	2	E
+MSV000089065	C3.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	1	2	E
+MSV000089065	C8.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	1	1	E
+MSV000089065	C13.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	1	1	E
+MSV000089065	C15.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	2	2	E
+MSV000089065	C21.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	2	E
+MSV000089065	C24.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	1	1	E
+MSV000089065	C25.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	2	2	E
+MSV000089065	C27.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	26	2	1	2	E
+MSV000089065	C31.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	1	1	E
+MSV000089065	C37.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	C40.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	C72.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	26	1	1	1	E
+MSV000089065	C76.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	2	E
+MSV000089065	C79.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	45	2	2	2	E
+MSV000089065	C91.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	1	E
+MSV000089065	C92.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	1	E
+MSV000089065	C96.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	1	E
+MSV000089065	D6.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	D12.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	1	1	2	E
+MSV000089065	D15.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	1	2	E
+MSV000089065	D18.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	1	1	E
+MSV000089065	D22.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	1	E
+MSV000089065	D24.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	1	1	E
+MSV000089065	D30.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	36	1	1	1	E
+MSV000089065	D36.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	2	E
+MSV000089065	D39.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	2	E
+MSV000089065	D40.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	1	2	E
+MSV000089065	D44.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	1	1	2	E
+MSV000089065	D51.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	1	1	E
+MSV000089065	D52.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	2	E
+MSV000089065	D57.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	2	2	E
+MSV000089065	D58.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	46	2	2	2	E
+MSV000089065	D60.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	D62.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	2	E
+MSV000089065	D64.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	1	E
+MSV000089065	D71.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	47	2	2	1	E
+MSV000089065	D73.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	1	1	E
+MSV000089065	D75.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	1	2	E
+MSV000089065	D79.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	1	1	E
+MSV000089065	D84.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	2	E
+MSV000089065	D87.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	I
+MSV000089065	D90.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	2	E
+MSV000089065	D93.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	I
+MSV000089065	D96.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	1	2	2	E
+MSV000089065	D97.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	1	2	2	E
+MSV000089065	D100.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	1	2	2	E
+MSV000089065	E51.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	2	2	E
+MSV000089065	E53.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	17	2	1	1	E
+MSV000089065	E54.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	1	1	E
+MSV000089065	E58.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	2	I
+MSV000089065	E60.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	1	1	E
+MSV000089065	F52.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	F53.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	2	2	E
+MSV000089065	G13.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	27	2	1	1	E
+MSV000089065	HAP_powder_A1.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089065	I90.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	35	2	2	2	E
+MSV000089065	K25.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	2	1	E
+MSV000089065	K71.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	K90.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	2	1	E
+MSV000089065	M1.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	2	2	2	E
+MSV000089065	M9.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	27	2	2	2	E
+MSV000089065	M19.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	18	1	1	1	E
+MSV000089065	M33.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	1	1	2	E
+MSV000089065	M40.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	1	2	2	E
+MSV000089065	M62.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	28	2	2	2	E
+MSV000089065	M63.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	2	2	E
+MSV000089065	M78.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	1	2	E
+MSV000089065	M79.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	38	2	2	1	E
+MSV000089065	P65.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	48	2	1	2	E
+MSV000089065	White_Tooth_C63.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089065	White_Tooth_P62.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089065	Blank_20220309143156.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	Blank_20220309170146.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	Blank_20220309193142.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	Blank_20220310003140.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	Blank_20220310053139.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	Blank_20220310080137.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	Blank_20220310130143.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	Blank_20220310153144.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220309144700.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220309171648.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220309194644.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220309221641.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220310004641.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220310031643.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220310054641.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220310081639.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220310104641.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220310131646.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value
+MSV000089065	QC_20220310154645.mzML	pool_QC	pool_QC	missing value	missing value	Q Exactive|MS:1001911	2022	missing value	missing value	missing value	missing value	missing value

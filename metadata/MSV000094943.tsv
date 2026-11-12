@@ -1,0 +1,11 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	TYPE	Group
+MSV000094943	Moustafa_A_MSMS2.mzML	culture_fungal	culture_fungal	5052|Aspergillus	6545 Q-TOF LC/MS|MS:1002791	Fungi	A
+MSV000094943	Moustafa_AB_MSMS2.mzML	culture_multiplespecies	culture_multiplespecies	5052|Aspergillus||1386|Bacillus	6545 Q-TOF LC/MS|MS:1002791	Fungi-Bacteria	AB
+MSV000094943	Moustafa_ATB_MSMS2.mzML	culture_multiplespecies	culture_multiplespecies	5052|Aspergillus||5543|Trichoderma||1386|Bacillus	6545 Q-TOF LC/MS|MS:1002791	Fungi-Bacteria-Fungi	ATB
+MSV000094943	Moustafa_AT_MSMS2.mzML	culture_multiplespecies	culture_multiplespecies	5052|Aspergillus||5543|Trichoderma	6545 Q-TOF LC/MS|MS:1002791	Fungi-Fungi	AT
+MSV000094943	Moustafa_TB_MSMS2.mzML	culture_multiplespecies	culture_multiplespecies	5543|Trichoderma||1386|Bacillus	6545 Q-TOF LC/MS|MS:1002791	Fungi-Bacteria	TB
+MSV000094943	Moustafa_T_MSMS2.mzML	culture_fungal	culture_fungal	5543|Trichoderma	6545 Q-TOF LC/MS|MS:1002791	Fungi	T
+MSV000094943	Moustafa_B_MSMS2.mzML	culture_bacterial	culture_bacterial	1386|Bacillus	6545 Q-TOF LC/MS|MS:1002791	Bacteria	B
+MSV000094943	Blank_MeOH_1-r001.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value
+MSV000094943	Blank_MeOH_1-r002.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value
+MSV000094943	Blank_MeOH_2-r001.mzML	blank_analysis	blank_analysis	missing value	6545 Q-TOF LC/MS|MS:1002791	missing value	missing value

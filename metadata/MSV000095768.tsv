@@ -1,0 +1,181 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	UBERONBodyPartName	Exposure	Sample_ID	Organ	Organ_short	Planted	Week	Treatment	Condition	Block	Type	Sample_name
+MSV000095768	F000.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B9	missing value	missing value	missing value	missing value	Blank	W0_L_Blank	Batch3	qTOF	Blank_B9
+MSV000095768	F017.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B10	missing value	missing value	missing value	missing value	Blank	W0_L_Blank	Batch3	qTOF	Blank_B10
+MSV000095768	F034.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B11	missing value	missing value	missing value	missing value	Blank	W0_L_Blank	Batch3	qTOF	Blank_B11
+MSV000095768	F051.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B12	missing value	missing value	missing value	missing value	Blank	W0_L_Blank	Batch3	qTOF	Blank_B12
+MSV000095768	R000.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B5	missing value	missing value	missing value	missing value	Blank	W0_R_Blank	Batch2	qTOF	Blank_B5
+MSV000095768	R017.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B6	missing value	missing value	missing value	missing value	Blank	W0_R_Blank	Batch2	qTOF	Blank_B6
+MSV000095768	R034.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B7	missing value	missing value	missing value	missing value	Blank	W0_R_Blank	Batch2	qTOF	Blank_B7
+MSV000095768	R051.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B8	missing value	missing value	missing value	missing value	Blank	W0_R_Blank	Batch2	qTOF	Blank_B8
+MSV000095768	T017.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B1	missing value	missing value	missing value	missing value	Blank	W0_S_Blank	Batch1	qTOF	Blank_B1
+MSV000095768	T034.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B2	missing value	missing value	missing value	missing value	Blank	W0_S_Blank	Batch1	qTOF	Blank_B2
+MSV000095768	T051.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B3	missing value	missing value	missing value	missing value	Blank	W0_S_Blank	Batch1	qTOF	Blank_B3
+MSV000095768	T071.mzML	blank_analysis	blank_analysis	missing value	6530B Q-TOF LC/MS|MS:1002787	missing value	missing value	B4	missing value	missing value	missing value	missing value	Blank	W0_S_Blank	Batch1	qTOF	Blank_B4
+MSV000095768	F001.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	5	Leaves	L	P	W4	NaCl	W4_L_NaCl	B1	qTOF	W4_L_NaCl_B1
+MSV000095768	F002.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	2	Leaves	L	P	W1	lowSO4	W1_L_lowSO4	B1	qTOF	W1_L_lowSO4_B1
+MSV000095768	F003.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	6	Leaves	L	P	W1	NaCl	W1_L_NaCl	B1	qTOF	W1_L_NaCl_B1
+MSV000095768	F004.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	4	Leaves	L	P	W4	lowSO4	W4_L_lowSO4	B1	qTOF	W4_L_lowSO4_B1
+MSV000095768	F005.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	8	Leaves	L	P	W4	highSO4	W4_L_highSO4	B1	qTOF	W4_L_highSO4_B1
+MSV000095768	F006.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	1	Leaves	L	P	W1	Control	W1_L_Control	B1	qTOF	W1_L_Control_B1
+MSV000095768	F007.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	7	Leaves	L	P	W4	Control	W4_L_Control	B1	qTOF	W4_L_Control_B1
+MSV000095768	F008.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	59	Leaves	L	P	W1	highSO4	W1_L_highSO4	B1	qTOF	W1_L_highSO4_B1
+MSV000095768	F009.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	12	Leaves	L	P	W1	lowSO4	W1_L_lowSO4	B2	qTOF	W1_L_lowSO4_B2
+MSV000095768	F010.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	15	Leaves	L	P	W1	Control	W1_L_Control	B2	qTOF	W1_L_Control_B2
+MSV000095768	F011.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	58	Leaves	L	P	W4	highSO4	W4_L_highSO4	B2	qTOF	W4_L_highSO4_B2
+MSV000095768	F012.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	16	Leaves	L	P	W1	highSO4	W1_L_highSO4	B2	qTOF	W1_L_highSO4_B2
+MSV000095768	F013.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	11	Leaves	L	P	W4	Control	W4_L_Control	B2	qTOF	W4_L_Control_B2
+MSV000095768	F014.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	10	Leaves	L	P	W4	lowSO4	W4_L_lowSO4	B2	qTOF	W4_L_lowSO4_B2
+MSV000095768	F015.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	13	Leaves	L	P	W1	NaCl	W1_L_NaCl	B2	qTOF	W1_L_NaCl_B2
+MSV000095768	F016.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	9	Leaves	L	P	W4	NaCl	W4_L_NaCl	B2	qTOF	W4_L_NaCl_B2
+MSV000095768	F018.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	21	Leaves	L	P	W1	Control	W1_L_Control	B3	qTOF	W1_L_Control_B3
+MSV000095768	F019.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	17	Leaves	L	P	W1	lowSO4	W1_L_lowSO4	B3	qTOF	W1_L_lowSO4_B3
+MSV000095768	F020.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	24	Leaves	L	P	W1	highSO4	W1_L_highSO4	B3	qTOF	W1_L_highSO4_B3
+MSV000095768	F021.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	22	Leaves	L	P	W4	lowSO4	W4_L_lowSO4	B3	qTOF	W4_L_lowSO4_B3
+MSV000095768	F022.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	20	Leaves	L	P	W4	Control	W4_L_Control	B3	qTOF	W4_L_Control_B3
+MSV000095768	F023.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	23	Leaves	L	P	W4	NaCl	W4_L_NaCl	B3	qTOF	W4_L_NaCl_B3
+MSV000095768	F024.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	19	Leaves	L	P	W4	highSO4	W4_L_highSO4	B3	qTOF	W4_L_highSO4_B3
+MSV000095768	F025.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	57	Leaves	L	P	W1	NaCl	W1_L_NaCl	B3	qTOF	W1_L_NaCl_B3
+MSV000095768	F026.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	30	Leaves	L	P	W1	highSO4	W1_L_highSO4	B4	qTOF	W1_L_highSO4_B4
+MSV000095768	F027.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	25	Leaves	L	P	W4	NaCl	W4_L_NaCl	B4	qTOF	W4_L_NaCl_B4
+MSV000095768	F028.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	26	Leaves	L	P	W4	Control	W4_L_Control	B4	qTOF	W4_L_Control_B4
+MSV000095768	F029.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	31	Leaves	L	P	W1	NaCl	W1_L_NaCl	B4	qTOF	W1_L_NaCl_B4
+MSV000095768	F030.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	29	Leaves	L	P	W1	Control	W1_L_Control	B4	qTOF	W1_L_Control_B4
+MSV000095768	F031.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	27	Leaves	L	P	W4	highSO4	W4_L_highSO4	B4	qTOF	W4_L_highSO4_B4
+MSV000095768	F032.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	28	Leaves	L	P	W4	lowSO4	W4_L_lowSO4	B4	qTOF	W4_L_lowSO4_B4
+MSV000095768	F033.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	32	Leaves	L	P	W1	lowSO4	W1_L_lowSO4	B4	qTOF	W1_L_lowSO4_B4
+MSV000095768	F035.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	39	Leaves	L	P	W4	lowSO4	W4_L_lowSO4	B5	qTOF	W4_L_lowSO4_B5
+MSV000095768	F036.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	37	Leaves	L	P	W1	NaCl	W1_L_NaCl	B5	qTOF	W1_L_NaCl_B5
+MSV000095768	F037.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	38	Leaves	L	P	W1	Control	W1_L_Control	B5	qTOF	W1_L_Control_B5
+MSV000095768	F038.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	33	Leaves	L	P	W4	NaCl	W4_L_NaCl	B5	qTOF	W4_L_NaCl_B5
+MSV000095768	F039.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	40	Leaves	L	P	W1	lowSO4	W1_L_lowSO4	B5	qTOF	W1_L_lowSO4_B5
+MSV000095768	F040.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	35	Leaves	L	P	W4	highSO4	W4_L_highSO4	B5	qTOF	W4_L_highSO4_B5
+MSV000095768	F041.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	36	Leaves	L	P	W1	highSO4	W1_L_highSO4	B5	qTOF	W1_L_highSO4_B5
+MSV000095768	F042.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	34	Leaves	L	P	W4	Control	W4_L_Control	B5	qTOF	W4_L_Control_B5
+MSV000095768	F043.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	47	Leaves	L	P	W4	Control	W4_L_Control	B6	qTOF	W4_L_Control_B6
+MSV000095768	F044.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	43	Leaves	L	P	W4	NaCl	W4_L_NaCl	B6	qTOF	W4_L_NaCl_B6
+MSV000095768	F045.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	48	Leaves	L	P	W4	highSO4	W4_L_highSO4	B6	qTOF	W4_L_highSO4_B6
+MSV000095768	F046.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	41	Leaves	L	P	W1	lowSO4	W1_L_lowSO4	B6	qTOF	W1_L_lowSO4_B6
+MSV000095768	F047.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	46	Leaves	L	P	W1	highSO4	W1_L_highSO4	B6	qTOF	W1_L_highSO4_B6
+MSV000095768	F048.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	42	Leaves	L	P	W4	lowSO4	W4_L_lowSO4	B6	qTOF	W4_L_lowSO4_B6
+MSV000095768	F049.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	45	Leaves	L	P	W1	NaCl	W1_L_NaCl	B6	qTOF	W1_L_NaCl_B6
+MSV000095768	F050.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	44	Leaves	L	P	W1	Control	W1_L_Control	B6	qTOF	W1_L_Control_B6
+MSV000095768	F052.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	55	Leaves	L	P	W4	Control	W4_L_Control	B7	qTOF	W4_L_Control_B7
+MSV000095768	F053.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	49	Leaves	L	P	W1	Control	W1_L_Control	B7	qTOF	W1_L_Control_B7
+MSV000095768	F054.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	51	Leaves	L	P	W4	highSO4	W4_L_highSO4	B7	qTOF	W4_L_highSO4_B7
+MSV000095768	F055.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	53	Leaves	L	P	W4	lowSO4	W4_L_lowSO4	B7	qTOF	W4_L_lowSO4_B7
+MSV000095768	F056.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	50	Leaves	L	P	W4	NaCl	W4_L_NaCl	B7	qTOF	W4_L_NaCl_B7
+MSV000095768	F057.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	54	Leaves	L	P	W1	highSO4	W1_L_highSO4	B7	qTOF	W1_L_highSO4_B7
+MSV000095768	F058.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	missing value	56	Leaves	L	P	W1	lowSO4	W1_L_lowSO4	B7	qTOF	W1_L_lowSO4_B7
+MSV000095768	F059.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	leaf	exposure to sodium chloride	52	Leaves	L	P	W1	NaCl	W1_L_NaCl	B7	qTOF	W1_L_NaCl_B7
+MSV000095768	R001.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	5	Roots	R	P	W4	NaCl	W4_R_NaCl	B1	qTOF	W4_R_NaCl_B1
+MSV000095768	R002.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	2	Roots	R	P	W1	lowSO4	W1_R_lowSO4	B1	qTOF	W1_R_lowSO4_B1
+MSV000095768	R003.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	6	Roots	R	P	W1	NaCl	W1_R_NaCl	B1	qTOF	W1_R_NaCl_B1
+MSV000095768	R004.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	4	Roots	R	P	W4	lowSO4	W4_R_lowSO4	B1	qTOF	W4_R_lowSO4_B1
+MSV000095768	R005.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	8	Roots	R	P	W4	highSO4	W4_R_highSO4	B1	qTOF	W4_R_highSO4_B1
+MSV000095768	R006.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	1	Roots	R	P	W1	Control	W1_R_Control	B1	qTOF	W1_R_Control_B1
+MSV000095768	R007.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	7	Roots	R	P	W4	Control	W4_R_Control	B1	qTOF	W4_R_Control_B1
+MSV000095768	R008.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	59	Roots	R	P	W1	highSO4	W1_R_highSO4	B1	qTOF	W1_R_highSO4_B1
+MSV000095768	R009.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	12	Roots	R	P	W1	lowSO4	W1_R_lowSO4	B2	qTOF	W1_R_lowSO4_B2
+MSV000095768	R010.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	15	Roots	R	P	W1	Control	W1_R_Control	B2	qTOF	W1_R_Control_B2
+MSV000095768	R011.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	58	Roots	R	P	W4	highSO4	W4_R_highSO4	B2	qTOF	W4_R_highSO4_B2
+MSV000095768	R012.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	16	Roots	R	P	W1	highSO4	W1_R_highSO4	B2	qTOF	W1_R_highSO4_B2
+MSV000095768	R013.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	11	Roots	R	P	W4	Control	W4_R_Control	B2	qTOF	W4_R_Control_B2
+MSV000095768	R014.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	10	Roots	R	P	W4	lowSO4	W4_R_lowSO4	B2	qTOF	W4_R_lowSO4_B2
+MSV000095768	R015.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	13	Roots	R	P	W1	NaCl	W1_R_NaCl	B2	qTOF	W1_R_NaCl_B2
+MSV000095768	R016.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	9	Roots	R	P	W4	NaCl	W4_R_NaCl	B2	qTOF	W4_R_NaCl_B2
+MSV000095768	R018.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	21	Roots	R	P	W1	Control	W1_R_Control	B3	qTOF	W1_R_Control_B3
+MSV000095768	R019.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	17	Roots	R	P	W1	lowSO4	W1_R_lowSO4	B3	qTOF	W1_R_lowSO4_B3
+MSV000095768	R020.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	24	Roots	R	P	W1	highSO4	W1_R_highSO4	B3	qTOF	W1_R_highSO4_B3
+MSV000095768	R021.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	22	Roots	R	P	W4	lowSO4	W4_R_lowSO4	B3	qTOF	W4_R_lowSO4_B3
+MSV000095768	R022.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	20	Roots	R	P	W4	Control	W4_R_Control	B3	qTOF	W4_R_Control_B3
+MSV000095768	R023.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	23	Roots	R	P	W4	NaCl	W4_R_NaCl	B3	qTOF	W4_R_NaCl_B3
+MSV000095768	R024.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	19	Roots	R	P	W4	highSO4	W4_R_highSO4	B3	qTOF	W4_R_highSO4_B3
+MSV000095768	R025.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	57	Roots	R	P	W1	NaCl	W1_R_NaCl	B3	qTOF	W1_R_NaCl_B3
+MSV000095768	R026.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	30	Roots	R	P	W1	highSO4	W1_R_highSO4	B4	qTOF	W1_R_highSO4_B4
+MSV000095768	R027.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	25	Roots	R	P	W4	NaCl	W4_R_NaCl	B4	qTOF	W4_R_NaCl_B4
+MSV000095768	R028.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	26	Roots	R	P	W4	Control	W4_R_Control	B4	qTOF	W4_R_Control_B4
+MSV000095768	R029.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	31	Roots	R	P	W1	NaCl	W1_R_NaCl	B4	qTOF	W1_R_NaCl_B4
+MSV000095768	R030.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	29	Roots	R	P	W1	Control	W1_R_Control	B4	qTOF	W1_R_Control_B4
+MSV000095768	R031.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	27	Roots	R	P	W4	highSO4	W4_R_highSO4	B4	qTOF	W4_R_highSO4_B4
+MSV000095768	R032.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	28	Roots	R	P	W4	lowSO4	W4_R_lowSO4	B4	qTOF	W4_R_lowSO4_B4
+MSV000095768	R033.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	32	Roots	R	P	W1	lowSO4	W1_R_lowSO4	B4	qTOF	W1_R_lowSO4_B4
+MSV000095768	R035.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	39	Roots	R	P	W4	lowSO4	W4_R_lowSO4	B5	qTOF	W4_R_lowSO4_B5
+MSV000095768	R036.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	37	Roots	R	P	W1	NaCl	W1_R_NaCl	B5	qTOF	W1_R_NaCl_B5
+MSV000095768	R037.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	38	Roots	R	P	W1	Control	W1_R_Control	B5	qTOF	W1_R_Control_B5
+MSV000095768	R038.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	33	Roots	R	P	W4	NaCl	W4_R_NaCl	B5	qTOF	W4_R_NaCl_B5
+MSV000095768	R039.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	40	Roots	R	P	W1	lowSO4	W1_R_lowSO4	B5	qTOF	W1_R_lowSO4_B5
+MSV000095768	R040.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	35	Roots	R	P	W4	highSO4	W4_R_highSO4	B5	qTOF	W4_R_highSO4_B5
+MSV000095768	R041.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	36	Roots	R	P	W1	highSO4	W1_R_highSO4	B5	qTOF	W1_R_highSO4_B5
+MSV000095768	R042.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	34	Roots	R	P	W4	Control	W4_R_Control	B5	qTOF	W4_R_Control_B5
+MSV000095768	R043.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	47	Roots	R	P	W4	Control	W4_R_Control	B6	qTOF	W4_R_Control_B6
+MSV000095768	R044.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	43	Roots	R	P	W4	NaCl	W4_R_NaCl	B6	qTOF	W4_R_NaCl_B6
+MSV000095768	R045.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	48	Roots	R	P	W4	highSO4	W4_R_highSO4	B6	qTOF	W4_R_highSO4_B6
+MSV000095768	R046.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	41	Roots	R	P	W1	lowSO4	W1_R_lowSO4	B6	qTOF	W1_R_lowSO4_B6
+MSV000095768	R047.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	46	Roots	R	P	W1	highSO4	W1_R_highSO4	B6	qTOF	W1_R_highSO4_B6
+MSV000095768	R048.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	42	Roots	R	P	W4	lowSO4	W4_R_lowSO4	B6	qTOF	W4_R_lowSO4_B6
+MSV000095768	R049.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	45	Roots	R	P	W1	NaCl	W1_R_NaCl	B6	qTOF	W1_R_NaCl_B6
+MSV000095768	R050.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	44	Roots	R	P	W1	Control	W1_R_Control	B6	qTOF	W1_R_Control_B6
+MSV000095768	R052.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	55	Roots	R	P	W4	Control	W4_R_Control	B7	qTOF	W4_R_Control_B7
+MSV000095768	R053.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	49	Roots	R	P	W1	Control	W1_R_Control	B7	qTOF	W1_R_Control_B7
+MSV000095768	R054.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	51	Roots	R	P	W4	highSO4	W4_R_highSO4	B7	qTOF	W4_R_highSO4_B7
+MSV000095768	R055.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	53	Roots	R	P	W4	lowSO4	W4_R_lowSO4	B7	qTOF	W4_R_lowSO4_B7
+MSV000095768	R056.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	50	Roots	R	P	W4	NaCl	W4_R_NaCl	B7	qTOF	W4_R_NaCl_B7
+MSV000095768	R057.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	54	Roots	R	P	W1	highSO4	W1_R_highSO4	B7	qTOF	W1_R_highSO4_B7
+MSV000095768	R058.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	missing value	56	Roots	R	P	W1	lowSO4	W1_R_lowSO4	B7	qTOF	W1_R_lowSO4_B7
+MSV000095768	R059.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	root	exposure to sodium chloride	52	Roots	R	P	W1	NaCl	W1_R_NaCl	B7	qTOF	W1_R_NaCl_B7
+MSV000095768	T001.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	5	Stems	S	P	W4	NaCl	W4_S_NaCl	B1	qTOF	W4_S_NaCl_B1
+MSV000095768	T002.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	2	Stems	S	P	W1	lowSO4	W1_S_lowSO4	B1	qTOF	W1_S_lowSO4_B1
+MSV000095768	T003.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	6	Stems	S	P	W1	NaCl	W1_S_NaCl	B1	qTOF	W1_S_NaCl_B1
+MSV000095768	T004.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	4	Stems	S	P	W4	lowSO4	W4_S_lowSO4	B1	qTOF	W4_S_lowSO4_B1
+MSV000095768	T005.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	8	Stems	S	P	W4	highSO4	W4_S_highSO4	B1	qTOF	W4_S_highSO4_B1
+MSV000095768	T006.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	1	Stems	S	P	W1	Control	W1_S_Control	B1	qTOF	W1_S_Control_B1
+MSV000095768	T007.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	7	Stems	S	P	W4	Control	W4_S_Control	B1	qTOF	W4_S_Control_B1
+MSV000095768	T008.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	59	Stems	S	P	W1	highSO4	W1_S_highSO4	B1	qTOF	W1_S_highSO4_B1
+MSV000095768	T009.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	12	Stems	S	P	W1	lowSO4	W1_S_lowSO4	B2	qTOF	W1_S_lowSO4_B2
+MSV000095768	T010.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	15	Stems	S	P	W1	Control	W1_S_Control	B2	qTOF	W1_S_Control_B2
+MSV000095768	T011.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	58	Stems	S	P	W4	highSO4	W4_S_highSO4	B2	qTOF	W4_S_highSO4_B2
+MSV000095768	T012.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	16	Stems	S	P	W1	highSO4	W1_S_highSO4	B2	qTOF	W1_S_highSO4_B2
+MSV000095768	T013.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	11	Stems	S	P	W4	Control	W4_S_Control	B2	qTOF	W4_S_Control_B2
+MSV000095768	T014.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	10	Stems	S	P	W4	lowSO4	W4_S_lowSO4	B2	qTOF	W4_S_lowSO4_B2
+MSV000095768	T015.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	13	Stems	S	P	W1	NaCl	W1_S_NaCl	B2	qTOF	W1_S_NaCl_B2
+MSV000095768	T016.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	9	Stems	S	P	W4	NaCl	W4_S_NaCl	B2	qTOF	W4_S_NaCl_B2
+MSV000095768	T018.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	21	Stems	S	P	W1	Control	W1_S_Control	B3	qTOF	W1_S_Control_B3
+MSV000095768	T019.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	17	Stems	S	P	W1	lowSO4	W1_S_lowSO4	B3	qTOF	W1_S_lowSO4_B3
+MSV000095768	T020.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	24	Stems	S	P	W1	highSO4	W1_S_highSO4	B3	qTOF	W1_S_highSO4_B3
+MSV000095768	T021.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	22	Stems	S	P	W4	lowSO4	W4_S_lowSO4	B3	qTOF	W4_S_lowSO4_B3
+MSV000095768	T022.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	20	Stems	S	P	W4	Control	W4_S_Control	B3	qTOF	W4_S_Control_B3
+MSV000095768	T023.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	23	Stems	S	P	W4	NaCl	W4_S_NaCl	B3	qTOF	W4_S_NaCl_B3
+MSV000095768	T024.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	19	Stems	S	P	W4	highSO4	W4_S_highSO4	B3	qTOF	W4_S_highSO4_B3
+MSV000095768	T025.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	57	Stems	S	P	W1	NaCl	W1_S_NaCl	B3	qTOF	W1_S_NaCl_B3
+MSV000095768	T026.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	30	Stems	S	P	W1	highSO4	W1_S_highSO4	B4	qTOF	W1_S_highSO4_B4
+MSV000095768	T027.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	25	Stems	S	P	W4	NaCl	W4_S_NaCl	B4	qTOF	W4_S_NaCl_B4
+MSV000095768	T028.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	26	Stems	S	P	W4	Control	W4_S_Control	B4	qTOF	W4_S_Control_B4
+MSV000095768	T029.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	31	Stems	S	P	W1	NaCl	W1_S_NaCl	B4	qTOF	W1_S_NaCl_B4
+MSV000095768	T030.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	29	Stems	S	P	W1	Control	W1_S_Control	B4	qTOF	W1_S_Control_B4
+MSV000095768	T031.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	27	Stems	S	P	W4	highSO4	W4_S_highSO4	B4	qTOF	W4_S_highSO4_B4
+MSV000095768	T032.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	28	Stems	S	P	W4	lowSO4	W4_S_lowSO4	B4	qTOF	W4_S_lowSO4_B4
+MSV000095768	T033.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	32	Stems	S	P	W1	lowSO4	W1_S_lowSO4	B4	qTOF	W1_S_lowSO4_B4
+MSV000095768	T035.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	39	Stems	S	P	W4	lowSO4	W4_S_lowSO4	B5	qTOF	W4_S_lowSO4_B5
+MSV000095768	T036.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	37	Stems	S	P	W1	NaCl	W1_S_NaCl	B5	qTOF	W1_S_NaCl_B5
+MSV000095768	T037.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	38	Stems	S	P	W1	Control	W1_S_Control	B5	qTOF	W1_S_Control_B5
+MSV000095768	T038.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	33	Stems	S	P	W4	NaCl	W4_S_NaCl	B5	qTOF	W4_S_NaCl_B5
+MSV000095768	T039.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	40	Stems	S	P	W1	lowSO4	W1_S_lowSO4	B5	qTOF	W1_S_lowSO4_B5
+MSV000095768	T040.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	35	Stems	S	P	W4	highSO4	W4_S_highSO4	B5	qTOF	W4_S_highSO4_B5
+MSV000095768	T041.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	36	Stems	S	P	W1	highSO4	W1_S_highSO4	B5	qTOF	W1_S_highSO4_B5
+MSV000095768	T042.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	34	Stems	S	P	W4	Control	W4_S_Control	B5	qTOF	W4_S_Control_B5
+MSV000095768	T043.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	47	Stems	S	P	W4	Control	W4_S_Control	B6	qTOF	W4_S_Control_B6
+MSV000095768	T044.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	43	Stems	S	P	W4	NaCl	W4_S_NaCl	B6	qTOF	W4_S_NaCl_B6
+MSV000095768	T045.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	48	Stems	S	P	W4	highSO4	W4_S_highSO4	B6	qTOF	W4_S_highSO4_B6
+MSV000095768	T046.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	41	Stems	S	P	W1	lowSO4	W1_S_lowSO4	B6	qTOF	W1_S_lowSO4_B6
+MSV000095768	T047.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	46	Stems	S	P	W1	highSO4	W1_S_highSO4	B6	qTOF	W1_S_highSO4_B6
+MSV000095768	T048.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	42	Stems	S	P	W4	lowSO4	W4_S_lowSO4	B6	qTOF	W4_S_lowSO4_B6
+MSV000095768	T049.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	45	Stems	S	P	W1	NaCl	W1_S_NaCl	B6	qTOF	W1_S_NaCl_B6
+MSV000095768	T050.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	44	Stems	S	P	W1	Control	W1_S_Control	B6	qTOF	W1_S_Control_B6
+MSV000095768	T052.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	55	Stems	S	P	W4	Control	W4_S_Control	B7	qTOF	W4_S_Control_B7
+MSV000095768	T053.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	49	Stems	S	P	W1	Control	W1_S_Control	B7	qTOF	W1_S_Control_B7
+MSV000095768	T054.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	51	Stems	S	P	W4	highSO4	W4_S_highSO4	B7	qTOF	W4_S_highSO4_B7
+MSV000095768	T055.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	53	Stems	S	P	W4	lowSO4	W4_S_lowSO4	B7	qTOF	W4_S_lowSO4_B7
+MSV000095768	T056.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	50	Stems	S	P	W4	NaCl	W4_S_NaCl	B7	qTOF	W4_S_NaCl_B7
+MSV000095768	T057.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	54	Stems	S	P	W1	highSO4	W1_S_highSO4	B7	qTOF	W1_S_highSO4_B7
+MSV000095768	T058.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	missing value	56	Stems	S	P	W1	lowSO4	W1_S_lowSO4	B7	qTOF	W1_S_lowSO4_B7
+MSV000095768	T059.mzML	plant	plant_angiospermae	706668|Salix miyabeana	6530B Q-TOF LC/MS|MS:1002787	stem	exposure to sodium chloride	52	Stems	S	P	W1	NaCl	W1_S_NaCl	B7	qTOF	W1_S_NaCl_B7

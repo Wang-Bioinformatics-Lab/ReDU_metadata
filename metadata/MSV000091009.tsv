@@ -1,0 +1,40 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	Organism	Strain	Medium
+MSV000091009	Blank_1.mzML	blank_QC	blank_QC	missing value	Q Exactive|MS:1001911	Blank	Blank	Blank
+MSV000091009	Blank_2.mzML	blank_QC	blank_QC	missing value	Q Exactive|MS:1001911	Blank	Blank	Blank
+MSV000091009	Blank_3.mzML	blank_QC	blank_QC	missing value	Q Exactive|MS:1001911	Blank	Blank	Blank
+MSV000091009	ISP2_1.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	Media	Media	ISP2
+MSV000091009	ISP2_2.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	Media	Media	ISP2
+MSV000091009	ISP2_3.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	Media	Media	ISP2
+MSV000091009	KRD168_1.mzML	culture_bacterial	culture_bacterial	2792008|Pseudonocardia abyssalis	Q Exactive|MS:1001911	Pseudonocardia abyssalis	KRD168	ISP2
+MSV000091009	KRD168_2.mzML	culture_bacterial	culture_bacterial	2792008|Pseudonocardia abyssalis	Q Exactive|MS:1001911	Pseudonocardia abyssalis	KRD168	ISP2
+MSV000091009	KRD168_3.mzML	culture_bacterial	culture_bacterial	2792008|Pseudonocardia abyssalis	Q Exactive|MS:1001911	Pseudonocardia abyssalis	KRD168	ISP2
+MSV000091009	KRD185_1.mzML	culture_bacterial	culture_bacterial	2792013|Pseudonocardia oceani	Q Exactive|MS:1001911	Pseudonocardia oceani	KRD185	ISP2
+MSV000091009	KRD185_2.mzML	culture_bacterial	culture_bacterial	2792013|Pseudonocardia oceani	Q Exactive|MS:1001911	Pseudonocardia oceani	KRD185	ISP2
+MSV000091009	KRD185_3.mzML	culture_bacterial	culture_bacterial	2792013|Pseudonocardia oceani	Q Exactive|MS:1001911	Pseudonocardia oceani	KRD185	ISP2
+MSV000091009	NBRC14498_1.mzML	culture_bacterial	culture_bacterial	76726|Pseudonocardia hydrocarbonoxydans	Q Exactive|MS:1001911	Pseudonocardia hydrocarbonoxidans	DSM43281	ISP2
+MSV000091009	NBRC14498_2.mzML	culture_bacterial	culture_bacterial	76726|Pseudonocardia hydrocarbonoxydans	Q Exactive|MS:1001911	Pseudonocardia hydrocarbonoxidans	DSM43281	ISP2
+MSV000091009	NBRC14498_3.mzML	culture_bacterial	culture_bacterial	76726|Pseudonocardia hydrocarbonoxydans	Q Exactive|MS:1001911	Pseudonocardia hydrocarbonoxidans	DSM43281	ISP2
+MSV000091009	CGMCC41532_1.mzML	culture_bacterial	culture_bacterial	37331|Pseudonocardia petroleophila	Q Exactive|MS:1001911	Pseudonocardia petroleophila	DSM43193	ISP2
+MSV000091009	CGMCC41532_2.mzML	culture_bacterial	culture_bacterial	37331|Pseudonocardia petroleophila	Q Exactive|MS:1001911	Pseudonocardia petroleophila	DSM43193	ISP2
+MSV000091009	CGMCC41532_3.mzML	culture_bacterial	culture_bacterial	37331|Pseudonocardia petroleophila	Q Exactive|MS:1001911	Pseudonocardia petroleophila	DSM43193	ISP2
+MSV000091009	KCTC39641_1.mzML	culture_bacterial	culture_bacterial	1804989|Pseudonocardia profundimaris	Q Exactive|MS:1001911	Pseudonocardia profundimaris	KCTC39641	ISP2
+MSV000091009	KCTC39641_2.mzML	culture_bacterial	culture_bacterial	1804989|Pseudonocardia profundimaris	Q Exactive|MS:1001911	Pseudonocardia profundimaris	KCTC39641	ISP2
+MSV000091009	KCTC39641_3.mzML	culture_bacterial	culture_bacterial	1804989|Pseudonocardia profundimaris	Q Exactive|MS:1001911	Pseudonocardia profundimaris	KCTC39641	ISP2
+MSV000091009	CNS139_1.mzML	culture_bacterial	culture_bacterial	1847|Pseudonocardia	Q Exactive|MS:1001911	Pseudonocardia sp.	CNS139	ISP2
+MSV000091009	CNS139_2.mzML	culture_bacterial	culture_bacterial	1847|Pseudonocardia	Q Exactive|MS:1001911	Pseudonocardia sp.	CNS139	ISP2
+MSV000091009	CNS139_3.mzML	culture_bacterial	culture_bacterial	1847|Pseudonocardia	Q Exactive|MS:1001911	Pseudonocardia sp.	CNS139	ISP2
+MSV000091009	KRD291_1.mzML	culture_bacterial	culture_bacterial	1847|Pseudonocardia	Q Exactive|MS:1001911	Pseudonocardia sp.	KRD291	ISP2
+MSV000091009	KRD291_2.mzML	culture_bacterial	culture_bacterial	1847|Pseudonocardia	Q Exactive|MS:1001911	Pseudonocardia sp.	KRD291	ISP2
+MSV000091009	KRD291_3.mzML	culture_bacterial	culture_bacterial	1847|Pseudonocardia	Q Exactive|MS:1001911	Pseudonocardia sp.	KRD291	ISP2
+MSV000091009	VO44-3_1.mzML	culture_bacterial	culture_bacterial	1847|Pseudonocardia	Q Exactive|MS:1001911	Pseudonocardia sp.	VO44-3	ISP2
+MSV000091009	VO44-3_2.mzML	culture_bacterial	culture_bacterial	1847|Pseudonocardia	Q Exactive|MS:1001911	Pseudonocardia sp.	VO44-3	ISP2
+MSV000091009	VO44-3_3.mzML	culture_bacterial	culture_bacterial	1847|Pseudonocardia	Q Exactive|MS:1001911	Pseudonocardia sp.	VO44-3	ISP2
+MSV000091009	DSM45779_1.mzML	culture_bacterial	culture_bacterial	1397368|Pseudonocardia sediminis	Q Exactive|MS:1001911	Pseudonocardia sediminis	DSM45779	ISP2
+MSV000091009	DSM45779_2.mzML	culture_bacterial	culture_bacterial	1397368|Pseudonocardia sediminis	Q Exactive|MS:1001911	Pseudonocardia sediminis	DSM45779	ISP2
+MSV000091009	DSM45779_3.mzML	culture_bacterial	culture_bacterial	1397368|Pseudonocardia sediminis	Q Exactive|MS:1001911	Pseudonocardia sediminis	DSM45779	ISP2
+MSV000091009	CGMCC41877_1.mzML	culture_bacterial	culture_bacterial	260086|Pseudonocardia ammonioxydans	Q Exactive|MS:1001911	Pseudonocardia ammonioxydans	DSM44958	ISP2
+MSV000091009	CGMCC41877_2.mzML	culture_bacterial	culture_bacterial	260086|Pseudonocardia ammonioxydans	Q Exactive|MS:1001911	Pseudonocardia ammonioxydans	DSM44958	ISP2
+MSV000091009	CGMCC41877_3.mzML	culture_bacterial	culture_bacterial	260086|Pseudonocardia ammonioxydans	Q Exactive|MS:1001911	Pseudonocardia ammonioxydans	DSM44958	ISP2
+MSV000091009	DSM45322_1.mzML	culture_bacterial	culture_bacterial	1070982|Pseudonocardia antitumoralis	Q Exactive|MS:1001911	Pseudonocardia antitumoralis	DSM45322	ISP2
+MSV000091009	DSM45322_2.mzML	culture_bacterial	culture_bacterial	1070982|Pseudonocardia antitumoralis	Q Exactive|MS:1001911	Pseudonocardia antitumoralis	DSM45322	ISP2
+MSV000091009	DSM45322_3.mzML	culture_bacterial	culture_bacterial	1070982|Pseudonocardia antitumoralis	Q Exactive|MS:1001911	Pseudonocardia antitumoralis	DSM45322	ISP2

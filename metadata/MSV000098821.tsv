@@ -1,0 +1,229 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	AgeInYears	UBERONBodyPartName	Exposure	Country	timepoint	treatment	cluster	combined	early
+MSV000098821	060325_20A.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_6D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	low	6w_pro_low	6w_pro
+MSV000098821	060325_21D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_22D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_24D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_27D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_28D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_29D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_31D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_33D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_34D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	low	6w_pro_low	6w_pro
+MSV000098821	060325_35D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_36D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_38D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_39D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_40D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_41D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	missing value	missing value	6w_pro
+MSV000098821	060325_42D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_43D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_44D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_45D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_46D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_48D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	low	6w_pro_low	6w_pro
+MSV000098821	060325_49D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_51D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_52D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_53D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_54D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_55D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_57D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_64D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_2E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_6E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_9E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_14E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_15E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_16E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_17E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_18E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_19E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_20E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_21E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_22E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_23E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_24E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_26E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_27E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_28E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_29E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_30E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_31E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_33E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	low	6w_pro_low	6w_pro
+MSV000098821	060325_34E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_35E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_36E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	low	6w_pro_low	6w_pro
+MSV000098821	060325_37E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_38E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_39E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_40E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_41E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_42E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_43E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_44E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_45E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_46E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_47E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_49E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_50E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_51E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_52E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_53E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	missing value	missing value	6w_pro
+MSV000098821	060325_54E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_55E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_56E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_57E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_58E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_59E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_60E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_61E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_62E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_63E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_66E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_67E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_68E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_69E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_72E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_73E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_74E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_76E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	high	6w_ctrl_high	6w_ctrl
+MSV000098821	060325_78E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	low	6w_pro_low	6w_pro
+MSV000098821	060325_79E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_80E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_85E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 weeks	Probiotic	high	6w_pro_high	6w_pro
+MSV000098821	060325_95E.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.115	feces	missing value	Tanzania	6 weeks	Control	low	6w_ctrl_low	6w_ctrl
+MSV000098821	060325_1G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_2G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_3G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	low	6m_pro_low	6m
+MSV000098821	060325_4G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_5G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	low	6m_pro_low	6m
+MSV000098821	060325_6G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_7G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	low	6m_pro_low	6m
+MSV000098821	060325_8G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_9G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_10G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_11G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_12G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_13G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	missing value	6m_pro_NA	6m
+MSV000098821	060325_14G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_15G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_16G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_17G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_18G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_19G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_20G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_21G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_22G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_23G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_24G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_25G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_26G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_27G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	low	6m_pro_low	6m
+MSV000098821	060325_28G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_29G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_30G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_31G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_32G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_33G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_34G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_35G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_36G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_37G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_38G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_39G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_40G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_41G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_42G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_43G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_44G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_45G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_46G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_47G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_48G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_49G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_50G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_51G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_52G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_53G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_54G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_56G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_57G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_58G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_59G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_61G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	low	6m_pro_low	6m
+MSV000098821	060325_62G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_63G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_64G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_65G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_66G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_67G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_68G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_70G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	missing value	missing value	6m
+MSV000098821	060325_71G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_72G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_73G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_76G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_77G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_79G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_80G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_81G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_82G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_83G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_85G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_86G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_87G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_88G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_89G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_91G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_92G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_93G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_94G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_95G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_96G.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_1H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_2H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	low	6m_pro_low	6m
+MSV000098821	060325_6H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_17H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_18H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_19H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_20H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	high	6m_ctrl_high	6m
+MSV000098821	060325_22H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	missing value	missing value	6m
+MSV000098821	060325_23H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_25H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	missing value	missing value	6m
+MSV000098821	060325_89H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	missing value	Tanzania	6 months	Control	low	6m_ctrl_low	6m
+MSV000098821	060325_90H.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_37D.mzML	animal	biofluid	9606|Homo sapiens	Orbitrap ID-X|MS:1003112	0.5	feces	exposure to probiotic or bacteria supplement via ingestion	Tanzania	6 months	Probiotic	high	6m_pro_high	6m
+MSV000098821	060325_ExtBlank.mzML	blank_extraction	blank_extraction	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC1.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC10.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC11.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC12.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC13.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC14.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC15.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC16.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC17.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC18.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC19.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC2.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC20.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC3.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC4.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC5.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC6.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC7.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC8.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC9.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC_incref.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_SysBlank.mzML	blank_analysis	blank_analysis	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_SysBlank2.mzML	blank_analysis	blank_analysis	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	A_210624_HN_Pooled_ID_1.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	A_210624_HN_Pooled_ID_2.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	A_210624_HN_Pooled_ID_3.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	A_210624_HN_Pooled_ID_4.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_ExtBlank_cond.mzML	blank_extraction	blank_extraction	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC_cond1.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC_cond2.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000098821	060325_QC_cond3.mzML	pool_QC	pool_QC	missing value	Orbitrap ID-X|MS:1003112	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value

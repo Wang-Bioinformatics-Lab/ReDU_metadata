@@ -1,0 +1,145 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	MassSpectrometer	ChromatographyAndPhase	SubjectIdentifierAsRecorded	UBERONBodyPartName	Polarity	sample_name
+MSV000080930	Mouse 10 Blood Ma RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 10	blood	negative	Mouse 10 Blood Ma RESV
+MSV000080930	Mouse 10 Blood Ma RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 10	blood	positive	Mouse 10 Blood Ma RESV
+MSV000080930	Mouse 10 Dorsal skin Ma RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 10	skin of back	negative	Mouse 10 Dorsal skin Ma RESV
+MSV000080930	Mouse 10 Dorsal skin Ma RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 10	skin of back	positive	Mouse 10 Dorsal skin Ma RESV
+MSV000080930	Mouse 10 Liver Ma RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 10	liver	negative	Mouse 10 Liver Ma RESV
+MSV000080930	Mouse 10 Liver Ma RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 10	liver	positive	Mouse 10 Liver Ma RESV
+MSV000080930	Mouse 11 Blood Ma RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 11	blood	negative	Mouse 11 Blood Ma RESV
+MSV000080930	Mouse 11 Blood Ma RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 11	blood	positive	Mouse 11 Blood Ma RESV
+MSV000080930	Mouse 11 Dorsal skin Ma RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 11	skin of back	negative	Mouse 11 Dorsal skin Ma RESV
+MSV000080930	Mouse 11 Dorsal skin Ma RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 11	skin of back	positive	Mouse 11 Dorsal skin Ma RESV
+MSV000080930	Mouse 11 Liver Ma RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 11	liver	negative	Mouse 11 Liver Ma RESV
+MSV000080930	Mouse 11 Liver Ma RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 11	liver	positive	Mouse 11 Liver Ma RESV
+MSV000080930	Mouse 12 Blood Ma RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 12	blood	negative	Mouse 12 Blood Ma RESV
+MSV000080930	Mouse 12 Blood Ma RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 12	blood	positive	Mouse 12 Blood Ma RESV
+MSV000080930	Mouse 12 Dorsal skin Ma RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 12	skin of back	negative	Mouse 12 Dorsal skin Ma RESV
+MSV000080930	Mouse 12 Dorsal skin Ma RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 12	skin of back	positive	Mouse 12 Dorsal skin Ma RESV
+MSV000080930	Mouse 12 Liver Ma RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 12	liver	negative	Mouse 12 Liver Ma RESV
+MSV000080930	Mouse 12 Liver Ma RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 12	liver	positive	Mouse 12 Liver Ma RESV
+MSV000080930	Mouse 13 Blood CMC control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 13	blood	negative	Mouse 13 Blood CMC control
+MSV000080930	Mouse 13 Blood CMC control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 13	blood	positive	Mouse 13 Blood CMC control
+MSV000080930	Mouse 13 Dorsal skin CMC control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 13	skin of back	negative	Mouse 13 Dorsal skin CMC control
+MSV000080930	Mouse 13 Dorsal skin CMC control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 13	skin of back	positive	Mouse 13 Dorsal skin CMC control
+MSV000080930	Mouse 13 Liver CMC control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 13	liver	negative	Mouse 13 Liver CMC control
+MSV000080930	Mouse 13 Liver CMC control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 13	liver	positive	Mouse 13 Liver CMC control
+MSV000080930	Mouse 14 Blood CMC control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 14	blood	negative	Mouse 14 Blood CMC control
+MSV000080930	Mouse 14 Blood CMC control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 14	blood	positive	Mouse 14 Blood CMC control
+MSV000080930	Mouse 14 Dorsal skin CMC control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 14	skin of back	negative	Mouse 14 Dorsal skin CMC control
+MSV000080930	Mouse 14 Dorsal skin CMC control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 14	skin of back	positive	Mouse 14 Dorsal skin CMC control
+MSV000080930	Mouse 14 Liver CMC control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 14	liver	negative	Mouse 14 Liver CMC control
+MSV000080930	Mouse 14 Liver CMC control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 14	liver	positive	Mouse 14 Liver CMC control
+MSV000080930	Mouse 15 Blood CMC control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 15	blood	negative	Mouse 15 Blood CMC control
+MSV000080930	Mouse 15 Blood CMC control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 15	blood	positive	Mouse 15 Blood CMC control
+MSV000080930	Mouse 15 Dorsal skin CMC control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 15	skin of back	negative	Mouse 15 Dorsal skin CMC control
+MSV000080930	Mouse 15 Dorsal skin CMC control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 15	skin of back	positive	Mouse 15 Dorsal skin CMC control
+MSV000080930	Mouse 15 Liver CMC control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 15	liver	negative	Mouse 15 Liver CMC control
+MSV000080930	Mouse 15 Liver CMC control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 15	liver	positive	Mouse 15 Liver CMC control
+MSV000080930	Mouse 16 Blood CMC RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 16	blood	negative	Mouse 16 Blood CMC RESV
+MSV000080930	Mouse 16 Blood CMC RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 16	blood	positive	Mouse 16 Blood CMC RESV
+MSV000080930	Mouse 16 Dorsal skin CMC RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 16	skin of back	negative	Mouse 16 Dorsal skin CMC RESV
+MSV000080930	Mouse 16 Dorsal skin CMC RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 16	skin of back	positive	Mouse 16 Dorsal skin CMC RESV
+MSV000080930	Mouse 16 Liver CMC RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 16	liver	negative	Mouse 16 Liver CMC RESV
+MSV000080930	Mouse 16 Liver CMC RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 16	liver	positive	Mouse 16 Liver CMC RESV
+MSV000080930	Mouse 17 Blood CMC RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 17	blood	negative	Mouse 17 Blood CMC RESV
+MSV000080930	Mouse 17 Blood CMC RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 17	blood	positive	Mouse 17 Blood CMC RESV
+MSV000080930	Mouse 17 Dorsal skin CMC RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 17	skin of back	negative	Mouse 17 Dorsal skin CMC RESV
+MSV000080930	Mouse 17 Dorsal skin CMC RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 17	skin of back	positive	Mouse 17 Dorsal skin CMC RESV
+MSV000080930	Mouse 17 Liver CMC RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 17	liver	negative	Mouse 17 Liver CMC RESV
+MSV000080930	Mouse 17 Liver CMC RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 17	liver	positive	Mouse 17 Liver CMC RESV
+MSV000080930	Mouse 18 Blood CMC RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 18	blood	negative	Mouse 18 Blood CMC RESV
+MSV000080930	Mouse 18 Blood CMC RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 18	blood	positive	Mouse 18 Blood CMC RESV
+MSV000080930	Mouse 18 Dorsal skin CMC RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 18	skin of back	negative	Mouse 18 Dorsal skin CMC RESV
+MSV000080930	Mouse 18 Dorsal skin CMC RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 18	skin of back	positive	Mouse 18 Dorsal skin CMC RESV
+MSV000080930	Mouse 18 Liver CMC RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 18	liver	negative	Mouse 18 Liver CMC RESV
+MSV000080930	Mouse 18 Liver CMC RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 18	liver	positive	Mouse 18 Liver CMC RESV
+MSV000080930	Mouse 19 Blood EtOH control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 19	blood	negative	Mouse 19 Blood EtOH control
+MSV000080930	Mouse 19 Blood EtOH control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 19	blood	positive	Mouse 19 Blood EtOH control
+MSV000080930	Mouse 19 Dorsal skin EtOH control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 19	skin of back	negative	Mouse 19 Dorsal skin EtOH control
+MSV000080930	Mouse 19 Dorsal skin EtOH control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 19	skin of back	positive	Mouse 19 Dorsal skin EtOH control
+MSV000080930	Mouse 19 Liver EtOH control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 19	liver	negative	Mouse 19 Liver EtOH control
+MSV000080930	Mouse 19 Liver EtOH control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 19	liver	positive	Mouse 19 Liver EtOH control
+MSV000080930	Mouse 1 Blood HO control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 1	blood	negative	Mouse 1 Blood HO control
+MSV000080930	Mouse 1 Blood HO control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 1	blood	positive	Mouse 1 Blood HO control
+MSV000080930	Mouse 1 Dorsal skin HO control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 1	skin of back	negative	Mouse 1 Dorsal skin HO control
+MSV000080930	Mouse 1 Dorsal skin HO control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 1	skin of back	positive	Mouse 1 Dorsal skin HO control
+MSV000080930	Mouse 1 Liver HO control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 1	liver	negative	Mouse 1 Liver HO control
+MSV000080930	Mouse 1 Liver HO control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 1	liver	positive	Mouse 1 Liver HO control
+MSV000080930	Mouse 20 Blood EtOH control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 20	blood	negative	Mouse 20 Blood EtOH control
+MSV000080930	Mouse 20 Blood EtOH control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 20	blood	positive	Mouse 20 Blood EtOH control
+MSV000080930	Mouse 20 Dorsal skin EtOH control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 20	skin of back	negative	Mouse 20 Dorsal skin EtOH control
+MSV000080930	Mouse 20 Dorsal skin EtOH control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 20	skin of back	positive	Mouse 20 Dorsal skin EtOH control
+MSV000080930	Mouse 20 Liver EtOH control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 20	liver	negative	Mouse 20 Liver EtOH control
+MSV000080930	Mouse 20 Liver EtOH control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 20	liver	positive	Mouse 20 Liver EtOH control
+MSV000080930	Mouse 21 Blood EtOH control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 21	blood	negative	Mouse 21 Blood EtOH control
+MSV000080930	Mouse 21 Blood EtOH control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 21	blood	positive	Mouse 21 Blood EtOH control
+MSV000080930	Mouse 21 Dorsal skin EtOH control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 21	skin of back	negative	Mouse 21 Dorsal skin EtOH control
+MSV000080930	Mouse 21 Dorsal skin EtOH control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 21	skin of back	positive	Mouse 21 Dorsal skin EtOH control
+MSV000080930	Mouse 21 Liver EtOH control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 21	liver	negative	Mouse 21 Liver EtOH control
+MSV000080930	Mouse 21 Liver EtOH control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 21	liver	positive	Mouse 21 Liver EtOH control
+MSV000080930	Mouse 22 Blood EtOH RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 22	blood	negative	Mouse 22 Blood EtOH RESV
+MSV000080930	Mouse 22 Blood EtOH RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 22	blood	positive	Mouse 22 Blood EtOH RESV
+MSV000080930	Mouse 22 Dorsal skin EtOH RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 22	skin of back	negative	Mouse 22 Dorsal skin EtOH RESV
+MSV000080930	Mouse 22 Dorsal skin EtOH RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 22	skin of back	positive	Mouse 22 Dorsal skin EtOH RESV
+MSV000080930	Mouse 22 Liver EtOH RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 22	liver	negative	Mouse 22 Liver EtOH RESV
+MSV000080930	Mouse 22 Liver EtOH RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 22	liver	positive	Mouse 22 Liver EtOH RESV
+MSV000080930	Mouse 23 Blood EtOH RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 23	blood	negative	Mouse 23 Blood EtOH RESV
+MSV000080930	Mouse 23 Blood EtOH RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 23	blood	positive	Mouse 23 Blood EtOH RESV
+MSV000080930	Mouse 23 Dorsal skin EtOH RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 23	skin of back	negative	Mouse 23 Dorsal skin EtOH RESV
+MSV000080930	Mouse 23 Dorsal skin EtOH RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 23	skin of back	positive	Mouse 23 Dorsal skin EtOH RESV
+MSV000080930	Mouse 23 Liver EtOH RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 23	liver	negative	Mouse 23 Liver EtOH RESV
+MSV000080930	Mouse 23 Liver EtOH RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 23	liver	positive	Mouse 23 Liver EtOH RESV
+MSV000080930	Mouse 24 Blood EtOH RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 24	blood	negative	Mouse 24 Blood EtOH RESV
+MSV000080930	Mouse 24 Blood EtOH RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 24	blood	positive	Mouse 24 Blood EtOH RESV
+MSV000080930	Mouse 24 Dorsal skin EtOH RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 24	skin of back	negative	Mouse 24 Dorsal skin EtOH RESV
+MSV000080930	Mouse 24 Dorsal skin EtOH RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 24	skin of back	positive	Mouse 24 Dorsal skin EtOH RESV
+MSV000080930	Mouse 24 Liver EtOH RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 24	liver	negative	Mouse 24 Liver EtOH RESV
+MSV000080930	Mouse 24 Liver EtOH RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 24	liver	positive	Mouse 24 Liver EtOH RESV
+MSV000080930	Mouse 2 Blood HO control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 2	blood	negative	Mouse 2 Blood HO control
+MSV000080930	Mouse 2 Blood HO control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 2	blood	positive	Mouse 2 Blood HO control
+MSV000080930	Mouse 2 Dorsal skin HO control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 2	skin of back	negative	Mouse 2 Dorsal skin HO control
+MSV000080930	Mouse 2 Dorsal skin HO control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 2	skin of back	positive	Mouse 2 Dorsal skin HO control
+MSV000080930	Mouse 2 Liver HO control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 2	liver	negative	Mouse 2 Liver HO control
+MSV000080930	Mouse 2 Liver HO control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 2	liver	positive	Mouse 2 Liver HO control
+MSV000080930	Mouse 3 Blood HO control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 3	blood	negative	Mouse 3 Blood HO control
+MSV000080930	Mouse 3 Blood HO control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 3	blood	positive	Mouse 3 Blood HO control
+MSV000080930	Mouse 3 Dorsal skin HO control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 3	skin of back	negative	Mouse 3 Dorsal skin HO control
+MSV000080930	Mouse 3 Dorsal skin HO control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 3	skin of back	positive	Mouse 3 Dorsal skin HO control
+MSV000080930	Mouse 3 Liver HO control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 3	liver	negative	Mouse 3 Liver HO control
+MSV000080930	Mouse 3 Liver HO control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 3	liver	positive	Mouse 3 Liver HO control
+MSV000080930	Mouse 4 Blood HO RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 4	blood	negative	Mouse 4 Blood HO RESV
+MSV000080930	Mouse 4 Blood HO RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 4	blood	positive	Mouse 4 Blood HO RESV
+MSV000080930	Mouse 4 Dorsal skin HO RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 4	skin of back	negative	Mouse 4 Dorsal skin HO RESV
+MSV000080930	Mouse 4 Dorsal skin HO RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 4	skin of back	positive	Mouse 4 Dorsal skin HO RESV
+MSV000080930	Mouse 4 Liver HO RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 4	liver	negative	Mouse 4 Liver HO RESV
+MSV000080930	Mouse 4 Liver HO RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 4	liver	positive	Mouse 4 Liver HO RESV
+MSV000080930	Mouse 5 Blood HO RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 5	blood	negative	Mouse 5 Blood HO RESV
+MSV000080930	Mouse 5 Blood HO RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 5	blood	positive	Mouse 5 Blood HO RESV
+MSV000080930	Mouse 5 Dorsal skin HO RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 5	skin of back	negative	Mouse 5 Dorsal skin HO RESV
+MSV000080930	Mouse 5 Dorsal skin HO RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 5	skin of back	positive	Mouse 5 Dorsal skin HO RESV
+MSV000080930	Mouse 5 Liver HO RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 5	liver	negative	Mouse 5 Liver HO RESV
+MSV000080930	Mouse 5 Liver HO RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 5	liver	positive	Mouse 5 Liver HO RESV
+MSV000080930	Mouse 6 Blood HO RESV NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 6	blood	negative	Mouse 6 Blood HO RESV
+MSV000080930	Mouse 6 Blood HO RESV POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 6	blood	positive	Mouse 6 Blood HO RESV
+MSV000080930	Mouse 6 Dorsal skin HO RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 6	skin of back	negative	Mouse 6 Dorsal skin HO RESV
+MSV000080930	Mouse 6 Dorsal skin HO RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 6	skin of back	positive	Mouse 6 Dorsal skin HO RESV
+MSV000080930	Mouse 6 Liver HO RESV NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 6	liver	negative	Mouse 6 Liver HO RESV
+MSV000080930	Mouse 6 Liver HO RESV POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 6	liver	positive	Mouse 6 Liver HO RESV
+MSV000080930	Mouse 7 Blood Ma control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 7	blood	negative	Mouse 7 Blood Ma control
+MSV000080930	Mouse 7 Blood Ma control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 7	blood	positive	Mouse 7 Blood Ma control
+MSV000080930	Mouse 7 Dorsal skin Ma control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 7	skin of back	negative	Mouse 7 Dorsal skin Ma control
+MSV000080930	Mouse 7 Dorsal skin Ma control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 7	skin of back	positive	Mouse 7 Dorsal skin Ma control
+MSV000080930	Mouse 7 Liver Ma control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 7	liver	negative	Mouse 7 Liver Ma control
+MSV000080930	Mouse 7 Liver Ma control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 7	liver	positive	Mouse 7 Liver Ma control
+MSV000080930	Mouse 8 Blood Ma control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 8	blood	negative	Mouse 8 Blood Ma control
+MSV000080930	Mouse 8 Blood Ma control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 8	blood	positive	Mouse 8 Blood Ma control
+MSV000080930	Mouse 8 Dorsal skin Ma control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 8	skin of back	negative	Mouse 8 Dorsal skin Ma control
+MSV000080930	Mouse 8 Dorsal skin Ma control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 8	skin of back	positive	Mouse 8 Dorsal skin Ma control
+MSV000080930	Mouse 8 Liver Ma control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 8	liver	negative	Mouse 8 Liver Ma control
+MSV000080930	Mouse 8 Liver Ma control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 8	liver	positive	Mouse 8 Liver Ma control
+MSV000080930	Mouse 9 Blood Ma control NEG.mzML	animal	biofluid	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 9	blood	negative	Mouse 9 Blood Ma control
+MSV000080930	Mouse 9 Blood Ma control POS.mzML	animal	biofluid	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 9	blood	positive	Mouse 9 Blood Ma control
+MSV000080930	Mouse 9 Dorsal skin Ma control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 9	skin of back	negative	Mouse 9 Dorsal skin Ma control
+MSV000080930	Mouse 9 Dorsal skin Ma control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 9	skin of back	positive	Mouse 9 Dorsal skin Ma control
+MSV000080930	Mouse 9 Liver Ma control NEG.mzML	animal	tissue	10090|Mus musculus	missing value	LTQ Orbitrap Classic|MS:1002835	missing value	Mouse 9	liver	negative	Mouse 9 Liver Ma control
+MSV000080930	Mouse 9 Liver Ma control POS.mzML	animal	tissue	10090|Mus musculus	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Mouse 9	liver	positive	Mouse 9 Liver Ma control

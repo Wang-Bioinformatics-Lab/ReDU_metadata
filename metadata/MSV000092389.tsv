@@ -1,0 +1,173 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	SubjectIdentifierAsRecorded	TimePointHoursRelativeToEvent	Exposure	MassSpectrometer	Sample_Type_source	Timepoint_min	Sampling_Location	Analysis_order
+MSV000092389	bld_plt1_01_0_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_1	0	missing value	Q Exactive|MS:1001911	plasma	0	not applicable	19
+MSV000092389	bld_plt1_01_120_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_1	2	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	120	not applicable	32
+MSV000092389	bld_plt1_01_600_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_1	10	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	600	not applicable	51
+MSV000092389	bld_plt1_01_720_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_1	12	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	720	not applicable	50
+MSV000092389	bld_plt1_03_0_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_3	0	missing value	Q Exactive|MS:1001911	plasma	0	not applicable	20
+MSV000092389	bld_plt1_03_480_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_3	8	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	480	not applicable	52
+MSV000092389	bld_plt1_03_600_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_3	10	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	600	not applicable	45
+MSV000092389	bld_plt1_04_240_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_4	4	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	240	not applicable	29
+MSV000092389	bld_plt1_04_480_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_4	8	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	480	not applicable	23
+MSV000092389	bld_plt1_04_600_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_4	10	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	600	not applicable	3
+MSV000092389	bld_plt1_05_240_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_5	4	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	240	not applicable	30
+MSV000092389	bld_plt1_05_480_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_5	8	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	480	not applicable	43
+MSV000092389	bld_plt1_05_600_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_5	10	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	600	not applicable	55
+MSV000092389	bld_plt1_07_120_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_7	2	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	120	not applicable	34
+MSV000092389	bld_plt1_07_240_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_7	4	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	240	not applicable	58
+MSV000092389	bld_plt1_07_600_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_7	10	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	600	not applicable	47
+MSV000092389	bld_plt1_08_240_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_8	4	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	240	not applicable	2
+MSV000092389	bld_plt1_08_600_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_8	10	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	600	not applicable	39
+MSV000092389	bld_plt1_08_720_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_8	12	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	720	not applicable	60
+MSV000092389	bld_plt1_10_0_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_10	0	missing value	Q Exactive|MS:1001911	plasma	0	not applicable	28
+MSV000092389	bld_plt1_10_120_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_10	2	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	120	not applicable	53
+MSV000092389	bld_plt1_10_600_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_10	10	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	600	not applicable	41
+MSV000092389	bld_plt1_blk_02.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	plasma_blank	not applicable	not applicable	13
+MSV000092389	bld_plt2_01_240_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_1	4	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	240	not applicable	72
+MSV000092389	bld_plt2_01_480_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_1	8	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	480	not applicable	93
+MSV000092389	bld_plt2_03_120_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_3	2	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	120	not applicable	67
+MSV000092389	bld_plt2_03_240_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_3	4	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	240	not applicable	117
+MSV000092389	bld_plt2_03_720_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_3	12	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	720	not applicable	69
+MSV000092389	bld_plt2_04_0_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_4	0	missing value	Q Exactive|MS:1001911	plasma	0	not applicable	107
+MSV000092389	bld_plt2_04_120_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_4	2	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	120	not applicable	101
+MSV000092389	bld_plt2_04_720_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_4	12	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	720	not applicable	119
+MSV000092389	bld_plt2_05_0_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_5	0	missing value	Q Exactive|MS:1001911	plasma	0	not applicable	75
+MSV000092389	bld_plt2_05_120_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_5	2	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	120	not applicable	82
+MSV000092389	bld_plt2_05_720_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_5	12	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	720	not applicable	113
+MSV000092389	bld_plt2_07_0_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_7	0	missing value	Q Exactive|MS:1001911	plasma	0	not applicable	112
+MSV000092389	bld_plt2_07_480_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_7	8	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	480	not applicable	99
+MSV000092389	bld_plt2_07_720_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_7	12	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	720	not applicable	89
+MSV000092389	bld_plt2_08_0_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_8	0	missing value	Q Exactive|MS:1001911	plasma	0	not applicable	84
+MSV000092389	bld_plt2_08_120_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_8	2	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	120	not applicable	74
+MSV000092389	bld_plt2_08_480_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_8	8	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	480	not applicable	62
+MSV000092389	bld_plt2_10_240_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_10	4	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	240	not applicable	103
+MSV000092389	bld_plt2_10_480_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_10	8	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	480	not applicable	90
+MSV000092389	bld_plt2_10_720_1.mzML	animal	biofluid	9606|Homo sapiens	blood plasma	Subject_10	12	exposure to histamine antagonist	Q Exactive|MS:1001911	plasma	720	not applicable	70
+MSV000092389	bld_plt2_blk_04.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	plasma_blank	not applicable	not applicable	97
+MSV000092389	skin_01_0_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_1	0	missing value	Q Exactive|MS:1001911	skin	0	forehead	461
+MSV000092389	skin_01_0_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_1	0	missing value	Q Exactive|MS:1001911	skin	0	forearm	394
+MSV000092389	skin_01_0_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_1	0	missing value	Q Exactive|MS:1001911	skin	0	upper back	224
+MSV000092389	skin_01_120_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_1	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forehead	418
+MSV000092389	skin_01_120_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_1	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forearm	128
+MSV000092389	skin_01_120_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_1	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	upper back	390
+MSV000092389	skin_01_240_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_1	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forehead	243
+MSV000092389	skin_01_240_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_1	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forearm	175
+MSV000092389	skin_01_240_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_1	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	upper back	194
+MSV000092389	skin_01_480_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_1	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forehead	392
+MSV000092389	skin_01_480_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_1	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forearm	138
+MSV000092389	skin_01_480_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_1	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	upper back	455
+MSV000092389	skin_01_600_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_1	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forehead	291
+MSV000092389	skin_01_600_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_1	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forearm	410
+MSV000092389	skin_01_600_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_1	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	upper back	347
+MSV000092389	skin_01_720_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_1	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forehead	158
+MSV000092389	skin_01_720_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_1	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forearm	365
+MSV000092389	skin_01_720_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_1	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	upper back	372
+MSV000092389	skin_03_0_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_3	0	missing value	Q Exactive|MS:1001911	skin	0	forehead	260
+MSV000092389	skin_03_0_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_3	0	missing value	Q Exactive|MS:1001911	skin	0	forearm	129
+MSV000092389	skin_03_0_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_3	0	missing value	Q Exactive|MS:1001911	skin	0	upper back	272
+MSV000092389	skin_03_120_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_3	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forehead	425
+MSV000092389	skin_03_120_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_3	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forearm	185
+MSV000092389	skin_03_120_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_3	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	upper back	367
+MSV000092389	skin_03_240_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_3	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forehead	154
+MSV000092389	skin_03_240_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_3	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forearm	131
+MSV000092389	skin_03_240_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_3	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	upper back	187
+MSV000092389	skin_03_480_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_3	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forehead	430
+MSV000092389	skin_03_480_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_3	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forearm	302
+MSV000092389	skin_03_480_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_3	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	upper back	248
+MSV000092389	skin_03_600_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_3	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forehead	320
+MSV000092389	skin_03_600_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_3	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forearm	142
+MSV000092389	skin_03_600_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_3	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	upper back	375
+MSV000092389	skin_03_720_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_3	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forehead	310
+MSV000092389	skin_03_720_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_3	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forearm	312
+MSV000092389	skin_03_720_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_3	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	upper back	258
+MSV000092389	skin_04_0_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_4	0	missing value	Q Exactive|MS:1001911	skin	0	forehead	201
+MSV000092389	skin_04_0_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_4	0	missing value	Q Exactive|MS:1001911	skin	0	forearm	220
+MSV000092389	skin_04_0_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_4	0	missing value	Q Exactive|MS:1001911	skin	0	upper back	407
+MSV000092389	skin_04_120_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_4	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forehead	200
+MSV000092389	skin_04_120_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_4	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forearm	314
+MSV000092389	skin_04_120_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_4	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	upper back	135
+MSV000092389	skin_04_240_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_4	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forehead	358
+MSV000092389	skin_04_240_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_4	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forearm	188
+MSV000092389	skin_04_240_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_4	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	upper back	166
+MSV000092389	skin_04_480_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_4	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forehead	402
+MSV000092389	skin_04_480_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_4	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forearm	167
+MSV000092389	skin_04_480_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_4	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	upper back	412
+MSV000092389	skin_04_600_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_4	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forehead	444
+MSV000092389	skin_04_600_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_4	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forearm	442
+MSV000092389	skin_04_600_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_4	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	upper back	296
+MSV000092389	skin_04_720_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_4	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forehead	236
+MSV000092389	skin_04_720_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_4	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forearm	278
+MSV000092389	skin_04_720_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_4	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	upper back	376
+MSV000092389	skin_05_0_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_5	0	missing value	Q Exactive|MS:1001911	skin	0	forehead	470
+MSV000092389	skin_05_0_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_5	0	missing value	Q Exactive|MS:1001911	skin	0	forearm	357
+MSV000092389	skin_05_0_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_5	0	missing value	Q Exactive|MS:1001911	skin	0	upper back	333
+MSV000092389	skin_05_120_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_5	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forehead	289
+MSV000092389	skin_05_120_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_5	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forearm	371
+MSV000092389	skin_05_120_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_5	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	upper back	170
+MSV000092389	skin_05_240_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_5	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forehead	344
+MSV000092389	skin_05_240_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_5	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forearm	438
+MSV000092389	skin_05_240_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_5	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	upper back	160
+MSV000092389	skin_05_480_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_5	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forehead	136
+MSV000092389	skin_05_480_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_5	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forearm	251
+MSV000092389	skin_05_480_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_5	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	upper back	343
+MSV000092389	skin_05_600_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_5	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forehead	356
+MSV000092389	skin_05_600_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_5	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forearm	274
+MSV000092389	skin_05_600_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_5	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	upper back	308
+MSV000092389	skin_05_720_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_5	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forehead	254
+MSV000092389	skin_05_720_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_5	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forearm	303
+MSV000092389	skin_05_720_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_5	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	upper back	459
+MSV000092389	skin_07_0_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_7	0	missing value	Q Exactive|MS:1001911	skin	0	forehead	212
+MSV000092389	skin_07_0_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_7	0	missing value	Q Exactive|MS:1001911	skin	0	forearm	240
+MSV000092389	skin_07_0_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_7	0	missing value	Q Exactive|MS:1001911	skin	0	upper back	149
+MSV000092389	skin_07_120_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_7	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forehead	346
+MSV000092389	skin_07_120_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_7	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forearm	364
+MSV000092389	skin_07_120_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_7	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	upper back	389
+MSV000092389	skin_07_240_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_7	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forehead	256
+MSV000092389	skin_07_240_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_7	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forearm	157
+MSV000092389	skin_07_240_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_7	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	upper back	137
+MSV000092389	skin_07_480_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_7	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forehead	133
+MSV000092389	skin_07_480_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_7	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forearm	329
+MSV000092389	skin_07_480_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_7	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	upper back	363
+MSV000092389	skin_07_600_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_7	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forehead	471
+MSV000092389	skin_07_600_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_7	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forearm	439
+MSV000092389	skin_07_600_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_7	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	upper back	227
+MSV000092389	skin_07_720_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_7	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forehead	396
+MSV000092389	skin_07_720_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_7	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forearm	362
+MSV000092389	skin_07_720_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_7	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	upper back	453
+MSV000092389	skin_08_0_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_8	0	missing value	Q Exactive|MS:1001911	skin	0	forehead	219
+MSV000092389	skin_08_0_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_8	0	missing value	Q Exactive|MS:1001911	skin	0	forearm	231
+MSV000092389	skin_08_0_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_8	0	missing value	Q Exactive|MS:1001911	skin	0	upper back	398
+MSV000092389	skin_08_120_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_8	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forehead	237
+MSV000092389	skin_08_120_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_8	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forearm	443
+MSV000092389	skin_08_120_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_8	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	upper back	432
+MSV000092389	skin_08_240_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_8	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forehead	440
+MSV000092389	skin_08_240_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_8	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forearm	209
+MSV000092389	skin_08_240_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_8	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	upper back	155
+MSV000092389	skin_08_480_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_8	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forehead	413
+MSV000092389	skin_08_480_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_8	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forearm	335
+MSV000092389	skin_08_480_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_8	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	upper back	422
+MSV000092389	skin_08_600_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_8	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forehead	285
+MSV000092389	skin_08_600_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_8	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forearm	421
+MSV000092389	skin_08_600_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_8	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	upper back	379
+MSV000092389	skin_08_720_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_8	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forehead	195
+MSV000092389	skin_08_720_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_8	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forearm	380
+MSV000092389	skin_08_720_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_8	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	upper back	476
+MSV000092389	skin_10_0_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_10	0	missing value	Q Exactive|MS:1001911	skin	0	forehead	305
+MSV000092389	skin_10_0_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_10	0	missing value	Q Exactive|MS:1001911	skin	0	forearm	400
+MSV000092389	skin_10_0_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_10	0	missing value	Q Exactive|MS:1001911	skin	0	upper back	307
+MSV000092389	skin_10_120_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_10	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forehead	460
+MSV000092389	skin_10_120_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_10	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	forearm	203
+MSV000092389	skin_10_120_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_10	2	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	120	upper back	221
+MSV000092389	skin_10_240_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_10	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forehead	325
+MSV000092389	skin_10_240_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_10	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	forearm	355
+MSV000092389	skin_10_240_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_10	4	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	240	upper back	262
+MSV000092389	skin_10_480_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_10	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forehead	349
+MSV000092389	skin_10_480_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_10	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	forearm	373
+MSV000092389	skin_10_480_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_10	8	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	480	upper back	384
+MSV000092389	skin_10_600_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_10	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forehead	326
+MSV000092389	skin_10_600_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_10	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	forearm	204
+MSV000092389	skin_10_600_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_10	10	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	600	upper back	351
+MSV000092389	skin_10_720_FH.mzML	animal	tissue	9606|Homo sapiens	skin of forehead	Subject_10	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forehead	169
+MSV000092389	skin_10_720_OF.mzML	animal	tissue	9606|Homo sapiens	skin of forearm	Subject_10	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	forearm	208
+MSV000092389	skin_10_720_UB.mzML	animal	tissue	9606|Homo sapiens	skin of back	Subject_10	12	exposure to histamine antagonist	Q Exactive|MS:1001911	skin	720	upper back	478
+MSV000092389	skin_blank_03.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	skin_blank	not applicable	not applicable	147
+MSV000092389	skin_blank_20.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	skin_blank	not applicable	not applicable	322

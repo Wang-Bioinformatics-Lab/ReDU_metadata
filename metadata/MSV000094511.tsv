@@ -1,0 +1,38 @@
+MassiveID	filename	SampleType	SampleTypeSub1	FoodOntologyTerm	NCBITaxonomy	Country	ChromatographyAndPhase	MassSpectrometer	Sample_recorded	Species_recorded
+MSV000094511	4_Blanco.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Blank	Blank
+MSV000094511	7_Qc1_5.mzML	pool_QC	pool_QC	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	QC	QC
+MSV000094511	8_Qc2_3.mzML	pool_QC	pool_QC	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	QC	QC
+MSV000094511	10_RIG003_1.mzML	food	food_source_animal	honey	486752|Melipona fuscopilosa	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fuscopilosa
+MSV000094511	11_Sample_FIED001_2.mzML	food	food_source_animal	honey	486752|Melipona fuscopilosa	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fuscopilosa
+MSV000094511	12_Sample_RGY001_3.mzML	food	food_source_animal	honey	486752|Melipona fuscopilosa	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fuscopilosa
+MSV000094511	13_Sample_RIG003_3.mzML	food	food_source_animal	honey	486752|Melipona fuscopilosa	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fuscopilosa
+MSV000094511	14_Sample_RYTA006_2.mzML	food	food_source_animal	honey	166442|Tetragonisca angustula	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	T. angustula
+MSV000094511	15_QC1_4.mzML	pool_QC	pool_QC	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	QC	QC
+MSV000094511	16_Sample_RYMG001_3.mzML	food	food_source_animal	honey	596912|Melipona fasciculata	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fasciculata
+MSV000094511	17_Sample_RGY001_1.mzML	food	food_source_animal	honey	486752|Melipona fuscopilosa	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fuscopilosa
+MSV000094511	18_Sample_FIED001_1.mzML	food	food_source_animal	honey	486752|Melipona fuscopilosa	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fuscopilosa
+MSV000094511	19_Sample_RYMG001_2.mzML	food	food_source_animal	honey	596912|Melipona fasciculata	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fasciculata
+MSV000094511	20_Sample_ER001_1.mzML	food	food_source_animal	honey	166442|Tetragonisca angustula	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	T. angustula
+MSV000094511	21_Qc2_2.mzML	pool_QC	pool_QC	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	QC	QC
+MSV000094511	22_Sample_ATA001_2.mzML	food	food_source_animal	honey	166442|Tetragonisca angustula	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	T. angustula
+MSV000094511	23_RIG003_2.mzML	food	food_source_animal	honey	486752|Melipona fuscopilosa	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fuscopilosa
+MSV000094511	25_Sample_RYTA006_3.mzML	food	food_source_animal	honey	166442|Tetragonisca angustula	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	T. angustula
+MSV000094511	26_Sample_RYTA006_1.mzML	food	food_source_animal	honey	166442|Tetragonisca angustula	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	T. angustula
+MSV000094511	27_Sample_RIG005_3.mzML	food	food_source_animal	honey	596912|Melipona fasciculata	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fasciculata
+MSV000094511	28_Qc3_3.mzML	pool_QC	pool_QC	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	QC	QC
+MSV000094511	29_Sample_RGB004_1.mzML	food	food_source_animal	honey	596912|Melipona fasciculata	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fasciculata
+MSV000094511	30_Sample_RGB004_3.mzML	food	food_source_animal	honey	596912|Melipona fasciculata	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fasciculata
+MSV000094511	31_Sample_FIED001_3.mzML	food	food_source_animal	honey	486752|Melipona fuscopilosa	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fuscopilosa
+MSV000094511	32_Sample_ATA001_3.mzML	food	food_source_animal	honey	166442|Tetragonisca angustula	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	T. angustula
+MSV000094511	33_Sample_ATA001_1.mzML	food	food_source_animal	honey	166442|Tetragonisca angustula	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	T. angustula
+MSV000094511	34_Qc1_2.mzML	pool_QC	pool_QC	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	QC	QC
+MSV000094511	35_Sample_RGY001_2.mzML	food	food_source_animal	honey	486752|Melipona fuscopilosa	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fuscopilosa
+MSV000094511	36_Sample_RGB004_2.mzML	food	food_source_animal	honey	596912|Melipona fasciculata	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fasciculata
+MSV000094511	37_Sample_RIG005_1.mzML	food	food_source_animal	honey	596912|Melipona fasciculata	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fasciculata
+MSV000094511	38_Sample_ER001_2.mzML	food	food_source_animal	honey	166442|Tetragonisca angustula	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	T. angustula
+MSV000094511	40_Sample_RYMG001_1.mzML	food	food_source_animal	honey	596912|Melipona fasciculata	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fasciculata
+MSV000094511	41_Qc2_4.mzML	pool_QC	pool_QC	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	QC	QC
+MSV000094511	42_Sample_RIG005_2.mzML	food	food_source_animal	honey	596912|Melipona fasciculata	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	M. fasciculata
+MSV000094511	43_Sample_ER001_3.mzML	food	food_source_animal	honey	166442|Tetragonisca angustula	Ecuador	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	Sample	T. angustula
+MSV000094511	44_Qc2_5.mzML	pool_QC	pool_QC	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	QC	QC
+MSV000094511	45_Qc3_2.mzML	pool_QC	pool_QC	missing value	missing value	missing value	gas chromatography (NOS)	GCMS-QP2020NX|MS:1003572	QC	QC

@@ -1,0 +1,56 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	YearOfAnalysis	exposuretype	SampleGroupFreeText
+MSV000084847	A32_133_1B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A32_133_2B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A32_133_3B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A32_133_4B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A32_133_5B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A32_133_6B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A24_125_1B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A24_125_2B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A24_125_4B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A24_125_5B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A24_125_6B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A25_126_1B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A25_126_2B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A25_126_3B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A25_126_4B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A25_126_5B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A25_126_6B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A26_127_1B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A26_127_2B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A26_127_3B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A26_127_4B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A26_127_5B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A26_127_6B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A27_128_1B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A27_128_2B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A27_128_3B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A27_128_4B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A27_128_5B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A27_128_6B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	IHC	exposuretype: IHC
+MSV000084847	A29_130_1B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A29_130_2B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A29_130_3B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A29_130_4B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A29_130_5B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A29_130_6B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A30_131_1B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A30_131_2B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A30_131_4B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A30_131_5B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A30_131_6B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A31_132_1B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A31_132_2B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A31_132_3B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A31_132_4B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A31_132_5B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	A31_132_6B.mzXML	animal	biofluid	10090|Mus musculus	feces	Q Exactive|MS:1001911	missing value	Air	exposuretype: Air
+MSV000084847	Blank_G1_1uL.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value
+MSV000084847	Blank_G1_1uL_180731201524.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2018	missing value	missing value
+MSV000084847	Blank_G1_1uL_180731212554.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2018	missing value	missing value
+MSV000084847	Blank_G1_1uL_180731223626.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2018	missing value	missing value
+MSV000084847	Blank_G1_1uL_180731234700.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2018	missing value	missing value
+MSV000084847	Blank_G1_1uL_180801004729.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2018	missing value	missing value
+MSV000084847	Blank_G1_1uL_180801015759.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2018	missing value	missing value
+MSV000084847	Blank_G1_5uL.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value
+MSV000084847	Blank_G1_5uL_180731180422.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	2018	missing value	missing value

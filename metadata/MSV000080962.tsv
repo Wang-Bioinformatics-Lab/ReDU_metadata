@@ -1,0 +1,29 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	MassSpectrometer	ChromatographyAndPhase	SubjectIdentifierAsRecorded	UBERONBodyPartName	Polarity	sample_name
+MSV000080962	Person1_Blood_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person1	blood	negative	Person1_Blood
+MSV000080962	Person1_Blood_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person1	blood	positive	Person1_Blood
+MSV000080962	Person1_Plasma_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person1	blood plasma	negative	Person1_Plasma
+MSV000080962	Person1_Plasma_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person1	blood plasma	positive	Person1_Plasma
+MSV000080962	Person1_RBC_NEG.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person1	erythrocyte	negative	Person1_RBC
+MSV000080962	Person1_RBC_POS.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person1	erythrocyte	positive	Person1_RBC
+MSV000080962	Person2_Blood_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person2	blood	negative	Person2_Blood
+MSV000080962	Person2_Blood_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person2	blood	positive	Person2_Blood
+MSV000080962	Person2_Plasma_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person2	blood plasma	negative	Person2_Plasma
+MSV000080962	Person2_Plasma_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person2	blood plasma	positive	Person2_Plasma
+MSV000080962	Person2_RBC_NEG.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person2	erythrocyte	negative	Person2_RBC
+MSV000080962	Person2_RBC_POS.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person2	erythrocyte	positive	Person2_RBC
+MSV000080962	Person2_WBC_NEG.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person2	leukocyte	negative	Person2_WBC
+MSV000080962	Person2_WBC_POS.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person2	leukocyte	positive	Person2_WBC
+MSV000080962	Person3_Blood_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person3	blood	negative	Person3_Blood
+MSV000080962	Person3_Blood_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person3	blood	positive	Person3_Blood
+MSV000080962	Person3_Plasma_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person3	blood plasma	negative	Person3_Plasma
+MSV000080962	Person3_Plasma_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person3	blood plasma	positive	Person3_Plasma
+MSV000080962	Person3_RBC_NEG.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person3	erythrocyte	negative	Person3_RBC
+MSV000080962	Person3_RBC_POS.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person3	erythrocyte	positive	Person3_RBC
+MSV000080962	Person3_WBC_NEG.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person3	leukocyte	negative	Person3_WBC
+MSV000080962	Person3_WBC_POS.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Person3	leukocyte	positive	Person3_WBC
+MSV000080962	Spombe_cell_sample1_NEG.mzML	culture_fungal	culture_fungal	4896|Schizosaccharomyces pombe	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	missing value	missing value	negative	Spombe_cell_sample1
+MSV000080962	Spombe_cell_sample1_POS.mzML	culture_fungal	culture_fungal	4896|Schizosaccharomyces pombe	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	missing value	missing value	positive	Spombe_cell_sample1
+MSV000080962	Spombe_cell_sample2_NEG.mzML	culture_fungal	culture_fungal	4896|Schizosaccharomyces pombe	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	missing value	missing value	negative	Spombe_cell_sample2
+MSV000080962	Spombe_cell_sample2_POS.mzML	culture_fungal	culture_fungal	4896|Schizosaccharomyces pombe	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	missing value	missing value	positive	Spombe_cell_sample2
+MSV000080962	Spombe_cell_sample3_NEG.mzML	culture_fungal	culture_fungal	4896|Schizosaccharomyces pombe	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	missing value	missing value	negative	Spombe_cell_sample3
+MSV000080962	Spombe_cell_sample3_POS.mzML	culture_fungal	culture_fungal	4896|Schizosaccharomyces pombe	2014	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	missing value	missing value	positive	Spombe_cell_sample3

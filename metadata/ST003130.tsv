@@ -1,0 +1,131 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	SampleID	SampleSource	Exposure_group	Timepoint_h
+ST003130	Mblood_lipid_pos_P1.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P1	MBlood	ctl	2
+ST003130	Mblood_lipid_pos_P2.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P2	MBlood	lps	2
+ST003130	Mblood_lipid_pos_P5.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P5	MBlood	ctl	12
+ST003130	Mblood_lipid_pos_P6.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P6	MBlood	lps	12
+ST003130	Mblood_lipid_pos_P8.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P8	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P13.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P13	MBlood	ctl	12
+ST003130	Mblood_lipid_pos_P14.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P14	MBlood	lps	12
+ST003130	Mblood_lipid_pos_P15.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P15	MBlood	ctl	24
+ST003130	Mblood_lipid_pos_P16.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P16	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P20.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P20	MBlood	lps	2
+ST003130	Mblood_lipid_pos_P22.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P22	MBlood	lps	5
+ST003130	Mblood_lipid_pos_P23.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P23	MBlood	ctl	12
+ST003130	Mblood_lipid_pos_P24.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P24	MBlood	lps	12
+ST003130	Mblood_lipid_pos_P29.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P29	MBlood	ctl	5
+ST003130	Mblood_lipid_pos_P34.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P34	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P38.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P38	MBlood	lps	2
+ST003130	Mblood_lipid_pos_P39.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P39	MBlood	ctl	5
+ST003130	Mblood_lipid_pos_P43.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P43	MBlood	ctl	12
+ST003130	Mblood_lipid_pos_P44.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P44	MBlood	lps	12
+ST003130	Mblood_lipid_pos_P45.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P45	MBlood	ctl	24
+ST003130	Mblood_lipid_pos_P47.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P47	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P51.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P51	MBlood	ctl	2
+ST003130	Mblood_lipid_pos_P52.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P52	MBlood	lps	2
+ST003130	Mblood_lipid_pos_P53.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P53	MBlood	ctl	5
+ST003130	Mblood_lipid_pos_P54.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P54	MBlood	lps	5
+ST003130	Mblood_lipid_pos_P57.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P57	MBlood	ctl	24
+ST003130	Mblood_lipid_pos_P58.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P58	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P59.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P59	MBlood	ctl	2
+ST003130	Mblood_lipid_pos_P63.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P63	MBlood	ctl	12
+ST003130	Mblood_lipid_pos_P64.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P64	MBlood	lps	12
+ST003130	Mblood_lipid_pos_P65.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P65	MBlood	ctl	24
+ST003130	Mblood_lipid_pos_P66.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P66	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P68.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P68	MBlood	lps	5
+ST003130	Mblood_lipid_pos_P70.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P70	MBlood	ctl	24
+ST003130	Mblood_lipid_pos_P73.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P73	MBlood	ctl	12
+ST003130	Mblood_lipid_pos_P74.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P74	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P75.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P75	MBlood	ctl	12
+ST003130	Mblood_lipid_pos_P76.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P76	MBlood	lps	12
+ST003130	Mblood_lipid_pos_P81.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P81	MBlood	ctl	24
+ST003130	Mblood_lipid_pos_P82.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P82	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P83.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P83	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P84.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P84	MBlood	lps	24
+ST003130	Mblood_lipid_pos_P93.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P93	MBlood	ctl	2
+ST003130	Mblood_lipid_pos_P97.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	P97	MBlood	ctl	12
+ST003130	Mblood_lipid_pos_QC1.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC01	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC2.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC02	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC3.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC03	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC4.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC04	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC5.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC05	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC6.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC06	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC7.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC07	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC8.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC08	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC9.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC09	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC10.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC10	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC11.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC11	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC12.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC12	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC13.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC13	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC14.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC14	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC15.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC15	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC16.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC16	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC17.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC17	MBlood	-	-
+ST003130	Mblood_lipid_pos_QC18.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC18	MBlood	-	-
+ST003130	Mblood_lipid_pos_Blank01.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	Blank01	Blank	-	-
+ST003130	Mblood_lipid_pos_Blank02.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	Blank02	Blank	-	-
+ST003130	Mblood_lipid_pos_Blank03.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	Blank03	Blank	-	-
+ST003130	Mblood_lipid_neg_P1.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P1	MBlood	ctl	2
+ST003130	Mblood_lipid_neg_P2.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P2	MBlood	lps	2
+ST003130	Mblood_lipid_neg_P5.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P5	MBlood	ctl	12
+ST003130	Mblood_lipid_neg_P6.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P6	MBlood	lps	12
+ST003130	Mblood_lipid_neg_P8.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P8	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P13.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P13	MBlood	ctl	12
+ST003130	Mblood_lipid_neg_P14.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P14	MBlood	lps	12
+ST003130	Mblood_lipid_neg_P15.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P15	MBlood	ctl	24
+ST003130	Mblood_lipid_neg_P16.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P16	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P20.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P20	MBlood	lps	2
+ST003130	Mblood_lipid_neg_P22.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P22	MBlood	lps	5
+ST003130	Mblood_lipid_neg_P23.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P23	MBlood	ctl	12
+ST003130	Mblood_lipid_neg_P24.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P24	MBlood	lps	12
+ST003130	Mblood_lipid_neg_P29.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P29	MBlood	ctl	5
+ST003130	Mblood_lipid_neg_P34.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P34	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P38.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P38	MBlood	lps	2
+ST003130	Mblood_lipid_neg_P39.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P39	MBlood	ctl	5
+ST003130	Mblood_lipid_neg_P43.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P43	MBlood	ctl	12
+ST003130	Mblood_lipid_neg_P44.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P44	MBlood	lps	12
+ST003130	Mblood_lipid_neg_P45.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P45	MBlood	ctl	24
+ST003130	Mblood_lipid_neg_P47.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P47	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P51.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P51	MBlood	ctl	2
+ST003130	Mblood_lipid_neg_P52.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P52	MBlood	lps	2
+ST003130	Mblood_lipid_neg_P53.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P53	MBlood	ctl	5
+ST003130	Mblood_lipid_neg_P54.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P54	MBlood	lps	5
+ST003130	Mblood_lipid_neg_P57.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P57	MBlood	ctl	24
+ST003130	Mblood_lipid_neg_P58.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P58	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P59.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P59	MBlood	ctl	2
+ST003130	Mblood_lipid_neg_P63.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P63	MBlood	ctl	12
+ST003130	Mblood_lipid_neg_P64.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P64	MBlood	lps	12
+ST003130	Mblood_lipid_neg_P65.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P65	MBlood	ctl	24
+ST003130	Mblood_lipid_neg_P66.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P66	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P68.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P68	MBlood	lps	5
+ST003130	Mblood_lipid_neg_P70.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P70	MBlood	ctl	24
+ST003130	Mblood_lipid_neg_P73.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P73	MBlood	ctl	12
+ST003130	Mblood_lipid_neg_P74.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P74	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P75.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P75	MBlood	ctl	12
+ST003130	Mblood_lipid_neg_P76.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P76	MBlood	lps	12
+ST003130	Mblood_lipid_neg_P81.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P81	MBlood	ctl	24
+ST003130	Mblood_lipid_neg_P82.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P82	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P83.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P83	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P84.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P84	MBlood	lps	24
+ST003130	Mblood_lipid_neg_P93.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P93	MBlood	ctl	2
+ST003130	Mblood_lipid_neg_P97.mzML	animal	biofluid	10090|Mus musculus	blood plasma	female	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	P97	MBlood	ctl	12
+ST003130	Mblood_lipid_neg_QC01.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC01	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC02.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC02	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC03.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC03	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC04.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC04	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC05.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC05	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC06.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC06	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC07.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC07	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC08.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC08	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC09.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC09	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC10.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC10	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC11.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC11	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC12.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC12	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC13.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC13	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC14.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC14	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC15.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC15	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC16.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC16	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC17.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC17	MBlood	-	-
+ST003130	Mblood_lipid_neg_QC18.mzML	pool_QC	pool_QC	10090|Mus musculus	blood plasma	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC18	MBlood	-	-
+ST003130	Mblood_lipid_neg_Blank01.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	Blank01	Blank	-	-
+ST003130	Mblood_lipid_neg_Blank02.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	Blank02	Blank	-	-
+ST003130	Mblood_lipid_neg_Blank03.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	Blank03	Blank	-	-

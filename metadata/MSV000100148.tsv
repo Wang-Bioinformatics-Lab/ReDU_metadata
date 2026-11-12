@@ -1,0 +1,25 @@
+MassiveID	filename	SampleType	SampleTypeSub1	Country	MassSpectrometer	IonizationSourceAndPolarity	YearOfAnalysis	samplename	Sample	SampleType_recorded	Group
+MSV000100148	BB1_20250204_POS_1_modified.mzML	plant	plant_angiospermae	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	BB1	BB	Resin	2
+MSV000100148	BB2_20250204_POS_1_modified.mzML	plant	plant_angiospermae	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	BB2	BB	Resin	2
+MSV000100148	BB3_20250203_POS_1_modified.mzML	plant	plant_angiospermae	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	BB3	BB	Resin	2
+MSV000100148	BJ5_20250204_POS_1_modified.mzML	plant	plant_angiospermae	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	BJ5	BJ	Resin	1
+MSV000100148	BJ6_20250204_POS_1_modified.mzML	plant	plant_angiospermae	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	BJ6	BJ	Resin	1
+MSV000100148	BJ7_20250204_POS_1_modified.mzML	plant	plant_angiospermae	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	BJ7	BJ	Resin	1
+MSV000100148	BJ8_20250204_POS_1_modified.mzML	plant	plant_angiospermae	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	BJ8	BJ	Resin	1
+MSV000100148	BJ9_20250204_POS_1_modified.mzML	plant	plant_angiospermae	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	BJ9	BJ	Resin	1
+MSV000100148	MeOH_20250203_POS_1_modified.mzML	blank_analysis	blank_analysis	missing value	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	Blank1	Blank	Blank	6
+MSV000100148	MeOH_20250203_POS_2_modified.mzML	blank_analysis	blank_analysis	missing value	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	Blank2	Blank	Blank	6
+MSV000100148	MeOH_20250203_POS_3_modified.mzML	blank_analysis	blank_analysis	missing value	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	Blank3	Blank	Blank	6
+MSV000100148	MeOH_20250203_POS_4_modified.mzML	blank_analysis	blank_analysis	missing value	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	Blank4	Blank	Blank	6
+MSV000100148	MeOH_20250203_POS_5_modified.mzML	blank_analysis	blank_analysis	missing value	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	Blank5	Blank	Blank	6
+MSV000100148	MeOH_20250203_POS_6_modified.mzML	blank_analysis	blank_analysis	missing value	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	Blank6	Blank	Blank	6
+MSV000100148	MeOH_20250203_POS_7_modified.mzML	blank_analysis	blank_analysis	missing value	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	Blank7	Blank	Blank	6
+MSV000100148	MeOH_20250203_POS_8_modified.mzML	blank_analysis	blank_analysis	missing value	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	Blank8	Blank	Blank	6
+MSV000100148	PG1_20250203_POS_1_modified.mzML	missing value	missing value	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	PG1	PG	Propolis	2
+MSV000100148	PG2_20250203_POS_1_modified.mzML	missing value	missing value	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	PG2	PG	Propolis	2
+MSV000100148	PG3_20250203_POS_1_modified.mzML	missing value	missing value	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	PG3	PG	Propolis	2
+MSV000100148	PR1_20250203_POS_1_modified.mzML	missing value	missing value	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	PR1	PR	Propolis	1
+MSV000100148	PR2_20250203_POS_1_modified.mzML	missing value	missing value	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	PR2	PR	Propolis	1
+MSV000100148	PR3_20250203_POS_1_modified.mzML	missing value	missing value	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	PR3	PR	Propolis	1
+MSV000100148	PR4_20250203_POS_1_modified.mzML	missing value	missing value	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	PR4	PR	Propolis	1
+MSV000100148	PR5_20250203_POS_1_modified.mzML	missing value	missing value	Brazil	Xevo G2-XS QTof|MS:1003252	electrospray ionization (positive)	2025	PR5	PR	Propolis	1

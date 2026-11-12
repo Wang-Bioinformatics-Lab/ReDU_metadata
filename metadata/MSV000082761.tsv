@@ -1,0 +1,34 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	MassSpectrometer	ChromatographyAndPhase	CellLine	sample_name
+MSV000082761	L_A_1.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_A_1
+MSV000082761	L_A_2.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_A_2
+MSV000082761	L_A_3.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_A_3
+MSV000082761	L_A_4.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_A_4
+MSV000082761	L_A_5.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_A_5
+MSV000082761	L_A_6.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_A_6
+MSV000082761	L_A_7.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_A_7
+MSV000082761	L_AM_1.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AM_1
+MSV000082761	L_AM_2.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AM_2
+MSV000082761	L_AM_3.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AM_3
+MSV000082761	L_AM_4.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AM_4
+MSV000082761	L_AM_5.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AM_5
+MSV000082761	L_AM_6.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AM_6
+MSV000082761	L_AP_1.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AP_1
+MSV000082761	L_AP_2.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AP_2
+MSV000082761	L_AP_3.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AP_3
+MSV000082761	L_AP_4.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AP_4
+MSV000082761	L_AP_5.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AP_5
+MSV000082761	L_AP_6.mzXML	missing value	missing value	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_AP_6
+MSV000082761	L_blank1.mzXML	blank_analysis	blank_analysis	missing value	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	missing value	L_blank1
+MSV000082761	L_blank2.mzXML	blank_analysis	blank_analysis	missing value	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	missing value	L_blank2
+MSV000082761	L_QC0.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC0
+MSV000082761	L_QC1.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC1
+MSV000082761	L_QC10.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC10
+MSV000082761	L_QC11.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC11
+MSV000082761	L_QC2.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC2
+MSV000082761	L_QC3.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC3
+MSV000082761	L_QC4.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC4
+MSV000082761	L_QC5.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC5
+MSV000082761	L_QC6.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC6
+MSV000082761	L_QC7.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC7
+MSV000082761	L_QC8.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC8
+MSV000082761	L_QC9.mzXML	pool_QC	pool_QC	7160|Aedes albopictus	2016	LTQ FT Ultra|MS:1000557	reverse phase (NOS)	Aa23	L_QC9

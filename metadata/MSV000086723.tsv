@@ -1,0 +1,25 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	Type	Medium	Mucin	PA_Growth	In_Analysis	Injection_Number	CFUs	pH
+MSV000086723	MS Mix_P1-H-2_01_203.mzXML	missing value	missing value	missing value	impact|MS:1002077	MS Mix	missing value	missing value	missing value	missing value	203	missing value	missing value
+MSV000086723	MS Mix_P2-H-2_01_215.mzXML	missing value	missing value	missing value	impact|MS:1002077	MS Mix	missing value	missing value	missing value	missing value	215	missing value	missing value
+MSV000086723	MS Mix_P2-H-2_01_227.mzXML	missing value	missing value	missing value	impact|MS:1002077	MS Mix	missing value	missing value	missing value	missing value	227	missing value	missing value
+MSV000086723	MS Mix_P2-H-2_01_239.mzXML	missing value	missing value	missing value	impact|MS:1002077	MS Mix	missing value	missing value	missing value	missing value	239	missing value	missing value
+MSV000086723	Pa Mix_P1-H-1_01_202.mzXML	missing value	missing value	missing value	impact|MS:1002077	PA Mix	missing value	missing value	missing value	missing value	202	missing value	missing value
+MSV000086723	Pa Mix_P2-H-1_01_214.mzXML	missing value	missing value	missing value	impact|MS:1002077	PA Mix	missing value	missing value	missing value	missing value	214	missing value	missing value
+MSV000086723	Pa Mix_P2-H-1_01_226.mzXML	missing value	missing value	missing value	impact|MS:1002077	PA Mix	missing value	missing value	missing value	missing value	226	missing value	missing value
+MSV000086723	Pa Mix_P2-H-1_01_238.mzXML	missing value	missing value	missing value	impact|MS:1002077	PA Mix	missing value	missing value	missing value	missing value	238	missing value	missing value
+MSV000086723	No_CNTL_1_P2-A-1_01_217.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact|MS:1002077	Sample	SCFM1	No	No	No	217	missing value	missing value
+MSV000086723	No_CNTL_2_P2-A-2_01_219.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact|MS:1002077	Sample	SCFM1	No	No	No	219	missing value	missing value
+MSV000086723	No_CNTL_3_P2-A-3_01_220.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact|MS:1002077	Sample	SCFM1	No	No	No	220	missing value	missing value
+MSV000086723	No_CNTL_4_P2-A-4_01_221.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact|MS:1002077	Sample	SCFM1	No	No	No	221	missing value	missing value
+MSV000086723	No_PAO1_1_P2-A-5_01_218.mzXML	culture_bacterial	culture_bacterial	208964|Pseudomonas aeruginosa PAO1	impact|MS:1002077	Sample	SCFM1	No	Yes	Yes	218	3.60E+08	7.72
+MSV000086723	No_PAO1_2_P2-A-6_01_222.mzXML	culture_bacterial	culture_bacterial	208964|Pseudomonas aeruginosa PAO1	impact|MS:1002077	Sample	SCFM1	No	Yes	Yes	222	4.20E+08	7.71
+MSV000086723	No_PAO1_3_P2-A-7_01_223.mzXML	culture_bacterial	culture_bacterial	208964|Pseudomonas aeruginosa PAO1	impact|MS:1002077	Sample	SCFM1	No	Yes	Yes	223	4.20E+08	7.69
+MSV000086723	No_PAO1_4_P2-A-8_01_224.mzXML	culture_bacterial	culture_bacterial	208964|Pseudomonas aeruginosa PAO1	impact|MS:1002077	Sample	SCFM1	No	Yes	Yes	224	6.20E+08	7.71
+MSV000086723	P_CNTL_1_P2-B-1_01_229.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact|MS:1002077	Sample	SCFM1+PGM	Yes	No	No	229	missing value	missing value
+MSV000086723	P_CNTL_2_P2-B-2_01_230.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact|MS:1002077	Sample	SCFM1+PGM	Yes	No	No	230	missing value	missing value
+MSV000086723	P_CNTL_3_P2-B-3_01_231.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact|MS:1002077	Sample	SCFM1+PGM	Yes	No	No	231	missing value	missing value
+MSV000086723	P_CNTL_4_P2-B-4_01_232.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact|MS:1002077	Sample	SCFM1+PGM	Yes	No	No	232	missing value	missing value
+MSV000086723	P_PAO1_1_P2-B-5_01_233.mzXML	culture_bacterial	culture_bacterial	208964|Pseudomonas aeruginosa PAO1	impact|MS:1002077	Sample	SCFM1+PGM	Yes	Yes	Yes	233	3.40E+09	7.50
+MSV000086723	P_PAO1_2_P2-B-6_01_234.mzXML	culture_bacterial	culture_bacterial	208964|Pseudomonas aeruginosa PAO1	impact|MS:1002077	Sample	SCFM1+PGM	Yes	Yes	Yes	234	3.20E+09	7.43
+MSV000086723	P_PAO1_3_P2-B-7_01_235.mzXML	culture_bacterial	culture_bacterial	208964|Pseudomonas aeruginosa PAO1	impact|MS:1002077	Sample	SCFM1+PGM	Yes	Yes	Yes	235	4.40E+09	7.40
+MSV000086723	P_PAO1_4_P2-B-8_01_236.mzXML	culture_bacterial	culture_bacterial	208964|Pseudomonas aeruginosa PAO1	impact|MS:1002077	Sample	SCFM1+PGM	Yes	Yes	Yes	236	3.00E+09	7.43

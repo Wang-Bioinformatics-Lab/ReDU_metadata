@@ -1,0 +1,13 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	SampleCollectionMethod	MassSpectrometer	YearOfAnalysis	Iron	Group	run_date	mzmine_sample_type
+MSV000097572	Iron(III)_Zinc(II)_1.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Replete	Replete	2025-03-25T18:05:48	sample
+MSV000097572	Iron(III)_Zinc(II)_2.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Replete	Replete	2025-03-25T18:23:15	sample
+MSV000097572	Iron(III)_Zinc(II)_3.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Replete	Replete	2025-03-25T18:40:44	sample
+MSV000097572	Iron(III)_Zinc(II)_Bpy_1.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Deplete	Bpy	2025-03-25T18:58:12	sample
+MSV000097572	Iron(III)_Zinc(II)_Bpy_2.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Deplete	Bpy	2025-03-25T19:15:40	sample
+MSV000097572	Iron(III)_Zinc(II)_Bpy_3.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Deplete	Bpy	2025-03-25T19:33:09	sample
+MSV000097572	Media_Blank_1.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Blank	Blank	2025-03-25T16:20:56	blank
+MSV000097572	Media_Blank_2.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Blank	Blank	2025-03-25T16:38:24	blank
+MSV000097572	Media_Blank_3.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Blank	Blank	2025-03-25T16:55:53	blank
+MSV000097572	Media_Control_1.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Deplete	Basal	2025-03-25T17:13:21	blank
+MSV000097572	Media_Control_2.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Deplete	Basal	2025-03-25T17:30:49	blank
+MSV000097572	Media_Control_3.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2025	Deplete	Basal	2025-03-25T17:48:18	blank

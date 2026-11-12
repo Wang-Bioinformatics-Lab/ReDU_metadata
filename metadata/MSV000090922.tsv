@@ -1,0 +1,29 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	UBERONBodyPartName	Sample	Sample_Type	IonMode
+MSV000090922	ProcessBlank_iterative1_20neg_23.mzML	blank_extraction	blank_extraction	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	missing value	PBNeg20eViter1	Blank	Negative
+MSV000090922	ProcessBlank_iterative2_20neg_24.mzML	blank_extraction	blank_extraction	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	missing value	PBNeg20eViter2	Blank	Negative
+MSV000090922	QC_iterative3_20neg_25.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg20eViter3	Sample	Negative
+MSV000090922	QC_iterative4_20neg_26.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg20eViter4	Sample	Negative
+MSV000090922	QC_iterative5_20neg_27.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg20eViter5	Sample	Negative
+MSV000090922	QC_iterative6_20neg_28.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg20eViter6	Sample	Negative
+MSV000090922	QC_iterative7_20neg_29.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg20eViter7	Sample	Negative
+MSV000090922	ProcessBlank_iterative1_40neg_30.mzML	blank_extraction	blank_extraction	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	missing value	PBNeg40eViter1	Blank	Negative
+MSV000090922	ProcessBlank_iterative2_40neg_31.mzML	blank_extraction	blank_extraction	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	missing value	PBNeg40eViter2	Blank	Negative
+MSV000090922	QC_iterative3_40neg_32.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg40eViter3	Sample	Negative
+MSV000090922	QC_iterative4_40neg_33.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg40eViter4	Sample	Negative
+MSV000090922	QC_iterative5_40neg_34.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg40eViter5	Sample	Negative
+MSV000090922	QC_iterative6_40neg_35.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg40eViter6	Sample	Negative
+MSV000090922	QC_iterative7_40neg_36.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (negative)	tuber	QCNeg40eViter7	Sample	Negative
+MSV000090922	ProcessBlank_iterative1_20pos_23.mzML	blank_extraction	blank_extraction	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	missing value	PBPos20eViter1	Blank	Positive
+MSV000090922	ProcessBlank_iterative2_20pos_24.mzML	blank_extraction	blank_extraction	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	missing value	PBPos20eViter2	Blank	Positive
+MSV000090922	QC_iterative3_20pos_25.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos20eViter3	Sample	Positive
+MSV000090922	QC_iterative4_20pos_26.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos20eViter4	Sample	Positive
+MSV000090922	QC_iterative5_20pos_27.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos20eViter5	Sample	Positive
+MSV000090922	QC_iterative6_20pos_28.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos20eViter6	Sample	Positive
+MSV000090922	QC_iterative7_20pos_29.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos20eViter7	Sample	Positive
+MSV000090922	ProcessBlank_iterative1_40pos_30.mzML	blank_extraction	blank_extraction	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	missing value	PBPos40eViter1	Blank	Positive
+MSV000090922	ProcessBlank_iterative2_40pos_31.mzML	blank_extraction	blank_extraction	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	missing value	PBPos40eViter2 Blank	Positive	missing value
+MSV000090922	QC_iterative3_40pos_32.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos40eViter3	Sample	Positive
+MSV000090922	QC_iterative4_40pos_33.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos40eViter4	Sample	Positive
+MSV000090922	QC_iterative5_40pos_34.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos40eViter5	Sample	Positive
+MSV000090922	QC_iterative6_40pos_35.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos40eViter6	Sample	Positive
+MSV000090922	QC_iterative7_40pos_36.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	tuber	QCPos40eViter7	Sample	Positive

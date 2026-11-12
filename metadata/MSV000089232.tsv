@@ -1,0 +1,7 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	Exposure	MassSpectrometer	Fe_infusion
+MSV000089232	Hui_N1.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	missing value	Q Exactive|MS:1001911	No
+MSV000089232	Hui_N1_fe.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	exposure to iron	Q Exactive|MS:1001911	Yes
+MSV000089232	Hui_N2.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	missing value	Q Exactive|MS:1001911	No
+MSV000089232	Hui_N2_fe.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	exposure to iron	Q Exactive|MS:1001911	Yes
+MSV000089232	Hui_N3.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	missing value	Q Exactive|MS:1001911	No
+MSV000089232	Hui_N3_fe.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	exposure to iron	Q Exactive|MS:1001911	Yes

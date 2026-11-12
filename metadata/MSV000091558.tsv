@@ -1,0 +1,17 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	SampleExtractionMethod	MassSpectrometer	fraction	treatment
+MSV000091558	D1a.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	methanol (100%)	Q Exactive|MS:1001911	Cell_fraction	Control_DMSO
+MSV000091558	D2a.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	methanol (100%)	Q Exactive|MS:1001911	Cell_fraction	Control_DMSO
+MSV000091558	D3a.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	methanol (100%)	Q Exactive|MS:1001911	Cell_fraction	Cyclo_025
+MSV000091558	D4a.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	methanol (100%)	Q Exactive|MS:1001911	Cell_fraction	Cyclo_025
+MSV000091558	D5a.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	methanol (100%)	Q Exactive|MS:1001911	Cell_fraction	Cyclo_025
+MSV000091558	D6a.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	methanol (100%)	Q Exactive|MS:1001911	Cell_fraction	Cyclo_1
+MSV000091558	D7a.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	methanol (100%)	Q Exactive|MS:1001911	Cell_fraction	Cyclo_1
+MSV000091558	D8a.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	methanol (100%)	Q Exactive|MS:1001911	Cell_fraction	Cyclo_1
+MSV000091558	D1b.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	ethyl acetate (100%)	Q Exactive|MS:1001911	Supernatant_fraction	Control_DMSO
+MSV000091558	D2b.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	ethyl acetate (100%)	Q Exactive|MS:1001911	Supernatant_fraction	Control_DMSO
+MSV000091558	D3b.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	ethyl acetate (100%)	Q Exactive|MS:1001911	Supernatant_fraction	Cyclo_025
+MSV000091558	D4b.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	ethyl acetate (100%)	Q Exactive|MS:1001911	Supernatant_fraction	Cyclo_025
+MSV000091558	D5b.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	ethyl acetate (100%)	Q Exactive|MS:1001911	Supernatant_fraction	Cyclo_025
+MSV000091558	D6b.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	ethyl acetate (100%)	Q Exactive|MS:1001911	Supernatant_fraction	Cyclo_1
+MSV000091558	D7b.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	ethyl acetate (100%)	Q Exactive|MS:1001911	Supernatant_fraction	Cyclo_1
+MSV000091558	D8b.mzML	culture_fungal	culture_fungal	40559|Botrytis cinerea	ethyl acetate (100%)	Q Exactive|MS:1001911	Supernatant_fraction	Cyclo_1

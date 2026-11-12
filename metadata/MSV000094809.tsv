@@ -1,0 +1,64 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	species	method
+MSV000094809	2022-021_BA4_01_12493.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	A
+MSV000094809	2022-059_GA4_01_12450.mzXML	animal	marine_invertebrates	1336896|Tsitsikamma pedunculata	compact|MS:1002280	pedunculata	A
+MSV000094809	2022-063_BD2_01_12517.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	A
+MSV000094809	2022-070_BD3_01_12518.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	A
+MSV000094809	ACEP2016-045_GB1_01_1620.mzXML	animal	marine_invertebrates	1325597|Latrunculia apicalis	compact|MS:1002280	apicalis	B
+MSV000094809	ACEP2016-060_GA3_01_1614.mzXML	animal	marine_invertebrates	1325597|Latrunculia apicalis	compact|MS:1002280	apicalis	B
+MSV000094809	ACEP2016-080_GB3_01_1622.mzXML	animal	marine_invertebrates	1325597|Latrunculia apicalis	compact|MS:1002280	apicalis	B
+MSV000094809	TIC2021-031_GD4_01_9302.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	C
+MSV000094809	TIC2021-043_GE6_01_9314.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	C
+MSV000094809	15-201_RB3_01_1439.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	michaeli II	B
+MSV000094809	15-202_RA2_01_1430.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	michaeli II	B
+MSV000094809	15-204_RA1_01_1429.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	michaeli II	B
+MSV000094809	15-217_RC5_01_1425.mzXML	animal	marine_invertebrates	1336896|Tsitsikamma pedunculata	compact|MS:1002280	pedunculata	B
+MSV000094809	15-218_RC7_01_1427.mzXML	animal	marine_invertebrates	1336896|Tsitsikamma pedunculata	compact|MS:1002280	pedunculata	B
+MSV000094809	15-219_RC8_01_1428.mzXML	animal	marine_invertebrates	1336896|Tsitsikamma pedunculata	compact|MS:1002280	pedunculata	B
+MSV000094809	17-026_RA8_01_1412.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	michaeli I	B
+MSV000094809	17-028_RB6_01_1418.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	michaeli I	B
+MSV000094809	17-030_RB1_01_1413.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	michaeli I	B
+MSV000094809	17-34c_RA6_01_4014.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	michaeli I	B
+MSV000094809	2016-050A_GA8_01_2617.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2016-050AD_GB5_01_2622.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2016-050AH_GB6_01_2623.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus II	B
+MSV000094809	2016-050AW_GA7_01_2616.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2016-050B_GB4_01_2621.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2016-050C_GC2_01_2627.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus II	B
+MSV000094809	2016-050D_GA3_01_2612.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2016-051_GB5_01_1624.mzXML	animal	marine_invertebrates	1815996|Cyclacanthia bellae	compact|MS:1002280	bellae	B
+MSV000094809	2016-053_GA1_01_1612.mzXML	animal	marine_invertebrates	1815996|Cyclacanthia bellae	compact|MS:1002280	bellae	B
+MSV000094809	2017-018_GA2_01_1635.mzXML	animal	marine_invertebrates	1336896|Tsitsikamma pedunculata	compact|MS:1002280	pedunculata	B
+MSV000094809	2017-019_GA4_01_1637.mzXML	animal	marine_invertebrates	1336896|Tsitsikamma pedunculata	compact|MS:1002280	pedunculata	B
+MSV000094809	2017-020_GB3_01_1644.mzXML	animal	marine_invertebrates	1336896|Tsitsikamma pedunculata	compact|MS:1002280	pedunculata	B
+MSV000094809	2017-022_GA3_01_1636.mzXML	animal	marine_invertebrates	1336896|Tsitsikamma pedunculata	compact|MS:1002280	pedunculata	B
+MSV000094809	2018_003_A_BB5_01_12301.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	A
+MSV000094809	2018_003_B_BC8_01_12312.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	A
+MSV000094809	2018_003_C_BD1_01_12313.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	A
+MSV000094809	2018_003_D_BB8_01_12304.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus II	A
+MSV000094809	2018_003_E_BB7_01_12303.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	A
+MSV000094809	2018_003_F_BA8_01_12296.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	A
+MSV000094809	2018_003_G_BB3_01_12299.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	A
+MSV000094809	2018_003_H_BC5_01_12309.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus II	A
+MSV000094809	2018_003_I_BB1_01_12297.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	A
+MSV000094809	2018-003J_GA4_01_1615.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2018-003M_GB8_01_1627.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus II	B
+MSV000094809	2018-007A_GA7_01_1640.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2018-007B_GB5_01_1646.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2018-007C_GA6_01_1639.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2018-007D_GA5_01_1638.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2018-014A_GC2_01_1651.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2018-014B_GC3_01_1652.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2018-014C_GB7_01_1648.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2018-014D_GB8_01_1649.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2018-014E_GC1_01_1650.mzXML	animal	marine_invertebrates	1035643|Tsitsikamma favus	compact|MS:1002280	favus I	B
+MSV000094809	2019-013_RA3_01_3966.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	michaeli II	B
+MSV000094809	2022-001_GD5_01_12478.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	A
+MSV000094809	2022-003_GB2_01_12457.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	A
+MSV000094809	2022-004_GE6_01_12487.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	A
+MSV000094809	2022-005_GA5_01_12451.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	A
+MSV000094809	2022-008_BB3_01_12501.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	A
+MSV000094809	2022-009_BD6_01_12521.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	madiba	A
+MSV000094809	2022-019_BD7_01_12522.mzXML	animal	marine_invertebrates	1336896|Tsitsikamma pedunculata	compact|MS:1002280	pedunculata	A
+MSV000094809	2015-003L_GA1_01_2628.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	nguni	B
+MSV000094809	2015-003E_GA2_01_2611.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	nguni	B
+MSV000094809	2015-003F_GB1_01_2618.mzXML	animal	marine_invertebrates	910370|Tsitsikamma	compact|MS:1002280	nguni	B

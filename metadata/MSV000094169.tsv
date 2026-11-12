@@ -1,0 +1,9 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	Sample_type	Group
+MSV000094169	Blank.mzML	blank_QC	blank_QC	missing value	missing value	Q Exactive HF|MS:1002523	Blank	Blank
+MSV000094169	Blank1.mzML	blank_QC	blank_QC	missing value	missing value	Q Exactive HF|MS:1002523	Blank	Blank
+MSV000094169	Control_day_1_rip.mzML	plant	plant_angiospermae	3702|Arabidopsis thaliana	leaf	Q Exactive HF|MS:1002523	Sample	Control
+MSV000094169	Control_day_3.mzML	plant	plant_angiospermae	3702|Arabidopsis thaliana	leaf	Q Exactive HF|MS:1002523	Sample	Control
+MSV000094169	Control_day_2.mzML	plant	plant_angiospermae	3702|Arabidopsis thaliana	leaf	Q Exactive HF|MS:1002523	Sample	Control
+MSV000094169	Bacillus_day_3.mzML	plant	plant_angiospermae	3702|Arabidopsis thaliana	leaf	Q Exactive HF|MS:1002523	Sample	Treatment
+MSV000094169	Bacillus_day_2.mzML	plant	plant_angiospermae	3702|Arabidopsis thaliana	leaf	Q Exactive HF|MS:1002523	Sample	Treatment
+MSV000094169	Bacillus_day_1.mzML	plant	plant_angiospermae	3702|Arabidopsis thaliana	leaf	Q Exactive HF|MS:1002523	Sample	Treatment

@@ -1,0 +1,7 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	Exposure	Fe_infusion
+MSV000084628	Hui_N1.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	missing value	No
+MSV000084628	Hui_N1_fe.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	exposure to iron	Yes
+MSV000084628	Hui_N2.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	missing value	No
+MSV000084628	Hui_N2_fe.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	exposure to iron	Yes
+MSV000084628	Hui_N3.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	missing value	No
+MSV000084628	Hui_N3_fe.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	exposure to iron	Yes

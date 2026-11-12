@@ -1,0 +1,21 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	Polarity	ATTRIBUTE_SampleType	ATTRIBUTE_ExtractionSolvent
+MSV000096051	No1_EtOH_62_1_700_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOH
+MSV000096051	No2_EtOH_63_1_701_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOH
+MSV000096051	No3_EtOH_64_1_710_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOH
+MSV000096051	No4_EtOH_65_1_711_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOH
+MSV000096051	No5_EtOH_66_1_712_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOH
+MSV000096051	No1_EtOAc_67_1_705_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOAc
+MSV000096051	No2_EtOAc_68_1_706_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOAc
+MSV000096051	No3_EtOAc_69_1_707_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOAc
+MSV000096051	No4_EtOAc_70_1_708_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOAc
+MSV000096051	No5_EtOAc_71_1_709_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	positive	sample	EtOAc
+MSV000096051	Neg_No1_EtOH_62_1_740_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOH
+MSV000096051	Neg_No2_EtOH_63_1_741_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOH
+MSV000096051	Neg_No3_EtOH_64_1_747_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOH
+MSV000096051	Neg_No4_EtOH_65_1_748_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOH
+MSV000096051	Neg_No5_EtOH_66_1_749_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOH
+MSV000096051	Neg_No1_EtOAc_67_1_742_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOAc
+MSV000096051	Neg_No2_EtOAc_68_1_743_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOAc
+MSV000096051	Neg_No3_EtOAc_69_1_744_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOAc
+MSV000096051	Neg_No4_EtOAc_70_1_745_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOAc
+MSV000096051	Neg_No5_EtOAc_71_1_746_sub.mzML	plant	plant_angiospermae	327149|Sindora siamensis	compact|MS:1002280	negative	sample	EtOAc

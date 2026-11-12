@@ -1,0 +1,423 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	sppID	species	SampType	Pollinator	SAMPLE	Volume_Dryweight
+MSV000097544	001_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	missing value	Q Exactive|MS:1001911	SalBall_1	Salvia_ballotiflora	Nectar	BEE	SAMPLE	7.015625
+MSV000097544	002_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	missing value	Q Exactive|MS:1001911	SalBall_2	Salvia_ballotiflora	Nectar	BEE	SAMPLE	11.65625
+MSV000097544	003_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	missing value	Q Exactive|MS:1001911	SalBall_3	Salvia_ballotiflora	Nectar	BEE	SAMPLE	8.984375
+MSV000097544	004_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	missing value	Q Exactive|MS:1001911	SalBall_4	Salvia_ballotiflora	Nectar	BEE	SAMPLE	4.625
+MSV000097544	005_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	missing value	Q Exactive|MS:1001911	SalBall_5	Salvia_ballotiflora	Nectar	BEE	SAMPLE	3.546875
+MSV000097544	006_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	missing value	Q Exactive|MS:1001911	SalLeu_5	Salvia_leucantha	Nectar	BEE	SAMPLE	17.390625
+MSV000097544	007_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	missing value	Q Exactive|MS:1001911	SalLeu_20	Salvia_leucantha	Nectar	BEE	SAMPLE	12.1875
+MSV000097544	008_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	missing value	Q Exactive|MS:1001911	SalLeu_21	Salvia_leucantha	Nectar	BEE	SAMPLE	17.390625
+MSV000097544	009_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	missing value	Q Exactive|MS:1001911	SalLeu_22	Salvia_leucantha	Nectar	BEE	SAMPLE	5.515625
+MSV000097544	010_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	missing value	Q Exactive|MS:1001911	SalLeu_23	Salvia_leucantha	Nectar	BEE	SAMPLE	12.453125
+MSV000097544	011_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	missing value	Q Exactive|MS:1001911	SalLeu_25	Salvia_leucantha	Nectar	BEE	SAMPLE	6.96875
+MSV000097544	013_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	missing value	Q Exactive|MS:1001911	SalBle_5	Salvia_blepharophylla	Nectar	BIRD	SAMPLE	9.375
+MSV000097544	014_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	missing value	Q Exactive|MS:1001911	SalBle_23	Salvia_blepharophylla	Nectar	BIRD	SAMPLE	14.734375
+MSV000097544	016_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	missing value	Q Exactive|MS:1001911	SalBle_SB1	Salvia_blepharophylla	Nectar	BIRD	SAMPLE	15.703125
+MSV000097544	017_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	missing value	Q Exactive|MS:1001911	SalBle_SBW5	Salvia_blepharophylla	Nectar	BIRD	SAMPLE	11.609375
+MSV000097544	018_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	missing value	Q Exactive|MS:1001911	SalBle_SBW6	Salvia_blepharophylla	Nectar	BIRD	SAMPLE	11.21875
+MSV000097544	020_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	missing value	Q Exactive|MS:1001911	SalDar_10	Salvia_darcyi	Nectar	BIRD	SAMPLE	4.5
+MSV000097544	021_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	missing value	Q Exactive|MS:1001911	SalDar_11	Salvia_darcyi	Nectar	BIRD	SAMPLE	13.546875
+MSV000097544	023_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	missing value	Q Exactive|MS:1001911	SalDar_14	Salvia_darcyi	Nectar	BIRD	SAMPLE	12.125
+MSV000097544	024_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	missing value	Q Exactive|MS:1001911	SalDar_15	Salvia_darcyi	Nectar	BIRD	SAMPLE	5.375
+MSV000097544	025_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_23	Salvia_leucantha	Leaves	BEE	SAMPLE	9.9
+MSV000097544	026_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_20	Salvia_leucantha	Leaves	BEE	SAMPLE	11.5
+MSV000097544	027_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_21	Salvia_leucantha	Leaves	BEE	SAMPLE	10.3
+MSV000097544	028_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_22	Salvia_leucantha	Leaves	BEE	SAMPLE	8.7
+MSV000097544	029_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_5	Salvia_leucantha	Leaves	BEE	SAMPLE	10.8
+MSV000097544	030_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_1	Salvia_ballotiflora	Leaves	BEE	SAMPLE	8.2
+MSV000097544	031_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_2	Salvia_ballotiflora	Leaves	BEE	SAMPLE	10.5
+MSV000097544	032_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_3	Salvia_ballotiflora	Leaves	BEE	SAMPLE	11
+MSV000097544	033_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_4	Salvia_ballotiflora	Leaves	BEE	SAMPLE	10
+MSV000097544	034_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_5	Salvia_ballotiflora	Leaves	BEE	SAMPLE	9.5
+MSV000097544	035_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_1	Salvia_farinaceae	Leaves	BEE	SAMPLE	11.4
+MSV000097544	036_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_4	Salvia_farinaceae	Leaves	BEE	SAMPLE	11.5
+MSV000097544	037_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_3	Salvia_farinaceae	Leaves	BEE	SAMPLE	8.7
+MSV000097544	038_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_2	Salvia_farinaceae	Leaves	BEE	SAMPLE	9.7
+MSV000097544	040_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_12	Salvia_farinaceae	Leaves	BEE	SAMPLE	11.1
+MSV000097544	041_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_11	Salvia_farinaceae	Leaves	BEE	SAMPLE	10.5
+MSV000097544	043_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_10	Salvia_farinaceae	Leaves	BEE	SAMPLE	8.3
+MSV000097544	044_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_14	Salvia_farinaceae	Leaves	BEE	SAMPLE	9.9
+MSV000097544	045_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_6	Salvia_farinaceae	Leaves	BEE	SAMPLE	9.8
+MSV000097544	046_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_12	Salvia_darcyi	Leaves	BIRD	SAMPLE	10.2
+MSV000097544	047_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_6	Salvia_darcyi	Leaves	BIRD	SAMPLE	10.5
+MSV000097544	048_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_13	Salvia_darcyi	Leaves	BIRD	SAMPLE	10.2
+MSV000097544	049_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_4	Salvia_darcyi	Leaves	BIRD	SAMPLE	8.5
+MSV000097544	050_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_20	Salvia_darcyi	Leaves	BIRD	SAMPLE	10.4
+MSV000097544	051_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_11	Salvia_darcyi	Leaves	BIRD	SAMPLE	11.4
+MSV000097544	052_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_15	Salvia_darcyi	Leaves	BIRD	SAMPLE	9.8
+MSV000097544	053_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_2	Salvia_darcyi	Leaves	BIRD	SAMPLE	9.4
+MSV000097544	054_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_10	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	9.9
+MSV000097544	055_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_24	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	10.7
+MSV000097544	056_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_SBW5	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	10.4
+MSV000097544	057_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_SBW6	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	10.4
+MSV000097544	058_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_21	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	10.6
+MSV000097544	059_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_20	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	10.4
+MSV000097544	061_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_SB1	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	10.3
+MSV000097544	062_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_1	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	10.3
+MSV000097544	063_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_10	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	9.3
+MSV000097544	064_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_5	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	9.3
+MSV000097544	065_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_6	Salvia_chionophylla	Leaves	BEE	SAMPLE	10.8
+MSV000097544	066_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_2	Salvia_chionophylla	Leaves	BEE	SAMPLE	8.9
+MSV000097544	067_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_8	Salvia_chionophylla	Leaves	BEE	SAMPLE	8.7
+MSV000097544	068_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_3	Salvia_chionophylla	Leaves	BEE	SAMPLE	9
+MSV000097544	069_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_4	Salvia_greggii	Leaves	BIRD	SAMPLE	9.9
+MSV000097544	070_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_3	Salvia_greggii	Leaves	BIRD	SAMPLE	8.5
+MSV000097544	071_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_2	Salvia_greggii	Leaves	BIRD	SAMPLE	10.1
+MSV000097544	073_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_FM7	Ruellia_brittoniana	Leaves	BEE	SAMPLE	7.5
+MSV000097544	074_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_FM8	Ruellia_brittoniana	Leaves	BEE	SAMPLE	8
+MSV000097544	075_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_FM2	Ruellia_brittoniana	Leaves	BEE	SAMPLE	8.5
+MSV000097544	076_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_FM1	Ruellia_brittoniana	Leaves	BEE	SAMPLE	10.1
+MSV000097544	077_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_FM4	Ruellia_brittoniana	Leaves	BEE	SAMPLE	11.2
+MSV000097544	078_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_19	Ruellia_brittoniana	Leaves	BEE	SAMPLE	11.1
+MSV000097544	079_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_FM3	Ruellia_brittoniana	Leaves	BEE	SAMPLE	8.9
+MSV000097544	080_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_4	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	11.3
+MSV000097544	081_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_3	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	11.6
+MSV000097544	082_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_1	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	10.2
+MSV000097544	083_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	leaf	Q Exactive|MS:1001911	SalAzu_11	Salvia_azurea	Leaves	BEE	SAMPLE	6.2
+MSV000097544	084_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	leaf	Q Exactive|MS:1001911	SalAzu_10	Salvia_azurea	Leaves	BEE	SAMPLE	3.5
+MSV000097544	087_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_FM10	Salvia_regla	Leaves	BIRD	SAMPLE	10.7
+MSV000097544	088_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_FM15	Salvia_regla	Leaves	BIRD	SAMPLE	10.1
+MSV000097544	089_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W5	Salvia_regla	Leaves	BIRD	SAMPLE	8.2
+MSV000097544	090_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W3	Salvia_regla	Leaves	BIRD	SAMPLE	9
+MSV000097544	095_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	leaf	Q Exactive|MS:1001911	SalMic_B5	Salvia_microphylla	Leaves	BIRD	SAMPLE	9
+MSV000097544	097_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	leaf	Q Exactive|MS:1001911	SalMic_B6	Salvia_microphylla	Leaves	BIRD	SAMPLE	8.8
+MSV000097544	098_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	leaf	Q Exactive|MS:1001911	SalMic_1	Salvia_microphylla	Leaves	BIRD	SAMPLE	7.6
+MSV000097544	099_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	leaf	Q Exactive|MS:1001911	SalMic_6	Salvia_microphylla	Leaves	BIRD	SAMPLE	8.7
+MSV000097544	100_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_B1	Salvia_regla	Leaves	BIRD	SAMPLE	8.3
+MSV000097544	101_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W2	Salvia_regla	Leaves	BIRD	SAMPLE	8.8
+MSV000097544	102_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_10	Salvia_regla	Leaves	BIRD	SAMPLE	10.5
+MSV000097544	103_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_B1	Salvia_regla	Leaves	BIRD	SAMPLE	8.4
+MSV000097544	104_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W4	Salvia_regla	Leaves	BIRD	SAMPLE	9
+MSV000097544	105_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	leaf	Q Exactive|MS:1001911	SalMic_4	Salvia_microphylla	Leaves	BIRD	SAMPLE	8.8
+MSV000097544	106_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_4	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	9.3
+MSV000097544	107_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_2	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	9.4
+MSV000097544	108_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	leaf	Q Exactive|MS:1001911	SalAzu_1	Salvia_azurea	Leaves	BEE	SAMPLE	7.1
+MSV000097544	109_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	leaf	Q Exactive|MS:1001911	SalMic_B5	Salvia_microphylla	Leaves	BIRD	SAMPLE	10.1
+MSV000097544	111_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	leaf	Q Exactive|MS:1001911	SalAzu_2	Salvia_azurea	Leaves	BEE	SAMPLE	4.7
+MSV000097544	113_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_1	Salvia_coccinea	Leaves	BIRD	SAMPLE	10.2
+MSV000097544	114_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_11	Salvia_coccinea	Leaves	BIRD	SAMPLE	9
+MSV000097544	115_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_5	Salvia_coccinea	Leaves	BIRD	SAMPLE	9.8
+MSV000097544	116_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_6	Salvia_coccinea	Leaves	BIRD	SAMPLE	9.7
+MSV000097544	117_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_2	Salvia_coccinea	Leaves	BIRD	SAMPLE	10.7
+MSV000097544	118_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_3	Salvia_coccinea	Leaves	BIRD	SAMPLE	8.6
+MSV000097544	119_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_10	Salvia_coccinea	Leaves	BIRD	SAMPLE	10.1
+MSV000097544	121_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_2	Salvia_farinaceae	Nectar	BEE	SAMPLE	3.6875
+MSV000097544	122_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_3	Salvia_farinaceae	Nectar	BEE	SAMPLE	3.59375
+MSV000097544	123_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_10	Salvia_farinaceae	Nectar	BEE	SAMPLE	13.828125
+MSV000097544	124_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_11	Salvia_farinaceae	Nectar	BEE	SAMPLE	13.34375
+MSV000097544	125_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_20	Salvia_farinaceae	Nectar	BEE	SAMPLE	14.734375
+MSV000097544	126_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	missing value	Q Exactive|MS:1001911	AniQWr_1	Anisacanthus_quadrifidus	Nectar	BIRD	SAMPLE	18.453125
+MSV000097544	127_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	missing value	Q Exactive|MS:1001911	AniQWr_2	Anisacanthus_quadrifidus	Nectar	BIRD	SAMPLE	16.015625
+MSV000097544	128_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	missing value	Q Exactive|MS:1001911	AniQWr_3	Anisacanthus_quadrifidus	Nectar	BIRD	SAMPLE	18.015625
+MSV000097544	129_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	missing value	Q Exactive|MS:1001911	AniQWr_4	Anisacanthus_quadrifidus	Nectar	BIRD	SAMPLE	15.984375
+MSV000097544	130_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	missing value	Q Exactive|MS:1001911	AniQWr_7	Anisacanthus_quadrifidus	Nectar	BIRD	SAMPLE	2.796875
+MSV000097544	131_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	missing value	Q Exactive|MS:1001911	AniQWr_8	Anisacanthus_quadrifidus	Nectar	BIRD	SAMPLE	8.0625
+MSV000097544	132_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	missing value	Q Exactive|MS:1001911	SalReg_B1	Salvia_regla	Nectar	BIRD	SAMPLE	42.203125
+MSV000097544	133_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	missing value	Q Exactive|MS:1001911	SalReg_W2	Salvia_regla	Nectar	BIRD	SAMPLE	14.46875
+MSV000097544	135_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	missing value	Q Exactive|MS:1001911	SalReg_FM15	Salvia_regla	Nectar	BIRD	SAMPLE	12.234375
+MSV000097544	136_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	missing value	Q Exactive|MS:1001911	SalReg_W4	Salvia_regla	Nectar	BIRD	SAMPLE	10.171875
+MSV000097544	137_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_12	Salvia_farinaceae	Nectar	BEE	SAMPLE	3.171875
+MSV000097544	138_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_13	Salvia_farinaceae	Nectar	BEE	SAMPLE	9.2390625
+MSV000097544	139_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_14	Salvia_farinaceae	Nectar	BEE	SAMPLE	2.1875
+MSV000097544	140_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_15	Salvia_farinaceae	Nectar	BEE	SAMPLE	6.015625
+MSV000097544	141_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	missing value	Q Exactive|MS:1001911	SalFar_18	Salvia_farinaceae	Nectar	BEE	SAMPLE	4.375
+MSV000097544	142_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	missing value	Q Exactive|MS:1001911	ScutSuf_B1	Scutellaria_suffrutescens	Nectar	BIRD	SAMPLE	18.109375
+MSV000097544	145_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	missing value	Q Exactive|MS:1001911	ScutSuf_20	Scutellaria_suffrutescens	Nectar	BIRD	SAMPLE	16.328125
+MSV000097544	146_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	missing value	Q Exactive|MS:1001911	ScutSuf_B3	Scutellaria_suffrutescens	Nectar	BIRD	SAMPLE	12.640625
+MSV000097544	147_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	missing value	Q Exactive|MS:1001911	ScutSuf_8	Scutellaria_suffrutescens	Nectar	BIRD	SAMPLE	12.96875
+MSV000097544	148_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	missing value	Q Exactive|MS:1001911	ScutSuf_B2	Scutellaria_suffrutescens	Nectar	BIRD	SAMPLE	10.578125
+MSV000097544	149_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	missing value	Q Exactive|MS:1001911	ScutSuf_5	Scutellaria_suffrutescens	Nectar	BIRD	SAMPLE	6.328125
+MSV000097544	154_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	missing value	Q Exactive|MS:1001911	SalCoc_2	Salvia_coccinea	Nectar	BIRD	SAMPLE	14.140625
+MSV000097544	155_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	missing value	Q Exactive|MS:1001911	SalCoc_4	Salvia_coccinea	Nectar	BIRD	SAMPLE	19.953125
+MSV000097544	156_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	missing value	Q Exactive|MS:1001911	SalCoc_6	Salvia_coccinea	Nectar	BIRD	SAMPLE	10.421875
+MSV000097544	157_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	missing value	Q Exactive|MS:1001911	SalCoc_5	Salvia_coccinea	Nectar	BIRD	SAMPLE	11.484375
+MSV000097544	158_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	missing value	Q Exactive|MS:1001911	SalGreg_3	Salvia_greggii	Nectar	BIRD	SAMPLE	25.4375
+MSV000097544	159_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	missing value	Q Exactive|MS:1001911	SalGreg_4	Salvia_greggii	Nectar	BIRD	SAMPLE	14.3125
+MSV000097544	160_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	missing value	Q Exactive|MS:1001911	SalGreg_5	Salvia_greggii	Nectar	BIRD	SAMPLE	28.890625
+MSV000097544	161_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	missing value	Q Exactive|MS:1001911	SalGreg_7	Salvia_greggii	Nectar	BIRD	SAMPLE	9.046875
+MSV000097544	166_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	missing value	Q Exactive|MS:1001911	PhysVir_3	Physostegia_virginiana	Nectar	BEE	SAMPLE	5.84375
+MSV000097544	167_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	missing value	Q Exactive|MS:1001911	PhysVir_10	Physostegia_virginiana	Nectar	BEE	SAMPLE	8.046875
+MSV000097544	169_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	missing value	Q Exactive|MS:1001911	PhysVir_11	Physostegia_virginiana	Nectar	BEE	SAMPLE	17.03125
+MSV000097544	170_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	missing value	Q Exactive|MS:1001911	PhysVir_12	Physostegia_virginiana	Nectar	BEE	SAMPLE	17.109375
+MSV000097544	171_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	missing value	Q Exactive|MS:1001911	PhysVir_13	Physostegia_virginiana	Nectar	BEE	SAMPLE	4.9375
+MSV000097544	172_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	missing value	Q Exactive|MS:1001911	PhysVir_14	Physostegia_virginiana	Nectar	BEE	SAMPLE	15.125
+MSV000097544	173_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	missing value	Q Exactive|MS:1001911	PhysVir_20	Physostegia_virginiana	Nectar	BEE	SAMPLE	3.203125
+MSV000097544	174_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	missing value	Q Exactive|MS:1001911	SalMic_5	Salvia_microphylla	Nectar	BIRD	SAMPLE	20.515625
+MSV000097544	178_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	missing value	Q Exactive|MS:1001911	RueBrit_10	Ruellia_brittoniana	Nectar	BEE	SAMPLE	4.046875
+MSV000097544	179_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	missing value	Q Exactive|MS:1001911	RueBrit_19	Ruellia_brittoniana	Nectar	BEE	SAMPLE	8.625
+MSV000097544	180_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	missing value	Q Exactive|MS:1001911	RueBrit_22	Ruellia_brittoniana	Nectar	BEE	SAMPLE	8.015625
+MSV000097544	181_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	missing value	Q Exactive|MS:1001911	SalAzu_10	Salvia_azurea	Nectar	BEE	SAMPLE	9.4375
+MSV000097544	182_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	missing value	Q Exactive|MS:1001911	SalAzu_11	Salvia_azurea	Nectar	BEE	SAMPLE	12.640625
+MSV000097544	183_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	missing value	Q Exactive|MS:1001911	SalAzu_12	Salvia_azurea	Nectar	BEE	SAMPLE	15.171875
+MSV000097544	184_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	missing value	Q Exactive|MS:1001911	SalBle_2	Salvia_blepharophylla	Nectar	BIRD	SAMPLE	2.3125
+MSV000097544	185_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	missing value	Q Exactive|MS:1001911	SalBle_20	Salvia_blepharophylla	Nectar	BIRD	SAMPLE	8
+MSV000097544	186_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	missing value	Q Exactive|MS:1001911	SalBle_22	Salvia_blepharophylla	Nectar	BIRD	SAMPLE	5.671875
+MSV000097544	187_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	missing value	Q Exactive|MS:1001911	SalBle_SBW6	Salvia_blepharophylla	Nectar	BIRD	SAMPLE	12.015625
+MSV000097544	188_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	missing value	Q Exactive|MS:1001911	SalChio_8	Salvia_chionophylla	Nectar	BEE	SAMPLE	9.515625
+MSV000097544	189_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	missing value	Q Exactive|MS:1001911	SalChio_1	Salvia_chionophylla	Nectar	BEE	SAMPLE	8.046875
+MSV000097544	191_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	missing value	Q Exactive|MS:1001911	SalChio_6	Salvia_chionophylla	Nectar	BEE	SAMPLE	1.71875
+MSV000097544	193_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	missing value	Q Exactive|MS:1001911	SalCoc_1	Salvia_coccinea	Nectar	BIRD	SAMPLE	14.03125
+MSV000097544	194_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	missing value	Q Exactive|MS:1001911	SalCoc_3	Salvia_coccinea	Nectar	BIRD	SAMPLE	12.515625
+MSV000097544	195_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	missing value	Q Exactive|MS:1001911	SalCoc_10	Salvia_coccinea	Nectar	BIRD	SAMPLE	12.234375
+MSV000097544	196_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	missing value	Q Exactive|MS:1001911	SalCoc_11	Salvia_coccinea	Nectar	BIRD	SAMPLE	12.578125
+MSV000097544	197_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	missing value	Q Exactive|MS:1001911	SalRoe_1	Salvia_roemeriana	Nectar	BIRD	SAMPLE	10.171875
+MSV000097544	198_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	missing value	Q Exactive|MS:1001911	SalRoe_2	Salvia_roemeriana	Nectar	BIRD	SAMPLE	1.75
+MSV000097544	199_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	missing value	Q Exactive|MS:1001911	SalRoe_4	Salvia_roemeriana	Nectar	BIRD	SAMPLE	4.6875
+MSV000097544	202_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	missing value	Q Exactive|MS:1001911	RueBrit_20	Ruellia_brittoniana	Nectar	BEE	SAMPLE	12.921875
+MSV000097544	203_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	missing value	Q Exactive|MS:1001911	RueBrit_21	Ruellia_brittoniana	Nectar	BEE	SAMPLE	5.265625
+MSV000097544	204_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	missing value	Q Exactive|MS:1001911	SalDar_1	Salvia_darcyi	Nectar	BIRD	SAMPLE	14.875
+MSV000097544	205_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	missing value	Q Exactive|MS:1001911	SalDar_2	Salvia_darcyi	Nectar	BIRD	SAMPLE	15.1875
+MSV000097544	206_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	missing value	Q Exactive|MS:1001911	SalDar_3	Salvia_darcyi	Nectar	BIRD	SAMPLE	17.21875
+MSV000097544	207_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	missing value	Q Exactive|MS:1001911	SalDar_12	Salvia_darcyi	Nectar	BIRD	SAMPLE	4.078125
+MSV000097544	209_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	missing value	Q Exactive|MS:1001911	SalDar_20	Salvia_darcyi	Nectar	BIRD	SAMPLE	19.234375
+MSV000097544	210_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	missing value	Q Exactive|MS:1001911	SalGreg_1	Salvia_greggii	Nectar	BIRD	SAMPLE	19.0625
+MSV000097544	211_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	missing value	Q Exactive|MS:1001911	SalGreg_2	Salvia_greggii	Nectar	BIRD	SAMPLE	16.59375
+MSV000097544	212_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	missing value	Q Exactive|MS:1001911	SalGreg_8	Salvia_greggii	Nectar	BIRD	SAMPLE	16.046875
+MSV000097544	214_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	missing value	Q Exactive|MS:1001911	SalGreg_10	Salvia_greggii	Nectar	BIRD	SAMPLE	10.53125
+MSV000097544	215_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	missing value	Q Exactive|MS:1001911	SalMic_1	Salvia_microphylla	Nectar	BIRD	SAMPLE	14.71875
+MSV000097544	216_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	missing value	Q Exactive|MS:1001911	SalMic_2	Salvia_microphylla	Nectar	BIRD	SAMPLE	12.515625
+MSV000097544	217_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	missing value	Q Exactive|MS:1001911	SalMic_3	Salvia_microphylla	Nectar	BIRD	SAMPLE	13.046875
+MSV000097544	218_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	missing value	Q Exactive|MS:1001911	SalMic_4	Salvia_microphylla	Nectar	BIRD	SAMPLE	17.71875
+MSV000097544	219_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	missing value	Q Exactive|MS:1001911	SalMic_7	Salvia_microphylla	Nectar	BIRD	SAMPLE	16.359375
+MSV000097544	220_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	missing value	Q Exactive|MS:1001911	SalMic_8	Salvia_microphylla	Nectar	BIRD	SAMPLE	12.9375
+MSV000097544	221_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	missing value	Q Exactive|MS:1001911	SalRoe_3	Salvia_roemeriana	Nectar	BIRD	SAMPLE	1.21875
+MSV000097544	222_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	missing value	Q Exactive|MS:1001911	SalRoe_7	Salvia_roemeriana	Nectar	BIRD	SAMPLE	8.84375
+MSV000097544	223_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	missing value	Q Exactive|MS:1001911	ScutWrit_1	Scutellaria_wrightii	Nectar	BEE	SAMPLE	11.78125
+MSV000097544	224_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	missing value	Q Exactive|MS:1001911	ScutWrit_2	Scutellaria_wrightii	Nectar	BEE	SAMPLE	9.3125
+MSV000097544	226_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_14	Salvia_darcyi	Leaves	BIRD	SAMPLE	9.1
+MSV000097544	227_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_4	Salvia_coccinea	Leaves	BIRD	SAMPLE	9.6
+MSV000097544	228_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_7	Salvia_chionophylla	Leaves	BEE	SAMPLE	11.5
+MSV000097544	229_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_4	Salvia_chionophylla	Leaves	BEE	SAMPLE	8.6
+MSV000097544	230_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_5	Salvia_chionophylla	Leaves	BEE	SAMPLE	9
+MSV000097544	231_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_23	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	10
+MSV000097544	232_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_22	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	11.1
+MSV000097544	233_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	leaf	Q Exactive|MS:1001911	SalAzu_12	Salvia_azurea	Leaves	BEE	SAMPLE	9.7
+MSV000097544	234_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_5	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	11.5
+MSV000097544	235_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_6	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	11.3
+MSV000097544	236_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_7	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	9.9
+MSV000097544	237_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_8	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	10.6
+MSV000097544	238_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	leaf	Q Exactive|MS:1001911	PhysVir_4	Physostegia_virginiana	Leaves	BEE	SAMPLE	12.2
+MSV000097544	239_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	leaf	Q Exactive|MS:1001911	PhysVir_3	Physostegia_virginiana	Leaves	BEE	SAMPLE	12.1
+MSV000097544	240_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	leaf	Q Exactive|MS:1001911	PhysVir_2	Physostegia_virginiana	Leaves	BEE	SAMPLE	12.5
+MSV000097544	241_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	leaf	Q Exactive|MS:1001911	PhysVir_1	Physostegia_virginiana	Leaves	BEE	SAMPLE	9.6
+MSV000097544	242_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_8	Ruellia_brittoniana	Leaves	BEE	SAMPLE	10.6
+MSV000097544	243_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_21	Ruellia_brittoniana	Leaves	BEE	SAMPLE	11.7
+MSV000097544	244_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_FM7	Ruellia_brittoniana	Leaves	BEE	SAMPLE	10.1
+MSV000097544	246_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_1	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	9.6
+MSV000097544	247_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_2	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	9.4
+MSV000097544	248_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_4	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	11.6
+MSV000097544	249_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_5	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	11.2
+MSV000097544	250_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_6	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	9.6
+MSV000097544	251_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_B1	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	3
+MSV000097544	252_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_B4	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	5.9
+MSV000097544	253_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	leaf	Q Exactive|MS:1001911	SalRoe_1	Salvia_roemeriana	Leaves	BIRD	SAMPLE	10.1
+MSV000097544	254_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	leaf	Q Exactive|MS:1001911	SalRoe_4	Salvia_roemeriana	Leaves	BIRD	SAMPLE	10.1
+MSV000097544	255_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	leaf	Q Exactive|MS:1001911	SalRoe_6	Salvia_roemeriana	Leaves	BIRD	SAMPLE	10.2
+MSV000097544	256_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	leaf	Q Exactive|MS:1001911	SalRoe_8	Salvia_roemeriana	Leaves	BIRD	SAMPLE	10.6
+MSV000097544	257_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	leaf	Q Exactive|MS:1001911	StaCoc_5	Stachys_Coccinea	Leaves	BIRD	SAMPLE	9.9
+MSV000097544	258_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	leaf	Q Exactive|MS:1001911	StaCoc_4	Stachys_Coccinea	Leaves	BIRD	SAMPLE	9.2
+MSV000097544	259_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_3	Salvia_sinaloensis	Leaves	BEE	SAMPLE	8.7
+MSV000097544	260_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_4	Salvia_sinaloensis	Leaves	BEE	SAMPLE	10.7
+MSV000097544	261_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_5	Salvia_sinaloensis	Leaves	BEE	SAMPLE	9.7
+MSV000097544	262_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_8	Salvia_sinaloensis	Leaves	BEE	SAMPLE	11
+MSV000097544	263_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_BW101	Salvia_sinaloensis	Leaves	BEE	SAMPLE	10.1
+MSV000097544	264_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_BW102	Salvia_sinaloensis	Leaves	BEE	SAMPLE	1.7
+MSV000097544	265_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_1	Scutellaria_wrightii	Leaves	BEE	SAMPLE	6.4
+MSV000097544	266_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_3	Scutellaria_wrightii	Leaves	BEE	SAMPLE	6.7
+MSV000097544	267_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_6	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.8
+MSV000097544	268_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_8	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.5
+MSV000097544	270_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_1	Salvia_darcyi	Leaves	BIRD	SAMPLE	9.8
+MSV000097544	271_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_3	Salvia_darcyi	Leaves	BIRD	SAMPLE	11
+MSV000097544	272_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_4	Salvia_darcyi	Leaves	BIRD	SAMPLE	11.4
+MSV000097544	273_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_12	Salvia_darcyi	Leaves	BIRD	SAMPLE	10.2
+MSV000097544	274_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_FM4	Ruellia_brittoniana	Leaves	BEE	SAMPLE	8.5
+MSV000097544	275_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_FM3	Ruellia_brittoniana	Leaves	BEE	SAMPLE	8.5
+MSV000097544	277_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_19	Ruellia_brittoniana	Leaves	BEE	SAMPLE	8.5
+MSV000097544	278_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_7	Ruellia_brittoniana	Leaves	BEE	SAMPLE	11.5
+MSV000097544	279_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W7	Salvia_regla	Leaves	BIRD	SAMPLE	0.5
+MSV000097544	280_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W1	Salvia_regla	Leaves	BIRD	SAMPLE	10.7
+MSV000097544	281_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W3	Salvia_regla	Leaves	BIRD	SAMPLE	9.2
+MSV000097544	282_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W6	Salvia_regla	Leaves	BIRD	SAMPLE	10.6
+MSV000097544	294_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	missing value	Q Exactive|MS:1001911	ScutWri_3	Scutellaria_wrightii	Nectar	BEE	SAMPLE	0.4375
+MSV000097544	295_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	missing value	Q Exactive|MS:1001911	ScutSuf_2	Scutellaria_suffrutescens	Nectar	BIRD	SAMPLE	0.65625
+MSV000097544	296_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	missing value	Q Exactive|MS:1001911	ScutWri_4	Scutellaria_wrightii	Nectar	BEE	SAMPLE	2.625
+MSV000097544	297_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	missing value	Q Exactive|MS:1001911	SalRoe_6	Salvia_roemeriana	Nectar	BIRD	SAMPLE	3.9375
+MSV000097544	298_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	missing value	Q Exactive|MS:1001911	SalRoe_5	Salvia_roemeriana	Nectar	BIRD	SAMPLE	1.328125
+MSV000097544	299_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	missing value	Q Exactive|MS:1001911	ScuWri_9	Scutellaria_wrightii	Nectar	BEE	SAMPLE	1.46875
+MSV000097544	300_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	missing value	Q Exactive|MS:1001911	SalLeu_26	Salvia_leucantha	Nectar	BEE	SAMPLE	7.734375
+MSV000097544	310_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	missing value	Q Exactive|MS:1001911	SalSin_4	Salvia_sinaloensis	Nectar	BEE	SAMPLE	0.65625
+MSV000097544	311_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	missing value	Q Exactive|MS:1001911	ScutWri_6	Scutellaria_wrightii	Nectar	BEE	SAMPLE	5.625
+MSV000097544	313_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	missing value	Q Exactive|MS:1001911	SalSin_B6	Salvia_sinaloensis	Nectar	BEE	SAMPLE	2.796875
+MSV000097544	314_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	missing value	Q Exactive|MS:1001911	ScutWri_5	Scutellaria_wrightii	Nectar	BEE	SAMPLE	7.234375
+MSV000097544	315_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	missing value	Q Exactive|MS:1001911	StaCoc_3	Stachys_Coccinea	Nectar	BIRD	SAMPLE	4.34375
+MSV000097544	316_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	missing value	Q Exactive|MS:1001911	StaCoc_2	Stachys_Coccinea	Nectar	BIRD	SAMPLE	9.09375
+MSV000097544	327_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_8	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	10.4
+MSV000097544	328_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_B2	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	3.9
+MSV000097544	329_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_B4	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	9.9
+MSV000097544	330_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_B3	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	10.4
+MSV000097544	331_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_3	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	9.9
+MSV000097544	332_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_1	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	11.8
+MSV000097544	333_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_6	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.6
+MSV000097544	334_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_5	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.8
+MSV000097544	335_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_4	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.4
+MSV000097544	336_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_8	Scutellaria_wrightii	Leaves	BEE	SAMPLE	11.6
+MSV000097544	337_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_4	Salvia_farinaceae	Leaves	BEE	SAMPLE	10.3
+MSV000097544	338_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_13	Salvia_farinaceae	Leaves	BEE	SAMPLE	8.6
+MSV000097544	339_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_20	Salvia_farinaceae	Leaves	BEE	SAMPLE	9.3
+MSV000097544	340_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_X3	Salvia_farinaceae	Leaves	BEE	SAMPLE	10.5
+MSV000097544	342_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_15	Salvia_farinaceae	Leaves	BEE	SAMPLE	11.9
+MSV000097544	343_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_7	Salvia_farinaceae	Leaves	BEE	SAMPLE	10
+MSV000097544	345_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_8	Salvia_farinaceae	Leaves	BEE	SAMPLE	11.2
+MSV000097544	350_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_2	Salvia_greggii	Leaves	BIRD	SAMPLE	9.9
+MSV000097544	351_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_6	Salvia_greggii	Leaves	BIRD	SAMPLE	9.6
+MSV000097544	352_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_7	Salvia_greggii	Leaves	BIRD	SAMPLE	11.5
+MSV000097544	353_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_5	Salvia_greggii	Leaves	BIRD	SAMPLE	10
+MSV000097544	354_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_10	Salvia_greggii	Leaves	BIRD	SAMPLE	10.5
+MSV000097544	355_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_1	Salvia_greggii	Leaves	BIRD	SAMPLE	9.3
+MSV000097544	361_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_26	Salvia_leucantha	Leaves	BEE	SAMPLE	9.5
+MSV000097544	362_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_21	Salvia_leucantha	Leaves	BEE	SAMPLE	9.5
+MSV000097544	363_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_7	Salvia_sinaloensis	Leaves	BEE	SAMPLE	10
+MSV000097544	364_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_3	Salvia_sinaloensis	Leaves	BEE	SAMPLE	11
+MSV000097544	370_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	leaf	Q Exactive|MS:1001911	PhysVir_6	Physostegia_virginiana	Leaves	BEE	SAMPLE	11
+MSV000097544	376_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_11	Salvia_chionophylla	Leaves	BEE	SAMPLE	10.6
+MSV000097544	378_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_X1	Salvia_farinaceae	Leaves	BEE	SAMPLE	8.3
+MSV000097544	379_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_5	Ruellia_brittoniana	Leaves	BEE	SAMPLE	10.1
+MSV000097544	380_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_5	Salvia_chionophylla	Leaves	BEE	SAMPLE	9.6
+MSV000097544	381_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_7	Salvia_chionophylla	Leaves	BEE	SAMPLE	10.3
+MSV000097544	382_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_1	Ruellia_brittoniana	Leaves	BEE	SAMPLE	11.4
+MSV000097544	383_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_2	Ruellia_brittoniana	Leaves	BEE	SAMPLE	10.4
+MSV000097544	384_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_6	Ruellia_brittoniana	Leaves	BEE	SAMPLE	10.6
+MSV000097544	385_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	leaf	Q Exactive|MS:1001911	StaCoc_2	Stachys_Coccinea	Leaves	BIRD	SAMPLE	10.1
+MSV000097544	388_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_2	Scutellaria_wrightii	Leaves	BEE	SAMPLE	11.3
+MSV000097544	390_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	leaf	Q Exactive|MS:1001911	StaCoc_1	Stachys_Coccinea	Leaves	BIRD	SAMPLE	10.1
+MSV000097544	391_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	leaf	Q Exactive|MS:1001911	StaCoc_3	Stachys_Coccinea	Leaves	BIRD	SAMPLE	11.8
+MSV000097544	392_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	leaf	Q Exactive|MS:1001911	PhysVir_7	Physostegia_virginiana	Leaves	BEE	SAMPLE	10.1
+MSV000097544	393_PHYSVI.mzXML	plant	plant_angiospermae	28510|Physostegia virginiana	leaf	Q Exactive|MS:1001911	PhysVir_5	Physostegia_virginiana	Leaves	BEE	SAMPLE	9
+MSV000097544	396_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_3	Salvia_farinaceae	Leaves	BEE	SAMPLE	9.5
+MSV000097544	398_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_X2	Salvia_farinaceae	Leaves	BEE	SAMPLE	9
+MSV000097544	399_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_6	Salvia_sinaloensis	Leaves	BEE	SAMPLE	9.8
+MSV000097544	400_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_4	Salvia_sinaloensis	Leaves	BEE	SAMPLE	9.6
+MSV000097544	402_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_5	Salvia_farinaceae	Leaves	BEE	SAMPLE	10.3
+MSV000097544	403_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_2	Salvia_sinaloensis	Leaves	BEE	SAMPLE	9
+MSV000097544	405_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_1	Salvia_sinaloensis	Leaves	BEE	SAMPLE	9.6
+MSV000097544	407_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_8	Salvia_greggii	Leaves	BIRD	SAMPLE	9.5
+MSV000097544	408_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_7	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.4
+MSV000097544	411_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_7	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	11.3
+MSV000097544	414_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_2	Salvia_sinaloensis	Leaves	BEE	SAMPLE	8.4
+MSV000097544	415_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_1	Salvia_sinaloensis	Leaves	BEE	SAMPLE	11.2
+MSV000097544	416_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_5	Salvia_sinaloensis	Leaves	BEE	SAMPLE	10
+MSV000097544	417_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_7	Salvia_sinaloensis	Leaves	BEE	SAMPLE	8.3
+MSV000097544	418_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_6	Salvia_sinaloensis	Leaves	BEE	SAMPLE	10.4
+MSV000097544	419_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	leaf	Q Exactive|MS:1001911	SalRoe_5	Salvia_roemeriana	Leaves	BIRD	SAMPLE	11.4
+MSV000097544	420_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	leaf	Q Exactive|MS:1001911	SalRoe_7	Salvia_roemeriana	Leaves	BIRD	SAMPLE	10.5
+MSV000097544	421_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	leaf	Q Exactive|MS:1001911	SalRoe_2	Salvia_roemeriana	Leaves	BIRD	SAMPLE	11.2
+MSV000097544	422_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	leaf	Q Exactive|MS:1001911	SalRoe_3	Salvia_roemeriana	Leaves	BIRD	SAMPLE	10.5
+MSV000097544	423_SALROE.mzXML	plant	plant_angiospermae	268924|Salvia roemeriana	leaf	Q Exactive|MS:1001911	SalRoe_1	Salvia_roemeriana	Leaves	BIRD	SAMPLE	8.8
+MSV000097544	424_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_7	Scutellaria_wrightii	Leaves	BEE	SAMPLE	7.9
+MSV000097544	430_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_4	Salvia_coccinea	Leaves	BIRD	SAMPLE	8.9
+MSV000097544	431_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_3	Salvia_coccinea	Leaves	BIRD	SAMPLE	11.7
+MSV000097544	438_SALMIC.mzXML	plant	plant_angiospermae	268916|Salvia microphylla	leaf	Q Exactive|MS:1001911	SalMic_B6	Salvia_microphylla	Leaves	BIRD	SAMPLE	8.6
+MSV000097544	440_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_3	Ruellia_brittoniana	Leaves	BEE	SAMPLE	10.8
+MSV000097544	441_RUEBRI.mzXML	plant	plant_angiospermae	440931|Ruellia brittoniana	leaf	Q Exactive|MS:1001911	RueBrit_4	Ruellia_brittoniana	Leaves	BEE	SAMPLE	10.6
+MSV000097544	442_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_3	Salvia_chionophylla	Leaves	BEE	SAMPLE	8.8
+MSV000097544	443_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_4	Salvia_chionophylla	Leaves	BEE	SAMPLE	10
+MSV000097544	444_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_2	Salvia_chionophylla	Leaves	BEE	SAMPLE	10.4
+MSV000097544	449_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_6	Salvia_chionophylla	Leaves	BEE	SAMPLE	10.8
+MSV000097544	450_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_3	Salvia_chionophylla	Leaves	BEE	SAMPLE	11.1
+MSV000097544	451_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_1	Salvia_chionophylla	Leaves	BEE	SAMPLE	9.9
+MSV000097544	452_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_8	Salvia_chionophylla	Leaves	BEE	SAMPLE	10.8
+MSV000097544	453_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_5	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	9.9
+MSV000097544	454_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_1	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	11.5
+MSV000097544	455_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_3	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	10.4
+MSV000097544	456_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_1	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	9.2
+MSV000097544	457_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	leaf	Q Exactive|MS:1001911	SalSin_8	Salvia_sinaloensis	Leaves	BEE	SAMPLE	10.1
+MSV000097544	458_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_2	Salvia_farinaceae	Leaves	BEE	SAMPLE	10.7
+MSV000097544	459_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_1	Salvia_farinaceae	Leaves	BEE	SAMPLE	8.9
+MSV000097544	460_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_X1	Salvia_farinaceae	Leaves	BEE	SAMPLE	7
+MSV000097544	461_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_4	Salvia_ballotiflora	Leaves	BEE	SAMPLE	10.3
+MSV000097544	463_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_5	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10
+MSV000097544	464_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_22	Salvia_leucantha	Leaves	BEE	SAMPLE	8.5
+MSV000097544	468_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_3	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.9
+MSV000097544	469_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_20	Salvia_leucantha	Leaves	BEE	SAMPLE	9.1
+MSV000097544	470_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_1	Salvia_greggii	Leaves	BIRD	SAMPLE	11.1
+MSV000097544	471_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_1	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.3
+MSV000097544	472_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_4	Salvia_greggii	Leaves	BIRD	SAMPLE	11.6
+MSV000097544	473_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_5	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.7
+MSV000097544	477_SCUWRI.mzXML	plant	plant_angiospermae	2858957|Scutellaria wrightii	leaf	Q Exactive|MS:1001911	ScutWri_2	Scutellaria_wrightii	Leaves	BEE	SAMPLE	10.6
+MSV000097544	478_SALLEU.mzXML	plant	plant_angiospermae	933138|Salvia leucantha	leaf	Q Exactive|MS:1001911	SalLeu_23	Salvia_leucantha	Leaves	BEE	SAMPLE	10.8
+MSV000097544	484_SALGRE.mzXML	plant	plant_angiospermae	268908|Salvia greggii	leaf	Q Exactive|MS:1001911	SalGreg_3	Salvia_greggii	Leaves	BIRD	SAMPLE	9.7
+MSV000097544	486_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	missing value	Q Exactive|MS:1001911	SalSin_B2	Salvia_sinaloensis	Nectar	BEE	SAMPLE	0.5625
+MSV000097544	487_SALSIN.mzXML	plant	plant_angiospermae	2039544|Salvia sinaloensis	missing value	Q Exactive|MS:1001911	SalSin_B5	Salvia_sinaloensis	Nectar	BEE	SAMPLE	0.734375
+MSV000097544	489_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	leaf	Q Exactive|MS:1001911	SalAzu_1	Salvia_azurea	Leaves	BEE	SAMPLE	8.7
+MSV000097544	490_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_5	Salvia_ballotiflora	Leaves	BEE	SAMPLE	9
+MSV000097544	491_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_3	Salvia_ballotiflora	Leaves	BEE	SAMPLE	11.4
+MSV000097544	492_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_2	Salvia_ballotiflora	Leaves	BEE	SAMPLE	10.9
+MSV000097544	493_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_5	Salvia_ballotiflora	Leaves	BEE	SAMPLE	11.2
+MSV000097544	494_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_3	Salvia_ballotiflora	Leaves	BEE	SAMPLE	11.1
+MSV000097544	495_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_3	Salvia_darcyi	Leaves	BIRD	SAMPLE	11
+MSV000097544	496_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_2	Salvia_darcyi	Leaves	BIRD	SAMPLE	9.6
+MSV000097544	497_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_11	Salvia_darcyi	Leaves	BIRD	SAMPLE	10
+MSV000097544	498_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W4	Salvia_regla	Leaves	BIRD	SAMPLE	8.3
+MSV000097544	499_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W1	Salvia_regla	Leaves	BIRD	SAMPLE	9.3
+MSV000097544	500_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W5	Salvia_regla	Leaves	BIRD	SAMPLE	9.1
+MSV000097544	501_SALREG.mzXML	plant	plant_angiospermae	392683|Salvia regla	leaf	Q Exactive|MS:1001911	SalReg_W2	Salvia_regla	Leaves	BIRD	SAMPLE	9.2
+MSV000097544	502_SALDAR.mzXML	plant	plant_angiospermae	2886703|Salvia darcyi	leaf	Q Exactive|MS:1001911	SalDar_1	Salvia_darcyi	Leaves	BIRD	SAMPLE	10
+MSV000097544	503_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_1	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	9.4
+MSV000097544	504_SALCHI.mzXML	plant	plant_angiospermae	1200506|Salvia chionophylla	leaf	Q Exactive|MS:1001911	SalChio_11	Salvia_chionophylla	Leaves	BEE	SAMPLE	11.3
+MSV000097544	505_SALAZU.mzXML	plant	plant_angiospermae	392652|Salvia azurea	leaf	Q Exactive|MS:1001911	SalAzu_2	Salvia_azurea	Leaves	BEE	SAMPLE	9.1
+MSV000097544	510_ANIQWR.mzXML	plant	plant_angiospermae	479633|Anisacanthus quadrifidus	leaf	Q Exactive|MS:1001911	AniQWr_3	Anisacanthus_quadrifidus	Leaves	BIRD	SAMPLE	10.3
+MSV000097544	522_SALBLE.mzXML	plant	plant_angiospermae	933122|Salvia blepharophylla	leaf	Q Exactive|MS:1001911	SalBle_5	Salvia_blepharophylla	Leaves	BIRD	SAMPLE	9.5
+MSV000097544	525_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_1	Salvia_ballotiflora	Leaves	BEE	SAMPLE	8.7
+MSV000097544	526_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_5	Salvia_ballotiflora	Leaves	BEE	SAMPLE	9.4
+MSV000097544	527_SALBAL.mzXML	plant	plant_angiospermae	268890|Salvia ballotiflora	leaf	Q Exactive|MS:1001911	SalBall_1	Salvia_ballotiflora	Leaves	BEE	SAMPLE	9.8
+MSV000097544	532_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	leaf	Q Exactive|MS:1001911	StaCoc_1	Stachys_Coccinea	Leaves	BIRD	SAMPLE	10.5
+MSV000097544	533_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	leaf	Q Exactive|MS:1001911	StaCoc_2	Stachys_Coccinea	Leaves	BIRD	SAMPLE	10.2
+MSV000097544	534_STACOC.mzXML	plant	plant_angiospermae	141787|Stachys coccinea	leaf	Q Exactive|MS:1001911	StaCoc_5	Stachys_Coccinea	Leaves	BIRD	SAMPLE	9.3
+MSV000097544	537_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_B2	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	9.1
+MSV000097544	538_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_3	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	8.7
+MSV000097544	540_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_5	Salvia_coccinea	Leaves	BIRD	SAMPLE	10.8
+MSV000097544	541_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_1	Salvia_coccinea	Leaves	BIRD	SAMPLE	9.7
+MSV000097544	542_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_2	Salvia_coccinea	Leaves	BIRD	SAMPLE	10.5
+MSV000097544	543_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_6	Salvia_farinaceae	Leaves	BEE	SAMPLE	10.3
+MSV000097544	544_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_10	Salvia_coccinea	Leaves	BIRD	SAMPLE	11
+MSV000097544	545_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_4	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	10.8
+MSV000097544	546_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_11	Salvia_coccinea	Leaves	BIRD	SAMPLE	9.7
+MSV000097544	548_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_1	Salvia_coccinea	Leaves	BIRD	SAMPLE	10.9
+MSV000097544	549_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_3	Salvia_coccinea	Leaves	BIRD	SAMPLE	10.7
+MSV000097544	550_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_B3	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	2.8
+MSV000097544	551_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_2	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	11.4
+MSV000097544	553_SALFAR.mzXML	plant	plant_angiospermae	268905|Salvia farinacea	leaf	Q Exactive|MS:1001911	SalFar_5	Salvia_farinaceae	Leaves	BEE	SAMPLE	10.9
+MSV000097544	555_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_B1	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	10.7
+MSV000097544	556_SALCOC.mzXML	plant	plant_angiospermae	260612|Salvia coccinea	leaf	Q Exactive|MS:1001911	SalCoc_5	Salvia_coccinea	Leaves	BIRD	SAMPLE	9
+MSV000097544	557_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_5	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	8.7
+MSV000097544	558_SCUSUF.mzXML	plant	plant_angiospermae	2798894|Scutellaria suffrutescens	leaf	Q Exactive|MS:1001911	ScutSuf_6	Scutellaria_suffrutescens	Leaves	BIRD	SAMPLE	9
+MSV000097544	012_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	019_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	060_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	072_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	096_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	120_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	144_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	150_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	151_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	152_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	153_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	168_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	177_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	190_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	200_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	201_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	213_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	225_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	245_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	269_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	276_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	317_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	344_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	365_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	377_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	401_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	426_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	447_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	485_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097544	559_BLANK.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value	missing value

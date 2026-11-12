@@ -1,0 +1,31 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	IsolationSourceNCBITaxonomy	SubjectIdentifierAsRecorded	MassSpectrometer	Coral_species	Sample_type	Time_point	Phenotype	Colony	Symbiont_wash	Replicate_ID	Methanol_volume_uL	Notes
+MSV000085925	B1_1.mzML	animal	marine_coral	46704|Montipora capitata	missing value	19	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Pre-bleached	B	19	missing value	A	500	missing value
+MSV000085925	B1_10.mzML	animal	marine_coral	46704|Montipora capitata	missing value	16	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	NB	16	missing value	A	500	Field sampled
+MSV000085925	B1_11.mzML	animal	marine_coral	46704|Montipora capitata	missing value	16	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	NB	16	missing value	B	500	Field sampled
+MSV000085925	B1_12.mzML	animal	marine_coral	46704|Montipora capitata	missing value	16	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	NB	16	missing value	C	500	Field sampled
+MSV000085925	B1_13.mzML	microalgae	missing value	missing value	46704|Montipora capitata	19	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	B	19	2	A	300	missing value
+MSV000085925	B1_14.mzML	microalgae	missing value	missing value	46704|Montipora capitata	19	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	B	19	3	A	300	missing value
+MSV000085925	B1_15.mzML	microalgae	missing value	missing value	46704|Montipora capitata	19	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	B	19	2	B	300	missing value
+MSV000085925	B1_16.mzML	microalgae	missing value	missing value	46704|Montipora capitata	19	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	B	19	3	B	300	missing value
+MSV000085925	B1_17.mzML	microalgae	missing value	missing value	46704|Montipora capitata	19	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	B	19	2	C	300	missing value
+MSV000085925	B1_18.mzML	microalgae	missing value	missing value	46704|Montipora capitata	19	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	B	19	3	C	300	missing value
+MSV000085925	B1_19.mzML	microalgae	missing value	missing value	46704|Montipora capitata	20	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	NB	20	3	A	300	missing value
+MSV000085925	B1_2.mzML	animal	marine_coral	46704|Montipora capitata	missing value	19	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Pre-bleached	B	19	missing value	B	500	missing value
+MSV000085925	B1_20.mzML	microalgae	missing value	missing value	46704|Montipora capitata	20	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	NB	20	2	A	300	missing value
+MSV000085925	B1_21.mzML	microalgae	missing value	missing value	46704|Montipora capitata	20	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	NB	20	3	B	300	missing value
+MSV000085925	B1_22.mzML	microalgae	missing value	missing value	46704|Montipora capitata	20	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	NB	20	2	B	300	missing value
+MSV000085925	B1_23.mzML	microalgae	missing value	missing value	46704|Montipora capitata	20	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	NB	20	3	C	300	missing value
+MSV000085925	B1_24.mzML	microalgae	missing value	missing value	46704|Montipora capitata	20	Q Exactive|MS:1001911	M. Capitata	Symbiont pellet	missing value	NB	20	2	C	300	missing value
+MSV000085925	B1_25.mzML	animal	marine_coral	46704|Montipora capitata	missing value	19	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	B	19	missing value	A	300	missing value
+MSV000085925	B1_26.mzML	animal	marine_coral	46704|Montipora capitata	missing value	19	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	B	19	missing value	B	300	missing value
+MSV000085925	B1_27.mzML	animal	marine_coral	46704|Montipora capitata	missing value	19	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	B	19	missing value	C	300	missing value
+MSV000085925	B1_28.mzML	animal	marine_coral	46704|Montipora capitata	missing value	20	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	NB	20	missing value	A	300	missing value
+MSV000085925	B1_29.mzML	animal	marine_coral	46704|Montipora capitata	missing value	20	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	NB	20	missing value	B	300	missing value
+MSV000085925	B1_3.mzML	animal	marine_coral	46704|Montipora capitata	missing value	19	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Pre-bleached	B	19	missing value	C	500	missing value
+MSV000085925	B1_30.mzML	animal	marine_coral	46704|Montipora capitata	missing value	20	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	NB	20	missing value	C	300	missing value
+MSV000085925	B1_4.mzML	animal	marine_coral	46704|Montipora capitata	missing value	20	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Pre-bleached	NB	20	missing value	A	500	missing value
+MSV000085925	B1_5.mzML	animal	marine_coral	46704|Montipora capitata	missing value	20	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Pre-bleached	NB	20	missing value	B	500	missing value
+MSV000085925	B1_6.mzML	animal	marine_coral	46704|Montipora capitata	missing value	20	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Pre-bleached	NB	20	missing value	C	500	missing value
+MSV000085925	B1_7.mzML	animal	marine_coral	46704|Montipora capitata	missing value	19	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	B	19	missing value	A	500	Field sampled
+MSV000085925	B1_8.mzML	animal	marine_coral	46704|Montipora capitata	missing value	19	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	B	19	missing value	B	500	Field sampled
+MSV000085925	B1_9.mzML	animal	marine_coral	46704|Montipora capitata	missing value	19	Q Exactive|MS:1001911	M. Capitata	Coral biopsy	Bleached	B	19	missing value	C	500	Field sampled

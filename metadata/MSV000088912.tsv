@@ -1,0 +1,7 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	class
+MSV000088912	GM(+)-LCMS-22M005-C3-1.mzXML	blank_culturemedia	blank_culturemedia	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	TTC
+MSV000088912	GM(+)-LCMS-22M005-C3-2.mzXML	blank_culturemedia	blank_culturemedia	missing value	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	TTC
+MSV000088912	GM(+)-LCMS-22M005-T1-1.mzXML	culture_bacterial	culture_bacterial	535026|Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	TTC + 3610
+MSV000088912	GM(+)-LCMS-22M005-T1-2.mzXML	culture_bacterial	culture_bacterial	535026|Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	TTC + 3610
+MSV000088912	GM(+)-LCMS-22M005-T3-1.mzXML	culture_bacterial	culture_bacterial	535026|Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	NoTTC + 3610
+MSV000088912	GM(+)-LCMS-22M005-T3-2.mzXML	culture_bacterial	culture_bacterial	535026|Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10	6545 Q-TOF LC/MS|MS:1002791	electrospray ionization (positive)	NoTTC + 3610

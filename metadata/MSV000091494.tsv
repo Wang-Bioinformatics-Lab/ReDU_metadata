@@ -1,0 +1,140 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	SampleType_asrecorded	ColumnType	Charge
+MSV000091494	HILIC-neg-1.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Amp	HILIC	Negative
+MSV000091494	HILIC-neg-2.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Amp	HILIC	Negative
+MSV000091494	HILIC-neg-3.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Amp	HILIC	Negative
+MSV000091494	HILIC-neg-4.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Amp	HILIC	Negative
+MSV000091494	HILIC-neg-5.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Amp	HILIC	Negative
+MSV000091494	HILIC-neg-6.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Van	HILIC	Negative
+MSV000091494	HILIC-neg-7.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Van	HILIC	Negative
+MSV000091494	HILIC-neg-8.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Van	HILIC	Negative
+MSV000091494	HILIC-neg-9.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Van	HILIC	Negative
+MSV000091494	HILIC-neg-10.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Van	HILIC	Negative
+MSV000091494	HILIC-neg-11.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Met	HILIC	Negative
+MSV000091494	HILIC-neg-12.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Met	HILIC	Negative
+MSV000091494	HILIC-neg-13.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Met	HILIC	Negative
+MSV000091494	HILIC-neg-14.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Met	HILIC	Negative
+MSV000091494	HILIC-neg-15.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Met	HILIC	Negative
+MSV000091494	HILIC-neg-16.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-NT	HILIC	Negative
+MSV000091494	HILIC-neg-17.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-NT	HILIC	Negative
+MSV000091494	HILIC-neg-18.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-NT	HILIC	Negative
+MSV000091494	HILIC-neg-19.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-NT	HILIC	Negative
+MSV000091494	HILIC-neg-20.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-NT	HILIC	Negative
+MSV000091494	HILIC-neg-21.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Neo	HILIC	Negative
+MSV000091494	HILIC-neg-22.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Neo	HILIC	Negative
+MSV000091494	HILIC-neg-23.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Neo	HILIC	Negative
+MSV000091494	HILIC-neg-24.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Neo	HILIC	Negative
+MSV000091494	HILIC-neg-25.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	cecum-Neo	HILIC	Negative
+MSV000091494	HILIC-neg-Blank1.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	Blank	HILIC	Negative
+MSV000091494	HILIC-neg-Blank2.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	Blank	HILIC	Negative
+MSV000091494	HILIC-neg-Blank3.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	Blank	HILIC	Negative
+MSV000091494	HILIC-neg-QA1.mzML	missing value	missing value	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	QA	HILIC	Negative
+MSV000091494	HILIC-neg-QA2.mzML	missing value	missing value	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	QA	HILIC	Negative
+MSV000091494	HILIC-neg-QC1.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	QC	HILIC	Negative
+MSV000091494	HILIC-neg-QC2.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	QC	HILIC	Negative
+MSV000091494	HILIC-neg-QC3.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	QC	HILIC	Negative
+MSV000091494	HILIC-neg-Solvent.mzML	blank_analysis	blank_analysis	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	Solvent	HILIC	Negative
+MSV000091494	HILIC-neg-solvent2.mzML	blank_analysis	blank_analysis	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	normal phase (HILIC)	Solvent	HILIC	Negative
+MSV000091494	HILIC-pos-2.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Amp	HILIC	Postive
+MSV000091494	HILIC-pos-3.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Amp	HILIC	Postive
+MSV000091494	HILIC-pos-4.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Amp	HILIC	Postive
+MSV000091494	HILIC-pos-5.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Amp	HILIC	Postive
+MSV000091494	HILIC-pos-6.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Van	HILIC	Postive
+MSV000091494	HILIC-pos-7.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Van	HILIC	Postive
+MSV000091494	HILIC-pos-8.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Van	HILIC	Postive
+MSV000091494	HILIC-pos-9.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Van	HILIC	Postive
+MSV000091494	HILIC-pos-10.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Van	HILIC	Postive
+MSV000091494	HILIC-pos-11.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Met	HILIC	Postive
+MSV000091494	HILIC-pos-12.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Met	HILIC	Postive
+MSV000091494	HILIC-pos-13.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Met	HILIC	Postive
+MSV000091494	HILIC-pos-14.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Met	HILIC	Postive
+MSV000091494	HILIC-pos-15.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Met	HILIC	Postive
+MSV000091494	HILIC-pos-16.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-NT	HILIC	Postive
+MSV000091494	HILIC-pos-17.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-NT	HILIC	Postive
+MSV000091494	HILIC-pos-18.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-NT	HILIC	Postive
+MSV000091494	HILIC-pos-19.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-NT	HILIC	Postive
+MSV000091494	HILIC-pos-20.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-NT	HILIC	Postive
+MSV000091494	HILIC-pos-21.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Neo	HILIC	Postive
+MSV000091494	HILIC-pos-22.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Neo	HILIC	Postive
+MSV000091494	HILIC-pos-23.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Neo	HILIC	Postive
+MSV000091494	HILIC-pos-24.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Neo	HILIC	Postive
+MSV000091494	HILIC-pos-25.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	cecum-Neo	HILIC	Postive
+MSV000091494	HILIC-pos-Blank1.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	Blank	HILIC	Postive
+MSV000091494	HILIC-pos-Blank2.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	Blank	HILIC	Postive
+MSV000091494	HILIC-pos-Blank3.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	Blank	HILIC	Postive
+MSV000091494	HILIC-pos-QA1.mzML	missing value	missing value	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	QA	HILIC	Postive
+MSV000091494	HILIC-pos-QA2.mzML	missing value	missing value	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	QA	HILIC	Postive
+MSV000091494	HILIC-pos-QC1.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	QC	HILIC	Postive
+MSV000091494	HILIC-pos-QC2.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	QC	HILIC	Postive
+MSV000091494	HILIC-pos-QC3.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	QC	HILIC	Postive
+MSV000091494	HILIC-pos-Solvent.mzML	blank_analysis	blank_analysis	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	Solvent	HILIC	Postive
+MSV000091494	HILIC-pos-solvent2.mzML	blank_analysis	blank_analysis	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	normal phase (HILIC)	Solvent	HILIC	Postive
+MSV000091494	RP-neg-1.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Amp	RP	Negative
+MSV000091494	RP-neg-2.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Amp	RP	Negative
+MSV000091494	RP-neg-3.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Amp	RP	Negative
+MSV000091494	RP-neg-4.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Amp	RP	Negative
+MSV000091494	RP-neg-5.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Amp	RP	Negative
+MSV000091494	RP-neg-6.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Van	RP	Negative
+MSV000091494	RP-neg-7.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Van	RP	Negative
+MSV000091494	RP-neg-8.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Van	RP	Negative
+MSV000091494	RP-neg-9.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Van	RP	Negative
+MSV000091494	RP-neg-10.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Van	RP	Negative
+MSV000091494	RP-neg-11.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Met	RP	Negative
+MSV000091494	RP-neg-12.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Met	RP	Negative
+MSV000091494	RP-neg-13.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Met	RP	Negative
+MSV000091494	RP-neg-14.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Met	RP	Negative
+MSV000091494	RP-neg-15.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Met	RP	Negative
+MSV000091494	RP-neg-16.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-NT	RP	Negative
+MSV000091494	RP-neg-17.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-NT	RP	Negative
+MSV000091494	RP-neg-18.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-NT	RP	Negative
+MSV000091494	RP-neg-19.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-NT	RP	Negative
+MSV000091494	RP-neg-20.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-NT	RP	Negative
+MSV000091494	RP-neg-21.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Neo	RP	Negative
+MSV000091494	RP-neg-22.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Neo	RP	Negative
+MSV000091494	RP-neg-23.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Neo	RP	Negative
+MSV000091494	RP-neg-24.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Neo	RP	Negative
+MSV000091494	RP-neg-25.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	cecum-Neo	RP	Negative
+MSV000091494	RP-neg-Blank1.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	Blank	RP	Negative
+MSV000091494	RP-neg-Blank2.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	Blank	RP	Negative
+MSV000091494	RP-neg-Blank3.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	Blank	RP	Negative
+MSV000091494	RP-neg-QA1.mzML	missing value	missing value	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	QA	RP	Negative
+MSV000091494	RP-neg-QA2.mzML	missing value	missing value	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	QA	RP	Negative
+MSV000091494	RP-neg-QC1.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	QC	RP	Negative
+MSV000091494	RP-neg-QC2.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	QC	RP	Negative
+MSV000091494	RP-neg-QC3.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	QC	RP	Negative
+MSV000091494	RP-neg-Solvent.mzML	blank_analysis	blank_analysis	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (negative)	reverse phase (NOS)	Solvent	RP	Negative
+MSV000091494	RP-pos-1.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Amp	RP	Postive
+MSV000091494	RP-pos-2.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Amp	RP	Postive
+MSV000091494	RP-pos-3.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Amp	RP	Postive
+MSV000091494	RP-pos-4.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Amp	RP	Postive
+MSV000091494	RP-pos-5.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Amp	RP	Postive
+MSV000091494	RP-pos-6.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Van	RP	Postive
+MSV000091494	RP-pos-7.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Van	RP	Postive
+MSV000091494	RP-pos-8.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Van	RP	Postive
+MSV000091494	RP-pos-9.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Van	RP	Postive
+MSV000091494	RP-pos-10.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Van	RP	Postive
+MSV000091494	RP-pos-11.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Met	RP	Postive
+MSV000091494	RP-pos-12.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Met	RP	Postive
+MSV000091494	RP-pos-13.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Met	RP	Postive
+MSV000091494	RP-pos-14.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Met	RP	Postive
+MSV000091494	RP-pos-15.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Met	RP	Postive
+MSV000091494	RP-pos-16.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-NT	RP	Postive
+MSV000091494	RP-pos-17.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-NT	RP	Postive
+MSV000091494	RP-pos-18.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-NT	RP	Postive
+MSV000091494	RP-pos-19.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-NT	RP	Postive
+MSV000091494	RP-pos-20.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-NT	RP	Postive
+MSV000091494	RP-pos-21.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Neo	RP	Postive
+MSV000091494	RP-pos-22.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Neo	RP	Postive
+MSV000091494	RP-pos-23.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Neo	RP	Postive
+MSV000091494	RP-pos-24.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Neo	RP	Postive
+MSV000091494	RP-pos-25.mzML	animal	tissue	10090|Mus musculus	caecum	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	cecum-Neo	RP	Postive
+MSV000091494	RP-pos-Blank1.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	Blank	RP	Postive
+MSV000091494	RP-pos-Blank2.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	Blank	RP	Postive
+MSV000091494	RP-pos-Blank3.mzML	blank_QC	blank_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	Blank	RP	Postive
+MSV000091494	RP-pos-QA1.mzML	missing value	missing value	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	QA	RP	Postive
+MSV000091494	RP-pos-QA2.mzML	missing value	missing value	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	QA	RP	Postive
+MSV000091494	RP-pos-QC1.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	QC	RP	Postive
+MSV000091494	RP-pos-QC2.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	QC	RP	Postive
+MSV000091494	RP-pos-QC3.mzML	pool_QC	pool_QC	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	QC	RP	Postive
+MSV000091494	RP-pos-Solvent.mzML	blank_analysis	blank_analysis	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	Solvent	RP	Postive
+MSV000091494	RP-pos-solvent2.mzML	blank_analysis	blank_analysis	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	Solvent	RP	Postive
+MSV000091494	RP-pos-solvent3.mzML	blank_analysis	blank_analysis	missing value	missing value	Orbitrap Fusion Lumos|MS:1002732	electrospray ionization (positive)	reverse phase (NOS)	Solvent	RP	Postive

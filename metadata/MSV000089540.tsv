@@ -1,0 +1,329 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	Exposure	MassSpectrometer	Type
+MSV000089540	A6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	A3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	B1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	B2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	A10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	A3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	A2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	A10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	B10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	A9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	B4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	B5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	B1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	A7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	B2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	A6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	A9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	B9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	B3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	B6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	B5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	B3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	B7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	B2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	B6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	C4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	B8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	B9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	C10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	B8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	D2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	D1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	D10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	C3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	C2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	D6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	D5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	D3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	D4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	D1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	D10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	C9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	C6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	C7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	C7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	D8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	D9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	C9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	D7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	E2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	D9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	D6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	D7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	D4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	D2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	D5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	E5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	E7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	E6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	E4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	E3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	E10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	D9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	E9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	F10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	F1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	E5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	F9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	F1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	F10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	F2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	G6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	F2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	F8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	E8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	F6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	G10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	G10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	F4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	F3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	G10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	G4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	G3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	G4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	G2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	G1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	G3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	H7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	H5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	H6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	H3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	G3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	G7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	G9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	G8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	G6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	G8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	H10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	I10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	H8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	G5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	H3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	H4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	H2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	H8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	H4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	G9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	H1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	I2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	I1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	I10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	H5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	H5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	H9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	H4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	H7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	I9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	I8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	I4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	I5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	I6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	I5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	I4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	I6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	I9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	J10_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J1_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	I4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J2_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J10_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	I9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J1_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	J3_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J2_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	J2_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	I8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	J1_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J10_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J3_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	I5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J8_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J4_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J7_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J6_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J6_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J9_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J5_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J7_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J5_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	J3_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J4_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J4_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	J5_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J8_NPS.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	MPS
+MSV000089540	J6_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	J9_Ctrl.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	missing value	Q Exactive|MS:1001911	Control
+MSV000089540	J9_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	J8_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	J7_H2O2.mzML	animal	tissue	9606|Homo sapiens	calcareous tooth	exposure to hydrogen peroxide	Q Exactive|MS:1001911	H2O2
+MSV000089540	Blk_1_20220517162828.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220517161329.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220516212438.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220516182511.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220516152541.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220516121127.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220516115629.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220519191245.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220518170355.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220520073941.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220520041028.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220520011115.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220519221159.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220518103929.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220518074012.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220517122132.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220517092206.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220517062249.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2_20220517032324.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220519030153.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220519000235.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220518204813.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220518203316.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220518014138.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220517224216.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value
+MSV000089540	Blk_1_20220517194244.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value

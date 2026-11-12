@@ -1,0 +1,18 @@
+MassiveID	filename	SampleType	SampleTypeSub1	FoodOntologyTerm	MassSpectrometer	class
+MSV000099377	QC10.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	QC
+MSV000099377	QC11.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	QC
+MSV000099377	QC12.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	QC
+MSV000099377	QC13.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	QC
+MSV000099377	QC14.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	QC
+MSV000099377	QC15.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	QC
+MSV000099377	QC16.mzML	pool_QC	pool_QC	missing value	6545 Q-TOF LC/MS|MS:1002791	QC
+MSV000099377	T1R1.mzML	food	food_source_animal	milk	6545 Q-TOF LC/MS|MS:1002791	Milk
+MSV000099377	T1R2.mzML	food	food_source_animal	milk	6545 Q-TOF LC/MS|MS:1002791	Milk
+MSV000099377	T1R3.mzML	food	food_source_animal	milk	6545 Q-TOF LC/MS|MS:1002791	Milk
+MSV000099377	T1R4.mzML	food	food_source_animal	milk	6545 Q-TOF LC/MS|MS:1002791	Milk
+MSV000099377	T2R1.mzML	food	food_source_animal	cheese	6545 Q-TOF LC/MS|MS:1002791	Cheese
+MSV000099377	T2R2.mzML	food	food_source_animal	cheese	6545 Q-TOF LC/MS|MS:1002791	Cheese
+MSV000099377	T2R3.mzML	food	food_source_animal	cheese	6545 Q-TOF LC/MS|MS:1002791	Cheese
+MSV000099377	T2R4.mzML	food	food_source_animal	cheese	6545 Q-TOF LC/MS|MS:1002791	Cheese
+MSV000099377	T2R5.mzML	food	food_source_animal	cheese	6545 Q-TOF LC/MS|MS:1002791	Cheese
+MSV000099377	T2R6.mzML	food	food_source_animal	cheese	6545 Q-TOF LC/MS|MS:1002791	Cheese

@@ -1,0 +1,35 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	SubjectIdentifierAsRecorded	TimePointHoursRelativeToEvent	MassSpectrometer	Treatment	Day	Weight	deltaweight	Tissue
+MSV000093169	1166Mf0.mzXML	animal	biofluid	10090|Mus musculus	feces	1166M	0	Q Exactive|MS:1001911	control	0	34.5	missing value	fecal
+MSV000093169	1167Mf0.mzXML	animal	biofluid	10090|Mus musculus	feces	1167M	0	Q Exactive|MS:1001911	low	0	32.1	missing value	fecal
+MSV000093169	1168Mf0.mzXML	animal	biofluid	10090|Mus musculus	feces	1168M	0	Q Exactive|MS:1001911	high	0	32.4	missing value	fecal
+MSV000093169	1166Mf1.mzXML	animal	biofluid	10090|Mus musculus	feces	1166M	24	Q Exactive|MS:1001911	control	1	35.3	missing value	fecal
+MSV000093169	1167Mf1.mzXML	animal	biofluid	10090|Mus musculus	feces	1167M	24	Q Exactive|MS:1001911	low	1	31.6	missing value	fecal
+MSV000093169	1168Mf1.mzXML	animal	biofluid	10090|Mus musculus	feces	1168M	24	Q Exactive|MS:1001911	high	1	32.2	missing value	fecal
+MSV000093169	1166Mf5.mzXML	animal	biofluid	10090|Mus musculus	feces	1166M	120	Q Exactive|MS:1001911	control	5	34.2	missing value	fecal
+MSV000093169	1167Mf5.mzXML	animal	biofluid	10090|Mus musculus	feces	1167M	120	Q Exactive|MS:1001911	low	5	33.1	missing value	fecal
+MSV000093169	1168Mf5.mzXML	animal	biofluid	10090|Mus musculus	feces	1168M	120	Q Exactive|MS:1001911	high	5	33.4	missing value	fecal
+MSV000093169	1166Mhpv.mzXML	animal	biofluid	10090|Mus musculus	hepatic portal vein	1166M	missing value	Q Exactive|MS:1001911	control	missing value	missing value	-0.3	hpv
+MSV000093169	1167Mhpv.mzXML	animal	biofluid	10090|Mus musculus	hepatic portal vein	1167M	missing value	Q Exactive|MS:1001911	low	missing value	missing value	1	hpv
+MSV000093169	1168Mhpv.mzXML	animal	biofluid	10090|Mus musculus	hepatic portal vein	1168M	missing value	Q Exactive|MS:1001911	high	missing value	missing value	1	hpv
+MSV000093169	1166Mgb.mzXML	animal	tissue	10090|Mus musculus	gallbladder	1166M	missing value	Q Exactive|MS:1001911	control	missing value	missing value	-0.3	gb
+MSV000093169	1167Mgb.mzXML	animal	tissue	10090|Mus musculus	gallbladder	1167M	missing value	Q Exactive|MS:1001911	low	missing value	missing value	1	gb
+MSV000093169	1168Mgb.mzXML	animal	tissue	10090|Mus musculus	gallbladder	1168M	missing value	Q Exactive|MS:1001911	high	missing value	missing value	1	gb
+MSV000093169	1166Mliver.mzXML	animal	tissue	10090|Mus musculus	liver	1166M	missing value	Q Exactive|MS:1001911	control	missing value	missing value	-0.3	liver
+MSV000093169	1167Mliver.mzXML	animal	tissue	10090|Mus musculus	liver	1167M	missing value	Q Exactive|MS:1001911	low	missing value	missing value	1	liver
+MSV000093169	1168Mliver.mzXML	animal	tissue	10090|Mus musculus	liver	1168M	missing value	Q Exactive|MS:1001911	high	missing value	missing value	1	liver
+MSV000093169	1166Mddm.mzXML	animal	tissue	10090|Mus musculus	missing value	1166M	missing value	Q Exactive|MS:1001911	control	missing value	missing value	-0.3	ddm
+MSV000093169	1167Mddm.mzXML	animal	tissue	10090|Mus musculus	missing value	1167M	missing value	Q Exactive|MS:1001911	low	missing value	missing value	1	ddm
+MSV000093169	1168Mddm.mzXML	animal	tissue	10090|Mus musculus	missing value	1168M	missing value	Q Exactive|MS:1001911	high	missing value	missing value	1	ddm
+MSV000093169	1166Mileum.mzXML	animal	tissue	10090|Mus musculus	ileum	1166M	missing value	Q Exactive|MS:1001911	control	missing value	missing value	-0.3	ileum
+MSV000093169	1167Mileum.mzXML	animal	tissue	10090|Mus musculus	ileum	1167M	missing value	Q Exactive|MS:1001911	low	missing value	missing value	1	ileum
+MSV000093169	1168Mileum.mzXML	animal	tissue	10090|Mus musculus	ileum	1168M	missing value	Q Exactive|MS:1001911	high	missing value	missing value	1	ileum
+MSV000093169	1166Mcecum.mzXML	animal	tissue	10090|Mus musculus	caecum	1166M	missing value	Q Exactive|MS:1001911	control	missing value	missing value	-0.3	cecum
+MSV000093169	1167Mcecum.mzXML	animal	tissue	10090|Mus musculus	caecum	1167M	missing value	Q Exactive|MS:1001911	low	missing value	missing value	1	cecum
+MSV000093169	1168Mcecum.mzXML	animal	tissue	10090|Mus musculus	caecum	1168M	missing value	Q Exactive|MS:1001911	high	missing value	missing value	1	cecum
+MSV000093169	1166Mcolon.mzXML	animal	tissue	10090|Mus musculus	colon	1166M	missing value	Q Exactive|MS:1001911	control	missing value	missing value	-0.3	colon
+MSV000093169	1167Mcolon.mzXML	animal	tissue	10090|Mus musculus	colon	1167M	missing value	Q Exactive|MS:1001911	low	missing value	missing value	1	colon
+MSV000093169	1168Mcolon.mzXML	animal	tissue	10090|Mus musculus	colon	1168M	missing value	Q Exactive|MS:1001911	high	missing value	missing value	1	colon
+MSV000093169	Blank01.mzXML	blank_QC	blank_QC	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000093169	Blank02.mzXML	blank_QC	blank_QC	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000093169	Blank03.mzXML	blank_QC	blank_QC	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000093169	Blank04.mzXML	blank_QC	blank_QC	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value

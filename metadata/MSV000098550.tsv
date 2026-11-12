@@ -1,0 +1,61 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	Sample_description	Genotype	Temperature
+MSV000098550	6_mix_end.mzML	molecular_standards	defined_standards	missing value	Orbitrap Exploris 240|MS:1003094	standard	missing value	missing value
+MSV000098550	6_mix_SD_plate.mzML	molecular_standards	defined_standards	missing value	Orbitrap Exploris 240|MS:1003094	standard	missing value	missing value
+MSV000098550	6_mix_start.mzML	molecular_standards	defined_standards	missing value	Orbitrap Exploris 240|MS:1003094	standard	missing value	missing value
+MSV000098550	A1_A_Vps36addback_Lmajor_25_A11_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	25
+MSV000098550	A1_A_Vps36addback_Lmajor_37_C2_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	37
+MSV000098550	A2_A_Vps36addback_Lmajor_25_A12_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	25
+MSV000098550	A2_A_Vps36addback_Lmajor_37_C3_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	37
+MSV000098550	A3_A_Vps36addback_Lmajor_25_B1_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	25
+MSV000098550	A3_A_Vps36addback_Lmajor_37_C4_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	37
+MSV000098550	A4_A_Vps36addback_Lmajor_25_B2_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	25
+MSV000098550	A4_A_Vps36addback_Lmajor_37_C5_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	37
+MSV000098550	A5_A_Vps36addback_Lmajor_25_B3_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	25
+MSV000098550	A5_A_Vps36addback_Lmajor_37_C6_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36addback	37
+MSV000098550	Blank1_SD_plate.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Blank1_SD_plate_wo_Internal_SD.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Blank3.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Blank4.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Blank5.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Blank5_SD_plate.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Blank6.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Blank6_SD_plate.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Blank7.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	C1_C_Vps36null_Lmajor_25_A6_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	25
+MSV000098550	C1_C_Vps36null_Lmajor_37_B9_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	37
+MSV000098550	C2_C_Vps36null_Lmajor_25_A7_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	25
+MSV000098550	C2_C_Vps36null_Lmajor_37_B10_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	37
+MSV000098550	C3_C_Vps36null_Lmajor_25_A8_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	25
+MSV000098550	C3_C_Vps36null_Lmajor_37_B11_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	37
+MSV000098550	C4_C_Vps36null_Lmajor_25_A9_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	25
+MSV000098550	C4_C_Vps36null_Lmajor_37_B12_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	37
+MSV000098550	C5_C_Vps36null_Lmajor_25_A10_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	25
+MSV000098550	C5_C_Vps36null_Lmajor_37_C1_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Vps36null	37
+MSV000098550	Extraction_1_Controlstep_3_No_parasite_F3_237.mzML	blank_culturemedia	blank_culturemedia	missing value	Orbitrap Exploris 240|MS:1003094	media_blank	missing value	missing value
+MSV000098550	pooled_QC1.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	pooled_QC2.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	pooled_QC3.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	pooled_QC4.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	pooled_QC5.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	QC10.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	QC6.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	QC7.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	QC8.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	QC9.mzML	pool_QC	pool_QC	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	pooled_sample	missing value	missing value
+MSV000098550	SDM_1_Controlstep_1d_SDMmedia_F1_237.mzML	blank_culturemedia	blank_culturemedia	missing value	Orbitrap Exploris 240|MS:1003094	media_blank	missing value	missing value
+MSV000098550	Start_Blank1.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Start_Blank2.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	blank	missing value	missing value
+MSV000098550	Surface_1_Controlstep_1c_Spundown_media_F2_237.mzML	blank_culturemedia	blank_culturemedia	missing value	Orbitrap Exploris 240|MS:1003094	media_blank	missing value	missing value
+MSV000098550	W1_WT_Lmajor_25_A1_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	25
+MSV000098550	W1_WT_Lmajor_37_B4_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	37
+MSV000098550	W2_WT_Lmajor_25_A2_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	25
+MSV000098550	W2_WT_Lmajor_37_B5_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	37
+MSV000098550	W3_WT_Lmajor_25_A3_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	25
+MSV000098550	W3_WT_Lmajor_37_B6_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	37
+MSV000098550	W4_WT_Lmajor_25_A4_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	25
+MSV000098550	W4_WT_Lmajor_37_B7_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	37
+MSV000098550	W5_WT_Lmajor_25_A5_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	25
+MSV000098550	W5_WT_Lmajor_37_B8_237.mzML	missing value	missing value	5664|Leishmania major	Orbitrap Exploris 240|MS:1003094	sample	Wild type	37
+MSV000098550	Blank5_SD_plate_20240616024617.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	missing value	missing value	missing value
+MSV000098550	Blank6_SD_plate_20240616032421.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	missing value	missing value	missing value
+MSV000098550	Blank7_20240617081556.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 240|MS:1003094	missing value	missing value	missing value

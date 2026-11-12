@@ -1,0 +1,13 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	ChromatographyAndPhase	CellLine	sample_name
+MSV000080947	CELL_Glc12_05mM_Normo_04.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc12_05mM_Normo_04
+MSV000080947	CELL_Glc12_05mM_Normo_05.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc12_05mM_Normo_05
+MSV000080947	CELL_Glc12_05mM_Normo_06.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc12_05mM_Normo_06
+MSV000080947	CELL_Glc12_25mM_Normo_16.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc12_25mM_Normo_16
+MSV000080947	CELL_Glc12_25mM_Normo_17.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc12_25mM_Normo_17
+MSV000080947	CELL_Glc12_25mM_Normo_18.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc12_25mM_Normo_18
+MSV000080947	CELL_Glc13_05mM_Normo_01.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc13_05mM_Normo_01
+MSV000080947	CELL_Glc13_05mM_Normo_02.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc13_05mM_Normo_02
+MSV000080947	CELL_Glc13_05mM_Normo_03.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc13_05mM_Normo_03
+MSV000080947	CELL_Glc13_25mM_Normo_13.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc13_25mM_Normo_13
+MSV000080947	CELL_Glc13_25mM_Normo_14.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc13_25mM_Normo_14
+MSV000080947	CELL_Glc13_25mM_Normo_15.mzXML	culture_mammalian	culture_mammalian	9606|Homo sapiens	2015	reverse phase (NOS)	ARPE-19	CELL_Glc13_25mM_Normo_15

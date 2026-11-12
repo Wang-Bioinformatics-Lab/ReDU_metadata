@@ -1,0 +1,6 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	SampleExtractionMethod	MassSpectrometer	IonizationSourceAndPolarity	Code	Species	Activity
+MSV000092173	20221018_PMA_OA_AG_BK_MeOH.mzML	blank_analysis	blank_analysis	missing value	2022	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	Blank	ND	Inactive
+MSV000092173	20221018_PMA_OA_AG_V8.mzML	blank_culturemedia	blank_culturemedia	missing value	2022	ethyl acetate (100%)	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	Control	ND	Inactive
+MSV000092173	20221018_PMA_OA_AG_B5.mzML	culture_bacterial	culture_bacterial	1883|Streptomyces	2022	ethyl acetate (100%)	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	B5	Streptomyces sp.	Very active
+MSV000092173	20221018_PMA_OA_AG_B91.mzML	culture_bacterial	culture_bacterial	1883|Streptomyces	2022	ethyl acetate (100%)	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	B91	Streptomyces sp.	Inactive
+MSV000092173	20221018_PMA_OA_AG_B135.mzML	culture_bacterial	culture_bacterial	1883|Streptomyces	2022	ethyl acetate (100%)	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	B135	Streptomyces sp.	Active

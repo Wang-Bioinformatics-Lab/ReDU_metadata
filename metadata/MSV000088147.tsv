@@ -1,0 +1,9 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	SampleExtractionMethod	MassSpectrometer	IonizationSourceAndPolarity	YearOfAnalysis	SAMPLE_CODE	DATA_COLLECTION_BATCH	SAMPLE_TYPE	GR_A_AM
+MSV000088147	20210625_C3_BRA346_A1c_Ext_POS_2-D,5_01_25978.d.mzXML	culture_bacterial	culture_bacterial	1883|Streptomyces	ethyl acetate (100%)	impact II|MS:1002666	electrospray ionization (positive)	2021	C3_BRA346_A1c	1	sample	BRA346_C3
+MSV000088147	20210625_C3_BRA346_A1b_Ext_POS_2-D,4_01_25975.d.mzXML	culture_bacterial	culture_bacterial	1883|Streptomyces	ethyl acetate (100%)	impact II|MS:1002666	electrospray ionization (positive)	2021	C3_BRA346_A1b	1	sample	BRA346_C3
+MSV000088147	20210625_C3_BRA346_A1a_Ext_POS_2-D,3_01_25973.d.mzXML	culture_bacterial	culture_bacterial	1883|Streptomyces	ethyl acetate (100%)	impact II|MS:1002666	electrospray ionization (positive)	2021	C3_BRA346_A1a	1	sample	BRA346_C3
+MSV000088147	20210625_C3_A1_Ext_POS_2-D,2_01_25971.d.mzXML	missing value	missing value	missing value	missing value	impact II|MS:1002666	electrospray ionization (positive)	2021	C3_MeioA1	1	bed	missing value
+MSV000088147	20210625_DMSOp1_POS_2-D,1_01_25970.d.mzXML	blank_analysis	blank_analysis	missing value	missing value	impact II|MS:1002666	electrospray ionization (positive)	2021	Blank_1	1	blank	missing value
+MSV000088147	20210713_C5_BRA346_Ext_POS_2-H,3_01_26289.d.mzXML	culture_bacterial	culture_bacterial	1883|Streptomyces	ethyl acetate (100%)	impact II|MS:1002666	electrospray ionization (positive)	2021	C5_BRA346	2	sample	BRA346_C5
+MSV000088147	20210713_C5_MeioA1po_Ext_POS_2-H,2_01_26288.d.mzXML	missing value	missing value	missing value	missing value	impact II|MS:1002666	electrospray ionization (positive)	2021	C5_MeioA1_elic	2	bed	missing value
+MSV000088147	20210713_DMSOp5_POS_2-H,1_01_26287.d.mzXML	blank_analysis	blank_analysis	missing value	missing value	impact II|MS:1002666	electrospray ionization (positive)	2021	Blank_2	2	blank	missing value

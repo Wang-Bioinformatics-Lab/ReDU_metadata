@@ -1,0 +1,557 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	UBERONBodyPartName	Diet	feeding_phase_categorical	description	plate_num
+MSV000084099	G84682_BE6_01_36623.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84683_BE8_01_36625.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84684_RC8_01_36921.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84685_10x_run_BB7_01_36987.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x_later
+MSV000084099	G84686_RF9_01_36955.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84687_BC4_01_36594.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84688_BF11_01_36640.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84689_RD3_01_36930.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84690_RF6_01_36952.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84691_RD2_01_36929.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84693_RE4_01_36940.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84695_BH11_01_36665.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84696_RE5_01_36941.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84697_RG8_01_36967.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84698_RA11_01_36900.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84699_RC9_01_36922.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84700_BE2_01_36619.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84701_RF11_01_36957.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84702_RD12_01_36509.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84703_BG2_01_36720.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G84704_RB8_01_36910.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84705_RA7_01_36467.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84706_RD8_01_36505.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84707_RF10_01_36956.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84708_BC11_01_36601.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84709_RA12_01_36901.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84710_BF3_01_36632.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84711_BE10_01_36627.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84712_BE9_01_36626.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84713_BH7_01_36661.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84714_RH11_01_36981.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84715_BB10_01_36585.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84716_RE2_01_36514.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84717_BC10_01_36600.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84718_RE3_01_36939.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84719_RA6_01_36895.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84720_RC3_01_36917.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84721_RC8_01_36492.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84722_RH4_01_36975.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84723_RB12_01_36914.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84724_RD3_01_37037.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G84725_RF4_01_36951.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84726_RC6_01_36919.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84727_rerun_gas_BC9_01_37214.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84728_RB9_01_36911.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84729_BA8_01_36571.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84730_BG11_01_36652.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84731_RE7_01_36943.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84732_BF7_01_37165.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84733_BG3_01_36721.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G84734_RERUN_DryGas_BF10_01_37247.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G84735_RH8_01_36556.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84736_BF5_01_36718.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G84737_RB8_01_37020.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G84738_BF10_01_37167.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84739_RC6_01_36490.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84740_RH5_01_36553.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84741_RG3_01_36867.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G84742_RD7_01_37041.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G84743_RD5_01_37039.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G84744_BG2_01_37171.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84745_RG9_01_36872.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G84746_RF5_01_37063.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G84747_BF11_01_37168.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84748_rerun_gas_BD9_01_37224.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84749_BD11_01_37148.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84750_BA6_01_37105.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84751_rerun_1stfulllowgas_BB9_01_37149.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84752_RB3_01_37016.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G84753_RH11_01_36887.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G84754_BH3_01_36984.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	pRerun
+MSV000084099	G84755_BB9_01_36584.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84756_RC12_01_36496.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84757_RG4_01_36540.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84758_RF12_01_36536.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84759_RA3_01_36462.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84759_RH9_01_36979.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84760_RH10_01_36558.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84761_BD5_01_36709.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G84762_BE3_01_36712.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G84763_RB10_01_36482.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84764_BD3_01_36707.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G84765_RD10_01_36507.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84766_RA4_01_36463.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84767_RA10_01_36470.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84768_RG10_01_36546.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84769_RB11_01_36483.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84770_RF2_01_36526.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84771_RH12_01_36560.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84772_RC11_01_36495.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84773_BE5_01_36714.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G84774_RH8_01_36883.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G84775_BD12_01_37150.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84776_RE7_01_36802.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G84777_RC2_01_36486.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84778_BH3_01_37184.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84779_rerun_gas_BC7_01_37211.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84780_RB10_01_37022.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G84781_RH8_01_37091.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G84782_RC7_01_37030.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G84783_GE3_01_36860.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G84784_GC5_01_36843.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G84785_BA8_01_37107.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G84786_RF2_01_37060.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G84787_BA10_01_37109.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G84788_RB8_01_36764.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G84850_RC5_01_36918.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84851_RE6_01_36942.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84852_RB2_01_36903.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84853_BG7_01_36648.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84854_GB8_01_36838.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	blue_apollo
+MSV000084099	G84855_RH7_01_36978.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84856_RA10_01_36899.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84857_RE9_01_36944.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84858_RD3_01_36499.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84860_BH8_01_36662.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84861_RC11_01_36926.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84862_RF12_01_36958.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84863_RG9_01_36968.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84864_BE3_01_36620.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84865_RB5_01_36906.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84866_RB10_01_36912.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84867_RA3_01_36893.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84868_RG4_01_36961.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84869_BG12_01_36653.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84870_BH2_01_36655.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84871_BG9_01_36650.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84872_RC10_01_36923.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84873_RD6_01_36932.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84874_BG6_01_36647.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84875_GC7_01_36846.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	blue_apollo
+MSV000084099	G84876_RG11_01_36970.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84877_BA9_01_36572.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84878_RE10_01_36945.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84879_RE11_01_36946.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84880_BC8_01_36598.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84881_BF2_01_36631.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84882_BA3_01_36566.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84883_RF2_01_36949.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84884_BD4_01_36606.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84885_RE3_01_36515.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate6_10x
+MSV000084099	G84886_BD11_01_36613.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84887_BH3_01_36656.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84888_BA11_01_36574.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84889_BA10_01_36573.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84890_BF5_01_36634.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84891_BG3_01_36644.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84892_BE11_01_36628.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84893_RG10_01_36969.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84894_RE12_01_36947.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84895_BG4_01_36645.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84896_GA7_01_36827.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	blue_apollo
+MSV000084099	G84897_RG5_01_36541.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84898_BF4_01_36633.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84899_RB7_01_36908.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84900_BD8_01_36610.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84901_RD7_01_36933.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84902_BC3_01_36593.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84903_BF10_01_36639.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84904_RG2_01_36959.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84905_BB12_01_36587.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84906_GE2_01_36859.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	blue_apollo
+MSV000084099	G84907_GA5_01_36825.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	blue_apollo
+MSV000084099	G84908_RC12_01_36927.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84909_RD8_01_36934.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84910_BC5_01_36595.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84911_RH12_01_36982.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84912_RB6_01_36907.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84913_BF12_01_36641.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84914_BE12_01_36629.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84915_GC2_01_36840.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	blue_apollo
+MSV000084099	G84917_BC12_01_36602.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84918_BG2_01_36643.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84919_BA7_01_36570.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	plate5_10x
+MSV000084099	G84920_RE5_01_36517.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84922_RG3_01_36960.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 1	stool	p4_10x
+MSV000084099	G84923_RG12_01_36971.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84924_BB3_01_36578.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84925_RF10_01_36534.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G84926_BE5_01_36622.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84927_RB3_01_36475.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G84928_BF7_01_36636.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84929_RD7_01_36787.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G84930_RF3_01_36950.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84931_RE4_01_36516.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84932_BA4_01_36567.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84933_BD10_01_36612.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84934_RB3_01_36904.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84935_BD6_01_36608.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84936_RG7_01_36966.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84937_RF7_01_37065.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G84938_RC3_01_36487.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84939_RB10_01_36766.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G84940_RC12_01_37034.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G84941_RH4_01_36552.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84942_RH6_01_36881.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G84943_RA8_01_36897.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84944_RD12_01_36935.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84945_RF5_01_36812.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G84946_RG11_01_36874.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G84947_RG10_01_36873.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G84948_RB12_01_36768.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G84949_RD8_01_36788.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G84950_RERUN_DryGas_BG6_01_37255.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G84951_BE9_01_37159.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84952_BH6_01_37186.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84953_GC4_01_36842.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G84954_GA8_01_36829.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G84955_BH10_01_36664.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84956_BD3_01_36605.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84957_RE2_01_36938.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84958_BH4_01_36657.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84959_RG5_01_36964.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84960_RE2_01_36797.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G84961_RD5_01_36501.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G84962_RD9_01_36506.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G84963_RH5_01_36976.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84964_BH5_01_36659.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84965_GD3_01_36850.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G84966_RG2_01_36538.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84967_RH2_01_36973.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84968_BC7_01_36597.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84969_RF8_01_36954.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G84970_BD12_01_36614.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84971_RH6_01_36977.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84972_BG10_01_36651.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84973_BA12_01_36575.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84974_BA6_01_36569.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84975_BG8_01_36649.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84976_BH12_01_36666.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84977_rerun_gas_BB12_01_37205.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G84978_RH3_01_36974.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84979_RB4_01_36905.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84980_BB11_01_36586.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G84981_RA7_01_36896.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84982_BG5_01_36646.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84983_GB1_01_36830.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G84984_BB6_01_36581.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84985_RD4_01_36500.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G84986_RH10_01_36980.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G84988_BC4_01_36704.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G84989_BC2_01_36591.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84990_BE7_01_36624.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G84991_RERUN_DryGas_BH5_01_37264.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10_w.reruns
+MSV000084099	G84992_BC5_01_36705.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G84993_rerun_gas_BD2_01_37218.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G84994_GA4_01_36824.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G84995_GE1_01_36858.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G84996_RE8_01_37054.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G84997_RF8_01_36815.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G84998_RD8_01_37042.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G84999_RF4_01_36528.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85000_RH7_01_36882.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10
+MSV000084099	G85001_RC9_01_37032.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85002_RA12_01_36755.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85003_RF6_01_37064.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85004_RE7_01_37053.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85005_RF4_01_36811.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85006_BD2_01_36604.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G85007_rerun_BA5_01_36743.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G85008_BD7_01_36609.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G85009_BH7_01_37187.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85010_RERUN_DryGas_BH4_01_37263.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85011_RERUN_DryGas_BF11_01_37248.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10_w.reruns
+MSV000084099	G85012_BF3_01_37162.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85013_RG5_01_36869.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10
+MSV000084099	G85014_RA12_01_37013.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85015_GB7_01_36837.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G85016_BH6_01_36660.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G85017_RERUN_DryGas_BG12_01_37260.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85018_BA9_01_37108.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85019_BB4_01_36579.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G85020_RE9_01_36521.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85021_RE12_01_36807.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85022_RG6_01_36965.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G85023_BA5_01_36568.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G85024_RE12_01_37058.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85025_RG12_01_36875.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10
+MSV000084099	G85026_BF6_01_36635.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G85027_RF7_01_36814.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85028_RERUN_DryGas_BG2_01_37251.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85029_RE5_01_37052.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85030_RC5_01_37028.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85031_RE3_01_36798.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85032_RA3_01_37004.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85033_RA10_01_36753.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85034_RD5_01_36931.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G85035_RA8_01_37009.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85036_RC2_01_36770.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85037_GE7_01_36864.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G85038_GA6_01_36826.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G85039_RA6_01_36465.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85040_BB7_01_37118.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85041_RC5_01_36773.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85042_RD10_01_37043.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85043_RG2_01_36822.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85044_RERUN_DryGas_BG5_01_37254.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10_w.reruns
+MSV000084099	G85045_RA9_01_36469.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85046_RB12_01_36484.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85047_RF9_01_36533.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85048_RH9_01_36557.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85049_RA5_01_36464.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85050_RB8_01_36480.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85051_RC10_01_36494.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85052_RE8_01_36520.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85053_RE12_01_36524.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85054_RF11_01_36535.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85055_BH3_01_36725.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85056_RG8_01_36544.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85057_RE10_01_36522.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85058_RG11_01_36547.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85059_RG3_01_36539.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85060_RB7_01_36479.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85061_RC4_01_36488.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85062_RH3_01_36551.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85063_RB4_01_36476.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85182_RH2_01_36550.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85183_RB5_01_36477.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85184_BB3_01_36698.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85185_RG12_01_36548.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85186_RE7_01_36519.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85187_GB3_01_36832.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G85188_GE8_01_36865.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G85189_RB6_01_36478.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85190_RF6_01_36530.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85191_RB9_01_36481.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85192_BB2_01_36697.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G85193_BH4_01_36726.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85194_BD4_01_36708.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85195_RD6_01_36502.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85196_RA8_01_36468.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85197_BE4_01_36713.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85198_RG9_01_36545.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85199_RD11_01_36508.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85200_RH7_01_36555.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85201_RH6_01_36554.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85202_RD7_01_36504.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85203_RC5_01_36489.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85204_RE6_01_36518.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85205_RF7_01_36531.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85206_RA12_01_36472.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85207_BF4_01_36717.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85208_RC7_01_36491.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85209_GD5_01_36852.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G85210_RG6_01_36542.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85211_RA11_01_36471.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate6_10x
+MSV000084099	G85212_BC2_01_36702.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85213_BB4_01_36699.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85214_BF3_01_36716.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G85215_RF8_01_36532.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85216_BF2_01_36715.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85217_RB12_01_37024.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85218_RB6_01_36762.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85219_BG5_01_37174.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85220_GB5_01_36835.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85221_GB2_01_36831.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G85222_RD12_01_36792.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85223_RD2_01_37036.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85224_RE9_01_36804.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85225_BC6_01_36596.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G85226_RD4_01_37038.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85227_RH12_01_37094.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85228_RF3_01_36527.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85229_rerun_gas_BC6_01_37210.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85230_RG7_01_36543.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate6_10x
+MSV000084099	G85231_BH2_01_36724.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate7_10
+MSV000084099	G85232_RC9_01_36493.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85233_RF5_01_36529.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate6_10x
+MSV000084099	G85234_RC11_01_37033.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85235_BD2_01_36706.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate7_10
+MSV000084099	G85236_RH11_01_36559.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate6_10x
+MSV000084099	G85237_RA5_01_36748.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85238_BF9_01_37166.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85239_RB9_01_37021.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85240_GD1_01_36848.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85241_GD4_01_36851.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G85242_BG7_01_37176.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85243_RF6_01_36813.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85244_rerun_gas_BC8_01_37212.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85245_rerun_gas_BB10_01_37203.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85246_RH10_01_37093.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85247_RB2_01_37015.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85248_RERUN_DryGas_BH6_01_37265.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10_w.reruns
+MSV000084099	G85249_BE6_01_37157.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85250_BE5_01_37156.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85251_RD4_01_36784.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85252_RE8_01_36803.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85253_RE9_01_37055.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85254_BB2_01_37113.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85255_RA6_01_36749.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85256_RF3_01_36810.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85257_BH12_01_37191.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85258_RB11_01_36913.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	p4_10x
+MSV000084099	G85259_BG8_01_37177.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85260_RB2_01_36758.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85261_GD8_01_36855.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85262_RC6_01_37029.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85263_RE10_01_37056.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85264_RE11_01_36806.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85265_RERUN_DryGas_BH3_01_37262.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85266_RE4_01_37051.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85267_RC8_01_37031.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85268_RD9_01_36789.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85269_RA9_01_36752.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85270_BF9_01_36638.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate5_10x
+MSV000084099	G85271_GC6_01_36844.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85272_rerun_GE5_01_36963.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo_10
+MSV000084099	G85273_BH9_01_36663.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G85274_BD9_01_36611.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate5_10x
+MSV000084099	G85275_BB5_01_36580.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate5_10x
+MSV000084099	G85276_RA8_01_36751.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85277_BF8_01_36637.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate5_10x
+MSV000084099	G85278_BH11_01_37190.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85279_RB4_01_36760.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85280_RB7_01_36763.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85281_RE10_01_36805.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85282_RD6_01_36786.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85283_RG8_01_36820.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85284_BF12_01_37169.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85285_RB9_01_36765.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85286_RF9_01_36816.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85287_BB2_01_36577.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G85289_rerun_gas_BD8_01_37223.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85290_BG3_01_37172.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85291_BF4_01_37163.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85292_RH9_01_36885.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10
+MSV000084099	G85293_RC6_01_36774.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85294_RA3_01_36746.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85295_BG4_01_37173.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85296_RD11_01_36791.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85297_RG6_01_36870.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10
+MSV000084099	G85298_BE3_01_37154.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85299_RD10_01_36790.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85300_RC10_01_36778.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85301_GC8_01_36847.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	blue_apollo
+MSV000084099	G85302_BB6_01_37117.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85303_BH2_01_36983.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	pRerun
+MSV000084099	G85304_RD3_01_36783.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85305_BB4_01_37115.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85306_rerun_gas_BC3_01_37207.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85307_rerun_gas_BD6_01_37222.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85308_RD2_01_36782.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85309_GB4_01_36833.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85310_BA7_01_37106.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85311_BH4_01_37185.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85312_BG6_01_37175.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85313_RE2_01_37049.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85314_RERUN_DryGas_BG9_01_37258.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85315_BH2_01_37183.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85316_RD11_01_37044.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85317_RA11_01_37012.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85318_RD6_01_37040.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85319_BE8_01_37158.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85320_RE11_01_37057.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85321_BH9_01_37189.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85322_GD6_01_36853.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85323_RC9_01_36777.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85324_RERUN_DryGas_BG8_01_37257.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10_w.reruns
+MSV000084099	G85325_RA7_01_36750.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85326_RC8_01_36776.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85327_rerun_gas_BC11_01_37216.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85339_RA10_01_37011.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85340_RB3_01_36759.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85341_GC3_01_36841.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85342_RF11_01_36818.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85343_RA7_01_37008.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85344_RH9_01_37092.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85345_RA9_01_37010.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85346_BG11_01_37180.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85348_rerun_gas_BC10_01_37215.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85349_RH4_01_36879.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10
+MSV000084099	G85350_BD10_01_37147.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85351_GA3_01_36823.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85352_GD2_01_36849.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85353_BA5_01_37104.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85354_RE3_01_37050.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85355_BH8_01_37188.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85356_BE2_01_37153.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	G85357_rerun_gas_BC12_01_37217.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85358_RA5_01_37006.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85359_rerun_gas_BC2_01_37206.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85360_RF12_01_36819.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85361_RERUN_DryGas_BG3_01_37252.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85362_BF2_01_37161.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85363_rerun_gas_BC5_01_37209.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85364_RB4_01_37017.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85365_RA6_01_37007.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85366_RERUN_DryGas_BF9_01_37246.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85368_RG4_01_36868.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G85369_BA12_01_37111.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85370_RE4_01_36799.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85371_BG12_01_37181.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85372_BD5_01_36607.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G85373_RA4_01_36747.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85374_RC3_01_36771.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85375_RF2_01_36809.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85376_BE4_01_36621.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G85377_BB5_01_37116.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85378_RH10_01_36886.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G85379_RD12_01_37045.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85380_RG7_01_36871.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G85381_RE5_01_36800.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85382_RC12_01_36780.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85384_BA4_01_37103.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85385_RD5_01_36785.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85386_RERUN_DryGas_BG10_01_37259.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85387_RB11_01_37082.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85388_RC7_01_36775.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85389_RF7_01_36953.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G85390_RC11_01_36779.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85391_RC2_01_37026.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85392_RF3_01_37061.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85393_rerun_gas_BD5_01_37221.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85394_RERUN_DryGas_BG7_01_37256.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85395_RB6_01_37018.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85396_RE6_01_36801.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85397_RA4_01_36894.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G85398_RH5_01_36880.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G85399_RC4_01_37027.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85400_rerun_RB11_01_36888.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10
+MSV000084099	G85401_RA4_01_37005.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85402_RERUN_DryGas_BG4_01_37253.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10_w.reruns
+MSV000084099	G85403_RA11_01_36754.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85404_RC7_01_36920.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G85406_BE4_01_37155.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85407_rerun_gas_BD3_01_37219.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate2_10_w.reruns
+MSV000084099	G85409_RB5_01_36761.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate3_10x
+MSV000084099	G85410_RH7_01_37090.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate1_10x
+MSV000084099	G85411_BC9_01_36599.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	plate5_10x
+MSV000084099	G85412_RC2_01_36916.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G85413_RA9_01_36898.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	beef	beef only	stool	p4_10x
+MSV000084099	G85414_RC4_01_36772.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate3_10x
+MSV000084099	G85415_BB8_01_37119.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85416_BG10_01_37179.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85417_RF10_01_36817.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate3_10x
+MSV000084099	G85418_RERUN_DryGas_BF12_01_37249.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10_w.reruns
+MSV000084099	G85419_BA3_01_37102.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85420_BA11_01_37110.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85421_RB7_01_37019.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85422_GD7_01_36854.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85423_GE6_01_36863.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	blue_apollo
+MSV000084099	G85424_rerun_gas_BD4_01_37220.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate2_10_w.reruns
+MSV000084099	G85425_RF4_01_37062.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 3	stool	plate1_10x
+MSV000084099	G85426_RF8_01_37066.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate1_10x
+MSV000084099	G85427_BG9_01_37178.mzML	animal	biofluid	32536|Acinonyx jubatus	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	feces	missing value	phase 2	stool	plate2_10_w.reruns
+MSV000084099	SolventBlank_50MeOH_4_GA1_01_36866.mzML	blank_analysis	blank_analysis	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	SolventBlank_50MeOH_3_GA1_01_36856.mzML	blank_analysis	blank_analysis	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	SolventBlank_50MeOH_2_GA1_01_36845.mzML	blank_analysis	blank_analysis	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	SolventBlank_50MeOH_1_GA1_01_36834.mzML	blank_analysis	blank_analysis	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	Process_Blank_RA2_01_37003.mzML	blank_extraction	blank_extraction	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	Process_Blank_p7_rerun_BA2_01_36740.mzML	blank_extraction	blank_extraction	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	Process_Blank_p6_RA2_01_36461.mzML	blank_extraction	blank_extraction	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	Process_Blank_p5_BA2_01_36565.mzML	blank_extraction	blank_extraction	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	Process_Blank_p4_RA2_01_36892.mzML	blank_extraction	blank_extraction	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	Process_Blank_p3_RA2_01_36745.mzML	blank_extraction	blank_extraction	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable
+MSV000084099	Process_Blank_p2_BA2_01_37101.mzML	blank_extraction	blank_extraction	missing value	maXis|MS:1001541	electrospray ionization (positive)	reverse phase (C18)	missing value	missing value	not applicable	blank	not applicable

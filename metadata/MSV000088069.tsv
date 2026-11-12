@@ -1,0 +1,33 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	MassSpectrometer	Sample	Group
+MSV000088069	AH001.mzML	blank_culturemedia	blank_culturemedia	missing value	missing value	Q Exactive|MS:1001911	f/2 media	Media
+MSV000088069	AH002.mzML	microalgae	marine_algae	43925|Nannochloropsis oculata	missing value	Q Exactive|MS:1001911	NW1	NW
+MSV000088069	AH003.mzML	microalgae	marine_algae	43925|Nannochloropsis oculata	missing value	Q Exactive|MS:1001911	NW2	NW
+MSV000088069	AH004.mzML	microalgae	marine_algae	43925|Nannochloropsis oculata	missing value	Q Exactive|MS:1001911	NW3	NW
+MSV000088069	AH005.mzML	microalgae	marine_algae	43925|Nannochloropsis oculata	missing value	Q Exactive|MS:1001911	NB1	NB
+MSV000088069	AH006.mzML	microalgae	marine_algae	43925|Nannochloropsis oculata	missing value	Q Exactive|MS:1001911	NB2	NB
+MSV000088069	AH007.mzML	microalgae	marine_algae	43925|Nannochloropsis oculata	missing value	Q Exactive|MS:1001911	NB3	NB
+MSV000088069	AH008.mzML	microalgae	marine_algae	257627|Dunaliella primolecta	missing value	Q Exactive|MS:1001911	DW1	DW
+MSV000088069	AH009.mzML	microalgae	marine_algae	257627|Dunaliella primolecta	missing value	Q Exactive|MS:1001911	DW2	DW
+MSV000088069	AH010.mzML	microalgae	marine_algae	257627|Dunaliella primolecta	missing value	Q Exactive|MS:1001911	DW3	DW
+MSV000088069	AH011.mzML	microalgae	marine_algae	257627|Dunaliella primolecta	missing value	Q Exactive|MS:1001911	DB1	DB
+MSV000088069	AH012.mzML	microalgae	marine_algae	257627|Dunaliella primolecta	missing value	Q Exactive|MS:1001911	DB2	DB
+MSV000088069	AH013.mzML	microalgae	marine_algae	257627|Dunaliella primolecta	missing value	Q Exactive|MS:1001911	DB3	DB
+MSV000088069	AH014.mzML	microalgae	marine_diatom	2850|Phaeodactylum tricornutum	missing value	Q Exactive|MS:1001911	PhW1	PhW
+MSV000088069	AH015.mzML	microalgae	marine_diatom	2850|Phaeodactylum tricornutum	missing value	Q Exactive|MS:1001911	PhW2	PhW
+MSV000088069	AH016.mzML	microalgae	marine_diatom	2850|Phaeodactylum tricornutum	missing value	Q Exactive|MS:1001911	PhW3	PhW
+MSV000088069	AH017.mzML	microalgae	marine_diatom	2850|Phaeodactylum tricornutum	missing value	Q Exactive|MS:1001911	PhB1	PhB
+MSV000088069	AH018.mzML	microalgae	marine_diatom	2850|Phaeodactylum tricornutum	missing value	Q Exactive|MS:1001911	PhB2	PhB
+MSV000088069	AH019.mzML	microalgae	marine_diatom	2850|Phaeodactylum tricornutum	missing value	Q Exactive|MS:1001911	PhB3	PhB
+MSV000088069	AH020.mzML	microalgae	marine_algae	2891951|Porphyridium cruentum	missing value	Q Exactive|MS:1001911	PoW1	PoW
+MSV000088069	AH021.mzML	microalgae	marine_algae	2891951|Porphyridium cruentum	missing value	Q Exactive|MS:1001911	PoW2	PoW
+MSV000088069	AH022.mzML	microalgae	marine_algae	2891951|Porphyridium cruentum	missing value	Q Exactive|MS:1001911	PoW3	PoW
+MSV000088069	AH023.mzML	microalgae	marine_algae	2891951|Porphyridium cruentum	missing value	Q Exactive|MS:1001911	PoB1	PoB
+MSV000088069	AH024.mzML	microalgae	marine_algae	2891951|Porphyridium cruentum	missing value	Q Exactive|MS:1001911	PoB2	PoB
+MSV000088069	AH025.mzML	microalgae	marine_algae	2891951|Porphyridium cruentum	missing value	Q Exactive|MS:1001911	PoB3	PoB
+MSV000088069	Blank_20210715123532.mzML	blank_analysis	blank_analysis	missing value	2021	Q Exactive|MS:1001911	Blank	Blank
+MSV000088069	Blank_20210715132228.mzML	blank_analysis	blank_analysis	missing value	2021	Q Exactive|MS:1001911	Blank	Blank
+MSV000088069	Blank_20210715134016.mzML	blank_analysis	blank_analysis	missing value	2021	Q Exactive|MS:1001911	Blank	Blank
+MSV000088069	Blank_20210715135800.mzML	blank_analysis	blank_analysis	missing value	2021	Q Exactive|MS:1001911	Blank	Blank
+MSV000088069	blank_20210715214132.mzML	blank_analysis	blank_analysis	missing value	2021	Q Exactive|MS:1001911	Blank	Blank
+MSV000088069	blank_20210715215916.mzML	blank_analysis	blank_analysis	missing value	2021	Q Exactive|MS:1001911	Blank	Blank
+MSV000088069	blank_20210715221700.mzML	blank_analysis	blank_analysis	missing value	2021	Q Exactive|MS:1001911	Blank	Blank

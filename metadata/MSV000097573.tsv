@@ -1,0 +1,13 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	SampleCollectionMethod	MassSpectrometer	Exposure	mzmine_sample_type	Group	run_date
+MSV000097573	Iron(III)_2.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	sample	iron	2025-02-17T18:33:49
+MSV000097573	Iron(III)_1.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	sample	iron	2025-02-17T18:16:21
+MSV000097573	Media_Blank_1.mzML	blank_culturemedia	blank_culturemedia	missing value	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	blank	blank	2025-02-17T16:31:32
+MSV000097573	Media_Blank_2.mzML	blank_culturemedia	blank_culturemedia	missing value	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	blank	blank	2025-02-17T16:49
+MSV000097573	Iron(III)_3.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	sample	iron	2025-02-17T18:51:18
+MSV000097573	Iron(III)_Bpy_2.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	exposure to iron chelator	sample	iron_bpy	2025-02-17T19:26:14
+MSV000097573	Media_Control_2.mzML	blank_culturemedia	blank_culturemedia	missing value	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	blank	control	2025-02-17T17:41:25
+MSV000097573	Media_Control_3.mzML	blank_culturemedia	blank_culturemedia	missing value	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	blank	control	2025-02-17T17:58:53
+MSV000097573	Media_Control_1.mzML	blank_culturemedia	blank_culturemedia	missing value	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	blank	control	2025-02-17T17:23:56
+MSV000097573	Media_Blank_3.mzML	blank_culturemedia	blank_culturemedia	missing value	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	blank	blank	2025-02-17T17:06:28
+MSV000097573	Iron(III)_Bpy_3.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	exposure to iron chelator	sample	iron_bpy	2025-02-17T19:43:43
+MSV000097573	Iron(III)_Bpy_1.mzML	culture_bacterial	culture_bacterial	471874|Providencia stuartii ATCC 25827	2025	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	exposure to iron chelator	sample	iron_bpy	2025-02-17T19:08:46

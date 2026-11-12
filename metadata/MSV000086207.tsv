@@ -1,0 +1,7 @@
+MassiveID	filename	SampleType	NCBITaxonomy	MassSpectrometer	SubjectIdentifierAsRecorded	AgeInYears	BiologicalSex	BodyMassIndex	DOIDCommonName	ATTRIBUTE_sampleName	ATTRIBUTE_injectionOrder	ATTRIBUTE_batch	ATTRIBUTE_Position	ATTRIBUTE_classe
+MSV000086207	017a.mzML	animal	9606|Homo sapiens	Q Exactive Plus|MS:1002634	017	66.9	male	21.35	COVID-19	017a	33	b1	B:D1	severe
+MSV000086207	017b.mzML	animal	9606|Homo sapiens	Q Exactive Plus|MS:1002634	017	66.9	male	21.35	COVID-19	017b	46	b1	B:D1	severe
+MSV000086207	017c.mzML	animal	9606|Homo sapiens	Q Exactive Plus|MS:1002634	017	66.9	male	21.35	COVID-19	017c	73	b1	B:D1	severe
+MSV000086207	018a.mzML	animal	9606|Homo sapiens	Q Exactive Plus|MS:1002634	018	29.2	female	12.11	COVID-19	018a	34	b1	B:D2	mild
+MSV000086207	018b.mzML	animal	9606|Homo sapiens	Q Exactive Plus|MS:1002634	018	29.2	female	12.11	COVID-19	018b	57	b1	B:D2	mild
+MSV000086207	018c.mzML	animal	9606|Homo sapiens	Q Exactive Plus|MS:1002634	018	29.2	female	12.11	COVID-19	018c	81	b1	B:D2	mild

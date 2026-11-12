@@ -1,0 +1,13 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	MassSpectrometer	ChromatographyAndPhase	UBERONBodyPartName	Polarity	sample_name
+MSV000080949	3injections_inj1_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	negative	3injections_inj1
+MSV000080949	3injections_inj1_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	positive	3injections_inj1
+MSV000080949	3injections_inj2_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	negative	3injections_inj2
+MSV000080949	3injections_inj2_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	positive	3injections_inj2
+MSV000080949	3injections_inj3_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	negative	3injections_inj3
+MSV000080949	3injections_inj3_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	positive	3injections_inj3
+MSV000080949	3samples_sampl1_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	negative	3samples_sampl1
+MSV000080949	3samples_sampl1_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	positive	3samples_sampl1
+MSV000080949	3samples_sampl2_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	negative	3samples_sampl2
+MSV000080949	3samples_sampl2_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	positive	3samples_sampl2
+MSV000080949	3samples_sampl3_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	negative	3samples_sampl3
+MSV000080949	3samples_sampl3_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	blood	positive	3samples_sampl3

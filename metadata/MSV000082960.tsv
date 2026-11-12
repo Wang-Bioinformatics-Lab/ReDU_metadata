@@ -1,0 +1,413 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	SampleNumber	Plate	Year	TissueType	DiseaseRating	GroveNumber	Location	NorthOrSouth	Rootstock	Scion	NumberOfYearsPlanted	Bin
+MSV000082960	Plate1_61_RA1_01_15850.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	61	Plate1	2016	Budwood	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate1_62_RA2_01_15851.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	62	Plate1	2016	Roots	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate1_63_RA3_01_15852.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	63	Plate1	2016	Leaf	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate1_64_RA4_01_15853.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	64	Plate1	2016	Budwood	3	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_65_RA5_01_15854.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	65	Plate1	2016	Roots	3	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_66_RA6_01_15855.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	66	Plate1	2016	Leaf	3	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_67_RA7_01_15856.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	67	Plate1	2016	Budwood	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Unclassified
+MSV000082960	Plate1_68_RA8_01_15857.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	68	Plate1	2016	Roots	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Unclassified
+MSV000082960	Plate1_69_RA9_01_15858.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	69	Plate1	2016	Leaf	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Unclassified
+MSV000082960	Plate1_70_RA10_01_15859.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	70	Plate1	2016	Budwood	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_71_RA11_01_15860.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	71	Plate1	2016	Roots	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_72_RA12_01_15861.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	72	Plate1	2016	Leaf	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_73_RB1_01_15863.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	73	Plate1	2016	Budwood	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_74_RB2_01_15864.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	74	Plate1	2016	Roots	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_75_RB3_01_15865.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	75	Plate1	2016	Leaf	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_76_RB4_01_15866.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	76	Plate1	2016	Budwood	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate1_77_RB5_01_15867.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	77	Plate1	2016	Roots	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate1_78_RB6_01_15868.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	78	Plate1	2016	Leaf	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate1_79_RB7_01_15869.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	79	Plate1	2016	Budwood	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_80_RB8_01_15870.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	80	Plate1	2016	Roots	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_81_RB9_01_15871.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	81	Plate1	2016	Leaf	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_82_RB10_01_15872.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	82	Plate1	2016	Budwood	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_83_RB11_01_15873.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	83	Plate1	2016	Roots	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_84_RB12_01_15874.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	84	Plate1	2016	Leaf	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate1_85_RC1_01_15876.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	85	Plate1	2016	Budwood	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate1_86_RC2_01_15877.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	86	Plate1	2016	Roots	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate1_87_RC3_01_15878.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	87	Plate1	2016	Leaf	1	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate1_88_RC4_01_15879.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	88	Plate1	2016	Budwood	2	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate1_89_RC5_01_15880.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	89	Plate1	2016	Roots	2	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate1_90_RC6_01_15881.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	90	Plate1	2016	Leaf	2	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate1_193_RC7_01_15882.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	193	Plate1	2016	Budwood	2.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_194_RC8_01_15883.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	194	Plate1	2016	Roots	2.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_195_RC9_01_15884.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	195	Plate1	2016	Leaf	2.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_196_RC10_01_15885.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	196	Plate1	2016	Budwood	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_197_RC11_01_15886.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	197	Plate1	2016	Roots	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_198_RC12_01_15887.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	198	Plate1	2016	Leaf	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_199_RD1_01_15889.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	199	Plate1	2016	Budwood	2.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_200_RD2_01_15890.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	200	Plate1	2016	Leaf	2.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_201_RD3_01_15891.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	201	Plate1	2016	Roots	2.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_202_RD4_01_15892.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	202	Plate1	2016	Budwood	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_203_RD5_01_15893.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	203	Plate1	2016	Leaf	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_204_RD6_01_15894.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	204	Plate1	2016	Roots	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_205_RD7_01_15895.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	205	Plate1	2016	Budwood	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_206_RD8_01_15896.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	206	Plate1	2016	Leaf	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_207_RD9_01_15897.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	207	Plate1	2016	Roots	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_208_RD10_01_15898.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	208	Plate1	2016	Budwood	2.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_209_RD11_01_15899.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	209	Plate1	2016	Leaf	2.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_210_RD12_01_15900.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	210	Plate1	2016	Roots	2.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_211_RE1_01_15902.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	211	Plate1	2016	Budwood	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_212_RE2_01_15903.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	212	Plate1	2016	Leaf	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_213_RE3_01_15904.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	213	Plate1	2016	Roots	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_214_RE4_01_15905.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	214	Plate1	2016	Budwood	3	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_215_RE5_01_15906.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	215	Plate1	2016	Leaf	3	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_216_RE6_01_15907.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	216	Plate1	2016	Roots	3	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_217_RE7_01_15908.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	217	Plate1	2016	Budwood	2	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_218_RE8_01_15909.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	218	Plate1	2016	Leaf	2	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_219_RE9_01_15910.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	219	Plate1	2016	Roots	2	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate1_220_RE10_01_15911.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	220	Plate1	2016	Budwood	4.5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_221_RE11_01_15912.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	221	Plate1	2016	Leaf	4.5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_222_RE12_01_15913.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	222	Plate1	2016	Roots	4.5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate1_253_RF1_01_15915.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	253	Plate1	2016	Budwood	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_254_RF2_01_15916.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	254	Plate1	2016	Leaf	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_255_RF3_01_15917.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	255	Plate1	2016	Roots	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_256_RF4_01_15918.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	256	Plate1	2016	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate1_257_RF5_01_15919.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	257	Plate1	2016	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate1_258_RF6_01_15920.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	258	Plate1	2016	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate1_259_RF7_01_15921.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	259	Plate1	2016	Budwood	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_260_RF8_01_15922.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	260	Plate1	2016	Leaf	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_261_RF9_01_15923.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	261	Plate1	2016	Roots	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_262_RF10_01_15924.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	262	Plate1	2016	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate1_263_RF11_01_15925.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	263	Plate1	2016	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate1_264_RF12_01_15926.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	264	Plate1	2016	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate1_265_RG1_01_15928.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	265	Plate1	2016	Budwood	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_266_RG2_01_15929.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	266	Plate1	2016	Leaf	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_267_RG3_01_15930.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	267	Plate1	2016	Roots	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_268_RG4_01_15931.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	268	Plate1	2016	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate1_269_RG5_01_15932.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	269	Plate1	2016	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate1_270_RG6_01_15933.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	270	Plate2	2016	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate1_271_RG7_01_15934.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	271	Plate1	2016	Budwood	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_272_RG8_01_15935.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	272	Plate1	2016	Leaf	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate1_273_RG9_01_15936.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	273	Plate1	2016	Roots	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate2_274_RA1_01_15942.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	274	Plate1	2016	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate6_275_RA1_01_16551.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	275	Plate1	2016	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate2_276_RA3_01_15943.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	276	Plate1	2016	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate2_277_RA4_01_15944.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	277	Plate2	2016	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate2_278_RA5_01_15945.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	278	Plate2	2016	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate2_279_RA6_01_15946.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	279	Plate2	2016	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate2_280_RA7_01_15947.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	280	Plate2	2016	Budwood	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate2_281_RA8_01_15948.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	281	Plate1	2016	Leaf	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate2_282_RA9_01_15949.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	282	Plate2	2016	Roots	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate2_283_RA10_01_15950.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	283	Plate2	2016	Budwood	3.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_284_RA11_01_15951.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	284	Plate2	2016	Leaf	3.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_285_RA12_01_15952.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	285	Plate1	2016	Roots	3.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_286_RB1_01_15954.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	286	Plate1	2016	Budwood	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_287_RB2_01_15955.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	287	Plate1	2016	Leaf	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate6_288_RA2_01_16552.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	288	Plate1	2016	Roots	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_289_RB4_01_15956.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	289	Plate2	2016	Budwood	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_290_RB5_01_15957.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	290	Plate2	2016	Leaf	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_291_RB6_01_15958.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	291	Plate2	2016	Roots	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate6_292_RA3_01_16553.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	292	Plate2	2016	Budwood	1	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate6_293_RA4_01_16554.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	293	Plate2	2016	Leaf	1	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate6_294_RA5_01_16555.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	294	Plate1	2016	Roots	1	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate6_295_RA6_01_16556.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	295	Plate2	2016	Budwood	1.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate6_296_RA7_01_16557.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	296	Plate2	2016	Leaf	1.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_297_RB12_01_15964.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	297	Plate2	2016	Roots	1.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_298_RC1_01_15966.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	298	Plate2	2016	Budwood	1.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_299_RC2_01_15967.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	299	Plate2	2016	Leaf	1.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_300_RC3_01_15968.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	300	Plate2	2016	Roots	1.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_301_RC4_01_15969.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	301	Plate2	2016	Budwood	1.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_302_RC5_01_15970.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	302	Plate2	2016	Leaf	1.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_303_RC6_01_15971.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	303	Plate2	2016	Roots	1.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_304_RC7_01_15972.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	304	Plate2	2016	Budwood	3	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate6_305_RA8_01_16558.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	305	Plate2	2016	Leaf	3	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate6_306_RA9_01_16559.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	306	Plate2	2016	Roots	3	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_307_RC10_01_15974.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	307	Plate2	2016	Budwood	1	8	Umatilla	North	Sour Orange	Parson Brown	26	Non-Survivor
+MSV000082960	Plate2_308_RC11_01_15975.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	308	Plate2	2016	Leaf	1	8	Umatilla	North	Sour Orange	Parson Brown	26	Non-Survivor
+MSV000082960	Plate2_309_RC12_01_15976.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	309	Plate2	2016	Roots	1	8	Umatilla	North	Sour Orange	Parson Brown	26	Non-Survivor
+MSV000082960	Plate2_310_RD1_01_15978.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	310	Plate2	2016	Budwood	3	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate6_311_RA10_01_16560.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	311	Plate2	2016	Leaf	3	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_312_RD3_01_15980.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	312	Plate2	2016	Roots	3	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_313_RD4_01_15981.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	313	Plate2	2016	Budwood	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_314_RD5_01_15982.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	314	Plate2	2016	Leaf	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_315_RD6_01_15983.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	315	Plate2	2016	Roots	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_316_RD7_01_15984.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	316	Plate2	2016	Budwood	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate6_317_RA11_01_16561.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	317	Plate2	2016	Leaf	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_318_RD9_01_15986.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	318	Plate2	2016	Roots	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_319_RD10_01_15987.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	319	Plate2	2016	Budwood	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_320_RD11_01_15988.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	320	Plate1	2016	Leaf	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_321_RD12_01_15989.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	321	Plate2	2016	Roots	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_322_RE1_01_15991.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	322	Plate2	2016	Budwood	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_323_RE2_01_15992.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	323	Plate2	2016	Leaf	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_324_RE3_01_15993.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	324	Plate2	2016	Roots	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_325_RE4_01_15994.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	325	Plate2	2016	Budwood	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate6_326_RA12_01_16562.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	326	Plate2	2016	Leaf	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_327_RE6_01_15996.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	327	Plate2	2016	Roots	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_328_RE7_01_15997.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	328	Plate2	2016	Budwood	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_329_RE8_01_15998.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	329	Plate2	2016	Leaf	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_330_RE9_01_15999.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	330	Plate2	2016	Roots	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_331_RE10_01_16000.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	331	Plate2	2016	Budwood	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_332_RE11_01_16001.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	332	Plate2	2016	Leaf	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_333_RE12_01_16002.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	333	Plate2	2016	Roots	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_334_RF1_01_16004.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	334	Plate2	2016	Budwood	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_335_RF2_01_16005.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	335	Plate2	2016	Leaf	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_336_RF3_01_16006.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	336	Plate2	2016	Roots	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate2_337_RF4_01_16007.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	337	Plate2	2016	Budwood	1	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_338_BF5_01_16010.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	338	Plate2	2016	Leaf	1	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_339_BF6_01_16011.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	339	Plate2	2016	Roots	1	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate2_340_BF7_01_16012.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	340	Plate2	2016	Budwood	0.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Unclassified
+MSV000082960	Plate2_341_BF8_01_16013.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	341	Plate2	2016	Leaf	0.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Unclassified
+MSV000082960	Plate2_342_BF9_01_16014.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	342	Plate2	2016	Roots	0.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Unclassified
+MSV000082960	Plate2_394_BF10_01_16015.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	394	Plate2	2016	Budwood	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_395_BF11_01_16016.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	395	Plate2	2016	Leaf	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_396_BF12_01_16017.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	396	Plate2	2016	Roots	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate6_397_RB1_01_16564.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	397	Plate2	2016	Budwood	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_398_BG2_01_16020.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	398	Plate2	2016	Leaf	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_399_BG3_01_16021.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	399	Plate3	2016	Roots	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_400_BG4_01_16022.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	400	Plate2	2016	Budwood	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_401_BG5_01_16023.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	401	Plate2	2016	Leaf	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_402_BG6_01_16024.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	402	Plate2	2016	Roots	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_403_BG7_01_16025.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	403	Plate3	2016	Budwood	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_404_BG8_01_16026.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	404	Plate2	2016	Leaf	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate2_405_BG9_01_16027.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	405	Plate2	2016	Roots	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate6_406_RB4_01_16567.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	406	Plate2	2016	Budwood	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate6_407_RB9_01_16572.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	407	Plate2	2016	Leaf	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate3_408_RG7_01_16109.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	408	Plate3	2016	Roots	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate3_409_RC3_01_16058.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	409	Plate3	2016	Budwood	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate3_410_RG5_01_16107.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	410	Plate3	2016	Leaf	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate3_411_RF8_01_16097.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	411	Plate3	2016	Roots	missing value	11	missing value	missing value	missing value	Hamlin	missing value	missing value
+MSV000082960	Plate3_502_RE5_01_16084.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	502	Plate3	2017	Budwood	3	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate3_503_RD5_01_16071.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	503	Plate3	2017	Leaf	3	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate3_504_RG8_01_16110.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	504	Plate3	2017	Roots	3	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate3_505_RC5_01_16060.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	505	Plate2	2017	Budwood	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_506_RF3_01_16093.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	506	Plate2	2017	Leaf	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_507_RF9_01_16098.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	507	Plate2	2017	Roots	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_508_RE8_01_16087.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	508	Plate2	2017	Budwood	2.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Unclassified
+MSV000082960	Plate3_509_RD1_01_16068.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	509	Plate2	2017	Leaf	2.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Unclassified
+MSV000082960	Plate3_510_RB12_01_16054.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	510	Plate3	2017	Roots	2.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Unclassified
+MSV000082960	Plate3_511_RA12_01_16044.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	511	Plate3	2017	Budwood	4.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_513_RA11_01_16043.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	513	Plate3	2017	Roots	4.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_514_RE11_01_16088.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	514	Plate3	2017	Budwood	2	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate3_515_RF10_01_16099.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	515	Plate3	2017	Leaf	2	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate3_516_RA8_01_16040.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	516	Plate3	2017	Roots	2	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate3_517_RD3_01_16069.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	517	Plate3	2017	Budwood	4.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_518_RG4_01_16106.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	518	Plate3	2017	Leaf	4.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_519_RF12_01_16101.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	519	Plate3	2017	Roots	4.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_520_RF1_01_16091.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	520	Plate3	2017	Budwood	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_521_RA6_01_16038.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	521	Plate3	2017	Leaf	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_522_RE4_01_16083.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	522	Plate2	2017	Roots	4	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_523_RG1_01_16103.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	523	Plate3	2017	Budwood	4.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_524_RA2_01_16034.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	524	Plate3	2017	Leaf	4.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_525_RD6_01_16072.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	525	Plate3	2017	Roots	4.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Sick
+MSV000082960	Plate3_526_RF4_01_16094.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	526	Plate3	2017	Budwood	3	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate3_527_RD4_01_16070.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	527	Plate3	2017	Leaf	3	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate3_528_RC9_01_16064.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	528	Plate3	2017	Roots	3	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Non-Survivor
+MSV000082960	Plate3_529_RD12_01_16078.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	529	Plate3	2017	Budwood	2.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate3_530_RE7_01_16086.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	530	Plate3	2017	Leaf	2.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate3_531_RD7_01_16073.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	531	Plate3	2017	Roots	2.5	3	Fort Pierce	South	897 (Cleo x Flying Dragon Trifoliate)	Ruby Red	3	Survivor
+MSV000082960	Plate3_532_RC10_01_16065.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	532	Plate3	2017	Budwood	3	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate3_533_RC1_01_16056.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	533	Plate3	2017	Leaf	3	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate6_534_RB3_01_16566.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	534	Plate3	2017	Roots	3	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate3_535_RC6_01_16061.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	535	Plate3	2017	Budwood	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_536_RE12_01_16089.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	536	Plate3	2017	Leaf	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate6_537_RB5_01_16568.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	537	Plate3	2017	Roots	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_538_RE1_01_16080.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	538	Plate3	2017	Budwood	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_539_RB2_01_16047.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	539	Plate3	2017	Leaf	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_540_RA10_01_16042.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	540	Plate3	2017	Roots	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_541_RD10_01_16076.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	541	Plate3	2017	Budwood	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_542_RF2_01_16092.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	542	Plate3	2017	Leaf	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_543_RA1_01_16033.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	543	Plate3	2017	Roots	4	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_544_RG9_01_16111.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	544	Plate3	2017	Budwood	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_545_RA9_01_16041.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	545	Plate3	2017	Leaf	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_546_RA3_01_16035.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	546	Plate3	2017	Roots	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_547_RB6_01_16050.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	547	Plate3	2017	Budwood	3.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate3_548_RG3_01_16105.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	548	Plate3	2017	Leaf	3.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate3_549_RB1_01_16046.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	549	Plate3	2017	Roots	3.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate6_550_RB7_01_16570.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	550	Plate3	2017	Budwood	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_551_RF11_01_16100.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	551	Plate3	2017	Leaf	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_552_RB9_01_16051.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	552	Plate3	2017	Roots	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_553_RB11_01_16053.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	553	Plate3	2017	Budwood	3.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate3_554_RC7_01_16062.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	554	Plate3	2017	Leaf	3.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate3_555_RE2_01_16081.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	555	Plate3	2017	Roots	3.5	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate3_556_RD8_01_16074.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	556	Plate3	2017	Budwood	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_557_RA7_01_16039.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	557	Plate3	2017	Leaf	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate3_558_RG2_01_16104.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	558	Plate3	2017	Roots	5	6	Indiantown	South	Swingle	Valencia	11	Sick
+MSV000082960	Plate6_559_RB6_01_16569.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	559	Plate3	2017	Budwood	3	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate6_560_RB2_01_16565.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	560	Plate3	2017	Leaf	3	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate3_561_RC11_01_16066.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	561	Plate3	2017	Roots	3	6	Indiantown	South	Swingle	Valencia	11	Unclassified
+MSV000082960	Plate3_562_RB4_01_16049.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	562	Plate3	2017	Budwood	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate3_563_RC4_01_16059.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	563	Plate3	2017	Leaf	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate3_564_RG6_01_16108.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	564	Plate3	2017	Roots	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate3_565_RC8_01_16063.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	565	Plate3	2017	Budwood	2	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate3_566_RE3_01_16082.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	566	Plate3	2017	Leaf	2	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate3_567_RF5_01_16095.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	567	Plate3	2017	Roots	2	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate3_568_RC2_01_16057.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	568	Plate3	2017	Budwood	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate3_569_RB10_01_16052.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	569	Plate4	2017	Leaf	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate3_570_RA4_01_16036.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	570	Plate4	2017	Roots	3	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate6_571_RB8_01_16571.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	571	Plate3	2017	Budwood	1.5	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate3_572_RB3_01_16048.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	572	Plate3	2017	Leaf	1.5	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate3_573_RD11_01_16077.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	573	Plate3	2017	Roots	1.5	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate3_574_RD9_01_16075.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	574	Plate3	2017	Budwood	5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate3_575_RF6_01_16096.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	575	Plate3	2017	Leaf	5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate3_576_RE6_01_16085.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	576	Plate4	2017	Roots	5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate4_577_RA1_01_16117.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	577	Plate3	2017	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate4_578_RA2_01_16118.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	578	Plate3	2017	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate4_579_RA3_01_16119.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	579	Plate3	2017	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate4_580_RA4_01_16120.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	580	Plate4	2017	Budwood	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate4_581_RA5_01_16121.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	581	Plate4	2017	Leaf	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate4_582_RA6_01_16122.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	582	Plate4	2017	Roots	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate4_583_RA7_01_16123.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	583	Plate4	2017	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate4_584_RA8_01_16124.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	584	Plate4	2017	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate4_585_RA9_01_16125.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	585	Plate4	2017	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate4_586_RA10_01_16126.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	586	Plate4	2017	Budwood	1.5	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate4_587_RA11_01_16127.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	587	Plate4	2017	Leaf	1.5	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate4_588_RA12_01_16128.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	588	Plate4	2017	Roots	1.5	7	Howey In Hills	North	Swingle	Hamlin	26	Survivor
+MSV000082960	Plate4_589_RB1_01_16130.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	589	Plate3	2017	Budwood	5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate4_590_RB2_01_16131.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	590	Plate3	2017	Leaf	5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate4_591_RB3_01_16132.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	591	Plate3	2017	Roots	5	7	Howey In Hills	North	Swingle	Hamlin	26	Sick
+MSV000082960	Plate4_592_RB4_01_16133.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	592	Plate4	2017	Budwood	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_593_RB5_01_16134.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	593	Plate4	2017	Leaf	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_594_RB6_01_16135.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	594	Plate4	2017	Roots	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_595_RB7_01_16136.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	595	Plate4	2017	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_596_RB8_01_16137.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	596	Plate4	2017	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_597_RB9_01_16138.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	597	Plate4	2017	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_598_RB10_01_16139.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	598	Plate4	2017	Budwood	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_599_RB11_01_16140.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	599	Plate4	2017	Leaf	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_600_RB12_01_16141.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	600	Plate4	2017	Roots	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_601_RC1_01_16143.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	601	Plate4	2017	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_602_RC2_01_16144.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	602	Plate3	2017	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_603_RC3_01_16145.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	603	Plate3	2017	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_604_RC4_01_16146.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	604	Plate4	2017	Budwood	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_605_RC5_01_16147.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	605	Plate4	2017	Leaf	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_606_RC6_01_16148.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	606	Plate4	2017	Roots	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_607_RC7_01_16149.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	607	Plate4	2017	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_608_RC8_01_16150.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	608	Plate4	2017	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_609_RC9_01_16151.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	609	Plate4	2017	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_610_RC10_01_16152.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	610	Plate4	2017	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_611_RC11_01_16153.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	611	Plate4	2017	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_612_RC12_01_16154.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	612	Plate4	2017	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_613_RD1_01_16156.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	613	Plate3	2017	Budwood	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_614_RD2_01_16157.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	614	Plate4	2017	Leaf	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_615_RD3_01_16158.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	615	Plate3	2017	Roots	3.5	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_616_RD4_01_16159.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	616	Plate4	2017	Budwood	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_617_RD5_01_16160.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	617	Plate4	2017	Leaf	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_618_RD6_01_16161.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	618	Plate4	2017	Roots	1	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_619_RD7_01_16162.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	619	Plate4	2017	Budwood	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_620_RD8_01_16163.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	620	Plate4	2017	Leaf	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_621_RD9_01_16164.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	621	Plate4	2017	Roots	3	7	Howey In Hills	North	Swingle	Hamlin	26	missing value
+MSV000082960	Plate4_622_RD10_01_16165.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	622	Plate4	2017	Budwood	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_623_RD11_01_16166.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	623	Plate4	2017	Leaf	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_624_RD12_01_16167.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	624	Plate4	2017	Roots	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_625_RE1_01_16169.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	625	Plate4	2017	Budwood	4.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_626_RE2_01_16170.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	626	Plate4	2017	Leaf	4.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_627_RE3_01_16171.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	627	Plate4	2017	Roots	4.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_628_RE4_01_16172.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	628	Plate4	2017	Budwood	4.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_629_RE5_01_16173.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	629	Plate4	2017	Leaf	4.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_630_RE6_01_16174.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	630	Plate4	2017	Roots	4.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_631_RE7_01_16175.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	631	Plate4	2017	Budwood	2	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_632_RE8_01_16176.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	632	Plate4	2017	Leaf	2	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_633_RE9_01_16177.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	633	Plate4	2017	Roots	2	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_634_RE10_01_16178.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	634	Plate4	2017	Budwood	2	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_635_RE11_01_16179.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	635	Plate4	2017	Leaf	2	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_636_RE12_01_16180.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	636	Plate4	2017	Roots	2	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_637_RF1_01_16182.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	637	Plate4	2017	Budwood	2.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_638_RF2_01_16183.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	638	Plate4	2017	Leaf	2.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_639_RF3_01_16184.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	639	Plate4	2017	Roots	2.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_640_RF4_01_16185.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	640	Plate4	2017	Budwood	2	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_641_RF5_01_16186.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	641	Plate4	2017	Leaf	2	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_642_RF6_01_16187.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	642	Plate4	2017	Roots	2	8	Umatilla	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_643_RF7_01_16188.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	643	Plate4	2017	Budwood	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_644_RF8_01_16189.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	644	Plate4	2017	Leaf	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_645_RF9_01_16190.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	645	Plate4	2017	Roots	4	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_646_RF10_01_16191.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	646	Plate4	2017	Budwood	3	8	Umatilla	North	Sour Orange	Parson Brown	26	Non-Survivor
+MSV000082960	Plate4_647_RF11_01_16192.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	647	Plate4	2017	Leaf	3	8	Umatilla	North	Sour Orange	Parson Brown	26	Non-Survivor
+MSV000082960	Plate4_648_RF12_01_16193.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	648	Plate4	2017	Roots	3	8	Umatilla	North	Sour Orange	Parson Brown	26	Non-Survivor
+MSV000082960	Plate4_649_RG1_01_16195.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	649	Plate4	2017	Budwood	4.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_650_RG2_01_16196.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	650	Plate4	2017	Leaf	4.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_651_RG3_01_16197.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	651	Plate5	2017	Roots	4.5	8	Umatilla	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_652_RG4_01_16198.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	652	Plate4	2017	Budwood	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_653_RG5_01_16199.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	653	Plate4	2017	Leaf	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_654_RG6_01_16200.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	654	Plate4	2017	Roots	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate4_655_RG7_01_16201.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	655	Plate4	2017	Budwood	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_656_RG8_01_16202.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	656	Plate4	2017	Leaf	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate4_657_RG9_01_16203.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	657	Plate4	2017	Roots	1.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_658_RE8_01_16267.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	658	Plate4	2017	Budwood	2.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_659_RG6_01_16291.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	659	Plate4	2017	Leaf	2.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_660_RF6_01_16278.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	660	Plate5	2017	Roots	2.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_661_RF7_01_16279.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	661	Plate5	2017	Budwood	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_662_RF3_01_16275.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	662	Plate4	2017	Leaf	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_663_RC9_01_16242.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	663	Plate4	2017	Roots	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_664_RE3_01_16262.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	664	Plate5	2017	Budwood	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_665_RE1_01_16260.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	665	Plate4	2017	Leaf	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_666_RD10_01_16256.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	666	Plate4	2017	Roots	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_667_RE10_01_16269.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	667	Plate4	2017	Budwood	2.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_668_RG4_01_16289.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	668	Plate4	2017	Leaf	2.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_669_RF8_01_16280.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	669	Plate4	2017	Roots	2.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_670_RG10_01_16295.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	670	Plate5	2017	Budwood	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_671_RE5_01_16264.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	671	Plate5	2017	Leaf	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_672_RG5_01_16290.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	672	Plate5	2017	Roots	3.5	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_673_RG3_01_16288.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	673	Plate5	2017	Budwood	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_674_RE12_01_16271.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	674	Plate5	2017	Leaf	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_675_RD8_01_16254.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	675	Plate5	2017	Roots	3	9	Weirsdale	North	Sour Orange	Parson Brown	26	Sick
+MSV000082960	Plate5_676_RE9_01_16268.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	676	Plate5	2017	Budwood	2	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_677_RE11_01_16270.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	677	Plate5	2017	Leaf	2	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_678_RF11_01_16283.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	678	Plate4	2017	Roots	2	9	Weirsdale	North	Sour Orange	Parson Brown	26	Survivor
+MSV000082960	Plate5_679_RE7_01_16266.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	679	Plate4	2017	Budwood	2	9	Weirsdale	North	Sour Orange	Parson Brown	26	Unclassified
+MSV000082960	Plate5_680_RE6_01_16265.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	680	Plate4	2017	Leaf	2	9	Weirsdale	North	Sour Orange	Parson Brown	26	Unclassified
+MSV000082960	Plate5_681_RF1_01_16273.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	681	Plate4	2017	Roots	2	9	Weirsdale	North	Sour Orange	Parson Brown	26	Unclassified
+MSV000082960	Plate5_682_RF2_01_16274.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	682	Plate5	2017	Budwood	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_683_RF5_01_16277.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	683	Plate5	2017	Leaf	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_684_RF4_01_16276.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	684	Plate5	2017	Roots	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_685_RC10_01_16243.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	685	Plate5	2017	Budwood	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_686_RF9_01_16281.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	686	Plate5	2017	Leaf	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_687_RB7_01_16227.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	687	Plate5	2017	Roots	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_688_RG7_01_16292.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	688	Plate5	2017	Budwood	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_689_RF12_01_16284.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	689	Plate5	2017	Leaf	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_690_RB12_01_16232.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	690	Plate5	2017	Roots	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_691_RA10_01_16217.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	691	Plate5	2017	Budwood	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_692_RC12_01_16245.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	692	Plate4	2017	Leaf	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_693_RF10_01_16282.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	693	Plate4	2017	Roots	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_694_RD9_01_16255.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	694	Plate5	2017	Budwood	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_695_RD6_01_16252.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	695	Plate5	2017	Leaf	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_696_RA7_01_16214.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	696	Plate5	2017	Roots	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_697_RD12_01_16258.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	697	Plate5	2017	Budwood	3.5	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_698_RE2_01_16261.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	698	Plate5	2017	Leaf	3.5	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_699_RD2_01_16248.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	699	Plate5	2017	Roots	3.5	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_700_RC4_01_16237.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	700	Plate5	2017	Budwood	3.5	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_701_RD3_01_16249.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	701	Plate5	2017	Leaf	3.5	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate6_702_RB11_01_16574.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	702	Plate5	2017	Roots	3.5	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_703_RA8_01_16215.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	703	Plate5	2017	Budwood	4	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_704_RB8_01_16228.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	704	Plate5	2017	Leaf	4	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_705_RD11_01_16257.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	705	Plate5	2017	Roots	4	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_706_RC1_01_16234.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	706	Plate5	2017	Budwood	3.5	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_707_RC2_01_16235.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	707	Plate5	2017	Leaf	3.5	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_708_RC7_01_16240.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	708	Plate5	2017	Roots	3.5	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_709_RC8_01_16241.mzXML	plant	plant_angiospermae	missing value	stem	maXis 4G|MS:1002279	709	Plate4	2017	Budwood	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_710_RB4_01_16224.mzXML	plant	plant_angiospermae	missing value	leaf	maXis 4G|MS:1002279	710	Plate5	2017	Leaf	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_711_RD4_01_16250.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	711	Plate5	2017	Roots	3	12	Clermont	North	Cleopatra Mandarin	Temple	missing value	missing value
+MSV000082960	Plate5_712_RC6_01_16239.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	712	Plate4	2017	Budwood	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_713_RA9_01_16216.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	713	Plate5	2017	Leaf	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_714_RG2_01_16287.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	714	Plate5	2017	Roots	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_715_RD7_01_16253.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	715	Plate5	2017	Budwood	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_716_RC3_01_16236.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	716	Plate5	2017	Leaf	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_717_RG1_01_16286.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	717	Plate5	2017	Roots	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_718_RB6_01_16226.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	718	Plate5	2017	Budwood	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_719_RA3_01_16210.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	719	Plate5	2017	Leaf	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_720_RE4_01_16263.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	720	Plate5	2017	Roots	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_721_RA2_01_16209.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	721	Plate5	2017	Budwood	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_722_RA1_01_16208.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	722	Plate5	2017	Leaf	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_723_RC5_01_16238.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	723	Plate5	2017	Roots	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_724_RA11_01_16218.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	724	Plate5	2017	Budwood	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_725_RB5_01_16225.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	725	Plate5	2017	Leaf	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_726_RB1_01_16221.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	726	Plate5	2017	Roots	3	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate6_727_RB10_01_16573.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	727	Plate5	2017	Budwood	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_728_RG9_01_16294.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	728	Plate5	2017	Leaf	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_729_RD1_01_16247.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	729	Plate5	2017	Roots	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_730_RB11_01_16231.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	730	Plate5	2017	Budwood	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_731_RB10_01_16230.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	731	Plate5	2017	Leaf	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_732_RB9_01_16229.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	732	Plate5	2017	Roots	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_733_RB2_01_16222.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	733	Plate5	2017	Budwood	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_734_RB3_01_16223.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	734	Plate5	2017	Leaf	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_735_RC11_01_16244.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	735	Plate5	2017	Roots	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_736_RG8_01_16293.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	736	Plate5	2017	Budwood	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_737_RA12_01_16219.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	737	Plate5	2017	Leaf	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_738_RD5_01_16251.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	738	Plate5	2017	Roots	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_739_RA4_01_16211.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	stem	maXis 4G|MS:1002279	739	Plate5	2017	Budwood	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_740_RA6_01_16213.mzXML	plant	plant_angiospermae	2711|Citrus sinensis	leaf	maXis 4G|MS:1002279	740	Plate5	2017	Leaf	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate5_741_RA5_01_16212.mzXML	plant	plant_angiospermae	missing value	root	maXis 4G|MS:1002279	741	Plate5	2017	Roots	5	13	Winter Garden	North	Swingle	Valencia	missing value	missing value
+MSV000082960	Plate2_Ethanol_blank_RH11_01_16003.mzXML	blank_extraction	blank_extraction	missing value	missing value	maXis 4G|MS:1002279	Ethanol16	Plate6	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000082960	Plate3_Ethanol_blank_RH11_01_16112.mzXML	blank_extraction	blank_extraction	missing value	missing value	maXis 4G|MS:1002279	Ethanol25	Plate6	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000082960	Plate4_Ethanol_blank_RH11_01_16204.mzXML	blank_extraction	blank_extraction	missing value	missing value	maXis 4G|MS:1002279	Ethanol33	Plate6	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000082960	Plate5_Ethanol_blank_RH11_01_16296.mzXML	blank_extraction	blank_extraction	missing value	missing value	maXis 4G|MS:1002279	Ethanol40	Plate6	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000082960	Plate6_Ethanol_blank_RH11_01_16575.mzXML	blank_extraction	blank_extraction	missing value	missing value	maXis 4G|MS:1002279	Ethanol45	Plate5	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value	missing value

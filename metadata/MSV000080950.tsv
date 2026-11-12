@@ -1,0 +1,97 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	MassSpectrometer	ChromatographyAndPhase	SubjectIdentifierAsRecorded	UBERONBodyPartName	TimePointHoursRelativeToEvent	Polarity	sample_name
+MSV000080950	Volunteer1_blood_0h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood	0	negative	Volunteer1_blood_0h
+MSV000080950	Volunteer1_blood_0h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood	0	positive	Volunteer1_blood_0h
+MSV000080950	Volunteer1_blood_1h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood	1	negative	Volunteer1_blood_1h
+MSV000080950	Volunteer1_blood_1h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood	1	positive	Volunteer1_blood_1h
+MSV000080950	Volunteer1_blood_24h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood	24	negative	Volunteer1_blood_24h
+MSV000080950	Volunteer1_blood_24h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood	24	positive	Volunteer1_blood_24h
+MSV000080950	Volunteer1_blood_4h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood	4	negative	Volunteer1_blood_4h
+MSV000080950	Volunteer1_blood_4h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood	4	positive	Volunteer1_blood_4h
+MSV000080950	Volunteer1_plasma_0h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood plasma	0	negative	Volunteer1_plasma_0h
+MSV000080950	Volunteer1_plasma_0h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood plasma	0	positive	Volunteer1_plasma_0h
+MSV000080950	Volunteer1_plasma_1h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood plasma	1	negative	Volunteer1_plasma_1h
+MSV000080950	Volunteer1_plasma_1h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood plasma	1	positive	Volunteer1_plasma_1h
+MSV000080950	Volunteer1_plasma_24h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood plasma	24	negative	Volunteer1_plasma_24h
+MSV000080950	Volunteer1_plasma_24h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood plasma	24	positive	Volunteer1_plasma_24h
+MSV000080950	Volunteer1_plasma_4h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood plasma	4	negative	Volunteer1_plasma_4h
+MSV000080950	Volunteer1_plasma_4h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	blood plasma	4	positive	Volunteer1_plasma_4h
+MSV000080950	Volunteer1_RBC_0h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	erythrocyte	0	negative	Volunteer1_RBC_0h
+MSV000080950	Volunteer1_RBC_0h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	erythrocyte	0	positive	Volunteer1_RBC_0h
+MSV000080950	Volunteer1_RBC_1h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	erythrocyte	1	negative	Volunteer1_RBC_1h
+MSV000080950	Volunteer1_RBC_1h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	erythrocyte	1	positive	Volunteer1_RBC_1h
+MSV000080950	Volunteer1_RBC_24h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	erythrocyte	24	negative	Volunteer1_RBC_24h
+MSV000080950	Volunteer1_RBC_24h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	erythrocyte	24	positive	Volunteer1_RBC_24h
+MSV000080950	Volunteer1_RBC_4h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	erythrocyte	4	negative	Volunteer1_RBC_4h
+MSV000080950	Volunteer1_RBC_4h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer1	erythrocyte	4	positive	Volunteer1_RBC_4h
+MSV000080950	Volunteer2_blood_0h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood	0	negative	Volunteer2_blood_0h
+MSV000080950	Volunteer2_blood_0h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood	0	positive	Volunteer2_blood_0h
+MSV000080950	Volunteer2_blood_1h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood	1	negative	Volunteer2_blood_1h
+MSV000080950	Volunteer2_blood_1h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood	1	positive	Volunteer2_blood_1h
+MSV000080950	Volunteer2_blood_24h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood	24	negative	Volunteer2_blood_24h
+MSV000080950	Volunteer2_blood_24h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood	24	positive	Volunteer2_blood_24h
+MSV000080950	Volunteer2_blood_4h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood	4	negative	Volunteer2_blood_4h
+MSV000080950	Volunteer2_blood_4h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood	4	positive	Volunteer2_blood_4h
+MSV000080950	Volunteer2_plasma_0h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood plasma	0	negative	Volunteer2_plasma_0h
+MSV000080950	Volunteer2_plasma_0h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood plasma	0	positive	Volunteer2_plasma_0h
+MSV000080950	Volunteer2_plasma_1h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood plasma	1	negative	Volunteer2_plasma_1h
+MSV000080950	Volunteer2_plasma_1h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood plasma	1	positive	Volunteer2_plasma_1h
+MSV000080950	Volunteer2_plasma_24h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood plasma	24	negative	Volunteer2_plasma_24h
+MSV000080950	Volunteer2_plasma_24h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood plasma	24	positive	Volunteer2_plasma_24h
+MSV000080950	Volunteer2_plasma_4h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood plasma	4	negative	Volunteer2_plasma_4h
+MSV000080950	Volunteer2_plasma_4h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	blood plasma	4	positive	Volunteer2_plasma_4h
+MSV000080950	Volunteer2_RBC_0h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	erythrocyte	0	negative	Volunteer2_RBC_0h
+MSV000080950	Volunteer2_RBC_0h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	erythrocyte	0	positive	Volunteer2_RBC_0h
+MSV000080950	Volunteer2_RBC_1h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	erythrocyte	1	negative	Volunteer2_RBC_1h
+MSV000080950	Volunteer2_RBC_1h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	erythrocyte	1	positive	Volunteer2_RBC_1h
+MSV000080950	Volunteer2_RBC_24h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	erythrocyte	24	negative	Volunteer2_RBC_24h
+MSV000080950	Volunteer2_RBC_24h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	erythrocyte	24	positive	Volunteer2_RBC_24h
+MSV000080950	Volunteer2_RBC_4h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	erythrocyte	4	negative	Volunteer2_RBC_4h
+MSV000080950	Volunteer2_RBC_4h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer2	erythrocyte	4	positive	Volunteer2_RBC_4h
+MSV000080950	Volunteer3_blood_0h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood	0	negative	Volunteer3_blood_0h
+MSV000080950	Volunteer3_blood_0h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood	0	positive	Volunteer3_blood_0h
+MSV000080950	Volunteer3_blood_1h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood	1	negative	Volunteer3_blood_1h
+MSV000080950	Volunteer3_blood_1h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood	1	positive	Volunteer3_blood_1h
+MSV000080950	Volunteer3_blood_24h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood	24	negative	Volunteer3_blood_24h
+MSV000080950	Volunteer3_blood_24h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood	24	positive	Volunteer3_blood_24h
+MSV000080950	Volunteer3_blood_4h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood	4	negative	Volunteer3_blood_4h
+MSV000080950	Volunteer3_blood_4h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood	4	positive	Volunteer3_blood_4h
+MSV000080950	Volunteer3_plasma_0h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood plasma	0	negative	Volunteer3_plasma_0h
+MSV000080950	Volunteer3_plasma_0h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood plasma	0	positive	Volunteer3_plasma_0h
+MSV000080950	Volunteer3_plasma_1h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood plasma	1	negative	Volunteer3_plasma_1h
+MSV000080950	Volunteer3_plasma_1h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood plasma	1	positive	Volunteer3_plasma_1h
+MSV000080950	Volunteer3_plasma_24h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood plasma	24	negative	Volunteer3_plasma_24h
+MSV000080950	Volunteer3_plasma_24h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood plasma	24	positive	Volunteer3_plasma_24h
+MSV000080950	Volunteer3_plasma_4h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood plasma	4	negative	Volunteer3_plasma_4h
+MSV000080950	Volunteer3_plasma_4h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	blood plasma	4	positive	Volunteer3_plasma_4h
+MSV000080950	Volunteer3_RBC_0h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	erythrocyte	0	negative	Volunteer3_RBC_0h
+MSV000080950	Volunteer3_RBC_0h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	erythrocyte	0	positive	Volunteer3_RBC_0h
+MSV000080950	Volunteer3_RBC_1h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	erythrocyte	1	negative	Volunteer3_RBC_1h
+MSV000080950	Volunteer3_RBC_1h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	erythrocyte	1	positive	Volunteer3_RBC_1h
+MSV000080950	Volunteer3_RBC_24h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	erythrocyte	24	negative	Volunteer3_RBC_24h
+MSV000080950	Volunteer3_RBC_24h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	erythrocyte	24	positive	Volunteer3_RBC_24h
+MSV000080950	Volunteer3_RBC_4h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	erythrocyte	4	negative	Volunteer3_RBC_4h
+MSV000080950	Volunteer3_RBC_4h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer3	erythrocyte	4	positive	Volunteer3_RBC_4h
+MSV000080950	Volunteer4_blood_0h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood	0	negative	Volunteer4_blood_0h
+MSV000080950	Volunteer4_blood_0h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood	0	positive	Volunteer4_blood_0h
+MSV000080950	Volunteer4_blood_1h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood	1	negative	Volunteer4_blood_1h
+MSV000080950	Volunteer4_blood_1h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood	1	positive	Volunteer4_blood_1h
+MSV000080950	Volunteer4_blood_24h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood	24	negative	Volunteer4_blood_24h
+MSV000080950	Volunteer4_blood_24h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood	24	positive	Volunteer4_blood_24h
+MSV000080950	Volunteer4_blood_4h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood	4	negative	Volunteer4_blood_4h
+MSV000080950	Volunteer4_blood_4h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood	4	positive	Volunteer4_blood_4h
+MSV000080950	Volunteer4_plasma_0h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood plasma	0	negative	Volunteer4_plasma_0h
+MSV000080950	Volunteer4_plasma_0h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood plasma	0	positive	Volunteer4_plasma_0h
+MSV000080950	Volunteer4_plasma_1h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood plasma	1	negative	Volunteer4_plasma_1h
+MSV000080950	Volunteer4_plasma_1h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood plasma	1	positive	Volunteer4_plasma_1h
+MSV000080950	Volunteer4_plasma_24h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood plasma	24	negative	Volunteer4_plasma_24h
+MSV000080950	Volunteer4_plasma_24h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood plasma	24	positive	Volunteer4_plasma_24h
+MSV000080950	Volunteer4_plasma_4h_NEG.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood plasma	4	negative	Volunteer4_plasma_4h
+MSV000080950	Volunteer4_plasma_4h_POS.mzML	animal	biofluid	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	blood plasma	4	positive	Volunteer4_plasma_4h
+MSV000080950	Volunteer4_RBC_0h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	erythrocyte	0	negative	Volunteer4_RBC_0h
+MSV000080950	Volunteer4_RBC_0h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	erythrocyte	0	positive	Volunteer4_RBC_0h
+MSV000080950	Volunteer4_RBC_1h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	erythrocyte	1	negative	Volunteer4_RBC_1h
+MSV000080950	Volunteer4_RBC_1h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	erythrocyte	1	positive	Volunteer4_RBC_1h
+MSV000080950	Volunteer4_RBC_24h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	erythrocyte	24	negative	Volunteer4_RBC_24h
+MSV000080950	Volunteer4_RBC_24h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	erythrocyte	24	positive	Volunteer4_RBC_24h
+MSV000080950	Volunteer4_RBC_4h_NEG.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	erythrocyte	4	negative	Volunteer4_RBC_4h
+MSV000080950	Volunteer4_RBC_4h_POS.mzML	animal	missing value	9606|Homo sapiens	2016	LTQ Orbitrap Classic|MS:1002835	normal phase (HILIC)	Volunteer4	erythrocyte	4	positive	Volunteer4_RBC_4h

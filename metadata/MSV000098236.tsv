@@ -1,0 +1,13 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	MassSpectrometer	IonizationSourceAndPolarity	Sample_ID_arylsulfamate_test_vs_control	Run_Order
+MSV000098236	20241107_control_pos_1.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (positive)	Control	5
+MSV000098236	20241107_control_pos_2.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (positive)	Control	6
+MSV000098236	20241107_control_pos_3.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (positive)	Control	7
+MSV000098236	20241107_control_neg_1.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (negative)	Control	8
+MSV000098236	20241107_control_neg_2.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (negative)	Control	9
+MSV000098236	20241107_control_neg_3.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (negative)	Control	10
+MSV000098236	20241107_test_pos_1.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (positive)	Test	11
+MSV000098236	20241107_test_pos_2.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (positive)	Test	12
+MSV000098236	20241107_test_pos_3.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (positive)	Test	13
+MSV000098236	20241107_test_neg_1.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (negative)	Test	14
+MSV000098236	20241107_test_neg_2.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (negative)	Test	15
+MSV000098236	20241107_test_neg_3.mzML	culture_bacterial	culture_bacterial	818|Bacteroides thetaiotaomicron	2024	Orbitrap Exploris 480|MS:1003028	electrospray ionization (negative)	Test	16

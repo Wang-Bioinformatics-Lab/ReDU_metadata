@@ -1,0 +1,39 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	Exposure	IonizationSourceAndPolarity	group
+MSV000095982	NEG_Gl20CJL_C1.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (negative)	wild_ck
+MSV000095982	NEG_Gl20CJL_C2.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (negative)	wild_ck
+MSV000095982	NEG_Gl20CJL_C3.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (negative)	wild_ck
+MSV000095982	NEG_Gl20CJL_C4.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (negative)	wild_ck
+MSV000095982	NEG_Gl20CJL_C5.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (negative)	wild_50
+MSV000095982	NEG_Gl20CJL_C6.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (negative)	wild_50
+MSV000095982	NEG_Gl20CJL_C7.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (negative)	wild_50
+MSV000095982	NEG_Gl20CJL_C8.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (negative)	wild_50
+MSV000095982	NEG_Gl20CJL_C9.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (negative)	mutannt_ck
+MSV000095982	NEG_Gl20CJL_C10.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (negative)	mutannt_ck
+MSV000095982	NEG_Gl20CJL_C11.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (negative)	mutannt_ck
+MSV000095982	NEG_Gl20CJL_C12.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (negative)	mutannt_ck
+MSV000095982	NEG_Gl20CJL_C13.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (negative)	mutannt_50
+MSV000095982	NEG_Gl20CJL_C14.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (negative)	mutannt_50
+MSV000095982	NEG_Gl20CJL_C15.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (negative)	mutannt_50
+MSV000095982	NEG_Gl20CJL_C16.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (negative)	mutannt_50
+MSV000095982	NEG_Gl20CJL_QC01.mzML	pool_QC	pool_QC	missing value	missing value	electrospray ionization (negative)	QC
+MSV000095982	NEG_Gl20CJL_QC02.mzML	pool_QC	pool_QC	missing value	missing value	electrospray ionization (negative)	QC
+MSV000095982	NEG_Gl20CJL_QC03.mzML	pool_QC	pool_QC	missing value	missing value	electrospray ionization (negative)	QC
+MSV000095982	POS_Gl20CJL_C1.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (positive)	wild_ck
+MSV000095982	POS_Gl20CJL_C2.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (positive)	wild_ck
+MSV000095982	POS_Gl20CJL_C3.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (positive)	wild_ck
+MSV000095982	POS_Gl20CJL_C4.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (positive)	wild_ck
+MSV000095982	POS_Gl20CJL_C5.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (positive)	wild_50
+MSV000095982	POS_Gl20CJL_C6.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (positive)	wild_50
+MSV000095982	POS_Gl20CJL_C7.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (positive)	wild_50
+MSV000095982	POS_Gl20CJL_C8.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (positive)	wild_50
+MSV000095982	POS_Gl20CJL_C9.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (positive)	mutannt_ck
+MSV000095982	POS_Gl20CJL_C10.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (positive)	mutannt_ck
+MSV000095982	POS_Gl20CJL_C11.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (positive)	mutannt_ck
+MSV000095982	POS_Gl20CJL_C12.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	missing value	electrospray ionization (positive)	mutannt_ck
+MSV000095982	POS_Gl20CJL_C13.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (positive)	mutannt_50
+MSV000095982	POS_Gl20CJL_C14.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (positive)	mutannt_50
+MSV000095982	POS_Gl20CJL_C15.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (positive)	mutannt_50
+MSV000095982	POS_Gl20CJL_C16.mzML	culture_bacterial	culture_bacterial	3115650|Aeromonas sp. NJAU223	exposure to cadmium	electrospray ionization (positive)	mutannt_50
+MSV000095982	POS_Gl20CJL_QC01.mzML	pool_QC	pool_QC	missing value	missing value	electrospray ionization (positive)	QC
+MSV000095982	POS_Gl20CJL_QC02.mzML	pool_QC	pool_QC	missing value	missing value	electrospray ionization (positive)	QC
+MSV000095982	POS_Gl20CJL_QC03.mzML	pool_QC	pool_QC	missing value	missing value	electrospray ionization (positive)	QC

@@ -1,0 +1,297 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	SubjectIdentifierAsRecorded	MassSpectrometer	Experimental_vs_Control	Skin_site_letter	Skin_site_Actual	Medications_y_n	Note
+MSV000088842	1A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	1	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	1B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	1	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	1C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	1	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	1D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	1	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	1E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	1	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	2A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	2	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	2B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	2	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	2C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	2	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	2D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	2	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	2E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	2	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	3A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	3	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	3B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	3	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	3C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	3	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	3D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	3	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	3E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	3	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	4A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	4	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	4B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	4	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	4C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	4	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	4D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	4	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	4E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	4	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	5A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	5	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	5B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	5	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	5C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	5	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	5D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	5	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	5E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	5	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	6A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	6	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	6B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	6	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	6C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	6	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	6D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	6	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	6E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	6	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	7A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	7	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	7B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	7	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	7C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	7	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	7D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	7	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	7E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	7	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	8A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	8	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	8B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	8	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	8C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	8	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	8D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	8	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	8E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	8	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	9A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	9	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	9B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	9	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	9C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	9	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	9D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	9	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	9E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	9	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	10A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	10	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	10B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	10	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	10D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	10	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	10E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	10	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	11A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	11	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	11B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	11	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	11C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	11	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	11D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	11	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	11E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	11	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	12A_20211118115344.mzML	animal	missing value	9606|Homo sapiens	skin of manus	12	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	12B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	12	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	12C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	12	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	12D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	12	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	12E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	12	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	13A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	13	Q Exactive|MS:1001911	Con	A	Hand	N	missing value
+MSV000088842	13B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	13	Q Exactive|MS:1001911	Con	B	Palm	N	missing value
+MSV000088842	13C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	13	Q Exactive|MS:1001911	Con	C	Hand	N	missing value
+MSV000088842	13D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	13	Q Exactive|MS:1001911	Con	D	Palm	N	missing value
+MSV000088842	13E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	13	Q Exactive|MS:1001911	Con	E	Forehead	N	missing value
+MSV000088842	14A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	14	Q Exactive|MS:1001911	Con	A	Hand	N	missing value
+MSV000088842	14B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	14	Q Exactive|MS:1001911	Con	B	Palm	N	missing value
+MSV000088842	14C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	14	Q Exactive|MS:1001911	Con	C	Hand	N	missing value
+MSV000088842	14D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	14	Q Exactive|MS:1001911	Con	D	Palm	N	missing value
+MSV000088842	14E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	14	Q Exactive|MS:1001911	Con	E	Forehead	N	missing value
+MSV000088842	15A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	15	Q Exactive|MS:1001911	Exp	A	Hand	N	missing value
+MSV000088842	15B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	15	Q Exactive|MS:1001911	Exp	B	Palm	N	missing value
+MSV000088842	15C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	15	Q Exactive|MS:1001911	Exp	C	Hand	N	missing value
+MSV000088842	15D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	15	Q Exactive|MS:1001911	Exp	D	Palm	N	missing value
+MSV000088842	15E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	15	Q Exactive|MS:1001911	Exp	E	Forehead	N	missing value
+MSV000088842	16A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	16	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	16B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	16	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	16C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	16	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	16D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	16	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	16E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	16	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	17A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	17	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	17B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	17	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	17C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	17	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	17D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	17	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	17E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	17	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	18A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	18	Q Exactive|MS:1001911	Exp	A	Hand	N	missing value
+MSV000088842	18B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	18	Q Exactive|MS:1001911	Exp	B	Palm	N	missing value
+MSV000088842	18C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	18	Q Exactive|MS:1001911	Exp	C	Hand	N	missing value
+MSV000088842	18D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	18	Q Exactive|MS:1001911	Exp	D	Palm	N	missing value
+MSV000088842	18E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	18	Q Exactive|MS:1001911	Exp	E	Forehead	N	missing value
+MSV000088842	19A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	19	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	19B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	19	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	19C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	19	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	19D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	19	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	19E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	19	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	20A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	20	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	20B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	20	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	20C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	20	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	20D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	20	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	20E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	20	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	21A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	21	Q Exactive|MS:1001911	Exp	A	Hand	N	missing value
+MSV000088842	21B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	21	Q Exactive|MS:1001911	Exp	B	Palm	N	missing value
+MSV000088842	21C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	21	Q Exactive|MS:1001911	Exp	C	Hand	N	missing value
+MSV000088842	21D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	21	Q Exactive|MS:1001911	Exp	D	Palm	N	missing value
+MSV000088842	21E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	21	Q Exactive|MS:1001911	Exp	E	Forehead	N	missing value
+MSV000088842	22A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	22	Q Exactive|MS:1001911	Exp	A	Hand	N	missing value
+MSV000088842	22B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	22	Q Exactive|MS:1001911	Exp	B	Palm	N	missing value
+MSV000088842	22C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	22	Q Exactive|MS:1001911	Exp	C	Hand	N	missing value
+MSV000088842	22D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	22	Q Exactive|MS:1001911	Exp	D	Palm	N	missing value
+MSV000088842	22E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	22	Q Exactive|MS:1001911	Exp	E	Forehead	N	missing value
+MSV000088842	23A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	23	Q Exactive|MS:1001911	Exp	A	Hand	N	missing value
+MSV000088842	23B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	23	Q Exactive|MS:1001911	Exp	B	Palm	N	missing value
+MSV000088842	23C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	23	Q Exactive|MS:1001911	Exp	C	Hand	N	missing value
+MSV000088842	23D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	23	Q Exactive|MS:1001911	Exp	D	Palm	N	missing value
+MSV000088842	23E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	23	Q Exactive|MS:1001911	Exp	E	Forehead	N	missing value
+MSV000088842	24A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	24	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	24B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	24	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	24C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	24	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	24D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	24	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	24E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	24	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	25A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	25	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	25B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	25	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	25C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	25	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	25D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	25	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	25E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	25	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	26A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	26	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	26B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	26	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	26C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	26	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	26D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	26	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	26E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	26	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	27A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	27	Q Exactive|MS:1001911	Con	A	Hand	N	missing value
+MSV000088842	27B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	27	Q Exactive|MS:1001911	Con	B	Palm	N	missing value
+MSV000088842	27C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	27	Q Exactive|MS:1001911	Con	C	Hand	N	missing value
+MSV000088842	27D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	27	Q Exactive|MS:1001911	Con	D	Palm	N	missing value
+MSV000088842	27E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	27	Q Exactive|MS:1001911	Con	E	Forehead	N	missing value
+MSV000088842	28A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	28	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	28B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	28	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	28C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	28	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	28D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	28	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	28E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	28	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	29B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	29	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	29C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	29	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	29D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	29	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	29E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	29	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	30A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	30	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	30B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	30	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	30C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	30	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	30D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	30	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	31A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	31	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	31B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	31	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	31C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	31	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	31D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	31	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	31E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	31	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	32A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	32	Q Exactive|MS:1001911	Con	A	Hand	N	missing value
+MSV000088842	32B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	32	Q Exactive|MS:1001911	Con	B	Palm	N	missing value
+MSV000088842	32C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	32	Q Exactive|MS:1001911	Con	C	Hand	N	missing value
+MSV000088842	32D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	32	Q Exactive|MS:1001911	Con	D	Palm	N	missing value
+MSV000088842	32E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	32	Q Exactive|MS:1001911	Con	E	Forehead	N	missing value
+MSV000088842	33A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	33	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	33B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	33	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	33C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	33	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	33D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	33	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	33E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	33	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	34A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	34	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	34B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	34	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	34C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	34	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	34D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	34	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	34E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	34	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	35A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	35	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	35B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	35	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	35C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	35	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	35D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	35	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	35E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	35	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	36A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	36	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	36B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	36	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	36C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	36	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	36D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	36	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	36E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	36	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	37A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	37	Q Exactive|MS:1001911	Con	A	Hand	N	missing value
+MSV000088842	37B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	37	Q Exactive|MS:1001911	Con	B	Palm	N	missing value
+MSV000088842	37C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	37	Q Exactive|MS:1001911	Con	C	Hand	N	missing value
+MSV000088842	37D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	37	Q Exactive|MS:1001911	Con	D	Palm	N	missing value
+MSV000088842	37E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	37	Q Exactive|MS:1001911	Con	E	Forehead	N	missing value
+MSV000088842	38A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	38	Q Exactive|MS:1001911	Con	A	Hand	N	missing value
+MSV000088842	38B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	38	Q Exactive|MS:1001911	Con	B	Palm	N	missing value
+MSV000088842	38C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	38	Q Exactive|MS:1001911	Con	C	Hand	N	missing value
+MSV000088842	38D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	38	Q Exactive|MS:1001911	Con	D	Palm	N	missing value
+MSV000088842	38E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	38	Q Exactive|MS:1001911	Con	E	Forehead	N	missing value
+MSV000088842	39A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	39	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	39B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	39	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	39C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	39	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	39D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	39	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	39E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	39	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	40A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	40	Q Exactive|MS:1001911	Exp	A	Hand	N	missing value
+MSV000088842	40B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	40	Q Exactive|MS:1001911	Exp	B	Palm	N	missing value
+MSV000088842	40C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	40	Q Exactive|MS:1001911	Exp	C	Hand	N	missing value
+MSV000088842	40D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	40	Q Exactive|MS:1001911	Exp	D	Palm	N	missing value
+MSV000088842	40E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	40	Q Exactive|MS:1001911	Exp	E	Forehead	N	missing value
+MSV000088842	41A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	41	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	41B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	41	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	41C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	41	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	41D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	41	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	41E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	41	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	42A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	42	Q Exactive|MS:1001911	Con	A	Hand	Y	missing value
+MSV000088842	42B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	42	Q Exactive|MS:1001911	Con	B	Palm	Y	missing value
+MSV000088842	42C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	42	Q Exactive|MS:1001911	Con	C	Hand	Y	missing value
+MSV000088842	42D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	42	Q Exactive|MS:1001911	Con	D	Palm	Y	missing value
+MSV000088842	42E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	42	Q Exactive|MS:1001911	Con	E	Forehead	Y	missing value
+MSV000088842	43A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	43	Q Exactive|MS:1001911	Con	A	Hand	N	missing value
+MSV000088842	43B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	43	Q Exactive|MS:1001911	Con	B	Palm	N	missing value
+MSV000088842	43C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	43	Q Exactive|MS:1001911	Con	C	Hand	N	missing value
+MSV000088842	43D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	43	Q Exactive|MS:1001911	Con	D	Palm	N	missing value
+MSV000088842	43E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	43	Q Exactive|MS:1001911	Con	E	Forehead	N	missing value
+MSV000088842	44A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	44	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	44B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	44	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	44C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	44	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	44D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	44	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	44E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	44	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	45A.mzML	animal	missing value	9606|Homo sapiens	skin of manus	45	Q Exactive|MS:1001911	Exp	A	Hand	Y	missing value
+MSV000088842	45B.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	45	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	45C.mzML	animal	missing value	9606|Homo sapiens	skin of manus	45	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	45D.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	45	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	45E.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	45	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	40A_20211120125419.mzML	animal	missing value	9606|Homo sapiens	skin of manus	46	Q Exactive|MS:1001911	Exp	A	Hand	Y	This is the one on plate 3 that was changed to 46, This was located in Sam's freezer, it says control on the tube but it is experimental. We will change it next time we come into lab on the tubes. But the number is right
+MSV000088842	40B_20211120145407.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	46	Q Exactive|MS:1001911	Exp	B	Palm	Y	missing value
+MSV000088842	40C_20211120171746.mzML	animal	missing value	9606|Homo sapiens	skin of manus	46	Q Exactive|MS:1001911	Exp	C	Hand	Y	missing value
+MSV000088842	40D_20211120191733.mzML	animal	missing value	9606|Homo sapiens	skin of palm of manus	46	Q Exactive|MS:1001911	Exp	D	Palm	Y	missing value
+MSV000088842	40E_20211120211720.mzML	animal	missing value	9606|Homo sapiens	skin of forehead	46	Q Exactive|MS:1001911	Exp	E	Forehead	Y	missing value
+MSV000088842	Blank_01_P1_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_01_P01_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_01_P2_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_01_P3_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_02_P1_no_inj_Presequence.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_02_P3_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_03_P1_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_03_P2_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_03_P3_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_04_P1_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_04_P2_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_04_P3_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_05_P1_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_05_P2_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_05_P3_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_06_P1_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_06_P2_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_06_P3_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_07_P1_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_07_P2_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_07_P3_no_inj_20211120214118.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_07_P3_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_08_P01_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_08_P2_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_08_P3_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_09_P01_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_09_P2_no_inj_End.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_09_P3_no_inj_End.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_10_P1_no_inj.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_11_P1_no_inj_End.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_12_P1_no_inj_End.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_12_P2_no_inj_End.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_A9_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_A12_P1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_A12_P2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_B9_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_B12_P1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_B12_P2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_C9_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_C12_P1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_C12_P2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_D6_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_D9_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_D12_P1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_D12_P2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_E6_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_E9_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_E12_P1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_E12_P2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_F6_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_F9_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_F12_P1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_F12_P2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_G6_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_G9_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_G11_P1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_G11_P2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_H6_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_H8_P3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_H11_P1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	Blank_H11_P2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	blank	blank	blank	missing value	missing value
+MSV000088842	QC_Mix_P01_01.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000088842	QC_Mix_P1_01.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000088842	QC_Mix_P1_02.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000088842	QC_Mix_P1_03_End_of_Plate.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000088842	QC_Mix_P2_01.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000088842	QC_Mix_P2_01_20211120153001.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000088842	QC_Mix_P2_02_End_of_Plate.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value
+MSV000088842	QC_Mix_P3_02_End_of_Plate.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	missing value	missing value	missing value	missing value	missing value

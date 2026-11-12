@@ -1,0 +1,121 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	CellLine	TimePointHoursRelativeToEvent	MassSpectrometer	sample_type	hpe	MOI	CellLine_asrecorded
+MSV000088693	Cell-H0h-1B_P1-C-9_01_8990.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Cell	0	200	RAW264.7
+MSV000088693	Cell-H0h-2B_P1-D-1_01_8991.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Cell	0	200	RAW264.7
+MSV000088693	Cell-H0h-3B_P1-D-2_01_8992.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Cell	0	200	RAW264.7
+MSV000088693	Cell-L-0h-1B_P1-A-6_01_8957.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Cell	0	20	RAW264.7
+MSV000088693	Cell-L-0h-2B_P1-A-7_01_8958.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Cell	0	20	RAW264.7
+MSV000088693	Cell-L-0h-3B_P1-A-8_01_8959.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Cell	0	20	RAW264.7
+MSV000088693	Cell-Raw24h-NoBt-1B_P1-B-3_01_8966.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	24	impact II|MS:1002666	Cell	24	0	RAW264.7
+MSV000088693	Cell-Raw24h-NoBt-2B_P1-B-4_01_8967.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	24	impact II|MS:1002666	Cell	24	0	RAW264.7
+MSV000088693	Cell-Raw24h-NoBt-3B_P1-B-5_01_8968.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	24	impact II|MS:1002666	Cell	24	0	RAW264.7
+MSV000088693	Cell-Raw3h-NoBt-1B_P1-A-9_01_8960.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	3	impact II|MS:1002666	Cell	3	0	RAW264.7
+MSV000088693	Cell-Raw3h-NoBt-2B_P1-B-1_01_8961.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	3	impact II|MS:1002666	Cell	3	0	RAW264.7
+MSV000088693	Cell-Raw3h-NoBt-3B_P1-B-2_01_8962.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	3	impact II|MS:1002666	Cell	3	0	RAW264.7
+MSV000088693	Cell-RawH24h-1B_P1-C-6_01_8987.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Cell	24	200	RAW264.7
+MSV000088693	Cell-RawH24h-2B_P1-C-7_01_8988.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Cell	24	200	RAW264.7
+MSV000088693	Cell-RawH24h-3B_P1-C-8_01_8989.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Cell	24	200	RAW264.7
+MSV000088693	Cell-RawH3h-1B_P1-C-3_01_8978.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Cell	3	200	RAW264.7
+MSV000088693	Cell-RawH3h-2B_P1-C-4_01_8979.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Cell	3	200	RAW264.7
+MSV000088693	Cell-RawH3h-3B_P1-C-5_01_8981.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Cell	3	200	RAW264.7
+MSV000088693	Cell-RawL24h-1B_P1-B-9_01_8975.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Cell	24	20	RAW264.7
+MSV000088693	Cell-RawL24h-2B_P1-C-1_01_8976.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Cell	24	20	RAW264.7
+MSV000088693	Cell-RawL24h-3B_P1-C-2_01_8977.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Cell	24	20	RAW264.7
+MSV000088693	Cell-RawL3h-1B_P1-B-6_01_8969.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Cell	3	20	RAW264.7
+MSV000088693	Cell-RawL3h-2B_P1-B-7_01_8970.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Cell	3	20	RAW264.7
+MSV000088693	Cell-RawL3h-3B_P1-B-8_01_8971.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Cell	3	20	RAW264.7
+MSV000088693	CM-L0h-1B_P1-D-4_01_9001.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Conditioned Media	0	20	RAW264.7
+MSV000088693	CM-L0h-2B_P1-D-5_01_9002.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Conditioned Media	0	20	RAW264.7
+MSV000088693	CM-L0h-3B_P1-D-6_01_9003.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Conditioned Media	0	20	RAW264.7
+MSV000088693	CM-Raw24h-NoBt-1A_P1-E-1_01_9010.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	24	impact II|MS:1002666	Conditioned Media	24	0	RAW264.7
+MSV000088693	CM-Raw24h-NoBt-2A_P1-E-2_01_9011.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	24	impact II|MS:1002666	Conditioned Media	24	0	RAW264.7
+MSV000088693	CM-Raw24h-NoBt-3A_P1-E-3_01_9012.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	24	impact II|MS:1002666	Conditioned Media	24	0	RAW264.7
+MSV000088693	CM-Raw3h-NoBt-1A_P1-D-7_01_9004.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	3	impact II|MS:1002666	Conditioned Media	3	0	RAW264.7
+MSV000088693	CM-Raw3h-NoBt-2A_P1-D-8_01_9005.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	3	impact II|MS:1002666	Conditioned Media	3	0	RAW264.7
+MSV000088693	CM-Raw3h-NoBt-3A_P1-D-9_01_9006.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	RAW 264.7	3	impact II|MS:1002666	Conditioned Media	3	0	RAW264.7
+MSV000088693	CM-RawH0h-1A_P1-A-7_01_9033.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Conditioned Media	0	200	RAW264.7
+MSV000088693	CM-RawH0h-2A_P1-A-8_01_9034.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Conditioned Media	0	200	RAW264.7
+MSV000088693	CM-RawH0h-3A_P1-A-9_01_9035.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	0	impact II|MS:1002666	Conditioned Media	0	200	RAW264.7
+MSV000088693	CM-RawH24h-1A_P1-A-4_01_9030.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Conditioned Media	24	200	RAW264.7
+MSV000088693	CM-RawH24h-2A_P1-A-5_01_9031.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Conditioned Media	24	200	RAW264.7
+MSV000088693	CM-RawH24h-3A_P1-A-6_01_9032.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Conditioned Media	24	200	RAW264.7
+MSV000088693	CM-RawH3h-1A_P1-A-1_01_9024.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Conditioned Media	3	200	RAW264.7
+MSV000088693	CM-RawH3h-2A_P1-A-2_01_9025.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Conditioned Media	3	200	RAW264.7
+MSV000088693	CM-RawH3h-3A_P1-A-3_01_9026.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Conditioned Media	3	200	RAW264.7
+MSV000088693	CM-RawL24h-1A_P1-E-7_01_9021.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Conditioned Media	24	20	RAW264.7
+MSV000088693	CM-RawL24h-2A_P1-E-8_01_9022.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Conditioned Media	24	20	RAW264.7
+MSV000088693	CM-RawL24h-3A_P1-E-9_01_9023.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	24	impact II|MS:1002666	Conditioned Media	24	20	RAW264.7
+MSV000088693	CM-RawL3h-1A_P1-E-4_01_9013.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Conditioned Media	3	20	RAW264.7
+MSV000088693	CM-RawL3h-2A_P1-E-5_01_9014.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Conditioned Media	3	20	RAW264.7
+MSV000088693	CM-RawL3h-3A_P1-E-6_01_9015.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	RAW 264.7	3	impact II|MS:1002666	Conditioned Media	3	20	RAW264.7
+MSV000088693	BTMC1-1_P1-A-6_01_7352.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	missing value	missing value	impact II|MS:1002666	B. thailandensis E264	-	-	-
+MSV000088693	BTMC1-1_P1-A-6_01_7353.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	missing value	missing value	impact II|MS:1002666	B. thailandensis E264	-	-	-
+MSV000088693	BTMC1-1_Tri_P1-A-8_01_7356.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	missing value	missing value	impact II|MS:1002666	B. thailandensis E264	-	-	-
+MSV000088693	BTMC1-1_Tri_P1-A-8_01_7357.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	missing value	missing value	impact II|MS:1002666	B. thailandensis E264	-	-	-
+MSV000088693	BTMC1-2_P1-A-7_01_7354.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	missing value	missing value	impact II|MS:1002666	B. thailandensis E264	-	-	-
+MSV000088693	BTMC1-2_P1-A-7_01_7355.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	missing value	missing value	impact II|MS:1002666	B. thailandensis E264	-	-	-
+MSV000088693	BTMC1-2_Tri_P1-A-9_01_7358.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	missing value	missing value	impact II|MS:1002666	B. thailandensis E264	-	-	-
+MSV000088693	BTMC1-2_Tri_P1-A-9_01_7359.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	missing value	missing value	impact II|MS:1002666	B. thailandensis E264	-	-	-
+MSV000088693	DMEM_P1-A-2_01_8949.mzXML	blank_culturemedia	blank_culturemedia	missing value	missing value	missing value	impact II|MS:1002666	Media Blank	-	-	RAW264.7
+MSV000088693	Petri_1_P1-A-1_01_8948.mzXML	blank_culturemedia	blank_culturemedia	missing value	missing value	missing value	impact II|MS:1002666	Media Blank	-	-	RAW264.7
+MSV000088693	RGM_P1-A-3_01_8950.mzXML	blank_culturemedia	blank_culturemedia	missing value	missing value	missing value	impact II|MS:1002666	Media Blank	-	-	RAW264.7
+MSV000088693	RGMD_P1-A-4_01_8951.mzXML	blank_culturemedia	blank_culturemedia	missing value	missing value	missing value	impact II|MS:1002666	Media Blank	-	-	RAW264.7
+MSV000088693	SOD_Blank1_P1-F-1_01_8946.mzXML	blank_QC	blank_QC	missing value	missing value	missing value	impact II|MS:1002666	Blank	-	-	-
+MSV000088693	SOD_Blank2_P1-F-1_01_8947.mzXML	blank_QC	blank_QC	missing value	missing value	missing value	impact II|MS:1002666	Blank	-	-	-
+MSV000088693	Cell-0hpe-1-pooled_P1-A-7_01_7257.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Cell	0	20	LA-4
+MSV000088693	Cell-0hpe-2-pooled_P1-A-8_01_7258.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Cell	0	20	LA-4
+MSV000088693	Cell-0hpe-31-pooled_P1-D-1_01_7287.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Cell	0	200	LA-4
+MSV000088693	Cell-0hpe-32-pooled_P1-D-2_01_7288.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Cell	0	200	LA-4
+MSV000088693	Cell-0hpe-33-pooled_P1-D-3_01_7289.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Cell	0	200	LA-4
+MSV000088693	Cell-0hpe-3-pooled_P1-A-9_01_7259.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Cell	0	20	LA-4
+MSV000088693	Cell-24hpe-MOI200-19-pooled_P1-C-7_01_7284.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	20	LA-4
+MSV000088693	Cell-24hpe-MOI200-20-pooled_P1-C-8_01_7285.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	20	LA-4
+MSV000088693	Cell-24hpe-MOI200-21+22-MIXED_P1-C-9_01_7286.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	20	LA-4
+MSV000088693	Cell-24hpe-MOI200-23-pooled_SD_P1-A-5_01_7254.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	200	LA-4
+MSV000088693	Cell-24hpe-MOI200-24-pooled_SD_P1-D-4_01_7292.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	200	LA-4
+MSV000088693	Cell-24hpe-MOI20-13-pooled_P1-C-1_01_7275.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	200	LA-4
+MSV000088693	Cell-24hpe-MOI20-14-pooled_P1-C-2_01_7276.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	0	LA-4
+MSV000088693	Cell-24hpe-MOI20-15-pooled_P1-C-3_01_7277.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	0	LA-4
+MSV000088693	Cell-24hpe-NoBt-7-pooled_P1-B-4_01_7266.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	0	LA-4
+MSV000088693	Cell-24hpe-NoBt-8-pooled_P1-B-5_01_7267.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	20	LA-4
+MSV000088693	Cell-24hpe-NoBt-9-pooled_P1-B-6_01_7268.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Cell	24	20	LA-4
+MSV000088693	Cell-3hpe-MOI200-16-pooled_P1-C-4_01_7278.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Cell	3	20	LA-4
+MSV000088693	Cell-3hpe-MOI200-17-pooled_P1-C-5_01_7279.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Cell	3	200	LA-4
+MSV000088693	Cell-3hpe-MOI200-18-pooled_P1-C-6_01_7280.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Cell	3	200	LA-4
+MSV000088693	Cell-3hpe-MOI20-10-pooled_P1-B-7_01_7269.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Cell	3	200	LA-4
+MSV000088693	Cell-3hpe-MOI20-11-pooled_P1-B-8_01_7270.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Cell	3	200	LA-4
+MSV000088693	Cell-3hpe-MOI20-12-pooled_P1-B-9_01_7271.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Cell	3	200	LA-4
+MSV000088693	Cell-3hpe-NoBt-5-pooled_P1-B-2_01_7261.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Cell	3	0	LA-4
+MSV000088693	Cell-3hpe-NoBt-6-pooled_P1-B-3_01_7262.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Cell	3	0	LA-4
+MSV000088693	Cell-3hpe-NotBt-4-pooled_P1-B-1_01_7260.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Cell	3	0	LA-4
+MSV000088693	CM-0hpe-1_P2-A-3_01_7299.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Conditioned Media	0	20	LA-4
+MSV000088693	CM-0hpe-2_P2-A-4_01_7300.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Conditioned Media	0	20	LA-4
+MSV000088693	CM-0hpe-3_P2-A-5_01_7301.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Conditioned Media	0	20	LA-4
+MSV000088693	CM-23_SD_P2-A-1_01_7295.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	20	LA-4
+MSV000088693	CM-24_SD_P2-C-9_01_7334.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	20	LA-4
+MSV000088693	CM-24hpe-MOI200-1_P2-C-3_01_7326.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	20	LA-4
+MSV000088693	CM-24hpe-MOI200-2_P2-C-4_01_7327.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	0	LA-4
+MSV000088693	CM-24hpe-MOI200-3_P2-C-5_01_7328.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	0	LA-4
+MSV000088693	CM-24hpe-MOI20-1_P2-B-6_01_7317.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	0	LA-4
+MSV000088693	CM-24hpe-MOI20-2_P2-B-7_01_7318.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	200	LA-4
+MSV000088693	CM-24hpe-MOI20-3_P2-B-8_01_7319.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	200	LA-4
+MSV000088693	CM-24hpe-NoBt-1_P2-A-9_01_7308.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	20	LA-4
+MSV000088693	CM-24hpe-NoBt-2_P2-B-1_01_7309.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	20	LA-4
+MSV000088693	CM-24hpe-NoBt-3_P2-B-2_01_7310.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	24	impact II|MS:1002666	Conditioned Media	24	20	LA-4
+MSV000088693	CM-31_P2-C-6_01_7329.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Conditioned Media	0	200	LA-4
+MSV000088693	CM-32_P2-C-7_01_7330.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Conditioned Media	0	200	LA-4
+MSV000088693	CM-33_P2-C-8_01_7331.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	0	impact II|MS:1002666	Conditioned Media	0	200	LA-4
+MSV000088693	CM-3hpe-MOI20-1_P2-B-3_01_7311.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Conditioned Media	3	0	LA-4
+MSV000088693	CM-3hpe-MOI20-2_P2-B-4_01_7312.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Conditioned Media	3	0	LA-4
+MSV000088693	CM-3hpe-MOI20-3_P2-B-5_01_7313.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Conditioned Media	3	0	LA-4
+MSV000088693	CM-3hpe-NoBt-1_P2-A-6_01_7302.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Conditioned Media	3	200	LA-4
+MSV000088693	CM-3hpe-NoBt-2_P2-A-7_01_7303.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Conditioned Media	3	200	LA-4
+MSV000088693	CM-3hpe-NoBt-3_P2-A-8_01_7304.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Conditioned Media	3	200	LA-4
+MSV000088693	CMl-3hpe-MOI200-1_P2-B-9_01_7320.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Conditioned Media	3	200	LA-4
+MSV000088693	CMl-3hpe-MOI200-2_P2-C-1_01_7321.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Conditioned Media	3	200	LA-4
+MSV000088693	CMl-3hpe-MOI200-3_P2-C-2_01_7322.mzXML	culture_mammalian	culture_mammalian	10090|Mus musculus||271848|Burkholderia thailandensis E264	LA-4 [Mouse lung adenoma]	3	impact II|MS:1002666	Conditioned Media	3	200	LA-4
+MSV000088693	F-12K_Media_1_P1-A-2_01_7248.mzXML	blank_culturemedia	blank_culturemedia	missing value	missing value	missing value	impact II|MS:1002666	Media Blank	-	-	LA-4
+MSV000088693	Petri_1_P1-A-1_01_7247.mzXML	blank_culturemedia	blank_culturemedia	missing value	missing value	missing value	impact II|MS:1002666	Media Blank	-	-	LA-4
+MSV000088693	SOD_Blank1_P1-F-1_01_7245.mzXML	blank_QC	blank_QC	missing value	missing value	missing value	impact II|MS:1002666	Blank	-	-	missing value
+MSV000088693	SOD_Blank2_P1-F-1_01_7246.mzXML	blank_QC	blank_QC	missing value	missing value	missing value	impact II|MS:1002666	Blank	-	-	missing value
+MSV000088693	AGM_Media_1_P1-A-3_01_7249.mzXML	blank_culturemedia	blank_culturemedia	missing value	missing value	missing value	impact II|MS:1002666	Media Blank	-	-	LA-4
+MSV000088693	AGMD_Media_1_P1-A-4_01_7250.mzXML	blank_culturemedia	blank_culturemedia	missing value	missing value	missing value	impact II|MS:1002666	Media Blank	-	-	LA-4

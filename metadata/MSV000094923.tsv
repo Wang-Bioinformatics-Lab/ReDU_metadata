@@ -1,0 +1,31 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	Exposure	MassSpectrometer	XENOBIOTIC	TIME	GROUPS
+MSV000094923	Imd24_2.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Imidazole	24	Imidazole_24
+MSV000094923	Imd24_1.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Imidazole	24	Imidazole_24
+MSV000094923	Imd24_3.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Imidazole	24	Imidazole_24
+MSV000094923	AS0_1.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to asulam	Q Exactive HF|MS:1002523	Asulam	1	Asulam_1
+MSV000094923	Gly24_3.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to glyphosate	Q Exactive HF|MS:1002523	Glyphosate	24	Glyphosate_24
+MSV000094923	Imd0_3.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Imidazole	1	Imidazole_1
+MSV000094923	Imd0_2.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Imidazole	1	Imidazole_1
+MSV000094923	Gly24_2.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to glyphosate	Q Exactive HF|MS:1002523	Glyphosate	24	Glyphosate_24
+MSV000094923	F24_3.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Fosfomycin	24	Fosfomycin_24
+MSV000094923	F0_3.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Fosfomycin	1	Fosfomycin_1
+MSV000094923	F0_1.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Fosfomycin	1	Fosfomycin_1
+MSV000094923	Imd0_1.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Imidazole	1	Imidazole_1
+MSV000094923	Gly24_1.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to glyphosate	Q Exactive HF|MS:1002523	Glyphosate	24	Glyphosate_24
+MSV000094923	AS0_2.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to asulam	Q Exactive HF|MS:1002523	Asulam	1	Asulam_1
+MSV000094923	F24_2.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Fosfomycin	24	Fosfomycin_24
+MSV000094923	F24_1.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Fosomycin	24	Fosfomycin_24
+MSV000094923	Gly0_1.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to glyphosate	Q Exactive HF|MS:1002523	Glyphosate	1	Glyphosate_1
+MSV000094923	F0_2.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	missing value	Q Exactive HF|MS:1002523	Fosfomycin	1	Fosfomycin_1
+MSV000094923	AS24_3.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to asulam	Q Exactive HF|MS:1002523	Asulam	24	Asulam_24
+MSV000094923	AS24_2.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to asulam	Q Exactive HF|MS:1002523	Asulam	24	Asulam_24
+MSV000094923	AS24_1.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to asulam	Q Exactive HF|MS:1002523	Asulam	24	Asulam_24
+MSV000094923	Gly0_2.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to glyphosate	Q Exactive HF|MS:1002523	Glyphosate	1	Glyphosate_1
+MSV000094923	AS0_3.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to asulam	Q Exactive HF|MS:1002523	Asulam	1	Asulam_1
+MSV000094923	Gly0_3.mzML	culture_bacterial	culture_bacterial	83333|Escherichia coli K-12	exposure to glyphosate	Q Exactive HF|MS:1002523	Glyphosate	1	Glyphosate_1
+MSV000094923	con_1.mzML	missing value	missing value	missing value	missing value	Q Exactive HF|MS:1002523	Control	24	Control_24
+MSV000094923	con_2.mzML	missing value	missing value	missing value	missing value	Q Exactive HF|MS:1002523	Control	24	Control_24
+MSV000094923	con_3.mzML	missing value	missing value	missing value	missing value	Q Exactive HF|MS:1002523	Control	24	Control_24
+MSV000094923	Blank_1.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value
+MSV000094923	Blank_2.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value
+MSV000094923	Blank_3.mzML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value

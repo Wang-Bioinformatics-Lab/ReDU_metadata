@@ -1,0 +1,16 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	Growth_stage_Sample_Type
+MSV000091437	BLANCO 180123_1.mzML	blank_analysis	blank_analysis	missing value	missing value	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Blank
+MSV000091437	BLANCO 180123_2.mzML	blank_analysis	blank_analysis	missing value	missing value	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Blank
+MSV000091437	BLANCO 180123_3.mzML	blank_analysis	blank_analysis	missing value	missing value	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Blank
+MSV000091437	QC 180123_1.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	QC
+MSV000091437	QC 180123_2.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	QC
+MSV000091437	QC 180123_3.mzML	pool_QC	pool_QC	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	QC
+MSV000091437	AETOH 180123_1.mzML	plant	plant_angiospermae	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Adults
+MSV000091437	AETOH 180123_2.mzML	plant	plant_angiospermae	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Adults
+MSV000091437	AETOH 180123_3.mzML	plant	plant_angiospermae	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Adults
+MSV000091437	JETOH 180123_1.mzML	plant	plant_angiospermae	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Juveniles
+MSV000091437	JETOH 180123_2.mzML	plant	plant_angiospermae	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Juveniles
+MSV000091437	JETOH 180123_3.mzML	plant	plant_angiospermae	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Juveniles
+MSV000091437	PMEOH 180123_1.mzML	plant	plant_angiospermae	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Plantules
+MSV000091437	PMEOH 180123_2.mzML	plant	plant_angiospermae	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Plantules
+MSV000091437	PMEOH 180123_3.mzML	plant	plant_angiospermae	487141|Urospatha sagittifolia	tuber	GCMS-QP2020NX|MS:1003572	electron ionization	gas chromatography (NOS)	Plantules

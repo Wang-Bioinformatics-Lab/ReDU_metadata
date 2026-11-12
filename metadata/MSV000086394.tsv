@@ -1,0 +1,21 @@
+MassiveID	filename	SampleType	SampleTypeSub1	MassSpectrometer	ChromatographyAndPhase	Polarity	Sample_Name	Sample_Description	Converted_File_Folder
+MSV000086394	AK_AD_180801_s02.mzML	blank_analysis	blank_analysis	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	blank	missing value	Blank_mzml
+MSV000086394	AK_AD_180801_s03.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	C1-071318	control 1 week 1	Control_MMC_mzml
+MSV000086394	AK_AD_180801_s04.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	C2-071318	control 2 week 1	Control_MMC_mzml
+MSV000086394	AK_AD_180801_s05.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	C3-071318	control 3 week 1	Control_MMC_mzml
+MSV000086394	AK_AD_180801_s06.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	WG1-071318	wheatgrass 1 week 1	Wheatgrass_MMC_mzml
+MSV000086394	AK_AD_180801_s07.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	WG2-071318	wheatgrass 2 week 1	Wheatgrass_MMC_mzml
+MSV000086394	AK_AD_180801_s08.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	WG3-071318	wheatgrass 3 week 1	Wheatgrass_MMC_mzml
+MSV000086394	AK_AD_180801_s15.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	C1-072018	control 1 week 2	Control_MMC_mzml
+MSV000086394	AK_AD_180801_s16.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	C2-072018	control 2 week 2	Control_MMC_mzml
+MSV000086394	AK_AD_180801_s17.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	C3-072018	control 3 week 2	Control_MMC_mzml
+MSV000086394	AK_AD_180801_s18.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	WG1-072018	wheatgrass 1 week 2	Wheatgrass_MMC_mzml
+MSV000086394	AK_AD_180801_s19.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	WG2-072018	wheatgrass 2 week 2	Wheatgrass_MMC_mzml
+MSV000086394	AK_AD_180801_s20.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	WG3-072018	wheatgrass 3 week 2	Wheatgrass_MMC_mzml
+MSV000086394	AK_AD_180807_s01.mzML	blank_analysis	blank_analysis	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	blank	missing value	Blank_mzml
+MSV000086394	AK_AD_180807_s02.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	C1-072718	control 1 week 3	Control_MMC_mzml
+MSV000086394	AK_AD_180807_s03.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	C2-072718	control 2 week 3	Control_MMC_mzml
+MSV000086394	AK_AD_180807_s04.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	C3-072718	control 3 week 3	Control_MMC_mzml
+MSV000086394	AK_AD_180807_s05.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	WG1-072718	wheatgrass 1 week 3	Wheatgrass_MMC_mzml
+MSV000086394	AK_AD_180807_s06.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	WG2-072718	wheatgrass 2 week 3	Wheatgrass_MMC_mzml
+MSV000086394	AK_AD_180807_s07.mzML	culture_multiplespecies	culture_multiplespecies	6550 iFunnel Q-TOF LC/MS|MS:1002783	reverse phase (C18)	positive	WG3-072718	wheatgrass 3 week 3	Wheatgrass_MMC_mzml

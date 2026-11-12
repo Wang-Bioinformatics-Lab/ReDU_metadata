@@ -1,0 +1,17 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	Exposure	Growth	Media	NAG_added
+MSV000086628	13_0_M_Control_MYM_B1_Neg.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	electrospray ionization (negative)	missing value	Control	MYM	N
+MSV000086628	14_3_spec_M_SAMPLE_WT_MYM_7_B2_Neg.mzML	culture_bacterial	culture_bacterial	1851167|Streptomyces sp. 11-1-2	Q Exactive|MS:1001911	electrospray ionization (negative)	missing value	Inoculated	MYM	N
+MSV000086628	15_0_M_Control_YMS_B3_Neg.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	electrospray ionization (negative)	missing value	Control	YMS	N
+MSV000086628	16_3_spec_M_SAMPLE_WT_YMS_7_B4_Neg.mzML	culture_bacterial	culture_bacterial	1851167|Streptomyces sp. 11-1-2	Q Exactive|MS:1001911	electrospray ionization (negative)	missing value	Inoculated	YMS	N
+MSV000086628	17_0_M_Control_MYM_B5_Neg.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	electrospray ionization (negative)	exposure to N-acetylglucosamine	Control	MYM	Y
+MSV000086628	18_3_spec_M_SAMPLE_WT_MYM_7_B6_Neg.mzML	culture_bacterial	culture_bacterial	1851167|Streptomyces sp. 11-1-2	Q Exactive|MS:1001911	electrospray ionization (negative)	exposure to N-acetylglucosamine	Inoculated	MYM	Y
+MSV000086628	19_0_M_Control_YMS_B7_Neg.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	electrospray ionization (negative)	exposure to N-acetylglucosamine	Control	YMS	Y
+MSV000086628	20_3_spec_M_SAMPLE_WT_YMS_7_B8_Neg.mzML	culture_bacterial	culture_bacterial	1851167|Streptomyces sp. 11-1-2	Q Exactive|MS:1001911	electrospray ionization (negative)	exposure to N-acetylglucosamine	Inoculated	YMS	Y
+MSV000086628	13_0_M_Control_MYM_B1.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	missing value	Control	MYM	N
+MSV000086628	14_3_spec_M_SAMPLE_WT_MYM_7_B2.mzML	culture_bacterial	culture_bacterial	1851167|Streptomyces sp. 11-1-2	Q Exactive|MS:1001911	electrospray ionization (positive)	missing value	Inoculated	MYM	N
+MSV000086628	15_0_M_Control_YMS_B3.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	missing value	Control	YMS	N
+MSV000086628	16_3_spec_M_SAMPLE_WT_YMS_7_B4.mzML	culture_bacterial	culture_bacterial	1851167|Streptomyces sp. 11-1-2	Q Exactive|MS:1001911	electrospray ionization (positive)	missing value	Inoculated	YMS	N
+MSV000086628	17_0_M_Control_MYM_B5.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	exposure to N-acetylglucosamine	Control	MYM	Y
+MSV000086628	18_3_spec_M_SAMPLE_WT_MYM_7_B6.mzML	culture_bacterial	culture_bacterial	1851167|Streptomyces sp. 11-1-2	Q Exactive|MS:1001911	electrospray ionization (positive)	exposure to N-acetylglucosamine	Inoculated	MYM	Y
+MSV000086628	19_0_M_Control_YMS_B7.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	exposure to N-acetylglucosamine	Control	YMS	Y
+MSV000086628	20_3_spec_M_SAMPLE_WT_YMS_7_B8.mzML	culture_bacterial	culture_bacterial	1851167|Streptomyces sp. 11-1-2	Q Exactive|MS:1001911	electrospray ionization (positive)	exposure to N-acetylglucosamine	Inoculated	YMS	Y

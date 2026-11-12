@@ -1,0 +1,169 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	Exposure	TimePointHoursRelativeToEvent	SampleType_as_recorded	DayOfExperiment	MSMSpolarity	PhaseOfExperiment
+MSV000085847	1_D0_M_A1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	0	SAMPLE	D0	POS	Naive
+MSV000085847	2_D0_M_A2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	0	SAMPLE	D0	POS	Naive
+MSV000085847	3_D0_M_A3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	0	SAMPLE	D0	POS	Naive
+MSV000085847	4_D0_M_B1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	0	SAMPLE	D0	POS	Naive
+MSV000085847	5_D0_M_B2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	0	SAMPLE	D0	POS	Naive
+MSV000085847	6_D0_M_B3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	0	SAMPLE	D0	POS	Naive
+MSV000085847	7_D0_M_C1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	0	SAMPLE	D0	POS	Naive
+MSV000085847	8_D0_M_C2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	0	SAMPLE	D0	POS	Naive
+MSV000085847	9_D0_M_C3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	0	SAMPLE	D0	POS	Naive
+MSV000085847	10_D5_M_A1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	120	SAMPLE	D5	POS	Naive
+MSV000085847	11_D5_M_A2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	120	SAMPLE	D5	POS	Naive
+MSV000085847	12_D5_M_A3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	120	SAMPLE	D5	POS	Naive
+MSV000085847	13_D5_M_B1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	120	SAMPLE	D5	POS	Naive
+MSV000085847	14_D5_M_B2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	120	SAMPLE	D5	POS	Naive
+MSV000085847	15_D5_M_B3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	120	SAMPLE	D5	POS	Naive
+MSV000085847	16_D5_M_C1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	120	SAMPLE	D5	POS	Naive
+MSV000085847	17_D5_M_C2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	120	SAMPLE	D5	POS	Naive
+MSV000085847	18_D5_M_C3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	120	SAMPLE	D5	POS	Naive
+MSV000085847	19_D6_M_A1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	144	SAMPLE	D6	POS	Antibiotic_treatment
+MSV000085847	20_D6_M_A2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	144	SAMPLE	D6	POS	Antibiotic_treatment
+MSV000085847	21_D6_M_A3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	144	SAMPLE	D6	POS	Antibiotic_treatment
+MSV000085847	22_D6_M_B1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	144	SAMPLE	D6	POS	Antibiotic_treatment
+MSV000085847	23_D6_M_B2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	144	SAMPLE	D6	POS	Antibiotic_treatment
+MSV000085847	24_D6_M_B3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	144	SAMPLE	D6	POS	Antibiotic_treatment
+MSV000085847	25_D6_M_C1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	144	SAMPLE	D6	POS	Antibiotic_treatment
+MSV000085847	26_D6_M_C2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	144	SAMPLE	D6	POS	Antibiotic_treatment
+MSV000085847	27_D6_M_C3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	144	SAMPLE	D6	POS	Antibiotic_treatment
+MSV000085847	28_D7_M_A1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	168	SAMPLE	D7	POS	Antibiotic_treatment
+MSV000085847	29_D7_M_A2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	168	SAMPLE	D7	POS	Antibiotic_treatment
+MSV000085847	30_D7_M_A3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	168	SAMPLE	D7	POS	Antibiotic_treatment
+MSV000085847	31_D7_M_B1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	168	SAMPLE	D7	POS	Antibiotic_treatment
+MSV000085847	32_D7_M_B2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	168	SAMPLE	D7	POS	Antibiotic_treatment
+MSV000085847	33_D7_M_B3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	168	SAMPLE	D7	POS	Antibiotic_treatment
+MSV000085847	34_D7_M_C1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	168	SAMPLE	D7	POS	Antibiotic_treatment
+MSV000085847	35_D7_M_C2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	168	SAMPLE	D7	POS	Antibiotic_treatment
+MSV000085847	36_D7_M_C3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to ceftriaxone	168	SAMPLE	D7	POS	Antibiotic_treatment
+MSV000085847	37_D8_M_A1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	192	SAMPLE	D8	POS	Antibiotic_wean
+MSV000085847	38_D8_M_A2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	192	SAMPLE	D8	POS	Antibiotic_wean
+MSV000085847	39_D8_M_A3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	192	SAMPLE	D8	POS	Antibiotic_wean
+MSV000085847	40_D8_M_B1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	192	SAMPLE	D8	POS	Antibiotic_wean
+MSV000085847	41_D8_M_B2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	192	SAMPLE	D8	POS	Antibiotic_wean
+MSV000085847	42_D8_M_B3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	192	SAMPLE	D8	POS	Antibiotic_wean
+MSV000085847	43_D8_M_C1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	192	SAMPLE	D8	POS	Antibiotic_wean
+MSV000085847	44_D8_M_C2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	192	SAMPLE	D8	POS	Antibiotic_wean
+MSV000085847	45_D8_M_C3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	192	SAMPLE	D8	POS	Antibiotic_wean
+MSV000085847	46_D9_M_A1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	216	SAMPLE	D9	POS	VRE_colonisation_early
+MSV000085847	47_D9_M_A2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	216	SAMPLE	D9	POS	VRE_colonisation_early
+MSV000085847	48_D9_M_A3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	216	SAMPLE	D9	POS	VRE_colonisation_early
+MSV000085847	49_D9_M_B1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	216	SAMPLE	D9	POS	VRE_colonisation_early
+MSV000085847	50_D9_M_B2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	216	SAMPLE	D9	POS	VRE_colonisation_early
+MSV000085847	51_D9_M_B3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	216	SAMPLE	D9	POS	VRE_colonisation_early
+MSV000085847	52_D9_M_C1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	216	SAMPLE	D9	POS	VRE_colonisation_early
+MSV000085847	53_D9_M_C2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	216	SAMPLE	D9	POS	VRE_colonisation_early
+MSV000085847	54_D9_M_C3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	216	SAMPLE	D9	POS	VRE_colonisation_early
+MSV000085847	55_D14_M_A1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	336	SAMPLE	D14	POS	VRE_colonisation_late
+MSV000085847	56_D14_M_A2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	336	SAMPLE	D14	POS	VRE_colonisation_late
+MSV000085847	57_D14_M_A3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	336	SAMPLE	D14	POS	VRE_colonisation_late
+MSV000085847	58_D14_M_B1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	336	SAMPLE	D14	POS	VRE_colonisation_late
+MSV000085847	59_D14_M_B2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	336	SAMPLE	D14	POS	VRE_colonisation_late
+MSV000085847	60_D14_M_B3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	336	SAMPLE	D14	POS	VRE_colonisation_late
+MSV000085847	61_D14_M_C1_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	336	SAMPLE	D14	POS	VRE_colonisation_late
+MSV000085847	62_D14_M_C2_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	336	SAMPLE	D14	POS	VRE_colonisation_late
+MSV000085847	63_D14_M_C3_MSMS_Pos.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (positive)	exposure to Enterococcus faecium	336	SAMPLE	D14	POS	VRE_colonisation_late
+MSV000085847	1_D0_M_A1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	0	SAMPLE	D0	NEG	Naive
+MSV000085847	2_D0_M_A2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	0	SAMPLE	D0	NEG	Naive
+MSV000085847	3_D0_M_A3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	0	SAMPLE	D0	NEG	Naive
+MSV000085847	4_D0_M_B1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	0	SAMPLE	D0	NEG	Naive
+MSV000085847	5_D0_M_B2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	0	SAMPLE	D0	NEG	Naive
+MSV000085847	6_D0_M_B3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	0	SAMPLE	D0	NEG	Naive
+MSV000085847	7_D0_M_C1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	0	SAMPLE	D0	NEG	Naive
+MSV000085847	8_D0_M_C2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	0	SAMPLE	D0	NEG	Naive
+MSV000085847	9_D0_M_C3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	0	SAMPLE	D0	NEG	Naive
+MSV000085847	10_D5_M_A1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	120	SAMPLE	D5	NEG	Naive
+MSV000085847	11_D5_M_A2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	120	SAMPLE	D5	NEG	Naive
+MSV000085847	12_D5_M_A3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	120	SAMPLE	D5	NEG	Naive
+MSV000085847	13_D5_M_B1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	120	SAMPLE	D5	NEG	Naive
+MSV000085847	14_D5_M_B2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	120	SAMPLE	D5	NEG	Naive
+MSV000085847	15_D5_M_B3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	120	SAMPLE	D5	NEG	Naive
+MSV000085847	16_D5_M_C1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	120	SAMPLE	D5	NEG	Naive
+MSV000085847	17_D5_M_C2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	120	SAMPLE	D5	NEG	Naive
+MSV000085847	18_D5_M_C3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	120	SAMPLE	D5	NEG	Naive
+MSV000085847	19_D6_M_A1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	144	SAMPLE	D6	NEG	Antibiotic_treatment
+MSV000085847	20_D6_M_A2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	144	SAMPLE	D6	NEG	Antibiotic_treatment
+MSV000085847	21_D6_M_A3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	144	SAMPLE	D6	NEG	Antibiotic_treatment
+MSV000085847	23_D6_M_B2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	144	SAMPLE	D6	NEG	Antibiotic_treatment
+MSV000085847	24_D6_M_B3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	144	SAMPLE	D6	NEG	Antibiotic_treatment
+MSV000085847	25_D6_M_C1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	144	SAMPLE	D6	NEG	Antibiotic_treatment
+MSV000085847	26_D6_M_C2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	144	SAMPLE	D6	NEG	Antibiotic_treatment
+MSV000085847	27_D6_M_C3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	144	SAMPLE	D6	NEG	Antibiotic_treatment
+MSV000085847	28_D7_M_A1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	168	SAMPLE	D7	NEG	Antibiotic_treatment
+MSV000085847	29_D7_M_A2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	168	SAMPLE	D7	NEG	Antibiotic_treatment
+MSV000085847	30_D7_M_A3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	168	SAMPLE	D7	NEG	Antibiotic_treatment
+MSV000085847	31_D7_M_B1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	168	SAMPLE	D7	NEG	Antibiotic_treatment
+MSV000085847	32_D7_M_B2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	168	SAMPLE	D7	NEG	Antibiotic_treatment
+MSV000085847	33_D7_M_B3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	168	SAMPLE	D7	NEG	Antibiotic_treatment
+MSV000085847	34_D7_M_C1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	168	SAMPLE	D7	NEG	Antibiotic_treatment
+MSV000085847	35_D7_M_C2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	168	SAMPLE	D7	NEG	Antibiotic_treatment
+MSV000085847	36_D7_M_C3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to ceftriaxone	168	SAMPLE	D7	NEG	Antibiotic_treatment
+MSV000085847	37_D8_M_A1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	192	SAMPLE	D8	NEG	Antibiotic_wean
+MSV000085847	38_D8_M_A2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	192	SAMPLE	D8	NEG	Antibiotic_wean
+MSV000085847	39_D8_M_A3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	192	SAMPLE	D8	NEG	Antibiotic_wean
+MSV000085847	40_D8_M_B1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	192	SAMPLE	D8	NEG	Antibiotic_wean
+MSV000085847	41_D8_M_B2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	192	SAMPLE	D8	NEG	Antibiotic_wean
+MSV000085847	42_D8_M_B3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	192	SAMPLE	D8	NEG	Antibiotic_wean
+MSV000085847	43_D8_M_C1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	192	SAMPLE	D8	NEG	Antibiotic_wean
+MSV000085847	44_D8_M_C2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	192	SAMPLE	D8	NEG	Antibiotic_wean
+MSV000085847	45_D8_M_C3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	missing value	192	SAMPLE	D8	NEG	Antibiotic_wean
+MSV000085847	46_D9_M_A1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	216	SAMPLE	D9	NEG	VRE_colonisation_early
+MSV000085847	47_D9_M_A2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	216	SAMPLE	D9	NEG	VRE_colonisation_early
+MSV000085847	48_D9_M_A3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	216	SAMPLE	D9	NEG	VRE_colonisation_early
+MSV000085847	49_D9_M_B1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	216	SAMPLE	D9	NEG	VRE_colonisation_early
+MSV000085847	50_D9_M_B2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	216	SAMPLE	D9	NEG	VRE_colonisation_early
+MSV000085847	51_D9_M_B3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	216	SAMPLE	D9	NEG	VRE_colonisation_early
+MSV000085847	52_D9_M_C1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	216	SAMPLE	D9	NEG	VRE_colonisation_early
+MSV000085847	53_D9_M_C2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	216	SAMPLE	D9	NEG	VRE_colonisation_early
+MSV000085847	54_D9_M_C3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	216	SAMPLE	D9	NEG	VRE_colonisation_early
+MSV000085847	55_D14_M_A1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	336	SAMPLE	D14	NEG	VRE_colonisation_late
+MSV000085847	56_D14_M_A2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	336	SAMPLE	D14	NEG	VRE_colonisation_late
+MSV000085847	57_D14_M_A3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	336	SAMPLE	D14	NEG	VRE_colonisation_late
+MSV000085847	58_D14_M_B1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	336	SAMPLE	D14	NEG	VRE_colonisation_late
+MSV000085847	59_D14_M_B2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	336	SAMPLE	D14	NEG	VRE_colonisation_late
+MSV000085847	60_D14_M_B3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	336	SAMPLE	D14	NEG	VRE_colonisation_late
+MSV000085847	61_D14_M_C1_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	336	SAMPLE	D14	NEG	VRE_colonisation_late
+MSV000085847	62_D14_M_C2_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	336	SAMPLE	D14	NEG	VRE_colonisation_late
+MSV000085847	63_D14_M_C3_MSMS_Neg.mzML	animal	missing value	10090|Mus musculus	missing value	electrospray ionization (negative)	exposure to Enterococcus faecium	336	SAMPLE	D14	NEG	VRE_colonisation_late
+MSV000085847	64_StdMix_1_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	65_StdMix_2_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	66_StdMix_3_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	67_StdMix_4_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	68_StdMix_5_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	69_StdMix_6_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	70_StdMix_7_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	71_StdMix_8_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	72_StdMix_9_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	73_StdMix_10_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	74_StdMix_11_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	75_StdMix_12_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	76_StdMix_13_Pos.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (positive)	missing value	missing value	STANDARD	STANDARD	POS	STANDARD
+MSV000085847	64_StdMix_1_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	65_StdMix_2_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	66_StdMix_3_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	67_StdMix_4_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	68_StdMix_5_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	69_StdMix_6_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	70_StdMix_7_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	71_StdMix_8_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	72_StdMix_9_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	73_StdMix_10_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	74_StdMix_11_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	75_StdMix_12_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	76_StdMix_13_Neg.mzML	molecular_standards	defined_standards	missing value	missing value	electrospray ionization (negative)	missing value	missing value	STANDARD	STANDARD	NEG	STANDARD
+MSV000085847	PBQC 1_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 2_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 3_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 4_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 5_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 6_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 7_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 8_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 9_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 11_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 12_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 13_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 14_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 15_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 16_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 17_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC
+MSV000085847	PBQC 18_FS_Pos.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	electrospray ionization (positive)	missing value	missing value	POOLEDbioQC	POOLEDbioQC	POS	POOLEDbioQC

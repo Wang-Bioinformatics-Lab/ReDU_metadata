@@ -1,0 +1,25 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	SubjectIdentifierAsRecorded	UBERONBodyPartName	sample_name
+MSV000080963	Person4_Blood1_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	blood	Person4_Blood1
+MSV000080963	Person4_Blood1_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	blood	Person4_Blood1
+MSV000080963	Person4_Blood2_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	blood	Person4_Blood2
+MSV000080963	Person4_Blood2_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	blood	Person4_Blood2
+MSV000080963	Person4_Blood3_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	blood	Person4_Blood3
+MSV000080963	Person4_Blood3_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	blood	Person4_Blood3
+MSV000080963	Person4_Blood4_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	blood	Person4_Blood4
+MSV000080963	Person4_Blood4_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	blood	Person4_Blood4
+MSV000080963	Person4_Plasma1_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	blood plasma	Person4_Plasma1
+MSV000080963	Person4_Plasma1_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	blood plasma	Person4_Plasma1
+MSV000080963	Person4_Plasma2_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	blood plasma	Person4_Plasma2
+MSV000080963	Person4_Plasma2_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	blood plasma	Person4_Plasma2
+MSV000080963	Person4_Plasma3_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	blood plasma	Person4_Plasma3
+MSV000080963	Person4_Plasma3_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	blood plasma	Person4_Plasma3
+MSV000080963	Person4_Plasma4_NEG.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	blood plasma	Person4_Plasma4
+MSV000080963	Person4_Plasma4_POS.mzML	animal	biofluid	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	blood plasma	Person4_Plasma4
+MSV000080963	Person4_RBC1_NEG.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	erythrocyte	Person4_RBC1
+MSV000080963	Person4_RBC1_POS.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	erythrocyte	Person4_RBC1
+MSV000080963	Person4_RBC2_NEG.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	erythrocyte	Person4_RBC2
+MSV000080963	Person4_RBC2_POS.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	erythrocyte	Person4_RBC2
+MSV000080963	Person4_RBC3_NEG.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	erythrocyte	Person4_RBC3
+MSV000080963	Person4_RBC3_POS.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	erythrocyte	Person4_RBC3
+MSV000080963	Person4_RBC4_NEG.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (negative)	normal phase (HILIC)	Person4	erythrocyte	Person4_RBC4
+MSV000080963	Person4_RBC4_POS.mzML	animal	missing value	9606|Homo sapiens	2014	LTQ Orbitrap Classic|MS:1002835	electrospray ionization (positive)	normal phase (HILIC)	Person4	erythrocyte	Person4_RBC4

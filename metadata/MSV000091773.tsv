@@ -1,0 +1,182 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	SubjectIdentifierAsRecorded	LatitudeandLongitude	MassSpectrometer	Individual	Species	Family
+MSV000091773	MV00418_SALIAC.mzXML	plant	plant_angiospermae	1233969|Salix acutifolia	ACU01	49.044351|17.422843	Q Exactive|MS:1001911	ACU01	Salix acutifolia	Salicaceae
+MSV000091773	MV00361_SALIAC.mzXML	plant	plant_angiospermae	1233969|Salix acutifolia	ACU02	49.044364|17.422693	Q Exactive|MS:1001911	ACU02	Salix acutifolia	Salicaceae
+MSV000091773	MV00348_SALIAC.mzXML	plant	plant_angiospermae	1233969|Salix acutifolia	ACU03	49.042503|17.425479	Q Exactive|MS:1001911	ACU03	Salix acutifolia	Salicaceae
+MSV000091773	MV00388_SALIAC.mzXML	plant	plant_angiospermae	1233969|Salix acutifolia	ACU04	49.042509|17.425343	Q Exactive|MS:1001911	ACU04	Salix acutifolia	Salicaceae
+MSV000091773	MV00288_SALIAL.mzXML	plant	plant_angiospermae	75704|Salix alba	ALB02	50.126008|15.118631	Q Exactive|MS:1001911	ALB02	Salix alba	Salicaceae
+MSV000091773	MV00401_SALIAL.mzXML	plant	plant_angiospermae	75704|Salix alba	ALB04	50.121047|15.180939	Q Exactive|MS:1001911	ALB04	Salix alba	Salicaceae
+MSV000091773	MV00370_SALIAL.mzXML	plant	plant_angiospermae	75704|Salix alba	ALB08	50.121103|15.178494	Q Exactive|MS:1001911	ALB08	Salix alba	Salicaceae
+MSV000091773	MV00384_SALIAL.mzXML	plant	plant_angiospermae	75704|Salix alba	ALB10	50.103684|15.153742	Q Exactive|MS:1001911	ALB10	Salix alba	Salicaceae
+MSV000091773	MV00357_SALIAL.mzXML	plant	plant_angiospermae	75704|Salix alba	ALB13	50.119406|15.182917	Q Exactive|MS:1001911	ALB13	Salix alba	Salicaceae
+MSV000091773	MV00400_SALIAU.mzXML	plant	plant_angiospermae	470270|Salix aurita	AUR01	48.950317|14.595617	Q Exactive|MS:1001911	AUR01	Salix aurita	Salicaceae
+MSV000091773	MV00402_SALIAU.mzXML	plant	plant_angiospermae	470270|Salix aurita	AUR02	48.950117|14.595850	Q Exactive|MS:1001911	AUR02	Salix aurita	Salicaceae
+MSV000091773	MV00336_SALIAU.mzXML	plant	plant_angiospermae	470270|Salix aurita	AUR03	48.949933|14.595550	Q Exactive|MS:1001911	AUR03	Salix aurita	Salicaceae
+MSV000091773	MV00362_SALIAU.mzXML	plant	plant_angiospermae	470270|Salix aurita	AUR04	48.866633|14.440150	Q Exactive|MS:1001911	AUR04	Salix aurita	Salicaceae
+MSV000091773	MV00373_SALIAU.mzXML	plant	plant_angiospermae	470270|Salix aurita	AUR05	48.866350|14.437883	Q Exactive|MS:1001911	AUR05	Salix aurita	Salicaceae
+MSV000091773	MV00343_SALIBI.mzXML	plant	plant_angiospermae	1533359|Salix bicolor	BIC01	46.977778|13.773056	Q Exactive|MS:1001911	BIC01	Salix bicolor	Salicaceae
+MSV000091773	MV00377_SALIBI.mzXML	plant	plant_angiospermae	1533359|Salix bicolor	BIC02	46.977667|13.773000	Q Exactive|MS:1001911	BIC02	Salix bicolor	Salicaceae
+MSV000091773	MV00303_SALIBI.mzXML	plant	plant_angiospermae	1533359|Salix bicolor	BIC03	46.977611|13.772917	Q Exactive|MS:1001911	BIC03	Salix bicolor	Salicaceae
+MSV000091773	MV00328_SALIBI.mzXML	plant	plant_angiospermae	1533359|Salix bicolor	BIC04	46.977472|13.772472	Q Exactive|MS:1001911	BIC04	Salix bicolor	Salicaceae
+MSV000091773	MV00404_SALIBI.mzXML	plant	plant_angiospermae	1533359|Salix bicolor	BIC05	46.977250|13.772111	Q Exactive|MS:1001911	BIC05	Salix bicolor	Salicaceae
+MSV000091773	MV00282_SALIBR.mzXML	plant	plant_angiospermae	1533360|Salix breviserrata	BRE07	46.980861|13.766167	Q Exactive|MS:1001911	BRE07	Salix breviserrata	Salicaceae
+MSV000091773	MV00320_SALIBR.mzXML	plant	plant_angiospermae	1533360|Salix breviserrata	BRE08	46.981361|13.764694	Q Exactive|MS:1001911	BRE08	Salix breviserrata	Salicaceae
+MSV000091773	MV00347_SALIBR.mzXML	plant	plant_angiospermae	1533360|Salix breviserrata	BRE09	46.980667|13.767028	Q Exactive|MS:1001911	BRE09	Salix breviserrata	Salicaceae
+MSV000091773	MV00374_SALIBR.mzXML	plant	plant_angiospermae	1533360|Salix breviserrata	BRE15	47.063064|12.764908	Q Exactive|MS:1001911	BRE15	Salix breviserrata	Salicaceae
+MSV000091773	MV00324_SALIBR.mzXML	plant	plant_angiospermae	1533360|Salix breviserrata	BRE16	47.063622|12.764756	Q Exactive|MS:1001911	BRE16	Salix breviserrata	Salicaceae
+MSV000091773	MV00420_SALIC2.mzXML	plant	plant_angiospermae	470572|Salix caesia	CAE01	46.859675|10.507939	Q Exactive|MS:1001911	CAE01	Salix caesia	Salicaceae
+MSV000091773	MV00378_SALIC2.mzXML	plant	plant_angiospermae	470572|Salix caesia	CAE02	46.859833|10.508500	Q Exactive|MS:1001911	CAE02	Salix caesia	Salicaceae
+MSV000091773	MV00338_SALIC2.mzXML	plant	plant_angiospermae	470572|Salix caesia	CAE03	46.859389|10.508500	Q Exactive|MS:1001911	CAE03	Salix caesia	Salicaceae
+MSV000091773	MV00305_SALIC2.mzXML	plant	plant_angiospermae	470572|Salix caesia	CAE06	46.956000|12.966278	Q Exactive|MS:1001911	CAE06	Salix caesia	Salicaceae
+MSV000091773	MV00312_SALIC2.mzXML	plant	plant_angiospermae	470572|Salix caesia	CAE07	46.956333|12.966028	Q Exactive|MS:1001911	CAE07	Salix caesia	Salicaceae
+MSV000091773	MV00332_SALICA.mzXML	plant	plant_angiospermae	172267|Salix caprea	CAP01	48.860417|14.432583	Q Exactive|MS:1001911	CAP01	Salix caprea	Salicaceae
+MSV000091773	MV00369_SALICA.mzXML	plant	plant_angiospermae	172267|Salix caprea	CAP02	48.863417|14.436500	Q Exactive|MS:1001911	CAP02	Salix caprea	Salicaceae
+MSV000091773	MV00358_SALICA.mzXML	plant	plant_angiospermae	172267|Salix caprea	CAP03	48.863533|14.436600	Q Exactive|MS:1001911	CAP03	Salix caprea	Salicaceae
+MSV000091773	MV00281_SALICA.mzXML	plant	plant_angiospermae	172267|Salix caprea	CAP04	48.989417|14.441050	Q Exactive|MS:1001911	CAP04	Salix caprea	Salicaceae
+MSV000091773	MV00405_SALICA.mzXML	plant	plant_angiospermae	172267|Salix caprea	CAP05	48.989283|14.441800	Q Exactive|MS:1001911	CAP05	Salix caprea	Salicaceae
+MSV000091773	MV00289_SALICI.mzXML	plant	plant_angiospermae	470278|Salix cinerea	CIN01	48.866000|14.440550	Q Exactive|MS:1001911	CIN01	Salix cinerea	Salicaceae
+MSV000091773	MV00387_SALICI.mzXML	plant	plant_angiospermae	470278|Salix cinerea	CIN02	48.865950|14.440667	Q Exactive|MS:1001911	CIN02	Salix cinerea	Salicaceae
+MSV000091773	MV00292_SALICI.mzXML	plant	plant_angiospermae	470278|Salix cinerea	CIN03	48.865867|14.440683	Q Exactive|MS:1001911	CIN03	Salix cinerea	Salicaceae
+MSV000091773	MV00287_SALICI.mzXML	plant	plant_angiospermae	470278|Salix cinerea	CIN04	48.974067|14.434583	Q Exactive|MS:1001911	CIN04	Salix cinerea	Salicaceae
+MSV000091773	MV00389_SALICI.mzXML	plant	plant_angiospermae	470278|Salix cinerea	CIN05	48.996633|14.439650	Q Exactive|MS:1001911	CIN05	Salix cinerea	Salicaceae
+MSV000091773	MV00316_SALIDA.mzXML	plant	plant_angiospermae	470274|Salix daphnoides	DAP01	49.626514|18.710483	Q Exactive|MS:1001911	DAP01	Salix daphnoides	Salicaceae
+MSV000091773	MV00283_SALIDA.mzXML	plant	plant_angiospermae	470274|Salix daphnoides	DAP06	49.670367|18.378275	Q Exactive|MS:1001911	DAP06	Salix daphnoides	Salicaceae
+MSV000091773	MV00300_SALIDA.mzXML	plant	plant_angiospermae	470274|Salix daphnoides	DAP07	49.670400|18.378353	Q Exactive|MS:1001911	DAP07	Salix daphnoides	Salicaceae
+MSV000091773	MV00427_SALIDA.mzXML	plant	plant_angiospermae	470274|Salix daphnoides	DAP08	49.670389|18.378433	Q Exactive|MS:1001911	DAP08	Salix daphnoides	Salicaceae
+MSV000091773	MV00339_SALIDA.mzXML	plant	plant_angiospermae	470274|Salix daphnoides	DAP09	49.670361|18.378467	Q Exactive|MS:1001911	DAP09	Salix daphnoides	Salicaceae
+MSV000091773	MV00354_SALIEL.mzXML	plant	plant_angiospermae	386449|Salix elaeagnos	ELE10	49.626344|18.709358	Q Exactive|MS:1001911	ELE10	Salix eleagnos	Salicaceae
+MSV000091773	MV00381_SALIEL.mzXML	plant	plant_angiospermae	386449|Salix elaeagnos	ELE11	49.626795|18.711417	Q Exactive|MS:1001911	ELE11	Salix eleagnos	Salicaceae
+MSV000091773	MV00314_SALIEL.mzXML	plant	plant_angiospermae	386449|Salix elaeagnos	ELE12	49.639783|18.438303	Q Exactive|MS:1001911	ELE12	Salix eleagnos	Salicaceae
+MSV000091773	MV00321_SALIEL.mzXML	plant	plant_angiospermae	386449|Salix elaeagnos	ELE13	49.639942|18.435497	Q Exactive|MS:1001911	ELE13	Salix eleagnos	Salicaceae
+MSV000091773	MV00326_SALIEL.mzXML	plant	plant_angiospermae	386449|Salix elaeagnos	ELE14	49.639961|18.438239	Q Exactive|MS:1001911	ELE14	Salix eleagnos	Salicaceae
+MSV000091773	MV00317_SALIFO.mzXML	plant	plant_angiospermae	470271|Salix foetida	FOE03	46.834500|10.911944	Q Exactive|MS:1001911	FOE03	Salix foetida	Salicaceae
+MSV000091773	MV00360_SALIFO.mzXML	plant	plant_angiospermae	470271|Salix foetida	FOE08	46.908972|10.098222	Q Exactive|MS:1001911	FOE08	Salix foetida	Salicaceae
+MSV000091773	MV00306_SALIFO.mzXML	plant	plant_angiospermae	470271|Salix foetida	FOE09	46.908500|10.097889	Q Exactive|MS:1001911	FOE09	Salix foetida	Salicaceae
+MSV000091773	MV00346_SALIFO.mzXML	plant	plant_angiospermae	470271|Salix foetida	FOE11	46.905444|10.097056	Q Exactive|MS:1001911	FOE11	Salix foetida	Salicaceae
+MSV000091773	MV00313_SALIFO.mzXML	plant	plant_angiospermae	470271|Salix foetida	FOE12	46.905444|10.097028	Q Exactive|MS:1001911	FOE12	Salix foetida	Salicaceae
+MSV000091773	MV00359_SALIFR.mzXML	plant	plant_angiospermae	77063|Salix fragilis	FRA01	48.958533|14.591467	Q Exactive|MS:1001911	FRA01	Salix fragilis	Salicaceae
+MSV000091773	MV00382_SALIFR.mzXML	plant	plant_angiospermae	77063|Salix fragilis	FRA02	48.958400|14.591417	Q Exactive|MS:1001911	FRA02	Salix fragilis	Salicaceae
+MSV000091773	MV00408_SALIFR.mzXML	plant	plant_angiospermae	77063|Salix fragilis	FRA03	48.973883|14.433083	Q Exactive|MS:1001911	FRA03	Salix fragilis	Salicaceae
+MSV000091773	MV00350_SALIFR.mzXML	plant	plant_angiospermae	77063|Salix fragilis	FRA04	48.973950|14.433217	Q Exactive|MS:1001911	FRA04	Salix fragilis	Salicaceae
+MSV000091773	MV00416_SALIFR.mzXML	plant	plant_angiospermae	77063|Salix fragilis	FRA05	48.875567|14.487783	Q Exactive|MS:1001911	FRA05	Salix fragilis	Salicaceae
+MSV000091773	MV00299_SALIGL.mzXML	plant	plant_angiospermae	2033645|Salix glaucosericea	GSR01	46.862083|11.017250	Q Exactive|MS:1001911	GSR01	Salix glaucosericea	Salicaceae
+MSV000091773	MV00297_SALIGL.mzXML	plant	plant_angiospermae	2033645|Salix glaucosericea	GSR04	46.859306|11.017667	Q Exactive|MS:1001911	GSR04	Salix glaucosericea	Salicaceae
+MSV000091773	MV00383_SALIGL.mzXML	plant	plant_angiospermae	2033645|Salix glaucosericea	GSR06	46.860556|11.012611	Q Exactive|MS:1001911	GSR06	Salix glaucosericea	Salicaceae
+MSV000091773	MV00372_SALIGL.mzXML	plant	plant_angiospermae	2033645|Salix glaucosericea	GSR07	46.854361|10.909722	Q Exactive|MS:1001911	GSR07	Salix glaucosericea	Salicaceae
+MSV000091773	MV00413_SALIGL.mzXML	plant	plant_angiospermae	2033645|Salix glaucosericea	GSR08	46.867472|10.921917	Q Exactive|MS:1001911	GSR08	Salix glaucosericea	Salicaceae
+MSV000091773	MV00386_SALIHA.mzXML	plant	plant_angiospermae	75710|Salix hastata	HAS05	46.838083|10.913389	Q Exactive|MS:1001911	HAS05	Salix hastata	Salicaceae
+MSV000091773	MV00403_SALIHA.mzXML	plant	plant_angiospermae	75710|Salix hastata	HAS09	46.909556|10.098611	Q Exactive|MS:1001911	HAS09	Salix hastata	Salicaceae
+MSV000091773	MV00331_SALIHA.mzXML	plant	plant_angiospermae	75710|Salix hastata	HAS20	47.069089|12.765128	Q Exactive|MS:1001911	HAS20	Salix hastata	Salicaceae
+MSV000091773	MV00315_SALIHA.mzXML	plant	plant_angiospermae	75710|Salix hastata	HAS21	47.069169|12.765211	Q Exactive|MS:1001911	HAS21	Salix hastata	Salicaceae
+MSV000091773	MV00425_SALIHA.mzXML	plant	plant_angiospermae	75710|Salix hastata	HAS3A	46.829972|10.910111	Q Exactive|MS:1001911	HAS3A	Salix hastata	Salicaceae
+MSV000091773	MV00368_SALIH2.mzXML	plant	plant_angiospermae	470273|Salix helvetica	HEL01	46.861750|11.017111	Q Exactive|MS:1001911	HEL01	Salix helvetica	Salicaceae
+MSV000091773	MV00415_SALIH2.mzXML	plant	plant_angiospermae	470273|Salix helvetica	HEL02	46.861528|11.014222	Q Exactive|MS:1001911	HEL02	Salix helvetica	Salicaceae
+MSV000091773	MV00396_SALIH2.mzXML	plant	plant_angiospermae	470273|Salix helvetica	HEL03	46.859083|11.016861	Q Exactive|MS:1001911	HEL03	Salix helvetica	Salicaceae
+MSV000091773	MV00291_SALIH2.mzXML	plant	plant_angiospermae	470273|Salix helvetica	HEL06	46.826750|10.909167	Q Exactive|MS:1001911	HEL06	Salix helvetica	Salicaceae
+MSV000091773	MV00349_SALIH2.mzXML	plant	plant_angiospermae	470273|Salix helvetica	HEL07	46.854417|10.908889	Q Exactive|MS:1001911	HEL07	Salix helvetica	Salicaceae
+MSV000091773	MV00419_SALIHE.mzXML	plant	plant_angiospermae	77064|Salix herbacea	HER03	46.826389|10.908972	Q Exactive|MS:1001911	HER03	Salix herbacea	Salicaceae
+MSV000091773	MV00278_SALIHE.mzXML	plant	plant_angiospermae	77064|Salix herbacea	HER04	46.867306|10.886917	Q Exactive|MS:1001911	HER04	Salix herbacea	Salicaceae
+MSV000091773	MV00422_SALIHE.mzXML	plant	plant_angiospermae	77064|Salix herbacea	HER05	46.868444|10.885222	Q Exactive|MS:1001911	HER05	Salix herbacea	Salicaceae
+MSV000091773	MV00296_SALIHE.mzXML	plant	plant_angiospermae	77064|Salix herbacea	HER10	46.900694|10.094250	Q Exactive|MS:1001911	HER10	Salix herbacea	Salicaceae
+MSV000091773	MV00399_SALIHE.mzXML	plant	plant_angiospermae	77064|Salix herbacea	HER11	46.886083|10.069472	Q Exactive|MS:1001911	HER11	Salix herbacea	Salicaceae
+MSV000091773	MV00356_SALILA.mzXML	plant	plant_angiospermae	470272|Salix lapponum	LAP01	50.08558|17.229722	Q Exactive|MS:1001911	LAP01	Salix lapponum	Salicaceae
+MSV000091773	MV00392_SALILA.mzXML	plant	plant_angiospermae	470272|Salix lapponum	LAP02	50.085528|17.229944	Q Exactive|MS:1001911	LAP02	Salix lapponum	Salicaceae
+MSV000091773	MV00309_SALILA.mzXML	plant	plant_angiospermae	470272|Salix lapponum	LAP03	50.085639|17.229944	Q Exactive|MS:1001911	LAP03	Salix lapponum	Salicaceae
+MSV000091773	MV00409_SALILA.mzXML	plant	plant_angiospermae	470272|Salix lapponum	LAP04	50.085694|17.229750	Q Exactive|MS:1001911	LAP04	Salix lapponum	Salicaceae
+MSV000091773	MV00412_SALILA.mzXML	plant	plant_angiospermae	470272|Salix lapponum	LAP05	50.085667|17.229667	Q Exactive|MS:1001911	LAP05	Salix lapponum	Salicaceae
+MSV000091773	MV00284_SALIMI.mzXML	plant	plant_angiospermae	1533362|Salix mielichhoferi	MIE04	47.024194|12.690389	Q Exactive|MS:1001911	MIE04	Salix mielichhoferi	Salicaceae
+MSV000091773	MV00345_SALIMI.mzXML	plant	plant_angiospermae	1533362|Salix mielichhoferi	MIE05	47.017000|12.686000	Q Exactive|MS:1001911	MIE05	Salix mielichhoferi	Salicaceae
+MSV000091773	MV00114_SALIMI.mzXML	plant	plant_angiospermae	1533362|Salix mielichhoferi	MIE20	47.068989|12.765164	Q Exactive|MS:1001911	MIE20	Salix mielichhoferi	Salicaceae
+MSV000091773	MV00057_SALIMI.mzXML	plant	plant_angiospermae	1533362|Salix mielichhoferi	MIE21	47.069147|12.765131	Q Exactive|MS:1001911	MIE21	Salix mielichhoferi	Salicaceae
+MSV000091773	MV00118_SALIMI.mzXML	plant	plant_angiospermae	1533362|Salix mielichhoferi	MIE29	47.054594|12.786406	Q Exactive|MS:1001911	MIE29	Salix mielichhoferi	Salicaceae
+MSV000091773	MV00307_SALIM2.mzXML	plant	plant_angiospermae	669809|Salix myrtilloides	MYR01	50.068189|12.745767	Q Exactive|MS:1001911	MYR01	Salix myrtilloides	Salicaceae
+MSV000091773	MV00329_SALIM2.mzXML	plant	plant_angiospermae	669809|Salix myrtilloides	MYR02	48.860167|13.898733	Q Exactive|MS:1001911	MYR02	Salix myrtilloides	Salicaceae
+MSV000091773	MV00417_SALIM2.mzXML	plant	plant_angiospermae	669809|Salix myrtilloides	MYR03	48.861433|13.898767	Q Exactive|MS:1001911	MYR03	Salix myrtilloides	Salicaceae
+MSV000091773	MV00355_SALIM2.mzXML	plant	plant_angiospermae	669809|Salix myrtilloides	MYR04	48.861317|13.900750	Q Exactive|MS:1001911	MYR04	Salix myrtilloides	Salicaceae
+MSV000091773	MV00304_SALIPE.mzXML	plant	plant_angiospermae	75715|Salix pentandra	PEN01	48.990267|14.440267	Q Exactive|MS:1001911	PEN01	Salix pentandra	Salicaceae
+MSV000091773	MV00367_SALIPE.mzXML	plant	plant_angiospermae	75715|Salix pentandra	PEN02	48.991333|14.447800	Q Exactive|MS:1001911	PEN02	Salix pentandra	Salicaceae
+MSV000091773	MV00342_SALIPE.mzXML	plant	plant_angiospermae	75715|Salix pentandra	PEN03	48.996400|14.439417	Q Exactive|MS:1001911	PEN03	Salix pentandra	Salicaceae
+MSV000091773	MV00411_SALIPE.mzXML	plant	plant_angiospermae	75715|Salix pentandra	PEN05	49.002917|14.416233	Q Exactive|MS:1001911	PEN05	Salix pentandra	Salicaceae
+MSV000091773	MV00286_SALIPU.mzXML	plant	plant_angiospermae	77065|Salix purpurea	PUR01	48.875733|14.486933	Q Exactive|MS:1001911	PUR01	Salix purpurea	Salicaceae
+MSV000091773	MV00323_SALIPU.mzXML	plant	plant_angiospermae	77065|Salix purpurea	PUR02	48.875717|14.486817	Q Exactive|MS:1001911	PUR02	Salix purpurea	Salicaceae
+MSV000091773	MV00295_SALIPU.mzXML	plant	plant_angiospermae	77065|Salix purpurea	PUR03	48.991622|14.447692	Q Exactive|MS:1001911	PUR03	Salix purpurea	Salicaceae
+MSV000091773	MV00421_SALIPU.mzXML	plant	plant_angiospermae	77065|Salix purpurea	PUR04	48.991767|14.447750	Q Exactive|MS:1001911	PUR04	Salix purpurea	Salicaceae
+MSV000091773	MV00311_SALIPU.mzXML	plant	plant_angiospermae	77065|Salix purpurea	PUR05	48.991850|14.447833	Q Exactive|MS:1001911	PUR05	Salix purpurea	Salicaceae
+MSV000091773	MV00393_SALIRE.mzXML	plant	plant_angiospermae	467613|Salix repens	REP02	49.701233|12.469058	Q Exactive|MS:1001911	REP02	Salix repens	Salicaceae
+MSV000091773	MV00318_SALIRE.mzXML	plant	plant_angiospermae	467613|Salix repens	REP03	49.701852|12.459460	Q Exactive|MS:1001911	REP03	Salix repens	Salicaceae
+MSV000091773	MV00429_SALIRE.mzXML	plant	plant_angiospermae	467613|Salix repens	REP04	49.713831|12.441411	Q Exactive|MS:1001911	REP04	Salix repens	Salicaceae
+MSV000091773	MV00279_SALIRE.mzXML	plant	plant_angiospermae	467613|Salix repens	REP05	49.713831|12.441411	Q Exactive|MS:1001911	REP05	Salix repens	Salicaceae
+MSV000091773	MV00340_SALIRE.mzXML	plant	plant_angiospermae	467613|Salix repens	REPx1	49.582472|15.306650	Q Exactive|MS:1001911	REPx1	Salix repens	Salicaceae
+MSV000091773	MV00424_SALIR3.mzXML	plant	plant_angiospermae	75717|Salix reticulata	RTI01	47.765556|15.815722	Q Exactive|MS:1001911	RTI01	Salix reticulata	Salicaceae
+MSV000091773	MV00426_SALIR3.mzXML	plant	plant_angiospermae	75717|Salix reticulata	RTI02	47.765611|15.815750	Q Exactive|MS:1001911	RTI02	Salix reticulata	Salicaceae
+MSV000091773	MV00298_SALIR3.mzXML	plant	plant_angiospermae	75717|Salix reticulata	RTI04	47.061167|12.763528	Q Exactive|MS:1001911	RTI04	Salix reticulata	Salicaceae
+MSV000091773	MV00397_SALIR3.mzXML	plant	plant_angiospermae	75717|Salix reticulata	RTI05	47.072639|12.767833	Q Exactive|MS:1001911	RTI05	Salix reticulata	Salicaceae
+MSV000091773	MV00414_SALIR3.mzXML	plant	plant_angiospermae	75717|Salix reticulata	RTI06	47.072583|12.767889	Q Exactive|MS:1001911	RTI06	Salix reticulata	Salicaceae
+MSV000091773	MV00398_SALIR2.mzXML	plant	plant_angiospermae	77066|Salix retusa	RET06	47.785944|15.806694	Q Exactive|MS:1001911	RET06	Salix retusa	Salicaceae
+MSV000091773	MV00375_SALIR2.mzXML	plant	plant_angiospermae	77066|Salix retusa	RET08	46.908306|10.097833	Q Exactive|MS:1001911	RET08	Salix retusa	Salicaceae
+MSV000091773	MV00364_SALIR2.mzXML	plant	plant_angiospermae	77066|Salix retusa	RET10	46.906194|10.097472	Q Exactive|MS:1001911	RET10	Salix retusa	Salicaceae
+MSV000091773	MV00285_SALIR2.mzXML	plant	plant_angiospermae	77066|Salix retusa	RET11	47.077972|12.766167	Q Exactive|MS:1001911	RET11	Salix retusa	Salicaceae
+MSV000091773	MV00330_SALIR2.mzXML	plant	plant_angiospermae	77066|Salix retusa	RET12	47.070083|12.765972	Q Exactive|MS:1001911	RET12	Salix retusa	Salicaceae
+MSV000091773	MV00308_SALIRO.mzXML	plant	plant_angiospermae	2720589|Salix rosmarinifolia	ROS01	48.948512|14.596177	Q Exactive|MS:1001911	ROS01	Salix rosmarinifolia	Salicaceae
+MSV000091773	MV00322_SALIRO.mzXML	plant	plant_angiospermae	2720589|Salix rosmarinifolia	ROS02	48.866300|14.440850	Q Exactive|MS:1001911	ROS02	Salix rosmarinifolia	Salicaceae
+MSV000091773	MV00310_SALIRO.mzXML	plant	plant_angiospermae	2720589|Salix rosmarinifolia	ROS03	48.866233|14.440983	Q Exactive|MS:1001911	ROS03	Salix rosmarinifolia	Salicaceae
+MSV000091773	MV00407_SALIRO.mzXML	plant	plant_angiospermae	2720589|Salix rosmarinifolia	ROS04	48.866733|14.440550	Q Exactive|MS:1001911	ROS04	Salix rosmarinifolia	Salicaceae
+MSV000091773	MV00301_SALIRO.mzXML	plant	plant_angiospermae	2720589|Salix rosmarinifolia	ROS05	48.866633|14.440283	Q Exactive|MS:1001911	ROS05	Salix rosmarinifolia	Salicaceae
+MSV000091773	MV00087_SALISE.mzXML	plant	plant_angiospermae	77067|Salix serpyllifolia	SER REPL	47.0759167|12.7515	Q Exactive|MS:1001911	SER REPL	Salix serpyllifolia	Salicaceae
+MSV000091773	MV00423_SALISE.mzXML	plant	plant_angiospermae	77067|Salix serpyllifolia	SER03	47.314472|11.399139	Q Exactive|MS:1001911	SER03	Salix serpyllifolia	Salicaceae
+MSV000091773	MV00294_SALISE.mzXML	plant	plant_angiospermae	77067|Salix serpyllifolia	SER04	47.312472|11.385056	Q Exactive|MS:1001911	SER04	Salix serpyllifolia	Salicaceae
+MSV000091773	MV00070_SALISE.mzXML	plant	plant_angiospermae	77067|Salix serpyllifolia	SER20	47.066583|12.764972	Q Exactive|MS:1001911	SER20	Salix serpyllifolia	Salicaceae
+MSV000091773	MV00054_SALISE.mzXML	plant	plant_angiospermae	77067|Salix serpyllifolia	SER22	47.0665278|12.7648889	Q Exactive|MS:1001911	SER22	Salix serpyllifolia	Salicaceae
+MSV000091773	MV00293_SALITR.mzXML	plant	plant_angiospermae	77069|Salix triandra	TRI01	48.958767|14.591600	Q Exactive|MS:1001911	TRI01	Salix triandra	Salicaceae
+MSV000091773	MV00371_SALITR.mzXML	plant	plant_angiospermae	77069|Salix triandra	TRI02	48.958867|14.591567	Q Exactive|MS:1001911	TRI02	Salix triandra	Salicaceae
+MSV000091773	MV00335_SALITR.mzXML	plant	plant_angiospermae	77069|Salix triandra	TRI03	48.958900|14.591583	Q Exactive|MS:1001911	TRI03	Salix triandra	Salicaceae
+MSV000091773	MV00353_SALITR.mzXML	plant	plant_angiospermae	77069|Salix triandra	TRI04	48.973950|14.433500	Q Exactive|MS:1001911	TRI04	Salix triandra	Salicaceae
+MSV000091773	MV00380_SALITR.mzXML	plant	plant_angiospermae	77069|Salix triandra	TRI05	48.874067|14.494850	Q Exactive|MS:1001911	TRI05	Salix triandra	Salicaceae
+MSV000091773	MV00325_SALIVI.mzXML	plant	plant_angiospermae	40686|Salix viminalis	VIM01	48.995517|14.438617	Q Exactive|MS:1001911	VIM01	Salix viminalis	Salicaceae
+MSV000091773	MV00379_SALIVI.mzXML	plant	plant_angiospermae	40686|Salix viminalis	VIM02	48.995450|14.438617	Q Exactive|MS:1001911	VIM02	Salix viminalis	Salicaceae
+MSV000091773	MV00352_SALIVI.mzXML	plant	plant_angiospermae	40686|Salix viminalis	VIM03	48.993900|14.435150	Q Exactive|MS:1001911	VIM03	Salix viminalis	Salicaceae
+MSV000091773	MV00319_SALIVI.mzXML	plant	plant_angiospermae	40686|Salix viminalis	VIM04	48.994033|14.434983	Q Exactive|MS:1001911	VIM04	Salix viminalis	Salicaceae
+MSV000091773	MV00428_SALIVI.mzXML	plant	plant_angiospermae	40686|Salix viminalis	VIM05	48.993783|14.434850	Q Exactive|MS:1001911	VIM05	Salix viminalis	Salicaceae
+MSV000091773	MV00365_SALIWA.mzXML	plant	plant_angiospermae	882678|Salix waldsteiniana	WAL18	47.302222|11.383028	Q Exactive|MS:1001911	WAL18	Salix waldsteiniana	Salicaceae
+MSV000091773	MV00280_SALIWA.mzXML	plant	plant_angiospermae	882678|Salix waldsteiniana	WAL19	47.303444|11.380528	Q Exactive|MS:1001911	WAL19	Salix waldsteiniana	Salicaceae
+MSV000091773	MV00090_SALIWA.mzXML	plant	plant_angiospermae	882678|Salix waldsteiniana	WAL44	47.0666667|12.7649167	Q Exactive|MS:1001911	WAL44	Salix waldsteiniana	Salicaceae
+MSV000091773	MV00033_SALIWA.mzXML	plant	plant_angiospermae	882678|Salix waldsteiniana	WAL45	47.0780556|12.7655	Q Exactive|MS:1001911	WAL45	Salix waldsteiniana	Salicaceae
+MSV000091773	MV00390_POPUTR.mzXML	plant	plant_angiospermae	113636|Populus tremula	TRE01	48.950567|14.594917	Q Exactive|MS:1001911	TRE01	Populus tremula	Salicaceae
+MSV000091773	MV00344_POPUTR.mzXML	plant	plant_angiospermae	113636|Populus tremula	TRE02	48.950650|14.594883	Q Exactive|MS:1001911	TRE02	Populus tremula	Salicaceae
+MSV000091773	MV00337_POPUTR.mzXML	plant	plant_angiospermae	113636|Populus tremula	TRE03	48.866133|14.440833	Q Exactive|MS:1001911	TRE03	Populus tremula	Salicaceae
+MSV000091773	MV00394_POPUTR.mzXML	plant	plant_angiospermae	113636|Populus tremula	TRE04	48.989350|14.440483	Q Exactive|MS:1001911	TRE04	Populus tremula	Salicaceae
+MSV000091773	MV00395_POPUTR.mzXML	plant	plant_angiospermae	113636|Populus tremula	TRE05	48.991667|14.448000	Q Exactive|MS:1001911	TRE05	Populus tremula	Salicaceae
+MSV000091773	MVB0001.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	BLANK1	blank	blank
+MSV000091773	MVB0002.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	BLANK2	blank	blank
+MSV000091773	MVB0003.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	BLANK3	blank	blank
+MSV000091773	MVB0004.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	BLANK4	blank	blank
+MSV000091773	MVB0005.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	BLANK5	blank	blank
+MSV000091773	MVP0009_POPUTR.mzXML	pool_QC	pool_QC	113636|Populus tremula	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Populus tremula	Salicaceae
+MSV000091773	MVP0010_SALIAC.mzXML	pool_QC	pool_QC	1233969|Salix acutifolia	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix acutifolia	Salicaceae
+MSV000091773	MVP0011_SALIAL.mzXML	pool_QC	pool_QC	75704|Salix alba	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix alba	Salicaceae
+MSV000091773	MVP0012_SALIAU.mzXML	pool_QC	pool_QC	470270|Salix aurita	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix aurita	Salicaceae
+MSV000091773	MVP0013_SALIBI.mzXML	pool_QC	pool_QC	1533359|Salix bicolor	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix bicolor	Salicaceae
+MSV000091773	MVP0014_SALIBR.mzXML	pool_QC	pool_QC	1533360|Salix breviserrata	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix breviserrata	Salicaceae
+MSV000091773	MVP0015_SALIC2.mzXML	pool_QC	pool_QC	470572|Salix caesia	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix caesia	Salicaceae
+MSV000091773	MVP0016_SALICA.mzXML	pool_QC	pool_QC	172267|Salix caprea	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix caprea	Salicaceae
+MSV000091773	MVP0017_SALICI.mzXML	pool_QC	pool_QC	470278|Salix cinerea	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix cinerea	Salicaceae
+MSV000091773	MVP0018_SALIDA.mzXML	pool_QC	pool_QC	470274|Salix daphnoides	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix daphnoides	Salicaceae
+MSV000091773	MVP0019_SALIEL.mzXML	pool_QC	pool_QC	386449|Salix elaeagnos	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix eleagnos	Salicaceae
+MSV000091773	MVP0020_SALIFO.mzXML	pool_QC	pool_QC	470271|Salix foetida	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix foetida	Salicaceae
+MSV000091773	MVP0021_SALIFR.mzXML	pool_QC	pool_QC	77063|Salix fragilis	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix fragilis	Salicaceae
+MSV000091773	MVP0022_SALIGL.mzXML	pool_QC	pool_QC	2033645|Salix glaucosericea	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix glaucosericea	Salicaceae
+MSV000091773	MVP0023_SALIH2.mzXML	pool_QC	pool_QC	470273|Salix helvetica	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix helvetica	Salicaceae
+MSV000091773	MVP0024_SALIHA.mzXML	pool_QC	pool_QC	75710|Salix hastata	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix hastata	Salicaceae
+MSV000091773	MVP0025_SALIHE.mzXML	pool_QC	pool_QC	77064|Salix herbacea	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix herbacea	Salicaceae
+MSV000091773	MVP0026_SALILA.mzXML	pool_QC	pool_QC	470272|Salix lapponum	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix lapponum	Salicaceae
+MSV000091773	MVP0027_SALIM2.mzXML	pool_QC	pool_QC	669809|Salix myrtilloides	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix myrtilloides	Salicaceae
+MSV000091773	MVP0028_SALIMI.mzXML	pool_QC	pool_QC	1533362|Salix mielichhoferi	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix mielichhoferi	Salicaceae
+MSV000091773	MVP0030_SALIPE.mzXML	pool_QC	pool_QC	75715|Salix pentandra	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix pentandra	Salicaceae
+MSV000091773	MVP0031_SALIPU.mzXML	pool_QC	pool_QC	77065|Salix purpurea	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix purpurea	Salicaceae
+MSV000091773	MVP0032_SALIR2.mzXML	pool_QC	pool_QC	77066|Salix retusa	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix retusa	Salicaceae
+MSV000091773	MVP0033_SALIR3.mzXML	pool_QC	pool_QC	75717|Salix reticulata	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix reticulata	Salicaceae
+MSV000091773	MVP0034_SALIRE.mzXML	pool_QC	pool_QC	467613|Salix repens	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix repens	Salicaceae
+MSV000091773	MVP0035_SALIRO.mzXML	pool_QC	pool_QC	2720589|Salix rosmarinifolia	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix rosmarinifolia	Salicaceae
+MSV000091773	MVP0036_SALISE.mzXML	pool_QC	pool_QC	77067|Salix serpyllifolia	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix serpyllifolia	Salicaceae
+MSV000091773	MVP0038_SALITR.mzXML	pool_QC	pool_QC	77069|Salix triandra	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix triandra	Salicaceae
+MSV000091773	MVP0039_SALIVI.mzXML	pool_QC	pool_QC	40686|Salix viminalis	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix viminalis	Salicaceae
+MSV000091773	MVP0040_SALIWA.mzXML	pool_QC	pool_QC	882678|Salix waldsteiniana	missing value	missing value	Q Exactive|MS:1001911	pooled_sample	Salix waldsteiniana	Salicaceae

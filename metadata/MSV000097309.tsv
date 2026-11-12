@@ -1,0 +1,22 @@
+MassiveID	filename	SampleType	SampleTypeSub1	YearOfAnalysis	MassSpectrometer	IonizationSourceAndPolarity	Fe_III	mzmine_sample_type	run_date	AHA	Iron_III
+MSV000097309	AHA_Control_3.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	0.0	sample	2025-03-06T20:20:11	missing value	missing value
+MSV000097309	AHA_Fe_1mM_1.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	1.0	sample	2025-03-06T22:44:43	missing value	missing value
+MSV000097309	AHA_Fe_100uM_3.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	0.1	sample	2025-03-06T22:23:08	missing value	missing value
+MSV000097309	AHA_Fe_100uM_2.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	0.1	sample	2025-03-06T22:05:39	missing value	missing value
+MSV000097309	AHA_Fe_1mM_3.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	1.0	sample	2025-03-06T23:19:20	missing value	missing value
+MSV000097309	AHA_Fe_10uM_3.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	0.01	sample	2025-03-06T21:15:09	missing value	missing value
+MSV000097309	AHA_Fe_10uM_2.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	0.01	sample	2025-03-06T20:57:41	missing value	missing value
+MSV000097309	AHA_Fe_100uM_1.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	0.1	sample	2025-03-06T21:48:31	missing value	missing value
+MSV000097309	AHA_Fe_10uM_1.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	0.01	sample	2025-03-06T20:40:32	missing value	missing value
+MSV000097309	AHA_Control_1.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	0.0	sample	2025-03-06T19:42:56	missing value	missing value
+MSV000097309	AHA_Fe_1mM_2.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	1.0	sample	2025-03-06T23:01:49	missing value	missing value
+MSV000097309	AHA_Control_2.mzML	molecular_standards	missing value	2025	Q Exactive HF|MS:1002523	missing value	0.0	sample	2025-03-06T20:03:03	missing value	missing value
+MSV000097309	AHA_Pos_Fe_1000_neutralpH.mzML	molecular_standards	missing value	missing value	Q Exactive HF|MS:1002523	electrospray ionization (positive)	missing value	missing value	missing value	20	1000
+MSV000097309	AHA_Pos_neutralpH.mzML	molecular_standards	missing value	missing value	Q Exactive HF|MS:1002523	electrospray ionization (positive)	missing value	missing value	missing value	20	0
+MSV000097309	AHA_Pos_Fe_100_neutralpH.mzML	molecular_standards	missing value	missing value	Q Exactive HF|MS:1002523	electrospray ionization (positive)	missing value	missing value	missing value	20	100
+MSV000097309	AHA_Pos_Fe_10_neutralpH.mzML	molecular_standards	missing value	missing value	Q Exactive HF|MS:1002523	electrospray ionization (positive)	missing value	missing value	missing value	20	10
+MSV000097309	blank_in.mzML	blank_analysis	blank_analysis	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097309	blank_in2.mzML	blank_analysis	blank_analysis	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097309	blank_in3.mzML	blank_analysis	blank_analysis	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097309	blank_in4.mzML	blank_analysis	blank_analysis	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value	missing value	missing value	missing value
+MSV000097309	qc_mix.mzML	pool_QC	pool_QC	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value	missing value	missing value	missing value

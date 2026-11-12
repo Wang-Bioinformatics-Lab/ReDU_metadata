@@ -1,0 +1,198 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	BiologicalSex	TimePointHoursRelativeToEvent	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	SampleID	SampleSource	MaternalExposure	TimepointHoursAfterMaternalInstillation
+ST003125	fLiver_lipid_pos_01.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi80.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_03.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi82.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_04.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi29.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_pos_05.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi6.2	Fetal liver	lps	12
+ST003125	fLiver_lipid_pos_06.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi23.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_08.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi9.3	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_pos_09.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi28.2	Fetal liver	lps	2
+ST003125	fLiver_lipid_pos_10.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi82.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_11.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi55.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_12.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi15.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_13.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi70.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_14.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi72.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_pos_15.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi68.3	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_16.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi24.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_pos_17.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi30.3	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_18.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi56.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_pos_19.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi33.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_20.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi93.3	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_pos_22.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi65.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_23.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi43.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_24.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi39.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_pos_26.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi33.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_27.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi68.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_28.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi70.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_29.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi59.3	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_pos_30.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi45.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_31.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi84.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_32.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi75.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_33.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi4.3	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_34.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi28.3	Fetal liver	lps	2
+ST003125	fLiver_lipid_pos_35.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi74.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_37.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi25.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_38.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi3.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_pos_39.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi55.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_41.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi47.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_42.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi34.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_43.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi63.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_44.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi43.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_45.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi57.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_46.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi60.3	Fetal liver	lps	2
+ST003125	fLiver_lipid_pos_47.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi5.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_48.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi44.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_pos_50.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi75.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_51.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi77.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_52.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi81.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_53.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi32.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_pos_54.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi12.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_55.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi58.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_56.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi30.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_57.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi93.2	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_pos_58.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi59.2	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_pos_59.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi66.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_60.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi71.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_61.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi11.2	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_pos_62.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi57.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_63.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi45.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_64.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi9.2	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_pos_65.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi53.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_pos_66.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi62.3	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_67.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi29.2	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_pos_68.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi31.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_69.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi97.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_70.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi94.2	Fetal liver	lps	2
+ST003125	fLiver_lipid_pos_71.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi84.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_73.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi58.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_pos_74.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi79.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_pos_75.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi7.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_pos_76.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi4.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_77.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi38.3	Fetal liver	lps	2
+ST003125	fLiver_lipid_pos_78.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi37.3	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_pos_79.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi6.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_pos_80.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi76.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_pos_81.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi13.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_82.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi11.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_pos_83.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi73.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_pos_84.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi36.3	Fetal liver	tio2	24
+ST003125	fLiver_lipid_pos_85.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	FLi62.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_pos_Blank01.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	Blank01	Blank	missing value	missing value
+ST003125	fLiver_lipid_pos_Blank02.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	Blank02	Blank	missing value	missing value
+ST003125	fLiver_lipid_pos_Blank03.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	Blank03	Blank	missing value	missing value
+ST003125	fLiver_lipid_pos_QC01.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC01	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC02.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC02	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC03.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC03	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC04.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC04	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC05.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC05	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC06.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC06	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC07.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC07	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC08.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC08	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC09.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC09	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC10.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC10	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC11.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC11	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC12.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC12	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC13.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC13	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC14.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC14	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC15.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC15	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC16.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC16	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC17.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC17	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC18.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC18	QC	missing value	missing value
+ST003125	fLiver_lipid_pos_QC19.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (positive)	reverse phase (C18)	QC19	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_01.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi80.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_03.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi82.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_04.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi29.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_neg_05.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi6.2	Fetal liver	lps	12
+ST003125	fLiver_lipid_neg_06.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi23.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_08.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi9.3	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_neg_09.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi28.2	Fetal liver	lps	2
+ST003125	fLiver_lipid_neg_10.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi82.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_11.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi55.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_12.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi15.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_13.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi70.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_14.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi72.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_neg_15.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi68.3	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_16.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi24.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_neg_17.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi30.3	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_18.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi56.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_neg_19.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi33.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_20.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi93.3	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_neg_22.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi65.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_23.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi43.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_24.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi39.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_neg_26.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi33.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_27.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi68.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_28.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi70.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_29.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi59.3	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_neg_30.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi45.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_31.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi84.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_32.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi75.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_33.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi4.3	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_34.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi28.3	Fetal liver	lps	2
+ST003125	fLiver_lipid_neg_35.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi74.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_37.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi25.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_38.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi3.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_neg_39.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi55.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_41.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi47.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_42.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi34.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_43.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi63.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_44.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi43.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_45.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi57.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_46.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi60.3	Fetal liver	lps	2
+ST003125	fLiver_lipid_neg_47.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi5.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_48.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi44.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_neg_50.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi75.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_51.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi77.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_52.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi81.2	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_53.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi32.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_neg_54.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi12.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_55.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi58.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_56.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi30.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_57.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi93.2	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_neg_58.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi59.2	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_neg_59.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi66.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_60.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi71.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_61.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi11.2	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_neg_62.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi57.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_63.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi45.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_64.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi9.2	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_neg_65.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi53.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_neg_66.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi62.3	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_67.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi29.2	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_neg_68.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi31.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_69.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi97.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_70.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi94.2	Fetal liver	lps	2
+ST003125	fLiver_lipid_neg_71.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi84.2	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_73.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi58.3	Fetal liver	lps	24
+ST003125	fLiver_lipid_neg_74.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi79.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_neg_75.mzML	animal	tissue	10090|Mus musculus	liver	female	24	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi7.3	Fetal liver	ctrl	24
+ST003125	fLiver_lipid_neg_76.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi4.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_77.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi38.3	Fetal liver	lps	2
+ST003125	fLiver_lipid_neg_78.mzML	animal	tissue	10090|Mus musculus	liver	female	2	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi37.3	Fetal liver	ctrl	2
+ST003125	fLiver_lipid_neg_79.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi6.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_neg_80.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi76.3	Fetal liver	lps	12
+ST003125	fLiver_lipid_neg_81.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi13.3	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_82.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi11.3	Fetal liver	ctrl	5
+ST003125	fLiver_lipid_neg_83.mzML	animal	tissue	10090|Mus musculus	liver	female	12	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi73.2	Fetal liver	ctrl	12
+ST003125	fLiver_lipid_neg_85.mzML	animal	tissue	10090|Mus musculus	liver	female	5	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	FLi62.2	Fetal liver	lps	5
+ST003125	fLiver_lipid_neg_Blank01.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	Blank01	Blank	missing value	missing value
+ST003125	fLiver_lipid_neg_Blank02.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	Blank02	Blank	missing value	missing value
+ST003125	fLiver_lipid_neg_Blank03.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	Blank03	Blank	missing value	missing value
+ST003125	fLiver_lipid_neg_QC01.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC01	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC02.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC02	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC03.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC03	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC04.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC04	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC05.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC05	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC06.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC06	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC07.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC07	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC08.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC08	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC09.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC09	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC10.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC10	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC11.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC11	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC12.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC12	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC13.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC13	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC14.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC14	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC15.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC15	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC16.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC16	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC17.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC17	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC18.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC18	QC	missing value	missing value
+ST003125	fLiver_lipid_neg_QC19.mzML	pool_QC	pool_QC	10090|Mus musculus	missing value	missing value	missing value	timsTOF fleX|MS:1003124	electrospray ionization (negative)	reverse phase (C18)	QC19	QC	missing value	missing value

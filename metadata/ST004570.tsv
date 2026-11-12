@@ -1,0 +1,5 @@
+MassiveID	filename	SampleType	SampleTypeSub1	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	SampleID	SampleSource	Group	RawFileNameListed
+ST004570	241011_blank_pos_0003.mzML	blank_extraction	blank_extraction	Exactive Plus|MS:1002526	electrospray ionization (positive)	reverse phase (C18)	Blank_3	blank	Blank-A-Exosome	241104_blank-a-exosome_3_pos_0003.raw
+ST004570	241011_exosome_1_pos_0001.mzML	culture_mammalian	culture_mammalian	Exactive Plus|MS:1002526	electrospray ionization (positive)	reverse phase (C18)	Exo_1	exosome	Exosome	241104_exosome_1_pos_0001.raw
+ST004570	241011_exosome_2_pos_0001.mzML	culture_mammalian	culture_mammalian	Exactive Plus|MS:1002526	electrospray ionization (positive)	reverse phase (C18)	Exo_2	exosome	Exosome	241104_exosome_2_pos_0001.raw
+ST004570	241011_exosome_3_pos_0001.mzML	culture_mammalian	culture_mammalian	Exactive Plus|MS:1002526	electrospray ionization (positive)	reverse phase (C18)	Exo_3	exosome	Exosome	241104_exosome_3_pos_0001.raw

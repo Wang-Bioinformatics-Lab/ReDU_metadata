@@ -1,0 +1,14 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	SampleExtractionMethod	MassSpectrometer	sample_type	name	eaten	species
+MSV000086917	USVI_MeOH_solventcontrol_1_P1-C-1_01_10440.mzML	blank_analysis	blank_analysis	missing value	missing value	impact II|MS:1002666	Solvent_Blank	MeOH	-	-
+MSV000086917	Dictyol_B_acetate_std_P1-A-9_01_10691.mzML	molecular_standards	defined_standards	missing value	missing value	impact II|MS:1002666	Standard	Dictyol_B_acetate	-	-
+MSV000086917	Dictyol_B_std_P1-A-8_01_10688.mzML	molecular_standards	defined_standards	missing value	missing value	impact II|MS:1002666	Standard	Dictyol_B	-	-
+MSV000086917	Molassamide_std_10uM_1_P1-C-2_01_10476.mzML	molecular_standards	defined_standards	missing value	missing value	impact II|MS:1002666	Standard	Molassamide	-	-
+MSV000086917	SOD_1_P1-F-1_01_10438.mzML	blank_analysis	blank_analysis	missing value	missing value	impact II|MS:1002666	SOD_Blank	-	-	-
+MSV000086917	SOD_2_P1-F-1_01_10439.mzML	blank_analysis	blank_analysis	missing value	missing value	impact II|MS:1002666	SOD_Blank	-	-	-
+MSV000086917	USVI_Acanthophora_1_P1-C-2_01_10444.mzML	algae	marine_algae	385023|Acanthophora	missing value	impact II|MS:1002666	Sample	Acanthophora	preferred	Acanthophora
+MSV000086917	USVI_D.menstrualis_1_P1-C-4_01_10458.mzML	algae	marine_algae	2875|Dictyota	missing value	impact II|MS:1002666	Sample	D.bartayresiana	Not eaten	Dictyota
+MSV000086917	USVI_D.pinnatifida_1_P1-C-3_01_10455.mzML	algae	marine_algae	499620|Dictyota pinnatifida	missing value	impact II|MS:1002666	Sample	D.pinnatifida	-	Dictyota
+MSV000086917	USVI_D.pulchella_1_P1-C-1_01_10447.mzML	algae	marine_algae	381678|Dictyota pulchella	missing value	impact II|MS:1002666	Sample	D.pulchella	Not eaten	Dictyota
+MSV000086917	USVI_Dichothrix_BuOH_1_P1-C-6_01_10466.mzML	bacteria	marine_cyanobacteria_insitu	1316747|Dichothrix	butanol (100%)	impact II|MS:1002666	Sample	Dichothrix_BuOH	Not eaten	Dichothrix
+MSV000086917	USVI_Dichothrix_EtOAc_1_P1-C-5_01_10461.mzML	bacteria	marine_cyanobacteria_insitu	1316747|Dichothrix	ethyl acetate (100%)	impact II|MS:1002666	Sample	Dichothrix_EtOAc	Not eaten	Dichothrix
+MSV000086917	USVI_Lobophora_1_P1-C-2_01_10452.mzML	algae	marine_algae	157000|Lobophora	missing value	impact II|MS:1002666	Sample	Lobophora	Not eaten	Lobophora

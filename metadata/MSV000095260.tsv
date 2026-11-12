@@ -1,0 +1,109 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	SubjectIdentifierAsRecorded	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	Info	Donor	Weight	Time	Replicate	SequenceID
+MSV000095260	1.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_10mg_1wk_R1	DonorA	10mg	1wk	R1	363204042
+MSV000095260	2.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_10mg_1wk_R2	DonorA	10mg	1wk	R2	363204039
+MSV000095260	3.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_10mg_1wk_R3	DonorA	10mg	1wk	R3	363202600
+MSV000095260	4.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_10mg_1wk_R1	DonorB	10mg	1wk	R1	363204051
+MSV000095260	5.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_10mg_1wk_R2	DonorB	10mg	1wk	R2	363204044
+MSV000095260	6.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_10mg_1wk_R3	DonorB	10mg	1wk	R3	363202613
+MSV000095260	7.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_10mg_1wk_R1	DonorC	10mg	1wk	R1	363204054
+MSV000095260	8.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_10mg_1wk_R2	DonorC	10mg	1wk	R2	363204046
+MSV000095260	9.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_10mg_1wk_R3	DonorC	10mg	1wk	R3	363129983
+MSV000095260	10.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_1wk_R1	DonorA	20mg	1wk	R1	363204041
+MSV000095260	11.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_1wk_R2	DonorA	20mg	1wk	R2	363202601
+MSV000095260	12.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_1wk_R3	DonorA	20mg	1wk	R3	363202604
+MSV000095260	13.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_1wk_R1	DonorB	20mg	1wk	R1	363204056
+MSV000095260	14.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_1wk_R2	DonorB	20mg	1wk	R2	363204045
+MSV000095260	15.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_1wk_R3	DonorB	20mg	1wk	R3	363204049
+MSV000095260	16.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_1wk_R1	DonorC	20mg	1wk	R1	363202607
+MSV000095260	17.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_1wk_R2	DonorC	20mg	1wk	R2	363204058
+MSV000095260	18.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_1wk_R3	DonorC	20mg	1wk	R3	363204060
+MSV000095260	19.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_30mg_1wk_R1	DonorA	30mg	1wk	R1	363202609
+MSV000095260	20.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_30mg_1wk_R2	DonorA	30mg	1wk	R2	363204059
+MSV000095260	21.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_30mg_1wk_R3	DonorA	30mg	1wk	R3	363204038
+MSV000095260	22.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_30mg_1wk_R1	DonorB	30mg	1wk	R1	363204052
+MSV000095260	23.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_30mg_1wk_R2	DonorB	30mg	1wk	R2	363202611
+MSV000095260	24.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_30mg_1wk_R3	DonorB	30mg	1wk	R3	363204050
+MSV000095260	25.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_30mg_1wk_R1	DonorC	30mg	1wk	R1	363187171
+MSV000095260	26.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_30mg_1wk_R2	DonorC	30mg	1wk	R2	363187163
+MSV000095260	27.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_30mg_1wk_R3	DonorC	30mg	1wk	R3	363187148
+MSV000095260	28.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_1dy_R1	DonorA	20mg	1dy	R1	363187149
+MSV000095260	29.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_1dy_R2	DonorA	20mg	1dy	R2	363187153
+MSV000095260	30.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_1dy_R3	DonorA	20mg	1dy	R3	363187152
+MSV000095260	31.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_1dy_R1	DonorB	20mg	1dy	R1	363187133
+MSV000095260	32.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_1dy_R2	DonorB	20mg	1dy	R2	363187141
+MSV000095260	33.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_1dy_R3	DonorB	20mg	1dy	R3	363187147
+MSV000095260	34.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_1dy_R1	DonorC	20mg	1dy	R1	363187143
+MSV000095260	35.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_1dy_R2	DonorC	20mg	1dy	R2	363187157
+MSV000095260	36.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_1dy_R3	DonorC	20mg	1dy	R3	363187155
+MSV000095260	37.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_imd_4mn_R1	DonorA	20mg	imd_4mn	R1	363187175
+MSV000095260	38.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_imd_4mn_R2	DonorA	20mg	imd_4mn	R2	363187181
+MSV000095260	39.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_imd_4mn_R3	DonorA	20mg	imd_4mn	R3	363187168
+MSV000095260	40.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_imd_4mn_R1	DonorB	20mg	imd_4mn	R1	363187169
+MSV000095260	41.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_imd_4mn_R2	DonorB	20mg	imd_4mn	R2	363187173
+MSV000095260	42.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_imd_4mn_R3	DonorB	20mg	imd_4mn	R3	363187172
+MSV000095260	43.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_imd_4mn_R1	DonorC	20mg	imd_4mn	R1	363187165
+MSV000095260	44.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_imd_4mn_R2	DonorC	20mg	imd_4mn	R2	363187170
+MSV000095260	45.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_imd_4mn_R3	DonorC	20mg	imd_4mn	R3	363187162
+MSV000095260	46.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_im_2mn_R1	DonorC	20mg	im_2mn	R1	363236314
+MSV000095260	47.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_im_2mn_R2	DonorC	20mg	im_2mn	R2	363236307
+MSV000095260	48.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_im_2mn_R3	DonorC	20mg	im_2mn	R3	363236361
+MSV000095260	49.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_im_2mn_R1	DonorB	20mg	im_2mn	R1	363235478
+MSV000095260	50.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_im_2mn_R2	DonorB	20mg	im_2mn	R2	363236333
+MSV000095260	51.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_im_2mn_R3	DonorB	20mg	im_2mn	R3	363235470
+MSV000095260	52.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_im_2mn_R1	DonorA	20mg	im_2mn	R1	363236330
+MSV000095260	53.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_im_2mn_R2	DonorA	20mg	im_2mn	R2	363236371
+MSV000095260	54.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_im_2mn_R3	DonorA	20mg	im_2mn	R3	363236304
+MSV000095260	A10.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_10mg_DLAB_R1	DonorA	10mg	DLAB	R1	missing value
+MSV000095260	A11.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_10mg_DLAB_R2	DonorA	10mg	DLAB	R2	missing value
+MSV000095260	A12.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_10mg_DLAB_R3	DonorA	10mg	DLAB	R3	missing value
+MSV000095260	A20.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_DLAB_R1	DonorA	20mg	DLAB	R1	missing value
+MSV000095260	A21.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_DLAB_R2	DonorA	20mg	DLAB	R2	missing value
+MSV000095260	A22.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_20mg_DLAB_R3	DonorA	20mg	DLAB	R3	missing value
+MSV000095260	A30.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_30mg_DLAB_R1	DonorA	30mg	DLAB	R1	missing value
+MSV000095260	A31.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_30mg_DLAB_R2	DonorA	30mg	DLAB	R2	missing value
+MSV000095260	A32.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorA	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorA_30mg_DLAB_R3	DonorA	30mg	DLAB	R3	missing value
+MSV000095260	B10.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_10mg_DLAB_R1	DonorB	10mg	DLAB	R1	missing value
+MSV000095260	B11.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_10mg_DLAB_R2	DonorB	10mg	DLAB	R2	missing value
+MSV000095260	B12.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_10mg_DLAB_R3	DonorB	10mg	DLAB	R3	missing value
+MSV000095260	B20.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_DLAB_R1	DonorB	20mg	DLAB	R1	missing value
+MSV000095260	B21.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_DLAB_R2	DonorB	20mg	DLAB	R2	missing value
+MSV000095260	B22.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_20mg_DLAB_R3	DonorB	20mg	DLAB	R3	missing value
+MSV000095260	B30.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_30mg_DLAB_R1	DonorB	30mg	DLAB	R1	missing value
+MSV000095260	B31.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_30mg_DLAB_R2	DonorB	30mg	DLAB	R2	missing value
+MSV000095260	B32.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorB	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorB_30mg_DLAB_R3	DonorB	30mg	DLAB	R3	missing value
+MSV000095260	C10.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_10mg_DLAB_R1	DonorC	10mg	DLAB	R1	missing value
+MSV000095260	C11.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_10mg_DLAB_R2	DonorC	10mg	DLAB	R2	missing value
+MSV000095260	C12.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_10mg_DLAB_R3	DonorC	10mg	DLAB	R3	missing value
+MSV000095260	C20.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_DLAB_R1	DonorC	20mg	DLAB	R1	missing value
+MSV000095260	C21.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_DLAB_R2	DonorC	20mg	DLAB	R2	missing value
+MSV000095260	C22.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_20mg_DLAB_R3	DonorC	20mg	DLAB	R3	missing value
+MSV000095260	C30.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_30mg_DLAB_R1	DonorC	30mg	DLAB	R1	missing value
+MSV000095260	C31.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_30mg_DLAB_R2	DonorC	30mg	DLAB	R2	missing value
+MSV000095260	C32.mzML	animal	biofluid	9606|Homo sapiens	feces	DonorC	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	DonorC_30mg_DLAB_R3	DonorC	30mg	DLAB	R3	missing value
+MSV000095260	Blank_1.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	blank	blank	blank	blank	blank	blank
+MSV000095260	Blank_2.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	blank	blank	blank	blank	blank	blank
+MSV000095260	Blank_3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	blank	blank	blank	blank	blank	blank
+MSV000095260	Blank_4.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	blank	blank	blank	blank	blank	blank
+MSV000095260	Blank_5.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	blank	blank	blank	blank	blank	blank
+MSV000095260	Blank_6.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	blank	blank	blank	blank	blank	blank
+MSV000095260	PoolQC_1.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_10.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_11.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_12.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_2.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_3.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_4.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_5.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_6.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_7.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_8.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	PoolQC_9.mzML	pool_QC	pool_QC	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	poolqc	poolqc	poolqc	poolqc	poolqc	poolqc
+MSV000095260	SixMix_1.mzML	molecular_standards	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	sixmix	sixmix	sixmix	sixmix	sixmix	sixmix
+MSV000095260	SixMix_2.mzML	molecular_standards	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	sixmix	sixmix	sixmix	sixmix	sixmix	sixmix
+MSV000095260	SixMix_3.mzML	molecular_standards	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	sixmix	sixmix	sixmix	sixmix	sixmix	sixmix
+MSV000095260	SixMix_4.mzML	molecular_standards	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	sixmix	sixmix	sixmix	sixmix	sixmix	sixmix
+MSV000095260	SixMix_5.mzML	molecular_standards	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	sixmix	sixmix	sixmix	sixmix	sixmix	sixmix
+MSV000095260	SixMix_6.mzML	molecular_standards	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	sixmix	sixmix	sixmix	sixmix	sixmix	sixmix
+MSV000095260	SixMix_7.mzML	molecular_standards	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	sixmix	sixmix	sixmix	sixmix	sixmix	sixmix
+MSV000095260	SixMix_8.mzML	molecular_standards	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	sixmix	sixmix	sixmix	sixmix	sixmix	sixmix
+MSV000095260	SixMix_9.mzML	molecular_standards	missing value	missing value	missing value	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (C18)	sixmix	sixmix	sixmix	sixmix	sixmix	sixmix

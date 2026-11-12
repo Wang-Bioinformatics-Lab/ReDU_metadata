@@ -1,0 +1,609 @@
+MassiveID	filename	SampleType	SampleTypeSub1	YearOfAnalysis	MassSpectrometer	IonizationSourceAndPolarity	standard	sample_type	surface	timepoint_min	concentration_uM	replicate
+MSV000087739	ccms_peak/Swab Project_Part2_RawData_files/6-mix_01.mzML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	missing value	6-mix	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab_Project_Part_1_RawData_files/6-mix_01.mzML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	missing value	6-mix	missing value	missing value	missing value	missing value
+MSV000087739	6-mix_01_20210428160013.mzXML	molecular_standards	defined_standards	2021	Q Exactive Plus|MS:1002634	missing value	missing value	6-mix	missing value	missing value	missing value	missing value
+MSV000087739	6-mix_01_20210429135933.mzXML	molecular_standards	defined_standards	2021	Q Exactive Plus|MS:1002634	missing value	missing value	6-mix	missing value	missing value	missing value	missing value
+MSV000087739	6-mix_01_20210430115846.mzXML	molecular_standards	defined_standards	2021	Q Exactive Plus|MS:1002634	missing value	missing value	6-mix	missing value	missing value	missing value	missing value
+MSV000087739	6-mix_01_20210430182505.mzXML	molecular_standards	defined_standards	2021	Q Exactive Plus|MS:1002634	missing value	missing value	6-mix	missing value	missing value	missing value	missing value
+MSV000087739	6-mix_01_20210507135919.mzXML	molecular_standards	defined_standards	2021	Q Exactive Plus|MS:1002634	missing value	missing value	6-mix	missing value	missing value	missing value	missing value
+MSV000087739	6-mix_01_20210508115813.mzXML	molecular_standards	defined_standards	2021	Q Exactive Plus|MS:1002634	missing value	missing value	6-mix	missing value	missing value	missing value	missing value
+MSV000087739	6-mix_01_20210509030404.mzXML	molecular_standards	defined_standards	2021	Q Exactive Plus|MS:1002634	missing value	missing value	6-mix	missing value	missing value	missing value	missing value
+MSV000087739	Car_S_Bench_10080_0p1_1_Car1w0p1uMB1_H11_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	0.1	1
+MSV000087739	Car_S_Bench_10080_0p1_2_Car1w0p1uMB2_A4_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	0.1	2
+MSV000087739	Car_S_Bench_10080_0p1_3_Car1w0p1uMB3_A9_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	0.1	3
+MSV000087739	Car_S_Bench_10080_1_1_Car1w1uMB1_H10_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	1	1
+MSV000087739	Car_S_Bench_10080_1_2_Car1w1uMB2_A3_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	1	2
+MSV000087739	Car_S_Bench_10080_1_3_Car1w1uMB3_A8_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	1	3
+MSV000087739	Car_S_Bench_10080_10_1_Car1w10uMB1_H9_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	10	1
+MSV000087739	Car_S_Bench_10080_10_2_Car1w10uMB2_A2_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	10	2
+MSV000087739	Car_S_Bench_10080_10_3_Car1w10uMB3_A7_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	10	3
+MSV000087739	Car_S_Bench_10080_100_1_Car1w100uMB1_H7_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	100	1
+MSV000087739	Car_S_Bench_10080_100_2_Car1w100uMB2_H12_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	100	2
+MSV000087739	Car_S_Bench_10080_100_3_Car1w100uMB3_A5_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	100	3
+MSV000087739	Car_S_Bench_10080_50_1_Car1w50uMB1_H8_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	50	1
+MSV000087739	Car_S_Bench_10080_50_2_Car1w50uMB2_A1_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	50	2
+MSV000087739	Car_S_Bench_10080_50_3_Car1w50uMB3_A6_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	10080	50	3
+MSV000087739	Car_S_Bench_45_0p1_1_Car45m0p1uMB1_C11_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	0.1	1
+MSV000087739	Car_S_Bench_45_0p1_2_Car45m0p1uMB2_D4_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	0.1	2
+MSV000087739	Car_S_Bench_45_0p1_3_Car45m0p1uMB3_D9_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	0.1	3
+MSV000087739	Car_S_Bench_45_1_1_Car45m1uMB1_C10_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	1	1
+MSV000087739	Car_S_Bench_45_1_2_Car45m1uMB2_D3_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	1	2
+MSV000087739	Car_S_Bench_45_1_3_Car45m1uMB3_D8_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	1	3
+MSV000087739	Car_S_Bench_45_10_1_Car45m10uMB1_C9_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	10	1
+MSV000087739	Car_S_Bench_45_10_2_Car45m10uMB2_D2_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	10	2
+MSV000087739	Car_S_Bench_45_10_3_Car45m10uMB3_D7_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	10	3
+MSV000087739	Car_S_Bench_45_100_1_Car45m100uMB1_C7_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	100	1
+MSV000087739	Car_S_Bench_45_100_2_Car45m100uMB2_C12_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	100	2
+MSV000087739	Car_S_Bench_45_100_3_Car45m100uMB3_D5_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	100	3
+MSV000087739	Car_S_Bench_45_50_1_Car45m50uMB1_C8_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	50	1
+MSV000087739	Car_S_Bench_45_50_2_Car45m50uMB2_D1_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	50	2
+MSV000087739	Car_S_Bench_45_50_3_Car45m50uMB3_D6_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Bench	45	50	3
+MSV000087739	Car_S_Floor_10080_0p1_1_Car1w0p1uMF1_F5_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	0.1	1
+MSV000087739	Car_S_Floor_10080_0p1_2_Car1w0p1uMF2_F10_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	0.1	2
+MSV000087739	Car_S_Floor_10080_0p1_3_Car1w0p1uMF3_G3_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	0.1	3
+MSV000087739	Car_S_Floor_10080_1_1_Car1w1uMF1_F4_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	1	1
+MSV000087739	Car_S_Floor_10080_1_2_Car1w1uMF2_F9_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	1	2
+MSV000087739	Car_S_Floor_10080_1_3_Car1w1uMF3_G2_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	1	3
+MSV000087739	Car_S_Floor_10080_10_1_Car1w10uMF1_F3_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	10	1
+MSV000087739	Car_S_Floor_10080_10_2_Car1w10uMF2_F8_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	10	2
+MSV000087739	Car_S_Floor_10080_10_3_Car1w10uMF3_G1_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	10	3
+MSV000087739	Car_S_Floor_10080_100_1_Car1w100uMF1_F1_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	100	1
+MSV000087739	Car_S_Floor_10080_100_2_Car1w100uMF2_F6_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	100	2
+MSV000087739	Car_S_Floor_10080_100_3_Car1w100uMF3_F11_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	100	3
+MSV000087739	Car_S_Floor_10080_50_1_Car1w50uMF1_F2_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	50	1
+MSV000087739	Car_S_Floor_10080_50_2_Car1w50uMF2_F7_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	50	2
+MSV000087739	Car_S_Floor_10080_50_3_Car1w50uMF3_F12_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	10080	50	3
+MSV000087739	Car_S_Floor_45_0p1_1_Car45m0p1uMF1_A5_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	0.1	1
+MSV000087739	Car_S_Floor_45_0p1_2_Car45m0p1uMF2_A10_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	0.1	2
+MSV000087739	Car_S_Floor_45_0p1_3_Car45m0p1uMF3_B3_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	0.1	3
+MSV000087739	Car_S_Floor_45_1_1_Car45m1uMF1_A4_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	1	1
+MSV000087739	Car_S_Floor_45_1_2_Car45m1uMF2_A9_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	1	2
+MSV000087739	Car_S_Floor_45_1_3_Car45m1uMF3_B2_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	1	3
+MSV000087739	Car_S_Floor_45_10_1_Car45m10uMF1_A3_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	10	1
+MSV000087739	Car_S_Floor_45_10_2_Car45m10uMF2_A8_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	10	2
+MSV000087739	Car_S_Floor_45_10_3_Car45m10uMF3_B1_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	10	3
+MSV000087739	Car_S_Floor_45_100_1_Car45m100uMF1_A1_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	100	1
+MSV000087739	Car_S_Floor_45_100_2_Car45m100uMF2_A6_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	100	2
+MSV000087739	Car_S_Floor_45_100_3_Car45m100uMF3_A11_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	100	3
+MSV000087739	Car_S_Floor_45_50_1_Car45m50uMF1_A2_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	50	1
+MSV000087739	Car_S_Floor_45_50_2_Car45m50uMF2_A7_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	50	2
+MSV000087739	Car_S_Floor_45_50_3_Car45m50uMF3_A12_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Floor	45	50	3
+MSV000087739	Car_S_Glass_10080_0p1_1_Car1w0p1uMG1_G8_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	0.1	1
+MSV000087739	Car_S_Glass_10080_0p1_2_Car1w0p1uMG2_H1_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	0.1	2
+MSV000087739	Car_S_Glass_10080_0p1_3_Car1w0p1uMG3_H6_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	0.1	3
+MSV000087739	Car_S_Glass_10080_1_1_Car1w1uMG1_G7_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	1	1
+MSV000087739	Car_S_Glass_10080_1_2_Car1w1uMG2_G12_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	1	2
+MSV000087739	Car_S_Glass_10080_1_3_Car1w1uMG3_H5_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	1	3
+MSV000087739	Car_S_Glass_10080_10_1_Car1w10uMG1_G6_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	10	1
+MSV000087739	Car_S_Glass_10080_10_2_Car1w10uMG2_G11_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	10	2
+MSV000087739	Car_S_Glass_10080_10_3_Car1w10uMG3_H4_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	10	3
+MSV000087739	Car_S_Glass_10080_100_1_Car1w100uMG1_G4_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	100	1
+MSV000087739	Car_S_Glass_10080_100_2_Car1w100uMG2_G9_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	100	2
+MSV000087739	Car_S_Glass_10080_100_3_Car1w100uMG3_H2_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	100	3
+MSV000087739	Car_S_Glass_10080_50_1_Car1w50uMG1_G5_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	50	1
+MSV000087739	Car_S_Glass_10080_50_2_Car1w50uMG2_G10_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	50	2
+MSV000087739	Car_S_Glass_10080_50_3_Car1w50uMG3_H3_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	10080	50	3
+MSV000087739	Car_S_Glass_45_0p1_1_Car45m0p1uMG1_B8_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	0.1	1
+MSV000087739	Car_S_Glass_45_0p1_2_Car45m0p1uMG2_C1_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	0.1	2
+MSV000087739	Car_S_Glass_45_0p1_3_Car45m0p1uMG3_C6_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	0.1	3
+MSV000087739	Car_S_Glass_45_1_1_Car45m1uMG1_B7_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	1	1
+MSV000087739	Car_S_Glass_45_1_2_Car45m1uMG2_B12_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	1	2
+MSV000087739	Car_S_Glass_45_1_3_Car45m1uMG3_C5_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	1	3
+MSV000087739	Car_S_Glass_45_10_1_Car45m10uMG1_B6_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	10	1
+MSV000087739	Car_S_Glass_45_10_2_Car45m10uMG2_B11_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	10	2
+MSV000087739	Car_S_Glass_45_10_3_Car45m10uMG3_C4_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	10	3
+MSV000087739	Car_S_Glass_45_100_1_Car45m100uMG1_B4_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	100	1
+MSV000087739	Car_S_Glass_45_100_2_Car45m100uMG2_B9_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	100	2
+MSV000087739	Car_S_Glass_45_100_3_Car45m100uMG3_C2_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	100	3
+MSV000087739	Car_S_Glass_45_50_1_Car45m50uMG1_B5_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	50	1
+MSV000087739	Car_S_Glass_45_50_2_Car45m50uMG2_B10_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	50	2
+MSV000087739	Car_S_Glass_45_50_3_Car45m50uMG3_C3_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Glass	45	50	3
+MSV000087739	Car_S_Metal_10080_0p1_1_Car1w0p1uMM1_B2_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	0.1	1
+MSV000087739	Car_S_Metal_10080_0p1_2_Car1w0p1uMM2_B7_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	0.1	2
+MSV000087739	Car_S_Metal_10080_0p1_3_Car1w0p1uMM3_B12_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	0.1	3
+MSV000087739	Car_S_Metal_10080_1_1_Car1w1uMM1_B1_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	1	1
+MSV000087739	Car_S_Metal_10080_1_2_Car1w1uMM2_B6_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	1	2
+MSV000087739	Car_S_Metal_10080_1_3_Car1w1uMM3_B11_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	1	3
+MSV000087739	Car_S_Metal_10080_10_1_Car1w10uMM1_A12_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	10	1
+MSV000087739	Car_S_Metal_10080_10_2_Car1w10uMM2_B5_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	10	2
+MSV000087739	Car_S_Metal_10080_10_3_Car1w10uMM3_B10_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	10	3
+MSV000087739	Car_S_Metal_10080_100_1_Car1w100uMM1_A10_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	100	1
+MSV000087739	Car_S_Metal_10080_100_2_Car1w100uMM2_B3_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	100	2
+MSV000087739	Car_S_Metal_10080_100_3_Car1w100uMM3_B8_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	100	3
+MSV000087739	Car_S_Metal_10080_50_1_Car1w50uMM1_A11_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	50	1
+MSV000087739	Car_S_Metal_10080_50_2_Car1w50uMM2_B4_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	50	2
+MSV000087739	Car_S_Metal_10080_50_3_Car1w50uMM3_B9_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	10080	50	3
+MSV000087739	Car_S_Metal_45_0p1_1_Car45m0p1uMM1_E2_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	0.1	1
+MSV000087739	Car_S_Metal_45_0p1_2_Car45m0p1uMM2_E7_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	0.1	2
+MSV000087739	Car_S_Metal_45_0p1_3_Car45m0p1uMM3_E12_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	0.1	3
+MSV000087739	Car_S_Metal_45_1_1_Car45m1uMM1_E1_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	1	1
+MSV000087739	Car_S_Metal_45_1_2_Car45m1uMM2_E6_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	1	2
+MSV000087739	Car_S_Metal_45_1_3_Car45m1uMM3_E11_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	1	3
+MSV000087739	Car_S_Metal_45_10_1_Car45m10uMM1_D12_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	10	1
+MSV000087739	Car_S_Metal_45_10_2_Car45m10uMM2_E5_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	10	2
+MSV000087739	Car_S_Metal_45_10_3_Car45m10uMM3_E10_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	10	3
+MSV000087739	Car_S_Metal_45_100_1_Car45m100uMM1_D10_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	100	1
+MSV000087739	Car_S_Metal_45_100_2_Car45m100uMM2_E3_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	100	2
+MSV000087739	Car_S_Metal_45_100_3_Car45m100uMM3_E8_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	100	3
+MSV000087739	Car_S_Metal_45_50_1_Car45m50uMM1_D11_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	50	1
+MSV000087739	Car_S_Metal_45_50_2_Car45m50uMM2_E4_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	50	2
+MSV000087739	Car_S_Metal_45_50_3_Car45m50uMM3_E9_142.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Car	swab-based recovery	Metal	45	50	3
+MSV000087739	Car_STD_0p1_A8_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Car	pure standard	missing value	missing value	0.1	missing value
+MSV000087739	Car_STD_1_A7_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Car	pure standard	missing value	missing value	1	missing value
+MSV000087739	Car_STD_10_A6_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Car	pure standard	missing value	missing value	10	missing value
+MSV000087739	Car_STD_100_A4_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Car	pure standard	missing value	missing value	100	missing value
+MSV000087739	Car_STD_50_A5_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Car	pure standard	missing value	missing value	50	missing value
+MSV000087739	Cyc_S_Metal_10080_0p00001_1_Cyc10080m0p00001uMM2_H12_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.00001	1
+MSV000087739	Cyc_S_Metal_10080_0p00001_1_Cyc1w0p00001uMM1_G12_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.00001	1
+MSV000087739	Cyc_S_Metal_10080_0p00001_3_Cyc10080m0p00001uMM3_A6_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.00001	3
+MSV000087739	Cyc_S_Metal_10080_0p00005_1_Cyc10080m0p00005uMM2_H11_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.00005	1
+MSV000087739	Cyc_S_Metal_10080_0p00005_1_Cyc1w0p00005uMM1_G11_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.00005	1
+MSV000087739	Cyc_S_Metal_10080_0p00005_3_Cyc10080m0p00005uMM3_A5_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.00005	3
+MSV000087739	Cyc_S_Metal_10080_0p0001_1_Cyc10080m0p0001uMM2_H10_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.0001	1
+MSV000087739	Cyc_S_Metal_10080_0p0001_1_Cyc1w0p0001uMM1_G10_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.0001	1
+MSV000087739	Cyc_S_Metal_10080_0p0001_3_Cyc10080m0p0001uMM3_A4_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.0001	3
+MSV000087739	Cyc_S_Metal_10080_0p0005_1_Cyc10080m0p0005uMM2_H9_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.0005	1
+MSV000087739	Cyc_S_Metal_10080_0p0005_1_Cyc1w0p0005uMM1_G9_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.0005	1
+MSV000087739	Cyc_S_Metal_10080_0p0005_3_Cyc10080m0p0005uMM3_A3_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.0005	3
+MSV000087739	Cyc_S_Metal_10080_0p001_1_Cyc10080m0p001uMM2_H8_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.001	1
+MSV000087739	Cyc_S_Metal_10080_0p001_1_Cyc1w0p001uMM1_G8_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.001	1
+MSV000087739	Cyc_S_Metal_10080_0p001_3_Cyc10080m0p001uMM3_A2_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.001	3
+MSV000087739	Cyc_S_Metal_10080_0p005_1_Cyc10080m0p005uMM2_H7_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.005	1
+MSV000087739	Cyc_S_Metal_10080_0p005_1_Cyc1w0p005uMM1_G7_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.005	1
+MSV000087739	Cyc_S_Metal_10080_0p005_3_Cyc10080m0p005uMM3_A1_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.005	3
+MSV000087739	Cyc_S_Metal_10080_0p01_1_Cyc10080m0p01uMM2_H6_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.01	1
+MSV000087739	Cyc_S_Metal_10080_0p01_1_Cyc1w0p01uMM1_G6_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.01	1
+MSV000087739	Cyc_S_Metal_10080_0p01_3_Cyc10080m0p01uMM3_A3_147.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.01	3
+MSV000087739	Cyc_S_Metal_10080_0p05_1_Cyc10080m0p05uMM2_H5_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.05	1
+MSV000087739	Cyc_S_Metal_10080_0p05_1_Cyc1w0p05uMM1_G5_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.05	1
+MSV000087739	Cyc_S_Metal_10080_0p05_3_Cyc10080m0p05uMM3_A2_147.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.05	3
+MSV000087739	Cyc_S_Metal_10080_0p1_1_Cyc10080m0p1uMM2_H4_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.1	1
+MSV000087739	Cyc_S_Metal_10080_0p1_1_Cyc1w0p1uMM1_G4_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.1	1
+MSV000087739	Cyc_S_Metal_10080_0p1_3_Cyc10080m0p1uMM3_A1_147.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	10080	0.1	3
+MSV000087739	Cyc_S_Metal_45_0p00001_1_Cyc45m0p00001uMM1_E9_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.00001	1
+MSV000087739	Cyc_S_Metal_45_0p00001_2_Cyc45m0p00001uMM2_F6_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.00001	2
+MSV000087739	Cyc_S_Metal_45_0p00001_3_Cyc45m0p00001uMM3_G3_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.00001	3
+MSV000087739	Cyc_S_Metal_45_0p00005_1_Cyc45m0p00005uMM1_E8_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.00005	1
+MSV000087739	Cyc_S_Metal_45_0p00005_2_Cyc45m0p00005uMM2_F5_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.00005	2
+MSV000087739	Cyc_S_Metal_45_0p00005_3_Cyc45m0p00005uMM3_G2_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.00005	3
+MSV000087739	Cyc_S_Metal_45_0p0001_1_Cyc45m0p0001uMM1_E7_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.0001	1
+MSV000087739	Cyc_S_Metal_45_0p0001_2_Cyc45m0p0001uMM2_F4_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.0001	2
+MSV000087739	Cyc_S_Metal_45_0p0001_3_Cyc45m0p0001uMM3_G1_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.0001	3
+MSV000087739	Cyc_S_Metal_45_0p0005_1_Cyc45m0p0005uMM1_E6_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.0005	1
+MSV000087739	Cyc_S_Metal_45_0p0005_2_Cyc45m0p0005uMM2_F3_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.0005	2
+MSV000087739	Cyc_S_Metal_45_0p0005_3_Cyc45m0p0005uMM3_F12_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.0005	3
+MSV000087739	Cyc_S_Metal_45_0p001_1_Cyc45m0p001uMM1_E5_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.001	1
+MSV000087739	Cyc_S_Metal_45_0p001_2_Cyc45m0p001uMM2_F2_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.001	2
+MSV000087739	Cyc_S_Metal_45_0p001_3_Cyc45m0p001uMM3_F11_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.001	3
+MSV000087739	Cyc_S_Metal_45_0p005_1_Cyc45m0p005uMM1_E4_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.005	1
+MSV000087739	Cyc_S_Metal_45_0p005_2_Cyc45m0p005uMM2_F1_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.005	2
+MSV000087739	Cyc_S_Metal_45_0p005_3_Cyc45m0p005uMM3_F10_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.005	3
+MSV000087739	Cyc_S_Metal_45_0p01_1_Cyc45m0p01uMM1_E3_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.01	1
+MSV000087739	Cyc_S_Metal_45_0p01_2_Cyc45m0p01uMM2_E12_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.01	2
+MSV000087739	Cyc_S_Metal_45_0p01_3_Cyc45m0p01uMM3_F9_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.01	3
+MSV000087739	Cyc_S_Metal_45_0p05_1_Cyc45m0p05uMM1_E2_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.05	1
+MSV000087739	Cyc_S_Metal_45_0p05_2_Cyc45m0p05uMM2_E11_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.05	2
+MSV000087739	Cyc_S_Metal_45_0p05_3_Cyc45m0p05uMM3_F8_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.05	3
+MSV000087739	Cyc_S_Metal_45_0p1_1_Cyc45m0p1uMM1_E1_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.1	1
+MSV000087739	Cyc_S_Metal_45_0p1_2_Cyc45m0p1uMM2_E10_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.1	2
+MSV000087739	Cyc_S_Metal_45_0p1_3_Cyc45m0p1uMM3_F7_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	swab-based recovery	Metal	45	0.1	3
+MSV000087739	Cyc_STD_0p00001_B10_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	pure standard	missing value	missing value	0.00001	missing value
+MSV000087739	Cyc_STD_0p00005_B9_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	pure standard	missing value	missing value	0.00005	missing value
+MSV000087739	Cyc_STD_0p0001_B8_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	pure standard	missing value	missing value	0.0001	missing value
+MSV000087739	Cyc_STD_0p0005_B7_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	pure standard	missing value	missing value	0.0005	missing value
+MSV000087739	Cyc_STD_0p001_B6_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	pure standard	missing value	missing value	0.001	missing value
+MSV000087739	Cyc_STD_0p005_B5_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	pure standard	missing value	missing value	0.005	missing value
+MSV000087739	Cyc_STD_0p01_B4_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	pure standard	missing value	missing value	0.01	missing value
+MSV000087739	Cyc_STD_0p05_B3_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	pure standard	missing value	missing value	0.05	missing value
+MSV000087739	Cyc_STD_0p1_B2_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Cyc	pure standard	missing value	missing value	0.1	missing value
+MSV000087739	Hyd_S_Metal_10080_0p00001_1_Hyd10080m0p00001uMM1_G12_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.00001	1
+MSV000087739	Hyd_S_Metal_10080_0p00001_3_Hyd10080m0p00001uMM3_H9_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.00001	3
+MSV000087739	Hyd_S_Metal_10080_0p00001_4_Hyd10080m0p00001uMM4_A6_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.00001	4
+MSV000087739	Hyd_S_Metal_10080_0p00001_5_Hyd10080m0p00001uMM5_B3_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.00001	5
+MSV000087739	Hyd_S_Metal_10080_0p00005_1_Hyd10080m0p00005uMM1_G11_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.00005	1
+MSV000087739	Hyd_S_Metal_10080_0p00005_3_Hyd10080m0p00005uMM3_H8_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.00005	3
+MSV000087739	Hyd_S_Metal_10080_0p00005_4_Hyd10080m0p00005uMM4_A5_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.00005	4
+MSV000087739	Hyd_S_Metal_10080_0p00005_5_Hyd10080m0p00005uMM5_B2_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.00005	5
+MSV000087739	Hyd_S_Metal_10080_0p0001_1_Hyd10080m0p0001uMM1_G10_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.0001	1
+MSV000087739	Hyd_S_Metal_10080_0p0001_3_Hyd10080m0p0001uMM3_H7_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.0001	3
+MSV000087739	Hyd_S_Metal_10080_0p0001_4_Hyd10080m0p0001uMM4_A4_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.0001	4
+MSV000087739	Hyd_S_Metal_10080_0p0001_5_Hyd10080m0p0001uMM5_B1_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.0001	5
+MSV000087739	Hyd_S_Metal_10080_0p0005_1_Hyd10080m0p0005uMM1_G9_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.0005	1
+MSV000087739	Hyd_S_Metal_10080_0p0005_3_Hyd10080m0p0005uMM3_H6_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.0005	3
+MSV000087739	Hyd_S_Metal_10080_0p0005_4_Hyd10080m0p0005uMM4_A3_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.0005	4
+MSV000087739	Hyd_S_Metal_10080_0p0005_5_Hyd10080m0p0005uMM5_A12_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.0005	5
+MSV000087739	Hyd_S_Metal_10080_0p001_1_Hyd10080m0p001uMM1_G8_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.001	1
+MSV000087739	Hyd_S_Metal_10080_0p001_3_Hyd10080m0p001uMM3_H5_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.001	3
+MSV000087739	Hyd_S_Metal_10080_0p001_4_Hyd10080m0p001uMM4_A2_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.001	4
+MSV000087739	Hyd_S_Metal_10080_0p001_5_Hyd10080m0p001uMM5_A11_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.001	5
+MSV000087739	Hyd_S_Metal_10080_0p005_1_Hyd10080m0p005uMM1_G7_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.005	1
+MSV000087739	Hyd_S_Metal_10080_0p005_3_Hyd10080m0p005uMM3_H4_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.005	3
+MSV000087739	Hyd_S_Metal_10080_0p005_4_Hyd10080m0p005uMM4_A1_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.005	4
+MSV000087739	Hyd_S_Metal_10080_0p005_5_Hyd10080m0p005uMM5_A10_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.005	5
+MSV000087739	Hyd_S_Metal_10080_0p01_1_Hyd10080m0p01uMM1_G6_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.01	1
+MSV000087739	Hyd_S_Metal_10080_0p01_3_Hyd10080m0p01uMM3_H3_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.01	3
+MSV000087739	Hyd_S_Metal_10080_0p01_4_Hyd10080m0p01uMM4_H12_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.01	4
+MSV000087739	Hyd_S_Metal_10080_0p01_5_Hyd10080m0p01uMM5_A9_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.01	5
+MSV000087739	Hyd_S_Metal_10080_0p05_1_Hyd10080m0p05uMM1_G5_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.05	1
+MSV000087739	Hyd_S_Metal_10080_0p05_3_Hyd10080m0p05uMM3_H2_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.05	3
+MSV000087739	Hyd_S_Metal_10080_0p05_4_Hyd10080m0p05uMM4_H11_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.05	4
+MSV000087739	Hyd_S_Metal_10080_0p05_5_Hyd10080m0p05uMM5_A8_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.05	5
+MSV000087739	Hyd_S_Metal_10080_0p1_1_Hyd10080m0p1uMM1_G4_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.1	1
+MSV000087739	Hyd_S_Metal_10080_0p1_3_Hyd10080m0p1uMM3_H1_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.1	3
+MSV000087739	Hyd_S_Metal_10080_0p1_4_Hyd10080m0p1uMM4_H10_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.1	4
+MSV000087739	Hyd_S_Metal_10080_0p1_5_Hyd10080m0p1uMM5_A7_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	10080	0.1	5
+MSV000087739	Hyd_S_Metal_20160_0p00001_1_Hyd20160m0p00001uMM1_B12_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.00001	1
+MSV000087739	Hyd_S_Metal_20160_0p00001_2_Hyd20160m0p00001uMM2_C9_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.00001	2
+MSV000087739	Hyd_S_Metal_20160_0p00001_3_Hyd20160m0p00001uMM3_D6_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.00001	3
+MSV000087739	Hyd_S_Metal_20160_0p00005_1_Hyd20160m0p00005uMM1_B11_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.00005	1
+MSV000087739	Hyd_S_Metal_20160_0p00005_2_Hyd20160m0p00005uMM2_C8_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.00005	2
+MSV000087739	Hyd_S_Metal_20160_0p00005_3_Hyd20160m0p00005uMM3_D5_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.00005	3
+MSV000087739	Hyd_S_Metal_20160_0p0001_1_Hyd20160m0p0001uMM1_B10_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.0001	1
+MSV000087739	Hyd_S_Metal_20160_0p0001_2_Hyd20160m0p0001uMM2_C7_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.0001	2
+MSV000087739	Hyd_S_Metal_20160_0p0001_2_Hyd20160m0p001uMM2_C5_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.0001	2
+MSV000087739	Hyd_S_Metal_20160_0p0001_3_Hyd20160m0p0001uMM3_D4_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.0001	3
+MSV000087739	Hyd_S_Metal_20160_0p0005_1_Hyd20160m0p0005uMM1_B9_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.0005	1
+MSV000087739	Hyd_S_Metal_20160_0p0005_2_Hyd20160m0p0005uMM2_C6_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.0005	2
+MSV000087739	Hyd_S_Metal_20160_0p0005_3_Hyd20160m0p0005uMM3_D3_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.0005	3
+MSV000087739	Hyd_S_Metal_20160_0p001_1_Hyd20160m0p001uMM1_B8_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.001	1
+MSV000087739	Hyd_S_Metal_20160_0p001_3_Hyd20160m0p001uMM3_D2_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.001	3
+MSV000087739	Hyd_S_Metal_20160_0p005_1_Hyd20160m0p005uMM1_B7_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.005	1
+MSV000087739	Hyd_S_Metal_20160_0p005_2_Hyd20160m0p005uMM2_C4_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.005	2
+MSV000087739	Hyd_S_Metal_20160_0p005_3_Hyd20160m0p005uMM3_D1_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.005	3
+MSV000087739	Hyd_S_Metal_20160_0p01_1_Hyd20160m0p01uMM1_B6_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.01	1
+MSV000087739	Hyd_S_Metal_20160_0p01_2_Hyd20160m0p01uMM2_C3_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.01	2
+MSV000087739	Hyd_S_Metal_20160_0p01_3_Hyd20160m0p01uMM3_C12_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.01	3
+MSV000087739	Hyd_S_Metal_20160_0p05_1_Hyd20160m0p05uMM1_B5_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.05	1
+MSV000087739	Hyd_S_Metal_20160_0p05_2_Hyd20160m0p05uMM2_C2_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.05	2
+MSV000087739	Hyd_S_Metal_20160_0p05_3_Hyd20160m0p05uMM3_C11_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.05	3
+MSV000087739	Hyd_S_Metal_20160_0p1_1_Hyd20160m0p1uMM1_B4_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.1	1
+MSV000087739	Hyd_S_Metal_20160_0p1_2_Hyd20160m0p1uMM2_C1_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.1	2
+MSV000087739	Hyd_S_Metal_20160_0p1_3_Hyd20160m0p1uMM3_C10_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	20160	0.1	3
+MSV000087739	Hyd_S_Metal_2880_0p00001_1_Hyd2880m0p00001uMM1_D12_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.00001	1
+MSV000087739	Hyd_S_Metal_2880_0p00001_2_Hyd2880m0p00001uMM2_E9_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.00001	2
+MSV000087739	Hyd_S_Metal_2880_0p00001_3_Hyd2880m0p00001uMM3_F6_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.00001	3
+MSV000087739	Hyd_S_Metal_2880_0p00001_4_Hyd2880m0p00001uMM4_G3_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.00001	4
+MSV000087739	Hyd_S_Metal_2880_0p00005_1_Hyd2880m0p00005uMM1_D11_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.00005	1
+MSV000087739	Hyd_S_Metal_2880_0p00005_2_Hyd2880m0p00005uMM2_E8_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.00005	2
+MSV000087739	Hyd_S_Metal_2880_0p00005_3_Hyd2880m0p00005uMM3_F5_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.00005	3
+MSV000087739	Hyd_S_Metal_2880_0p00005_4_Hyd2880m0p00005uMM4_G2_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.00005	4
+MSV000087739	Hyd_S_Metal_2880_0p0001_1_Hyd2880m0p0001uMM1_D10_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.0001	1
+MSV000087739	Hyd_S_Metal_2880_0p0001_2_Hyd2880m0p0001uMM2_E7_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.0001	2
+MSV000087739	Hyd_S_Metal_2880_0p0001_3_Hyd2880m0p0001uMM3_F4_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.0001	3
+MSV000087739	Hyd_S_Metal_2880_0p0001_4_Hyd2880m0p0001uMM4_G1_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.0001	4
+MSV000087739	Hyd_S_Metal_2880_0p0005_1_Hyd2880m0p0005uMM1_D9_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.0005	1
+MSV000087739	Hyd_S_Metal_2880_0p0005_2_Hyd2880m0p0005uMM2_E6_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.0005	2
+MSV000087739	Hyd_S_Metal_2880_0p0005_3_Hyd2880m0p0005uMM3_F3_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.0005	3
+MSV000087739	Hyd_S_Metal_2880_0p0005_4_Hyd2880m0p0005uMM4_F12_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.0005	4
+MSV000087739	Hyd_S_Metal_2880_0p001_1_Hyd2880m0p001uMM1_D8_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.001	1
+MSV000087739	Hyd_S_Metal_2880_0p001_2_Hyd2880m0p001uMM2_E5_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.001	2
+MSV000087739	Hyd_S_Metal_2880_0p001_3_Hyd2880m0p001uMM3_F2_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.001	3
+MSV000087739	Hyd_S_Metal_2880_0p001_4_Hyd2880m0p001uMM4_F11_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.001	4
+MSV000087739	Hyd_S_Metal_2880_0p005_1_Hyd2880m0p005uMM1_D7_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.005	1
+MSV000087739	Hyd_S_Metal_2880_0p005_2_Hyd2880m0p005uMM2_E4_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.005	2
+MSV000087739	Hyd_S_Metal_2880_0p005_3_Hyd2880m0p005uMM3_F1_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.005	3
+MSV000087739	Hyd_S_Metal_2880_0p005_4_Hyd2880m0p005uMM4_F10_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.005	4
+MSV000087739	Hyd_S_Metal_2880_0p01_1_Hyd2880m0p01uMM1_D6_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.01	1
+MSV000087739	Hyd_S_Metal_2880_0p01_2_Hyd2880m0p01uMM2_E3_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.01	2
+MSV000087739	Hyd_S_Metal_2880_0p01_3_Hyd2880m0p01uMM3_E12_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.01	3
+MSV000087739	Hyd_S_Metal_2880_0p01_4_Hyd2880m0p01uMM4_F9_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.01	4
+MSV000087739	Hyd_S_Metal_2880_0p05_1_Hyd2880m0p05uMM1_D5_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.05	1
+MSV000087739	Hyd_S_Metal_2880_0p05_2_Hyd2880m0p05uMM2_E2_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.05	2
+MSV000087739	Hyd_S_Metal_2880_0p05_3_Hyd2880m0p05uMM3_E11_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.05	3
+MSV000087739	Hyd_S_Metal_2880_0p05_4_Hyd2880m0p05uMM4_F8_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.05	4
+MSV000087739	Hyd_S_Metal_2880_0p1_1_Hyd2880m0p1uMM1_D4_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.1	1
+MSV000087739	Hyd_S_Metal_2880_0p1_2_Hyd2880m0p1uMM2_E1_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.1	2
+MSV000087739	Hyd_S_Metal_2880_0p1_3_Hyd2880m0p1uMM3_E10_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.1	3
+MSV000087739	Hyd_S_Metal_2880_0p1_4_Hyd2880m0p1uMM4_F7_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	2880	0.1	4
+MSV000087739	Hyd_S_Metal_40320_0p00001_1_Hyd20160m0p00001uMM1_E3_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00001	1
+MSV000087739	Hyd_S_Metal_40320_0p00001_2_Hyd20160m0p00001uMM2_E12_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00001	2
+MSV000087739	Hyd_S_Metal_40320_0p00001_3_Hyd20160m0p00001uMM3_F9_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00001	3
+MSV000087739	Hyd_S_Metal_40320_0p00001_4_Hyd20160m0p00001uMM4_G6_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00001	4
+MSV000087739	Hyd_S_Metal_40320_0p00001_5_Hyd20160m0p00001uMM5_H3_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00001	5
+MSV000087739	Hyd_S_Metal_40320_0p00005_1_Hyd20160m0p00005uMM1_E2_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00005	1
+MSV000087739	Hyd_S_Metal_40320_0p00005_2_Hyd20160m0p00005uMM2_E11_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00005	2
+MSV000087739	Hyd_S_Metal_40320_0p00005_3_Hyd20160m0p00005uMM3_F8_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00005	3
+MSV000087739	Hyd_S_Metal_40320_0p00005_4_Hyd20160m0p00005uMM4_G5_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00005	4
+MSV000087739	Hyd_S_Metal_40320_0p00005_5_Hyd20160m0p00005uMM5_H2_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.00005	5
+MSV000087739	Hyd_S_Metal_40320_0p0001_1_Hyd20160m0p0001uMM1_E1_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0001	1
+MSV000087739	Hyd_S_Metal_40320_0p0001_2_Hyd20160m0p0001uMM2_E10_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0001	2
+MSV000087739	Hyd_S_Metal_40320_0p0001_3_Hyd20160m0p0001uMM3_F7_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0001	3
+MSV000087739	Hyd_S_Metal_40320_0p0001_4_Hyd20160m0p0001uMM4_G4_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0001	4
+MSV000087739	Hyd_S_Metal_40320_0p0001_5_Hyd20160m0p0001uMM5_H1_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0001	5
+MSV000087739	Hyd_S_Metal_40320_0p0005_1_Hyd20160m0p0005uMM1_D12_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0005	1
+MSV000087739	Hyd_S_Metal_40320_0p0005_2_Hyd20160m0p0005uMM2_E9_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0005	2
+MSV000087739	Hyd_S_Metal_40320_0p0005_3_Hyd20160m0p0005uMM3_F6_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0005	3
+MSV000087739	Hyd_S_Metal_40320_0p0005_4_Hyd20160m0p0005uMM4_G3_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0005	4
+MSV000087739	Hyd_S_Metal_40320_0p0005_5_Hyd20160m0p0005uMM5_G12_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.0005	5
+MSV000087739	Hyd_S_Metal_40320_0p001_1_Hyd20160m0p001uMM1_D11_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.001	1
+MSV000087739	Hyd_S_Metal_40320_0p001_2_Hyd20160m0p001uMM2_E8_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.001	2
+MSV000087739	Hyd_S_Metal_40320_0p001_3_Hyd20160m0p001uMM3_F5_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.001	3
+MSV000087739	Hyd_S_Metal_40320_0p001_4_Hyd20160m0p001uMM4_G2_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.001	4
+MSV000087739	Hyd_S_Metal_40320_0p001_5_Hyd20160m0p001uMM5_G11_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.001	5
+MSV000087739	Hyd_S_Metal_40320_0p005_1_Hyd20160m0p005uMM1_D10_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.005	1
+MSV000087739	Hyd_S_Metal_40320_0p005_2_Hyd20160m0p005uMM2_E7_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.005	2
+MSV000087739	Hyd_S_Metal_40320_0p005_3_Hyd20160m0p005uMM3_F4_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.005	3
+MSV000087739	Hyd_S_Metal_40320_0p005_4_Hyd20160m0p005uMM4_G1_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.005	4
+MSV000087739	Hyd_S_Metal_40320_0p005_5_Hyd20160m0p005uMM5_G10_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.005	5
+MSV000087739	Hyd_S_Metal_40320_0p01_1_Hyd20160m0p01uMM1_D9_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.01	1
+MSV000087739	Hyd_S_Metal_40320_0p01_2_Hyd20160m0p01uMM2_E6_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.01	2
+MSV000087739	Hyd_S_Metal_40320_0p01_3_Hyd20160m0p01uMM3_F3_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.01	3
+MSV000087739	Hyd_S_Metal_40320_0p01_4_Hyd20160m0p01uMM4_F12_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.01	4
+MSV000087739	Hyd_S_Metal_40320_0p01_5_Hyd20160m0p01uMM5_G9_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.01	5
+MSV000087739	Hyd_S_Metal_40320_0p05_1_Hyd20160m0p05uMM1_D8_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.05	1
+MSV000087739	Hyd_S_Metal_40320_0p05_2_Hyd20160m0p05uMM2_E5_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.05	2
+MSV000087739	Hyd_S_Metal_40320_0p05_3_Hyd20160m0p05uMM3_F2_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.05	3
+MSV000087739	Hyd_S_Metal_40320_0p05_4_Hyd20160m0p05uMM4_F11_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.05	4
+MSV000087739	Hyd_S_Metal_40320_0p05_5_Hyd20160m0p05uMM5_G8_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.05	5
+MSV000087739	Hyd_S_Metal_40320_0p1_1_Hyd20160m0p1uMM1_D7_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.1	1
+MSV000087739	Hyd_S_Metal_40320_0p1_2_Hyd20160m0p1uMM2_E4_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.1	2
+MSV000087739	Hyd_S_Metal_40320_0p1_3_Hyd20160m0p1uMM3_F1_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.1	3
+MSV000087739	Hyd_S_Metal_40320_0p1_4_Hyd20160m0p1uMM4_F10_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.1	4
+MSV000087739	Hyd_S_Metal_40320_0p1_5_Hyd20160m0p1uMM5_G7_146.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	40320	0.1	5
+MSV000087739	Hyd_S_Metal_45_0p000001_1_Hyd45m0p000001uMM1_B5_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.000001	1
+MSV000087739	Hyd_S_Metal_45_0p000001_2_Hyd45m0p000001uMM2_C4_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.000001	2
+MSV000087739	Hyd_S_Metal_45_0p000001_3_Hyd45m0p000001uMM3_D3_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.000001	3
+MSV000087739	Hyd_S_Metal_45_0p000005_1_Hyd45m0p000005uMM1_B4_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.000005	1
+MSV000087739	Hyd_S_Metal_45_0p000005_2_Hyd45m0p000005uMM2_C3_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.000005	2
+MSV000087739	Hyd_S_Metal_45_0p000005_3_Hyd45m0p000005uMM3_D2_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.000005	3
+MSV000087739	Hyd_S_Metal_45_0p00001_1_Hyd45m0p00001uMM1_B3_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.00001	1
+MSV000087739	Hyd_S_Metal_45_0p00001_2_Hyd45m0p00001uMM2_C2_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.00001	2
+MSV000087739	Hyd_S_Metal_45_0p00001_3_Hyd45m0p00001uMM3_D1_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.00001	3
+MSV000087739	Hyd_S_Metal_45_0p00005_1_Hyd45m0p00005uMM1_B2_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.00005	1
+MSV000087739	Hyd_S_Metal_45_0p00005_2_Hyd45m0p00005uMM2_C1_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.00005	2
+MSV000087739	Hyd_S_Metal_45_0p00005_3_Hyd45m0p00005uMM3_C12_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.00005	3
+MSV000087739	Hyd_S_Metal_45_0p0001_1_Hyd45m0p0001uMM1_B1_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.0001	1
+MSV000087739	Hyd_S_Metal_45_0p0001_2_Hyd45m0p0001uMM2_B12_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.0001	2
+MSV000087739	Hyd_S_Metal_45_0p0001_3_Hyd45m0p0001uMM3_C11_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.0001	3
+MSV000087739	Hyd_S_Metal_45_0p0005_1_Hyd45m0p0005uMM1_A12_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.0005	1
+MSV000087739	Hyd_S_Metal_45_0p0005_2_Hyd45m0p0005uMM2_B11_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.0005	2
+MSV000087739	Hyd_S_Metal_45_0p0005_3_Hyd45m0p0005uMM3_C10_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.0005	3
+MSV000087739	Hyd_S_Metal_45_0p001_1_Hyd45m0p001uMM1_A11_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.001	1
+MSV000087739	Hyd_S_Metal_45_0p001_2_Hyd45m0p001uMM2_B10_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.001	2
+MSV000087739	Hyd_S_Metal_45_0p001_3_Hyd45m0p001uMM3_C9_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.001	3
+MSV000087739	Hyd_S_Metal_45_0p005_1_Hyd45m0p005uMM1_A10_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.005	1
+MSV000087739	Hyd_S_Metal_45_0p005_2_Hyd45m0p005uMM2_B9_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.005	2
+MSV000087739	Hyd_S_Metal_45_0p005_3_Hyd45m0p005uMM3_C8_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.005	3
+MSV000087739	Hyd_S_Metal_45_0p01_1_Hyd45m0p01uMM1_A9_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.01	1
+MSV000087739	Hyd_S_Metal_45_0p01_2_Hyd45m0p01uMM2_B8_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.01	2
+MSV000087739	Hyd_S_Metal_45_0p01_3_Hyd45m0p01uMM3_C7_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.01	3
+MSV000087739	Hyd_S_Metal_45_0p05_1_Hyd45m0p05uMM1_A8_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.05	1
+MSV000087739	Hyd_S_Metal_45_0p05_2_Hyd45m0p05uMM2_B7_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.05	2
+MSV000087739	Hyd_S_Metal_45_0p05_3_Hyd45m0p05uMM3_C6_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.05	3
+MSV000087739	Hyd_S_Metal_45_0p1_1_Hyd45m0p1uMM1_A7_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.1	1
+MSV000087739	Hyd_S_Metal_45_0p1_2_Hyd45m0p1uMM2_B6_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.1	2
+MSV000087739	Hyd_S_Metal_45_0p1_3_Hyd45m0p1uMM3_C5_145.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	swab-based recovery	Metal	45	0.1	3
+MSV000087739	Hyd_STD_0p000001_C9_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.000001	missing value
+MSV000087739	Hyd_STD_0p000005_C8_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.000005	missing value
+MSV000087739	Hyd_STD_0p00001_C7_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.00001	missing value
+MSV000087739	Hyd_STD_0p00005_C6_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.00005	missing value
+MSV000087739	Hyd_STD_0p0001_C5_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.0001	missing value
+MSV000087739	Hyd_STD_0p0005_C4_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.0005	missing value
+MSV000087739	Hyd_STD_0p001_C3_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.001	missing value
+MSV000087739	Hyd_STD_0p005_C2_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.005	missing value
+MSV000087739	Hyd_STD_0p01_C1_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.01	missing value
+MSV000087739	Hyd_STD_0p05_B12_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.05	missing value
+MSV000087739	Hyd_STD_0p1_B11_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Hyd	pure standard	missing value	missing value	0.1	missing value
+MSV000087739	Phe_S_Bench_10080_0p1_1_Phe1w0p1uMB1_B11_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	0.1	1
+MSV000087739	Phe_S_Bench_10080_0p1_2_Phe1w0p1uMB2_C4_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	0.1	2
+MSV000087739	Phe_S_Bench_10080_0p1_3_Phe1w0p1uMB3_C9_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	0.1	3
+MSV000087739	Phe_S_Bench_10080_1_1_Phe1w1uMB1_B10_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	1	1
+MSV000087739	Phe_S_Bench_10080_1_2_Phe1w1uMB2_C3_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	1	2
+MSV000087739	Phe_S_Bench_10080_1_3_Phe1w1uMB3_C8_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	1	3
+MSV000087739	Phe_S_Bench_10080_10_1_Phe1w10uMB1_B9_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	10	1
+MSV000087739	Phe_S_Bench_10080_10_2_Phe1w10uMB2_C2_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	10	2
+MSV000087739	Phe_S_Bench_10080_10_3_Phe1w10uMB3_C7_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	10	3
+MSV000087739	Phe_S_Bench_10080_100_1_Phe1w100uMB1_B7_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	100	1
+MSV000087739	Phe_S_Bench_10080_100_2_Phe1w100uMB2_B12_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	100	2
+MSV000087739	Phe_S_Bench_10080_100_3_Phe1w100uMB3_C5_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	100	3
+MSV000087739	Phe_S_Bench_10080_50_1_Phe1w50uMB1_B8_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	50	1
+MSV000087739	Phe_S_Bench_10080_50_2_Phe1w50uMB2_C1_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	50	2
+MSV000087739	Phe_S_Bench_10080_50_3_Phe1w50uMB3_C6_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	10080	50	3
+MSV000087739	Phe_S_Bench_45_0p1_1_Phe45m0p1uMB1_E11_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	0.1	1
+MSV000087739	Phe_S_Bench_45_0p1_2_Phe45m0p1uMB2_F4_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	0.1	2
+MSV000087739	Phe_S_Bench_45_0p1_3_Phe45m0p1uMB3_F9_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	0.1	3
+MSV000087739	Phe_S_Bench_45_1_1_Phe45m1uMB1_E10_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	1	1
+MSV000087739	Phe_S_Bench_45_1_2_Phe45m1uMB2_F3_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	1	2
+MSV000087739	Phe_S_Bench_45_1_3_Phe45m1uMB3_F8_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	1	3
+MSV000087739	Phe_S_Bench_45_10_1_Phe45m10uMB1_E9_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	10	1
+MSV000087739	Phe_S_Bench_45_10_2_Phe45m10uMB2_F2_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	10	2
+MSV000087739	Phe_S_Bench_45_10_3_Phe45m10uMB3_F7_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	10	3
+MSV000087739	Phe_S_Bench_45_100_1_Phe45m100uMB1_E7_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	100	1
+MSV000087739	Phe_S_Bench_45_100_2_Phe45m100uMB2_E12_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	100	2
+MSV000087739	Phe_S_Bench_45_100_3_Phe45m100uMB3_F5_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	100	3
+MSV000087739	Phe_S_Bench_45_50_1_Phe45m50uMB1_E8_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	50	1
+MSV000087739	Phe_S_Bench_45_50_2_Phe45m50uMB2_F1_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	50	2
+MSV000087739	Phe_S_Bench_45_50_3_Phe45m50uMB3_F6_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Bench	45	50	3
+MSV000087739	Phe_S_Floor_10080_0p1_1_Phe1w0p1uMF1_H5_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	0.1	1
+MSV000087739	Phe_S_Floor_10080_0p1_2_Phe1w0p1uMF2_H10_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	0.1	2
+MSV000087739	Phe_S_Floor_10080_0p1_3_Phe1w0p1uMF3_A3_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	0.1	3
+MSV000087739	Phe_S_Floor_10080_1_1_Phe1w1uMF1_H4_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	1	1
+MSV000087739	Phe_S_Floor_10080_1_2_Phe1w1uMF2_H9_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	1	2
+MSV000087739	Phe_S_Floor_10080_1_3_Phe1w1uMF3_A2_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	1	3
+MSV000087739	Phe_S_Floor_10080_10_1_Phe1w10uMF1_H3_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	10	1
+MSV000087739	Phe_S_Floor_10080_10_2_Phe1w10uMF2_H8_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	10	2
+MSV000087739	Phe_S_Floor_10080_10_3_Phe1w10uMF3_A1_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	10	3
+MSV000087739	Phe_S_Floor_10080_100_1_Phe1w100uMF1_G12_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	100	1
+MSV000087739	Phe_S_Floor_10080_100_2_Phe1w100uMF2_H6_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	100	2
+MSV000087739	Phe_S_Floor_10080_100_3_Phe1w100uMF3_H11_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	100	3
+MSV000087739	Phe_S_Floor_10080_50_1_Phe1w50uMF1_H2_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	50	1
+MSV000087739	Phe_S_Floor_10080_50_2_Phe1w50uMF2_H7_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	50	2
+MSV000087739	Phe_S_Floor_10080_50_3_Phe1w50uMF3_H12_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	10080	50	3
+MSV000087739	Phe_S_Floor_45_0p1_1_Phe45m0p1uMF1_C5_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	0.1	1
+MSV000087739	Phe_S_Floor_45_0p1_2_Phe45m0p1uMF2_C10_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	0.1	2
+MSV000087739	Phe_S_Floor_45_0p1_3_Phe45m0p1uMF3_D3_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	0.1	3
+MSV000087739	Phe_S_Floor_45_1_1_Phe45m1uMF1_C4_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	1	1
+MSV000087739	Phe_S_Floor_45_1_2_Phe45m1uMF2_C9_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	1	2
+MSV000087739	Phe_S_Floor_45_1_3_Phe45m1uMF3_D2_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	1	3
+MSV000087739	Phe_S_Floor_45_10_1_Phe45m10uMF1_C3_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	10	1
+MSV000087739	Phe_S_Floor_45_10_2_Phe45m10uMF2_C8_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	10	2
+MSV000087739	Phe_S_Floor_45_10_3_Phe45m10uMF3_D1_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	10	3
+MSV000087739	Phe_S_Floor_45_100_1_Phe45m100uMF1_C1_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	100	1
+MSV000087739	Phe_S_Floor_45_100_2_Phe45m100uMF2_C6_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	100	2
+MSV000087739	Phe_S_Floor_45_100_3_Phe45m100uMF3_C11_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	100	3
+MSV000087739	Phe_S_Floor_45_50_1_Phe45m50uMF1_C2_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	50	1
+MSV000087739	Phe_S_Floor_45_50_2_Phe45m50uMF2_C7_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	50	2
+MSV000087739	Phe_S_Floor_45_50_3_Phe45m50uMF3_C12_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Floor	45	50	3
+MSV000087739	Phe_S_Glass_10080_0p1_1_Phe1w0p1uMG1_A8_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	0.1	1
+MSV000087739	Phe_S_Glass_10080_0p1_2_Phe1w0p1uMG2_B1_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	0.1	2
+MSV000087739	Phe_S_Glass_10080_0p1_3_Phe1w0p1uMG3_B6_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	0.1	3
+MSV000087739	Phe_S_Glass_10080_1_1_Phe1w1uMG1_A7_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	1	1
+MSV000087739	Phe_S_Glass_10080_1_2_Phe1w1uMG2_A12_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	1	2
+MSV000087739	Phe_S_Glass_10080_1_3_Phe1w1uMG3_B5_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	1	3
+MSV000087739	Phe_S_Glass_10080_10_1_Phe1w10uMG1_A6_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	10	1
+MSV000087739	Phe_S_Glass_10080_10_2_Phe1w10uMG2_A11_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	10	2
+MSV000087739	Phe_S_Glass_10080_10_3_Phe1w10uMG3_B4_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	10	3
+MSV000087739	Phe_S_Glass_10080_100_1_Phe1w100uMG1_A4_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	100	1
+MSV000087739	Phe_S_Glass_10080_100_2_Phe1w100uMG2_A9_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	100	2
+MSV000087739	Phe_S_Glass_10080_100_3_Phe1w100uMG3_B2_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	100	3
+MSV000087739	Phe_S_Glass_10080_50_1_Phe1w50uMG1_A5_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	50	1
+MSV000087739	Phe_S_Glass_10080_50_2_Phe1w50uMG2_A10_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	50	2
+MSV000087739	Phe_S_Glass_10080_50_3_Phe1w50uMG3_B3_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	10080	50	3
+MSV000087739	Phe_S_Glass_45_0p1_1_Phe45m0p1uMG1_D8_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	0.1	1
+MSV000087739	Phe_S_Glass_45_0p1_2_Phe45m0p1uMG2_E1_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	0.1	2
+MSV000087739	Phe_S_Glass_45_0p1_3_Phe45m0p1uMG3_E6_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	0.1	3
+MSV000087739	Phe_S_Glass_45_1_1_Phe45m1uMG1_D7_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	1	1
+MSV000087739	Phe_S_Glass_45_1_2_Phe45m1uMG2_D12_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	1	2
+MSV000087739	Phe_S_Glass_45_1_3_Phe45m1uMG3_E5_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	1	3
+MSV000087739	Phe_S_Glass_45_10_1_Phe45m10uMG1_D6_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	10	1
+MSV000087739	Phe_S_Glass_45_10_2_Phe45m10uMG2_D11_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	10	2
+MSV000087739	Phe_S_Glass_45_10_3_Phe45m10uMG3_E4_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	10	3
+MSV000087739	Phe_S_Glass_45_100_1_Phe45m100uMG1_D4_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	100	1
+MSV000087739	Phe_S_Glass_45_100_2_Phe45m100uMG2_D9_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	100	2
+MSV000087739	Phe_S_Glass_45_100_3_Phe45m100uMG3_E2_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	100	3
+MSV000087739	Phe_S_Glass_45_50_1_Phe45m50uMG1_D5_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	50	1
+MSV000087739	Phe_S_Glass_45_50_2_Phe45m50uMG2_D10_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	50	2
+MSV000087739	Phe_S_Glass_45_50_3_Phe45m50uMG3_E3_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Glass	45	50	3
+MSV000087739	Phe_S_Metal_10080_0p1_1_Phe1w0p1uMM1_D2_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	0.1	1
+MSV000087739	Phe_S_Metal_10080_0p1_2_Phe1w0p1uMM2_D7_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	0.1	2
+MSV000087739	Phe_S_Metal_10080_0p1_3_Phe1w0p1uMM3_D12_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	0.1	3
+MSV000087739	Phe_S_Metal_10080_1_1_Phe1w1uMM1_D1_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	1	1
+MSV000087739	Phe_S_Metal_10080_1_2_Phe1w1uMM2_D6_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	1	2
+MSV000087739	Phe_S_Metal_10080_1_3_Phe1w1uMM3_D11_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	1	3
+MSV000087739	Phe_S_Metal_10080_10_1_Phe1w10uMM1_C12_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	10	1
+MSV000087739	Phe_S_Metal_10080_10_2_Phe1w10uMM2_D5_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	10	2
+MSV000087739	Phe_S_Metal_10080_10_3_Phe1w10uMM3_D10_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	10	3
+MSV000087739	Phe_S_Metal_10080_100_1_Phe1w100uMM1_C10_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	100	1
+MSV000087739	Phe_S_Metal_10080_100_2_Phe1w100uMM2_D3_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	100	2
+MSV000087739	Phe_S_Metal_10080_100_3_Phe1w100uMM3_D8_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	100	3
+MSV000087739	Phe_S_Metal_10080_50_1_Phe1w50uMM1_C11_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	50	1
+MSV000087739	Phe_S_Metal_10080_50_2_Phe1w50uMM2_D4_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	50	2
+MSV000087739	Phe_S_Metal_10080_50_3_Phe1w50uMM3_D9_144.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	10080	50	3
+MSV000087739	Phe_S_Metal_45_0p1_1_Phe45m0p1uMM1_G2_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	0.1	1
+MSV000087739	Phe_S_Metal_45_0p1_2_Phe45m0p1uMM2_G7_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	0.1	2
+MSV000087739	Phe_S_Metal_45_0p1_3_Phe45m0p1uMM3_H1_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	0.1	3
+MSV000087739	Phe_S_Metal_45_1_1_Phe45m1uMM1_G1_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	1	1
+MSV000087739	Phe_S_Metal_45_1_2_Phe45m1uMM2_G6_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	1	2
+MSV000087739	Phe_S_Metal_45_1_3_Phe45m1uMM3_G11_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	1	3
+MSV000087739	Phe_S_Metal_45_10_1_Phe45m10uMM1_F12_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	10	1
+MSV000087739	Phe_S_Metal_45_10_2_Phe45m10uMM2_G5_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	10	2
+MSV000087739	Phe_S_Metal_45_10_3_Phe45m10uMM3_G10_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	10	3
+MSV000087739	Phe_S_Metal_45_100_1_Phe45m100uMM1_F10_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	100	1
+MSV000087739	Phe_S_Metal_45_100_2_Phe45m100uMM2_G3_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	100	2
+MSV000087739	Phe_S_Metal_45_100_3_Phe45m100uMM3_G8_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	100	3
+MSV000087739	Phe_S_Metal_45_50_1_Phe45m50uMM1_F11_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	50	1
+MSV000087739	Phe_S_Metal_45_50_2_Phe45m50uMM2_G4_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	50	2
+MSV000087739	Phe_S_Metal_45_50_3_Phe45m50uMM3_G9_143.mzXML	inanimate_object	missing value	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	swab-based recovery	Metal	45	50	3
+MSV000087739	Phe_STD_0p1_B1_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	pure standard	missing value	missing value	0.1	missing value
+MSV000087739	Phe_STD_1_A12_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	pure standard	missing value	missing value	1	missing value
+MSV000087739	Phe_STD_10_A11_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	pure standard	missing value	missing value	10	missing value
+MSV000087739	Phe_STD_100_A9_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	pure standard	missing value	missing value	100	missing value
+MSV000087739	Phe_STD_50_A10_147.mzXML	molecular_standards	defined_standards	missing value	Q Exactive Plus|MS:1002634	missing value	Phe	pure standard	missing value	missing value	50	missing value
+MSV000087739	ccms_peak/Swab Project_Part2_RawData_files/pos_pooled_QC1.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab_Project_Part_1_RawData_files/pos_pooled_QC1.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210427210732.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210428001407.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210428032044.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210428062719.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210428093348.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210428124021.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210428154700.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210428190642.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210428221319.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210429011948.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210429042626.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210429073302.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210506190644.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210506221313.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210507011950.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210507042625.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210507073250.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210507103923.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210507134606.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210507170556.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210507201225.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210507231854.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210508022521.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210508053152.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210508083827.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210508114500.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210508150440.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210508181117.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210508211746.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210509002419.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC1_20210509025052.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab Project_Part2_RawData_files/pos_pooled_QC2.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab_Project_Part_1_RawData_files/pos_pooled_QC2.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210429103938.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210429134621.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210429170605.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210429201240.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210429231919.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210430022552.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210430053227.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210430083900.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210430114533.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210430150511.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	pos_pooled_QC2_20210430181152.mzXML	pool_QC	pool_QC	2021	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab Project_Part2_RawData_files/pos_pooled_QC3.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab_Project_Part_1_RawData_files/pos_pooled_QC3.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab Project_Part2_RawData_files/pos_pooled_QC4.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab_Project_Part_1_RawData_files/pos_pooled_QC4.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab Project_Part2_RawData_files/pos_pooled_QC5.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab_Project_Part_1_RawData_files/pos_pooled_QC5.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	electrospray ionization (positive)	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab Project_Part2_RawData_files/Start_Blank_1.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	missing value	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab_Project_Part_1_RawData_files/Start_Blank_1.mzML	pool_QC	pool_QC	missing value	Q Exactive Plus|MS:1002634	missing value	missing value	pooled QC	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210427205417.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210428000052.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210428030729.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210428061404.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210428092033.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210428122706.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210428153346.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210428185328.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210428220004.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210429010634.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210429041311.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210429071948.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210506185331.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210506220000.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210507010637.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210507041312.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210507071937.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210507102610.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210507133253.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210507165243.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_1_20210507195912.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab Project_Part2_RawData_files/Start_Blank_2.mzML	blank_analysis	blank_analysis	missing value	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	ccms_peak/Swab_Project_Part_1_RawData_files/Start_Blank_2.mzML	blank_analysis	blank_analysis	missing value	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210429102623.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210429133306.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210429165250.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210429195925.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210429230604.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210430021237.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210430051912.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210430082545.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210430113218.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210430145156.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210430175837.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210507230541.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210508021208.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210508051839.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210508082514.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210508113147.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210508145127.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210508175804.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210508210433.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210509001106.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value
+MSV000087739	Start_Blank_2_20210509023738.mzXML	blank_analysis	blank_analysis	2021	Q Exactive Plus|MS:1002634	missing value	missing value	blank	missing value	missing value	missing value	missing value

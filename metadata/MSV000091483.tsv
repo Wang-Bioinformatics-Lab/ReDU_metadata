@@ -1,0 +1,56 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	YearOfAnalysis	TimePointHoursRelativeToEvent	MassSpectrometer	SampleType_source	Isozyme	Time	AcquisitionDate
+MSV000091483	s221123_1A2_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	1A2	0h	2022.11.22
+MSV000091483	s221123_1A2_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	1A2	2h	2022.11.22
+MSV000091483	s221123_1A2_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	1A2	2h	2022.11.22
+MSV000091483	s221123_1A2_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	1A2	2h	2022.11.22
+MSV000091483	s221123_1A2_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	1A2	2h	2022.11.22
+MSV000091483	s221123_2C8_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	2C8	0h	2022.11.22
+MSV000091483	s221123_2C8_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2C8	2h	2022.11.22
+MSV000091483	s221123_2C8_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2C8	2h	2022.11.22
+MSV000091483	s221123_2C8_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2C8	2h	2022.11.22
+MSV000091483	s221123_2C8_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	2C8	2h	2022.11.22
+MSV000091483	s221123_2C9_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	2C9	0h	2022.11.22
+MSV000091483	s221123_2C9_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2C9	2h	2022.11.22
+MSV000091483	s221123_2C9_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2C9	2h	2022.11.22
+MSV000091483	s221123_2C9_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2C9	2h	2022.11.22
+MSV000091483	s221123_2C9_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	2C9	2h	2022.11.22
+MSV000091483	s221123_2D6_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	2D6	0h	2022.11.22
+MSV000091483	s221123_2D6_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2D6	2h	2022.11.22
+MSV000091483	s221123_2D6_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2D6	2h	2022.11.22
+MSV000091483	s221123_2D6_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2D6	2h	2022.11.22
+MSV000091483	s221123_2D6_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	2D6	2h	2022.11.22
+MSV000091483	s221123_2E1_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	2.00E+01	0h	2022.11.22
+MSV000091483	s221123_2E1_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2.00E+01	2h	2022.11.22
+MSV000091483	s221123_2E1_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2.00E+01	2h	2022.11.22
+MSV000091483	s221123_2E1_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2.00E+01	2h	2022.11.22
+MSV000091483	s221123_2E1_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	2.00E+01	2h	2022.11.22
+MSV000091483	s221123_3A4_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	3A4	0h	2022.11.22
+MSV000091483	s221123_3A4_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	3A4	2h	2022.11.22
+MSV000091483	s221123_3A4_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	3A4	2h	2022.11.22
+MSV000091483	s221123_3A4_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	3A4	2h	2022.11.22
+MSV000091483	s221123_3A4_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	3A4	2h	2022.11.22
+MSV000091483	s221123_3A5_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	3A5	0h	2022.11.22
+MSV000091483	s221123_3A5_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	3A5	2h	2022.11.22
+MSV000091483	s221123_3A5_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	3A5	2h	2022.11.22
+MSV000091483	s221123_3A5_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	3A5	2h	2022.11.22
+MSV000091483	s221123_3A5_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	3A5	2h	2022.11.22
+MSV000091483	s221123_HLM_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	HLM	0h	2022.11.22
+MSV000091483	s221123_HLM_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	HLM	2h	2022.11.22
+MSV000091483	s221123_HLM_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	HLM	2h	2022.11.22
+MSV000091483	s221123_HLM_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	HLM	2h	2022.11.22
+MSV000091483	s221123_HLM_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	HLM	2h	2022.11.22
+MSV000091483	s221123_2A6_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	2A6	0h	2022.11.22
+MSV000091483	s221123_2A6_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2A6	2h	2022.11.22
+MSV000091483	s221123_2A6_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2A6	2h	2022.11.22
+MSV000091483	s221123_2A6_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2A6	2h	2022.11.22
+MSV000091483	s221123_2A6_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	2A6	2h	2022.11.22
+MSV000091483	s221123_2B6_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	2B6	0h	2022.11.22
+MSV000091483	s221123_2B6_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2B6	2h	2022.11.22
+MSV000091483	s221123_2B6_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2B6	2h	2022.11.22
+MSV000091483	s221123_2B6_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2B6	2h	2022.11.22
+MSV000091483	s221123_2B6_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	2B6	2h	2022.11.22
+MSV000091483	s221123_2J2_0h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	0	6530A Q-TOF LC/MS|MS:1002786	sample	2J2	0h	2022.11.22
+MSV000091483	s221123_2J2_2h_01.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2J2	2h	2022.11.22
+MSV000091483	s221123_2J2_2h_02.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2J2	2h	2022.11.22
+MSV000091483	s221123_2J2_2h_03.mzXML	missing value	missing value	9606|Homo sapiens	2022	2	6530A Q-TOF LC/MS|MS:1002786	sample	2J2	2h	2022.11.22
+MSV000091483	s221123_2J2_Blank_01.mzXML	blank_analysis	blank_analysis	missing value	2022	missing value	6530A Q-TOF LC/MS|MS:1002786	Blank	2J2	2h	2022.11.22

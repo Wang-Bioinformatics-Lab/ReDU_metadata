@@ -1,0 +1,35 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	ATTRIBUTE_metal	ATTRIBUTE_Type
+MSV000086287	blank_0_2.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	no	blank
+MSV000086287	blank_1.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	no	blank
+MSV000086287	nicotiflorin-2_Metal-mix.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_nicotiflorin
+MSV000086287	nicotiflorin-2.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	no	pure_nicotiflorin
+MSV000086287	blank_2.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	no	blank
+MSV000086287	extract-2_Metal-mix_1mM.mzML	plant	missing value	77904|Psychotria insularum	Q Exactive|MS:1001911	yes	extract
+MSV000086287	extract-1_Metal-mix_1mM.mzML	plant	missing value	77904|Psychotria insularum	Q Exactive|MS:1001911	yes	extract
+MSV000086287	extract-2_Metal-mix.mzML	plant	missing value	77904|Psychotria insularum	Q Exactive|MS:1001911	yes	pure_extract
+MSV000086287	rutin-1.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	no	pure_rutin
+MSV000086287	nicotiflorin-3_Metal-mix.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_nicotiflorin
+MSV000086287	nicotiflorin-3.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	no	pure_nicotiflorin
+MSV000086287	nicotiflorin-2_Metal-mix_1mM.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_nicotiflorin
+MSV000086287	extract-1_Metal-mix.mzML	plant	missing value	77904|Psychotria insularum	Q Exactive|MS:1001911	yes	extract
+MSV000086287	extract-3_Metal-mix.mzML	plant	missing value	77904|Psychotria insularum	Q Exactive|MS:1001911	yes	extract
+MSV000086287	extract-1.mzML	plant	missing value	77904|Psychotria insularum	Q Exactive|MS:1001911	no	extract
+MSV000086287	nicotiflorin-1_Metal-mix.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_nicotiflorin
+MSV000086287	nicotiflorin-1.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	no	pure_nicotiflorin
+MSV000086287	rutin-1_Metal-mix.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_rutin
+MSV000086287	rutin-2.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	no	pure_rutin
+MSV000086287	rutin-2_Metal-mix.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_rutin
+MSV000086287	nicotiflorin-1_Metal-mix_1mM.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_nicotiflorin
+MSV000086287	nicotiflorin-3_Metal-mix_1mM.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_nicotiflorin
+MSV000086287	extract-2.mzML	plant	missing value	77904|Psychotria insularum	Q Exactive|MS:1001911	no	extract
+MSV000086287	rutin-3.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	no	pure_rutin
+MSV000086287	rutin-3_Metal-mix.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_rutin
+MSV000086287	rutin-1_Metal-mix_1mM.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_rutin
+MSV000086287	rutin-2_Metal-mix_1mM.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_rutin
+MSV000086287	rutin-3_Metal-mix_1mM.mzML	molecular_standards	missing value	missing value	Q Exactive|MS:1001911	yes	pure_rutin
+MSV000086287	blank_0.mzML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	no	blank
+MSV000086287	extract-3_Metal-mix_1mM.mzML	plant	missing value	77904|Psychotria insularum	Q Exactive|MS:1001911	yes	extract
+MSV000086287	extract-3.mzML	plant	missing value	77904|Psychotria insularum	Q Exactive|MS:1001911	no	extract
+MSV000086287	QC_0.mzML	pool_QC	pool_QC	missing value	Q Exactive|MS:1001911	missing value	missing value
+MSV000086287	QC_1.mzML	pool_QC	pool_QC	missing value	Q Exactive|MS:1001911	missing value	missing value
+MSV000086287	QC_2.mzML	pool_QC	pool_QC	missing value	Q Exactive|MS:1001911	missing value	missing value

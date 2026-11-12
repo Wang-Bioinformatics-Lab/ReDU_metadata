@@ -1,0 +1,107 @@
+MassiveID	filename	SampleType	SampleTypeSub1	SampleCollectionDateandTime	Country	MassSpectrometer	SampleID	SampleType_source	ExtractionType	Site	Year	SampleGroupFreeText
+MSV000093148	SDFI20_R1_25min.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_R1	sample	resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_R2.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_R2	sample	resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_R3_25min.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_R3	sample	resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_R4_25min.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_R4	sample	resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_AR1.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_AR1	sample	agar-resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_AR2.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_AR2	sample	agar-resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_AR3.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_AR3	sample	agar-resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_AR4.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_AR4	sample	A1-agar-resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_AR5_25min.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_AR5	sample	A1-agar-resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_AR6_25min.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_AR6	sample	A1-agar-resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDFI20_AR7_25min.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDFI20_AR7	sample	A1-agar-resin	FiestaIsland	2020	Site: FiestaIsland
+MSV000093148	SDBD20_AR1.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDBD20_AR1	sample	agar-resin	BriarfieldDrive	2020	Site: BriarfieldDrive
+MSV000093148	SDBD20_AR1_SPE2.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDBD20_AR1_SPE2	sample	agar-resin-fractions	BriarfieldDrive	2020	Site: BriarfieldDrive
+MSV000093148	SDBD20_AR1_SPE3.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDBD20_AR1_SPE3	sample	agar-resin-fractions	BriarfieldDrive	2020	Site: BriarfieldDrive
+MSV000093148	SDBD20_AR1_SPE4.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDBD20_AR1_SPE4	sample	agar-resin-fractions	BriarfieldDrive	2020	Site: BriarfieldDrive
+MSV000093148	SDBD20_AR1_SPE5.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDBD20_AR1_SPE5	sample	agar-resin-fractions	BriarfieldDrive	2020	Site: BriarfieldDrive
+MSV000093148	SDBD20_AR2_25min.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDBD20_AR2	sample	agar-resin	BriarfieldDrive	2020	Site: BriarfieldDrive
+MSV000093148	SDBD20_R1_25min.mzXML	environmental	missing value	2020	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDBD20_R1	sample	resin	BriarfieldDrive	2020	Site: BriarfieldDrive
+MSV000093148	SDPL21_R1.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R1	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R2.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R2	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R3.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R3	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R4.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R4	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R6.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R6	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R7.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R7	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R7_SPE2.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R7_SPE2	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R7_SPE3.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R7_SPE3	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R7_SPE4.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R7_SPE4	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R8.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R8	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R8_SPE2.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R8_SPE2	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R8_SPE3.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R8_SPE3	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R8_SPE4.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R8_SPE4	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R8_SPE5.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R8_SPE5	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R11.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R11	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R11_SPE2.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R11_SPE2	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R11_SPE3.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R11_SPE3	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R11_SPE4.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R11_SPE4	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R11_SPE5.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R11_SPE5	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R12.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R12	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R13.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R13	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R14.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R14	sample	resin	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R14_SPE2.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R14_SPE2	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R14_SPE3.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R14_SPE3	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R14_SPE4.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R14_SPE4	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL21_R14_SPE5.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL21_R14_SPE5	sample	resin-fractions	Cabrillo_SMR	2021	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R1.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R1	sample	resin	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R2.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R2	sample	resin	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R3.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R3	sample	resin	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R4.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R4	sample	resin	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R5.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R5	sample	resin	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R6.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R6	sample	resin	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R7.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R7	sample	resin	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R8.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R8	sample	resin	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R6_SPE2.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R6_SPE2	sample	resin-fractions	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R6_SPE3.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R6_SPE3	sample	resin-fractions	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R6_SPE4.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R6_SPE4	sample	resin-fractions	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_R6_SPE5.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_R6_SPE5	sample	resin-fractions	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL22_AR1.mzXML	environmental	missing value	2022	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL22_AR1	sample	agar-resin	Cabrillo_SMR	2022	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R1_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R1	sample	resin	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R2_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R2	sample	resin	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R34-2_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R34	sample	resin	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R5_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R5	sample	resin	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R6_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R6	sample	resin	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R7_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R7	sample	resin	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R34_SPE1-2.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R34_SPE1-2	sample	resin-fractions	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R34_SPE1-3.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R34_SPE1-3	sample	resin-fractions	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R34_SPE1-4.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R34_SPE1-4	sample	resin-fractions	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R34_SPE2.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R34_SPE2	sample	resin-fractions	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R34_SPE3.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R34_SPE3	sample	resin-fractions	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDPL23_R34_SPE4.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDPL23_R34_SPE4	sample	resin-fractions	Cabrillo_SMR	2023	Site: Cabrillo_SMR
+MSV000093148	SDSP23_R1_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_R1	sample	resin	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_R2_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_R2	sample	resin	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_R3_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_R3	sample	resin	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_N1_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_N1	sample	nitex	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_AR1-low_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_AR1-low	sample	agar-resin	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_AR2-low_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_AR2-low	sample	agar-resin	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_AR3-low_25min.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_AR3-low	sample	agar-resin	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_R1-LC4.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_R1-LC4	sample	resin-fractions	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_R1-LC5.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_R1-LC5	sample	resin-fractions	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_R1-LC6.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_R1-LC6	sample	resin-fractions	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_R1-LC7.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_R1-LC7	sample	resin-fractions	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_R1-LC8.mzXML	environmental	missing value	2023	United States of America	6530A Q-TOF LC/MS|MS:1002786	SDSP23_R1-LC8	sample	resin-fractions	Scripps_Pier	2023	Site: Scripps_Pier
+MSV000093148	SDSP23_AR_control_25min.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	SDSP23_AR_control	control	agar-resin	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	SDSP23_AR-N_control_25min.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	SDSP23_AR-N_control	control	nitex-contol	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	MeOH_8-10-23.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	MeOH_8-10-23	blank	blank	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	MeOH_25min_6-29-23.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	MeOH_6-29-23	blank	blank	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	MeOH_25min_7-3-23.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	MeOH_7-3-23	blank	blank	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	Nitex_control_25min_7-3-23.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	Nitex_control_25min_7-3-23	control	nitex-control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	HP-20_control_25min_7-3-23.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	HP-20_control_25min_7-3-23	control	resin-control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	blank_vial.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	blank_vial	blank	blank	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	blank_12-13-20.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	blank_12-13-20	blank	blank	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	blank_clean.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	blank_clean	blank	blank	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	blank_cleaned1.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	blank_cleaned1	blank	blank	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	resin_DCM-MeOH_control.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	resin_DCM-MeOH_control	control	resin-control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	resin_control_MM.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	resin_control_MM	control	resin-control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	HP-20_2w_seawater_control.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	HP-20_2w_seawater_control	control	resin-control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	AgarResin_DCM-MeOH_control.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	AgarResin_DCM-MeOH_control	control	agar-resin_control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	AgarResin_EtAc_control.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	AgarResin_EtAc_control	control	agar-resin_control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	EtAc-can_control.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	EtAc-can_control	control	solvent_control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	DCM-MeOH_control.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	DCM-MeOH_control	control	solvent_control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	isoprop_control.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	isoprop_control	control	solvent_control	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	SSSC21_R1_25min.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SSSC21_R1	sample	resin	Salton_Sea	2021	Site: Salton_Sea
+MSV000093148	SSSC21_R2_25min.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SSSC21_R2	sample	resin	Salton_Sea	2021	Site: Salton_Sea
+MSV000093148	SSSC21_R3_25min.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SSSC21_R3	sample	resin	Salton_Sea	2021	Site: Salton_Sea
+MSV000093148	SSSC21_R4_25min.mzXML	environmental	missing value	2021	United States of America	6530A Q-TOF LC/MS|MS:1002786	SSSC21_R4	sample	resin	Salton_Sea	2021	Site: Salton_Sea
+MSV000093148	MeOH-H2O_9-19-23.mzXML	blank_analysis	blank_analysis	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	MeOH-H2O_9-19-23	blank	blank	non_applicable	non_applicable	Site: non_applicable
+MSV000093148	HP-20_seawater-control_25min.mzXML	blank_extraction	blank_extraction	missing value	missing value	6530A Q-TOF LC/MS|MS:1002786	HP-20_seawater-control	control	resin	non_applicable	non_applicable	Site: non_applicable

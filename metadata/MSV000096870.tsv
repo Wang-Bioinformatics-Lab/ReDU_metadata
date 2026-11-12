@@ -1,0 +1,7 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	File_ID	Run_Order	Polarity	Sequence_ID	Sample_Type	Sample_ID
+MSV000096870	D131021_QC_pos_MS2_hi_4.mzML	pool_QC	pool_QC	117272|Amaranthus cruentus	Orbitrap Fusion|MS:1002416	electrospray ionization (positive)	D131021_QC_pos_MS2_hi_4	28	pos	131021_MS2_test	QC	QC
+MSV000096870	D131021_QC_pos_MS2_hi_5.mzML	pool_QC	pool_QC	117272|Amaranthus cruentus	Orbitrap Fusion|MS:1002416	electrospray ionization (positive)	D131021_QC_pos_MS2_hi_5	29	pos	131021_MS2_test	QC	QC
+MSV000096870	D131021_QC_pos_MS2_hi_6.mzML	pool_QC	pool_QC	117272|Amaranthus cruentus	Orbitrap Fusion|MS:1002416	electrospray ionization (positive)	D131021_QC_pos_MS2_hi_6	30	pos	131021_MS2_test	QC	QC
+MSV000096870	D131021_QC_neg_MS2_hi_4.mzML	pool_QC	pool_QC	117272|Amaranthus cruentus	Orbitrap Fusion|MS:1002416	electrospray ionization (negative)	D131021_QC_neg_MS2_hi_4	34	neg	131021_MS2_test	QC	QC
+MSV000096870	D131021_QC_neg_MS2_hi_5.mzML	pool_QC	pool_QC	117272|Amaranthus cruentus	Orbitrap Fusion|MS:1002416	electrospray ionization (negative)	D131021_QC_neg_MS2_hi_5	35	neg	131021_MS2_test	QC	QC
+MSV000096870	D131021_QC_neg_MS2_hi_6.mzML	pool_QC	pool_QC	117272|Amaranthus cruentus	Orbitrap Fusion|MS:1002416	electrospray ionization (negative)	D131021_QC_neg_MS2_hi_6	36	neg	131021_MS2_test	QC	QC

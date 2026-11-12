@@ -1,0 +1,33 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	Diet	SubjectIdentifierAsRecorded	MassSpectrometer	ChromatographyAndPhase	extraction	group_recorded
+MSV000094925	ACN_3.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	instrument_control	instrument_control
+MSV000094925	ACN_4.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	instrument_control	instrument_control
+MSV000094925	ACN_5.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	instrument_control	instrument_control
+MSV000094925	ACN_6.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	instrument_control	instrument_control
+MSV000094925	ACN_7.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	instrument_control	instrument_control
+MSV000094925	ACN_8.mzML	blank_analysis	blank_analysis	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	instrument_control	instrument_control
+MSV000094925	B1_DOWN.mzML	blank_extraction	blank_extraction	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	blank
+MSV000094925	B1_UP.mzML	blank_extraction	blank_extraction	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	blank
+MSV000094925	B2_DOWN.mzML	blank_extraction	blank_extraction	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	blank
+MSV000094925	B2_UP.mzML	blank_extraction	blank_extraction	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	blank
+MSV000094925	B3_DOWN.mzML	blank_extraction	blank_extraction	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	blank
+MSV000094925	B3_UP.mzML	blank_extraction	blank_extraction	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	blank
+MSV000094925	158_DOWN.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X158	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	WD_Fc
+MSV000094925	158_UP.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X158	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	WD_Fc
+MSV000094925	165_DOWN.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X165	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	WD_Fc
+MSV000094925	165_UP.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X165	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	WD_Fc
+MSV000094925	168_DOWN.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X168	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	WD_Fc
+MSV000094925	168_UP.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X168	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	WD_Fc
+MSV000094925	170_DOWN.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X170	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	WD_IL22
+MSV000094925	170_UP.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X170	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	WD_IL22
+MSV000094925	171_DOWN.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X171	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	WD_IL22
+MSV000094925	171_UP.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X171	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	WD_IL22
+MSV000094925	173_DOWN.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X173	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	WD_IL22
+MSV000094925	173_UP.mzML	animal	tissue	10090|Mus musculus	liver	Western diet	X173	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	WD_IL22
+MSV000094925	6_mix_2.mzML	molecular_standards	defined_standards	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	instrument_control	instrument_control
+MSV000094925	6_mix_3.mzML	molecular_standards	defined_standards	missing value	missing value	missing value	missing value	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	instrument_control	instrument_control
+MSV000094925	671_DOWN.mzML	animal	tissue	10090|Mus musculus	liver	control diet	X671	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	NCD
+MSV000094925	671_UP.mzML	animal	tissue	10090|Mus musculus	liver	control diet	X671	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	NCD
+MSV000094925	672_DOWN.mzML	animal	tissue	10090|Mus musculus	liver	control diet	X672	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	NCD
+MSV000094925	672_UP.mzML	animal	tissue	10090|Mus musculus	liver	control diet	X672	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	NCD
+MSV000094925	673_DOWN.mzML	animal	tissue	10090|Mus musculus	liver	control diet	X673	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	DOWN	NCD
+MSV000094925	673_UP.mzML	animal	tissue	10090|Mus musculus	liver	control diet	X673	Q Exactive GC Orbitrap|MS:1003395	gas chromatography (NOS)	UP	NCD

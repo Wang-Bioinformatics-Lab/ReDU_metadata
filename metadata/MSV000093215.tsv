@@ -1,0 +1,25 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	UBERONBodyPartName	TimePointHoursRelativeToEvent	SampleTypeAsRecorded	Compound	Batch
+MSV000093215	DNCB_GSH_0h_1.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0 h	DNCB	missing value
+MSV000093215	DNCB_GSH_0h_2.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0 h	DNCB	missing value
+MSV000093215	DNCB_GSH_0h_3.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0 h	DNCB	missing value
+MSV000093215	DNCB_GSH_0h_4.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0 h	DNCB	missing value
+MSV000093215	DNCB_GSH_1h_1.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1 h	DNCB	missing value
+MSV000093215	DNCB_GSH_1h_2.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1 h	DNCB	missing value
+MSV000093215	DNCB_GSH_1h_3.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1 h	DNCB	missing value
+MSV000093215	DNCB_GSH_1h_4.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1 h	DNCB	missing value
+MSV000093215	0h-1.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0 h	2-AP	3
+MSV000093215	0h-2.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0 h	2-AP	3
+MSV000093215	0h-3.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0 h	2-AP	3
+MSV000093215	0h-4.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0 h	2-AP	3
+MSV000093215	1h-1.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1 h	2-AP	3
+MSV000093215	1h-2.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1 h	2-AP	3
+MSV000093215	1h-3.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1 h	2-AP	3
+MSV000093215	1h-4.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1 h	2-AP	3
+MSV000093215	AAP_0h_1.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0h	AAP	6
+MSV000093215	AAP_0h_2.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0h	AAP	6
+MSV000093215	AAP_0h_3.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0h	AAP	6
+MSV000093215	AAP_0h_4.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	0	0h	AAP	6
+MSV000093215	AAP_1h_1.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1h	AAP	6
+MSV000093215	AAP_1h_2.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1h	AAP	6
+MSV000093215	AAP_1h_3.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1h	AAP	6
+MSV000093215	AAP_1h_4.mzXML	animal	tissue	9606|Homo sapiens	Q Exactive|MS:1001911	liver	1	1h	AAP	6

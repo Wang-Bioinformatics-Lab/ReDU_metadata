@@ -1,0 +1,37 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	SampleCollectionMethod	MassSpectrometer	TimePointHoursRelativeToEvent	Group	Hours	Replicate	SampleGroupFreeText
+MSV000097687	Media_Blank_A_2hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2	Blank	2	a	Group: Blank; Hours: 2
+MSV000097687	Media_Blank_B_2hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2	Blank	2	b	Group: Blank; Hours: 2
+MSV000097687	Media_Blank_C_2hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2	Blank	2	c	Group: Blank; Hours: 2
+MSV000097687	Media_Blank_A_4hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	4	Blank	4	a	Group: Blank; Hours: 4
+MSV000097687	Media_Blank_B_4hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	4	Blank	4	b	Group: Blank; Hours: 4
+MSV000097687	Media_Blank_C_4hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	4	Blank	4	c	Group: Blank; Hours: 4
+MSV000097687	Media_Blank_A_8hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	8	Blank	8	a	Group: Blank; Hours: 8
+MSV000097687	Media_Blank_B_8hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	8	Blank	8	b	Group: Blank; Hours: 8
+MSV000097687	Media_Blank_C_8hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	8	Blank	8	c	Group: Blank; Hours: 8
+MSV000097687	Media_Blank_A_10hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	10	Blank	10	a	Group: Blank; Hours: 10
+MSV000097687	Media_Blank_B_10hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	10	Blank	10	b	Group: Blank; Hours: 10
+MSV000097687	Media_Blank_C_10hr.mzML	blank_culturemedia	blank_culturemedia	missing value	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	10	Blank	10	c	Group: Blank; Hours: 10
+MSV000097687	Deplete_Media_A_2hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2	Deplete	2	a	Group: Deplete; Hours: 2
+MSV000097687	Deplete_Media_B_2hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	Deplete	3	b	Group: Deplete; Hours: 3
+MSV000097687	Deplete_Media_C_2hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	missing value	Deplete	3	c	Group: Deplete; Hours: 3
+MSV000097687	Deplete_Media_A_4hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	4	Deplete	4	a	Group: Deplete; Hours: 4
+MSV000097687	Deplete_Media_B_4hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	4	Deplete	4	b	Group: Deplete; Hours: 4
+MSV000097687	Deplete_Media_C_4hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	4	Deplete	4	c	Group: Deplete; Hours: 4
+MSV000097687	Deplete_Media_A_8hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	8	Deplete	8	a	Group: Deplete; Hours: 8
+MSV000097687	Deplete_Media_B_8hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	8	Deplete	8	b	Group: Deplete; Hours: 8
+MSV000097687	Deplete_Media_C_8hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	8	Deplete	8	c	Group: Deplete; Hours: 8
+MSV000097687	Deplete_Media_A_10hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	10	Deplete	10	a	Group: Deplete; Hours: 10
+MSV000097687	Deplete_Media_B_10hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	10	Deplete	10	b	Group: Deplete; Hours: 10
+MSV000097687	Deplete_Media_C_10hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	10	Deplete	10	c	Group: Deplete; Hours: 10
+MSV000097687	Replete_Media_A_2hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2	Replete	2	a	Group: Replete; Hours: 2
+MSV000097687	Replete_Media_B_2hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2	Replete	2	b	Group: Replete; Hours: 2
+MSV000097687	Replete_Media_C_2hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	2	Replete	2	c	Group: Replete; Hours: 2
+MSV000097687	Replete_Media_A_4hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	4	Replete	4	a	Group: Replete; Hours: 4
+MSV000097687	Replete_Media_B_4hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	4	Replete	4	b	Group: Replete; Hours: 4
+MSV000097687	Replete_Media_C_4hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	4	Replete	4	c	Group: Replete; Hours: 4
+MSV000097687	Replete_Media_A_8hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	8	Replete	8	a	Group: Replete; Hours: 8
+MSV000097687	Replete_Media_B_8hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	8	Replete	8	b	Group: Replete; Hours: 8
+MSV000097687	Replete_Media_C_8hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	8	Replete	8	c	Group: Replete; Hours: 8
+MSV000097687	Replete_Media_A_10hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	10	Replete	10	a	Group: Replete; Hours: 10
+MSV000097687	Replete_Media_B_10hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	10	Replete	10	b	Group: Replete; Hours: 10
+MSV000097687	Replete_Media_C_10hr.mzML	culture_bacterial	culture_bacterial	588|Providencia stuartii	extract, solid phase extraction (NOS)	Q Exactive HF|MS:1002523	10	Replete	10	c	Group: Replete; Hours: 10

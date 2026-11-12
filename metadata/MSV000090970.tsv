@@ -1,0 +1,59 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	bacteria	BTvsCP	MONOvsCO	SampleGroupFreeText
+MSV000090970	BT+CP8_1_P1-B-4_01_17524.mzXML	culture_multiplespecies	culture_multiplespecies	271848|Burkholderia thailandensis E264||492670|Bacillus velezensis	impact II|MS:1002666	BT_CP8	-	coculture	bacteria: BT_CP8; MONOvs CO: coculture
+MSV000090970	BT+CP8_2_P1-B-5_01_17525.mzXML	culture_multiplespecies	culture_multiplespecies	271848|Burkholderia thailandensis E264||492670|Bacillus velezensis	impact II|MS:1002666	BT_CP8	-	coculture	bacteria: BT_CP8; MONOvs CO: coculture
+MSV000090970	BT+CP8_3_P1-B-6_01_17526.mzXML	culture_multiplespecies	culture_multiplespecies	271848|Burkholderia thailandensis E264||492670|Bacillus velezensis	impact II|MS:1002666	BT_CP8	-	coculture	bacteria: BT_CP8; MONOvs CO: coculture
+MSV000090970	BT+sup_1_P1-B-1_01_17521.mzXML	culture_multiplespecies	culture_multiplespecies	271848|Burkholderia thailandensis E264||492670|Bacillus velezensis	impact II|MS:1002666	BT_CP8	-	coculture	bacteria: BT_CP8; MONOvs CO: coculture
+MSV000090970	BT+sup_2_P1-B-2_01_17522.mzXML	culture_multiplespecies	culture_multiplespecies	271848|Burkholderia thailandensis E264||492670|Bacillus velezensis	impact II|MS:1002666	BT_CP8	-	coculture	bacteria: BT_CP8; MONOvs CO: coculture
+MSV000090970	BT+sup_3_P1-B-3_01_17523.mzXML	culture_multiplespecies	culture_multiplespecies	271848|Burkholderia thailandensis E264||492670|Bacillus velezensis	impact II|MS:1002666	BT_CP8	-	coculture	bacteria: BT_CP8; MONOvs CO: coculture
+MSV000090970	BTMC1_1_P1-A-3_01_17586.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	impact II|MS:1002666	Burk	BT	mono	bacteria: Burk; BTvs CP: BT; MONOvs CO: mono
+MSV000090970	BTMC1_1_P1-A-4_01_17508.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	impact II|MS:1002666	Burk	BT	mono	bacteria: Burk; BTvs CP: BT; MONOvs CO: mono
+MSV000090970	BTMC1_2_P1-A-4_01_17587.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	impact II|MS:1002666	Burk	BT	mono	bacteria: Burk; BTvs CP: BT; MONOvs CO: mono
+MSV000090970	BTMC1_2_P1-A-5_01_17509.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	impact II|MS:1002666	Burk	BT	mono	bacteria: Burk; BTvs CP: BT; MONOvs CO: mono
+MSV000090970	BTMC1_3_P1-A-5_01_17588.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	impact II|MS:1002666	Burk	BT	mono	bacteria: Burk; BTvs CP: BT; MONOvs CO: mono
+MSV000090970	BTMC1_3_P1-A-6_01_17510.mzXML	culture_bacterial	culture_bacterial	271848|Burkholderia thailandensis E264	impact II|MS:1002666	Burk	BT	mono	bacteria: Burk; BTvs CP: BT; MONOvs CO: mono
+MSV000090970	CP13_1_P1-A-5_01_17407.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP13	CP	mono	bacteria: CP13; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP13_2_P1-A-6_01_17408.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP13	CP	mono	bacteria: CP13; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP13_3_P1-A-7_01_17409.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP13	CP	mono	bacteria: CP13; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP17_1_P1-A-8_01_17415.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP17	CP	mono	bacteria: CP17; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP17_2_P1-A-9_01_17416.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP17	CP	mono	bacteria: CP17; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP17_3_P1-B-1_01_17417.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP17	CP	mono	bacteria: CP17; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP18_1_P1-B-2_01_17418.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP18	CP	mono	bacteria: CP18; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP18_2_P1-B-3_01_17419.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP18	CP	mono	bacteria: CP18; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP18_3_P1-B-4_01_17420.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP18	CP	mono	bacteria: CP18; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP19_1_P1-B-5_01_17425.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP19	CP	mono	bacteria: CP19; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP19_2_P1-B-6_01_17426.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP19	CP	mono	bacteria: CP19; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP19_3_P1-B-7_01_17427.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP19	CP	mono	bacteria: CP19; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP20_1_P1-B-8_01_17428.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP20	CP	mono	bacteria: CP20; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP20_2_P1-B-9_01_17429.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP20	CP	mono	bacteria: CP20; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP20_3_P1-C-1_01_17430.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP20	CP	mono	bacteria: CP20; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP21_1_P1-C-2_01_17435.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP21	CP	mono	bacteria: CP21; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP21_2_P1-C-3_01_17436.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP21	CP	mono	bacteria: CP21; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP21_3_P1-C-4_01_17437.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP21	CP	mono	bacteria: CP21; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP26_1_P1-C-5_01_17438.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP26	CP	mono	bacteria: CP26; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP26_2_P1-C-6_01_17439.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP26	CP	mono	bacteria: CP26; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP26_3_P1-C-7_01_17440.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP26	CP	mono	bacteria: CP26; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP27_1_P1-C-8_01_17445.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP27	CP	mono	bacteria: CP27; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP27_2_P1-C-9_01_17446.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP27	CP	mono	bacteria: CP27; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP27_3_P1-D-1_01_17447.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP27	CP	mono	bacteria: CP27; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP28_1_P1-D-2_01_17448.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP28	CP	mono	bacteria: CP28; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP28_2_P1-D-3_01_17449.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP28	CP	mono	bacteria: CP28; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP28_3_P1-D-4_01_17450.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP28	CP	mono	bacteria: CP28; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP42_1_P1-D-5_01_17455.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP42	CP	mono	bacteria: CP42; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP42_2_P1-D-6_01_17456.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP42	CP	mono	bacteria: CP42; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP42_3_P1-D-7_01_17457.mzXML	culture_bacterial	culture_bacterial	missing value	impact II|MS:1002666	CP42	CP	mono	bacteria: CP42; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8_1_P1-A-2_01_17404.mzXML	culture_bacterial	culture_bacterial	492670|Bacillus velezensis	impact II|MS:1002666	CP8	CP	mono	bacteria: CP8; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8_1_P1-A-6_01_17592.mzXML	culture_bacterial	culture_bacterial	492670|Bacillus velezensis	impact II|MS:1002666	CP8	CP	mono	bacteria: CP8; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8_1_P1-A-7_01_17513.mzXML	culture_bacterial	culture_bacterial	492670|Bacillus velezensis	impact II|MS:1002666	CP8	CP	mono	bacteria: CP8; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8_2_P1-A-3_01_17405.mzXML	culture_bacterial	culture_bacterial	492670|Bacillus velezensis	impact II|MS:1002666	CP8	CP	mono	bacteria: CP8; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8_2_P1-A-7_01_17593.mzXML	culture_bacterial	culture_bacterial	492670|Bacillus velezensis	impact II|MS:1002666	CP8	CP	mono	bacteria: CP8; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8_2_P1-A-8_01_17514.mzXML	culture_bacterial	culture_bacterial	492670|Bacillus velezensis	impact II|MS:1002666	CP8	CP	mono	bacteria: CP8; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8_3_P1-A-4_01_17406.mzXML	culture_bacterial	culture_bacterial	492670|Bacillus velezensis	impact II|MS:1002666	CP8	CP	mono	bacteria: CP8; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8_3_P1-A-8_01_17594.mzXML	culture_bacterial	culture_bacterial	492670|Bacillus velezensis	impact II|MS:1002666	CP8	CP	mono	bacteria: CP8; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8_3_P1-A-9_01_17515.mzXML	culture_bacterial	culture_bacterial	492670|Bacillus velezensis	impact II|MS:1002666	CP8	CP	mono	bacteria: CP8; BTvs CP: CP; MONOvs CO: mono
+MSV000090970	CP8+BtSup_1_P1-A-9_01_17598.mzXML	culture_multiplespecies	culture_multiplespecies	271848|Burkholderia thailandensis E264||492670|Bacillus velezensis	impact II|MS:1002666	BT_CP8	-	coculture	bacteria: BT_CP8; MONOvs CO: coculture
+MSV000090970	CP8+Btsup_2_P1-B-1_01_17599.mzXML	culture_multiplespecies	culture_multiplespecies	271848|Burkholderia thailandensis E264||492670|Bacillus velezensis	impact II|MS:1002666	BT_CP8	-	coculture	bacteria: BT_CP8; MONOvs CO: coculture
+MSV000090970	TSA_P1-A-1_01_17403.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	TSB	TSB	TSB	bacteria: TSB; BTvs CP: TSB; MONOvs CO: TSB
+MSV000090970	TSB_1_P1-A-1_01_17505.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	TSB	TSB	TSB	bacteria: TSB; BTvs CP: TSB; MONOvs CO: TSB
+MSV000090970	TSB_1_P1-A-1_01_17584.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	TSB	TSB	TSB	bacteria: TSB; BTvs CP: TSB; MONOvs CO: TSB
+MSV000090970	TSB_2_P1-A-2_01_17506.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	TSB	TSB	TSB	bacteria: TSB; BTvs CP: TSB; MONOvs CO: TSB
+MSV000090970	TSB_3_P1-A-3_01_17507.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	TSB	TSB	TSB	bacteria: TSB; BTvs CP: TSB; MONOvs CO: TSB

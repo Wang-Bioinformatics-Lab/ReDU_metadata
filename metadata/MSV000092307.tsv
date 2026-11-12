@@ -1,0 +1,173 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	SubjectIdentifierAsRecorded	UBERONBodyPartName	TimePointHoursRelativeToEvent	Sample_Type	Timepoint_min	Sampling_Location
+MSV000092307	bld_plt1_01_0_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	blood plasma	0	plasma	0	not applicable
+MSV000092307	bld_plt1_01_120_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	blood plasma	2	plasma	120	not applicable
+MSV000092307	bld_plt1_01_600_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	blood plasma	10	plasma	600	not applicable
+MSV000092307	bld_plt1_01_720_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	blood plasma	12	plasma	720	not applicable
+MSV000092307	bld_plt1_03_0_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	blood plasma	0	plasma	0	not applicable
+MSV000092307	bld_plt1_03_480_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	blood plasma	8	plasma	480	not applicable
+MSV000092307	bld_plt1_03_600_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	blood plasma	10	plasma	600	not applicable
+MSV000092307	bld_plt1_04_240_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	blood plasma	4	plasma	240	not applicable
+MSV000092307	bld_plt1_04_480_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	blood plasma	8	plasma	480	not applicable
+MSV000092307	bld_plt1_04_600_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	blood plasma	10	plasma	600	not applicable
+MSV000092307	bld_plt1_05_240_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	blood plasma	4	plasma	240	not applicable
+MSV000092307	bld_plt1_05_480_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	blood plasma	8	plasma	480	not applicable
+MSV000092307	bld_plt1_05_600_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	blood plasma	10	plasma	600	not applicable
+MSV000092307	bld_plt1_07_120_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	blood plasma	2	plasma	120	not applicable
+MSV000092307	bld_plt1_07_240_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	blood plasma	4	plasma	240	not applicable
+MSV000092307	bld_plt1_07_600_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	blood plasma	10	plasma	600	not applicable
+MSV000092307	bld_plt1_08_240_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	blood plasma	4	plasma	240	not applicable
+MSV000092307	bld_plt1_08_600_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	blood plasma	10	plasma	600	not applicable
+MSV000092307	bld_plt1_08_720_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	blood plasma	12	plasma	720	not applicable
+MSV000092307	bld_plt1_10_0_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	blood plasma	0	plasma	0	not applicable
+MSV000092307	bld_plt1_10_120_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	blood plasma	2	plasma	120	not applicable
+MSV000092307	bld_plt1_10_600_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	blood plasma	10	plasma	600	not applicable
+MSV000092307	bld_plt1_blk_02.mzML	blank_extraction	blank_extraction	not applicable	Q Exactive|MS:1001911	missing value	not applicable	missing value	plasma_blank	not applicable	not applicable
+MSV000092307	bld_plt2_01_240_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	blood plasma	4	plasma	240	not applicable
+MSV000092307	bld_plt2_01_480_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	blood plasma	8	plasma	480	not applicable
+MSV000092307	bld_plt2_03_120_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	blood plasma	2	plasma	120	not applicable
+MSV000092307	bld_plt2_03_240_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	blood plasma	4	plasma	240	not applicable
+MSV000092307	bld_plt2_03_720_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	blood plasma	12	plasma	720	not applicable
+MSV000092307	bld_plt2_04_0_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	blood plasma	0	plasma	0	not applicable
+MSV000092307	bld_plt2_04_120_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	blood plasma	2	plasma	120	not applicable
+MSV000092307	bld_plt2_04_720_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	blood plasma	12	plasma	720	not applicable
+MSV000092307	bld_plt2_05_0_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	blood plasma	0	plasma	0	not applicable
+MSV000092307	bld_plt2_05_120_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	blood plasma	2	plasma	120	not applicable
+MSV000092307	bld_plt2_05_720_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	blood plasma	12	plasma	720	not applicable
+MSV000092307	bld_plt2_07_0_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	blood plasma	0	plasma	0	not applicable
+MSV000092307	bld_plt2_07_480_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	blood plasma	8	plasma	480	not applicable
+MSV000092307	bld_plt2_07_720_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	blood plasma	12	plasma	720	not applicable
+MSV000092307	bld_plt2_08_0_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	blood plasma	0	plasma	0	not applicable
+MSV000092307	bld_plt2_08_120_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	blood plasma	2	plasma	120	not applicable
+MSV000092307	bld_plt2_08_480_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	blood plasma	8	plasma	480	not applicable
+MSV000092307	bld_plt2_10_240_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	blood plasma	4	plasma	240	not applicable
+MSV000092307	bld_plt2_10_480_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	blood plasma	8	plasma	480	not applicable
+MSV000092307	bld_plt2_10_720_1.mzML	animal	biofluid	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	blood plasma	12	plasma	720	not applicable
+MSV000092307	bld_plt2_blk_04.mzML	blank_extraction	blank_extraction	not applicable	Q Exactive|MS:1001911	missing value	not applicable	missing value	plasma_blank	not applicable	not applicable
+MSV000092307	skin_01_0_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forehead	0	skin	0	forehead
+MSV000092307	skin_01_0_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forearm	0	skin	0	forearm
+MSV000092307	skin_01_0_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of back	0	skin	0	upper back
+MSV000092307	skin_01_120_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forehead	2	skin	120	forehead
+MSV000092307	skin_01_120_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forearm	2	skin	120	forearm
+MSV000092307	skin_01_120_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of back	2	skin	120	upper back
+MSV000092307	skin_01_240_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forehead	4	skin	240	forehead
+MSV000092307	skin_01_240_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forearm	4	skin	240	forearm
+MSV000092307	skin_01_240_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of back	4	skin	240	upper back
+MSV000092307	skin_01_480_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forehead	8	skin	480	forehead
+MSV000092307	skin_01_480_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forearm	8	skin	480	forearm
+MSV000092307	skin_01_480_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of back	8	skin	480	upper back
+MSV000092307	skin_01_600_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forehead	10	skin	600	forehead
+MSV000092307	skin_01_600_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forearm	10	skin	600	forearm
+MSV000092307	skin_01_600_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of back	10	skin	600	upper back
+MSV000092307	skin_01_720_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forehead	12	skin	720	forehead
+MSV000092307	skin_01_720_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of forearm	12	skin	720	forearm
+MSV000092307	skin_01_720_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_1	skin of back	12	skin	720	upper back
+MSV000092307	skin_03_0_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forehead	0	skin	0	forehead
+MSV000092307	skin_03_0_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forearm	0	skin	0	forearm
+MSV000092307	skin_03_0_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of back	0	skin	0	upper back
+MSV000092307	skin_03_120_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forehead	2	skin	120	forehead
+MSV000092307	skin_03_120_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forearm	2	skin	120	forearm
+MSV000092307	skin_03_120_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of back	2	skin	120	upper back
+MSV000092307	skin_03_240_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forehead	4	skin	240	forehead
+MSV000092307	skin_03_240_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forearm	4	skin	240	forearm
+MSV000092307	skin_03_240_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of back	4	skin	240	upper back
+MSV000092307	skin_03_480_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forehead	8	skin	480	forehead
+MSV000092307	skin_03_480_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forearm	8	skin	480	forearm
+MSV000092307	skin_03_480_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of back	8	skin	480	upper back
+MSV000092307	skin_03_600_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forehead	10	skin	600	forehead
+MSV000092307	skin_03_600_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forearm	10	skin	600	forearm
+MSV000092307	skin_03_600_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of back	10	skin	600	upper back
+MSV000092307	skin_03_720_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forehead	12	skin	720	forehead
+MSV000092307	skin_03_720_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of forearm	12	skin	720	forearm
+MSV000092307	skin_03_720_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_3	skin of back	12	skin	720	upper back
+MSV000092307	skin_04_0_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forehead	0	skin	0	forehead
+MSV000092307	skin_04_0_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forearm	0	skin	0	forearm
+MSV000092307	skin_04_0_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of back	0	skin	0	upper back
+MSV000092307	skin_04_120_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forehead	2	skin	120	forehead
+MSV000092307	skin_04_120_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forearm	2	skin	120	forearm
+MSV000092307	skin_04_120_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of back	2	skin	120	upper back
+MSV000092307	skin_04_240_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forehead	4	skin	240	forehead
+MSV000092307	skin_04_240_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forearm	4	skin	240	forearm
+MSV000092307	skin_04_240_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of back	4	skin	240	upper back
+MSV000092307	skin_04_480_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forehead	8	skin	480	forehead
+MSV000092307	skin_04_480_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forearm	8	skin	480	forearm
+MSV000092307	skin_04_480_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of back	8	skin	480	upper back
+MSV000092307	skin_04_600_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forehead	10	skin	600	forehead
+MSV000092307	skin_04_600_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forearm	10	skin	600	forearm
+MSV000092307	skin_04_600_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of back	10	skin	600	upper back
+MSV000092307	skin_04_720_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forehead	12	skin	720	forehead
+MSV000092307	skin_04_720_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of forearm	12	skin	720	forearm
+MSV000092307	skin_04_720_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_4	skin of back	12	skin	720	upper back
+MSV000092307	skin_05_0_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forehead	0	skin	0	forehead
+MSV000092307	skin_05_0_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forearm	0	skin	0	forearm
+MSV000092307	skin_05_0_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of back	0	skin	0	upper back
+MSV000092307	skin_05_120_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forehead	2	skin	120	forehead
+MSV000092307	skin_05_120_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forearm	2	skin	120	forearm
+MSV000092307	skin_05_120_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of back	2	skin	120	upper back
+MSV000092307	skin_05_240_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forehead	4	skin	240	forehead
+MSV000092307	skin_05_240_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forearm	4	skin	240	forearm
+MSV000092307	skin_05_240_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of back	4	skin	240	upper back
+MSV000092307	skin_05_480_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forehead	8	skin	480	forehead
+MSV000092307	skin_05_480_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forearm	8	skin	480	forearm
+MSV000092307	skin_05_480_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of back	8	skin	480	upper back
+MSV000092307	skin_05_600_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forehead	10	skin	600	forehead
+MSV000092307	skin_05_600_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forearm	10	skin	600	forearm
+MSV000092307	skin_05_600_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of back	10	skin	600	upper back
+MSV000092307	skin_05_720_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forehead	12	skin	720	forehead
+MSV000092307	skin_05_720_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of forearm	12	skin	720	forearm
+MSV000092307	skin_05_720_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_5	skin of back	12	skin	720	upper back
+MSV000092307	skin_07_0_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forehead	0	skin	0	forehead
+MSV000092307	skin_07_0_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forearm	0	skin	0	forearm
+MSV000092307	skin_07_0_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of back	0	skin	0	upper back
+MSV000092307	skin_07_120_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forehead	2	skin	120	forehead
+MSV000092307	skin_07_120_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forearm	2	skin	120	forearm
+MSV000092307	skin_07_120_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of back	2	skin	120	upper back
+MSV000092307	skin_07_240_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forehead	4	skin	240	forehead
+MSV000092307	skin_07_240_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forearm	4	skin	240	forearm
+MSV000092307	skin_07_240_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of back	4	skin	240	upper back
+MSV000092307	skin_07_480_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forehead	8	skin	480	forehead
+MSV000092307	skin_07_480_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forearm	8	skin	480	forearm
+MSV000092307	skin_07_480_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of back	8	skin	480	upper back
+MSV000092307	skin_07_600_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forehead	10	skin	600	forehead
+MSV000092307	skin_07_600_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forearm	10	skin	600	forearm
+MSV000092307	skin_07_600_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of back	10	skin	600	upper back
+MSV000092307	skin_07_720_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forehead	12	skin	720	forehead
+MSV000092307	skin_07_720_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of forearm	12	skin	720	forearm
+MSV000092307	skin_07_720_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_7	skin of back	12	skin	720	upper back
+MSV000092307	skin_08_0_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forehead	0	skin	0	forehead
+MSV000092307	skin_08_0_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forearm	0	skin	0	forearm
+MSV000092307	skin_08_0_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of back	0	skin	0	upper back
+MSV000092307	skin_08_120_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forehead	2	skin	120	forehead
+MSV000092307	skin_08_120_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forearm	2	skin	120	forearm
+MSV000092307	skin_08_120_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of back	2	skin	120	upper back
+MSV000092307	skin_08_240_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forehead	4	skin	240	forehead
+MSV000092307	skin_08_240_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forearm	4	skin	240	forearm
+MSV000092307	skin_08_240_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of back	4	skin	240	upper back
+MSV000092307	skin_08_480_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forehead	8	skin	480	forehead
+MSV000092307	skin_08_480_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forearm	8	skin	480	forearm
+MSV000092307	skin_08_480_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of back	8	skin	480	upper back
+MSV000092307	skin_08_600_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forehead	10	skin	600	forehead
+MSV000092307	skin_08_600_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forearm	10	skin	600	forearm
+MSV000092307	skin_08_600_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of back	10	skin	600	upper back
+MSV000092307	skin_08_720_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forehead	12	skin	720	forehead
+MSV000092307	skin_08_720_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of forearm	12	skin	720	forearm
+MSV000092307	skin_08_720_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_8	skin of back	12	skin	720	upper back
+MSV000092307	skin_10_0_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forehead	0	skin	0	forehead
+MSV000092307	skin_10_0_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forearm	0	skin	0	forearm
+MSV000092307	skin_10_0_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of back	0	skin	0	upper back
+MSV000092307	skin_10_120_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forehead	2	skin	120	forehead
+MSV000092307	skin_10_120_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forearm	2	skin	120	forearm
+MSV000092307	skin_10_120_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of back	2	skin	120	upper back
+MSV000092307	skin_10_240_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forehead	4	skin	240	forehead
+MSV000092307	skin_10_240_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forearm	4	skin	240	forearm
+MSV000092307	skin_10_240_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of back	4	skin	240	upper back
+MSV000092307	skin_10_480_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forehead	8	skin	480	forehead
+MSV000092307	skin_10_480_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forearm	8	skin	480	forearm
+MSV000092307	skin_10_480_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of back	8	skin	480	upper back
+MSV000092307	skin_10_600_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forehead	10	skin	600	forehead
+MSV000092307	skin_10_600_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forearm	10	skin	600	forearm
+MSV000092307	skin_10_600_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of back	10	skin	600	upper back
+MSV000092307	skin_10_720_FH.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forehead	12	skin	720	forehead
+MSV000092307	skin_10_720_OF.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of forearm	12	skin	720	forearm
+MSV000092307	skin_10_720_UB.mzML	animal	missing value	9606|Homo sapiens	Q Exactive|MS:1001911	Subject_10	skin of back	12	skin	720	upper back
+MSV000092307	skin_blank_03.mzML	blank_extraction	blank_extraction	not applicable	Q Exactive|MS:1001911	missing value	not applicable	missing value	skin_blank	not applicable	not applicable
+MSV000092307	skin_blank_20.mzML	blank_extraction	blank_extraction	not applicable	Q Exactive|MS:1001911	missing value	not applicable	missing value	skin_blank	not applicable	not applicable

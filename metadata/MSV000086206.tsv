@@ -1,0 +1,7 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	Mutant	Zn_bin	pExpected_Production	Injection_Volume
+MSV000086206	S_N1.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	WT	1	yes	5
+MSV000086206	S_N2.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	WT	1	yes	5
+MSV000086206	S_N3.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	WT	1	yes	5
+MSV000086206	S_P1.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	KO	0	no	5
+MSV000086206	S_P2.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	KO	0	no	5
+MSV000086206	S_P3.mzML	culture_bacterial	culture_bacterial	316435|Escherichia coli Nissle 1917	Q Exactive|MS:1001911	KO	0	no	5

@@ -1,0 +1,15 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	SampleExtractionMethod	YearOfAnalysis	MassSpectrometer	IonizationSourceAndPolarity	SampleType_source	fraction
+MSV000092852	20230417_DV_JP_1_1_Blank_pos.mzML	blank_analysis	blank_analysis	missing value	missing value	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Blank	0
+MSV000092852	20230417_DV_JP_1_2_Blank_pos.mzML	blank_analysis	blank_analysis	missing value	missing value	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Blank	0
+MSV000092852	20230417_DV_JP_1_3_Blank_pos.mzML	blank_analysis	blank_analysis	missing value	missing value	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Blank	0
+MSV000092852	20230417_DV_JP_1_1_F1_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	1
+MSV000092852	20230417_DV_JP_1_1_F2_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	2
+MSV000092852	20230417_DV_JP_1_1_F3_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	3
+MSV000092852	20230417_DV_JP_1_1_F4_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	4
+MSV000092852	20230417_DV_JP_1_1_F5_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	5
+MSV000092852	20230417_DV_JP_1_1_F6_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	6
+MSV000092852	20230417_DV_JP_1_1_F7_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	7
+MSV000092852	20230417_DV_JP_1_1_F8_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	8
+MSV000092852	20230417_DV_JP_1_1_F9_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	9
+MSV000092852	20230417_DV_JP_1_1_F10_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	10
+MSV000092852	20230417_DV_JP_1_1_F11_pos.mzML	plant	plant_angiospermae	52874|Witheringia solanacea	methanol (100%)	2023	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	Sample	11

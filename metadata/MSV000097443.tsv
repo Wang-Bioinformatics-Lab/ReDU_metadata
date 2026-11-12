@@ -1,0 +1,23 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	ChromatographyAndPhase	Sample	Specie
+MSV000097443	4_Blanco.mzXML	blank_analysis	blank_analysis	missing value	gas chromatography (NOS)	Blank	Solvent_Blank
+MSV000097443	11_QC.mzXML	pool_QC	pool_QC	missing value	gas chromatography (NOS)	QC	QC
+MSV000097443	15_2210.mzXML	fungi	missing value	2136021|Cubamyces menziesii	gas chromatography (NOS)	sample	Trametes menziesii
+MSV000097443	16_11665.mzXML	fungi	missing value	5325|Trametes versicolor	gas chromatography (NOS)	sample	Trametes versicolor
+MSV000097443	20_QC.mzXML	pool_QC	pool_QC	missing value	gas chromatography (NOS)	QC	QC
+MSV000097443	22_13.mzXML	fungi	missing value	5330|Bjerkandera	gas chromatography (NOS)	sample	Bjerkandera sp.
+MSV000097443	23_16.mzXML	fungi	missing value	82309|Phlebiopsis	gas chromatography (NOS)	sample	Phlebiopsis sp
+MSV000097443	24_08082204.mzXML	fungi	missing value	2136021|Cubamyces menziesii	gas chromatography (NOS)	sample	Trametes menziesii
+MSV000097443	25_22.mzXML	fungi	missing value	1227451|Ganoderma parvulum	gas chromatography (NOS)	sample	Ganoderma parvulum
+MSV000097443	26_QC.mzXML	pool_QC	pool_QC	missing value	gas chromatography (NOS)	QC	QC
+MSV000097443	30_08082205.mzXML	fungi	missing value	47662|Trametes villosa	gas chromatography (NOS)	sample	Trametes villosa
+MSV000097443	32_07082201.mzXML	fungi	missing value	5358|Lentinus crinitus	gas chromatography (NOS)	sample	Lentinus crinitus
+MSV000097443	33_51480.mzXML	fungi	missing value	34465|Ganoderma resinaceum	gas chromatography (NOS)	sample	Ganoderma resinaceum
+MSV000097443	36_QC.mzXML	pool_QC	pool_QC	missing value	gas chromatography (NOS)	QC	QC
+MSV000097443	38_21.mzXML	fungi	missing value	4890|Ascomycota	gas chromatography (NOS)	sample	Ascomycota sp
+MSV000097443	39_07082204.mzXML	fungi	missing value	2136021|Cubamyces menziesii	gas chromatography (NOS)	sample	Trametes menziesii
+MSV000097443	41_20.mzXML	fungi	missing value	326628|Annulohypoxylon stygium	gas chromatography (NOS)	sample	Annulohypoxylon stygium
+MSV000097443	44_QC.mzXML	pool_QC	pool_QC	missing value	gas chromatography (NOS)	QC	QC
+MSV000097443	46_15.mzXML	fungi	missing value	81058|Porogramme epimiltina	gas chromatography (NOS)	sample	Porogramme epimiltina
+MSV000097443	47_51467.mzXML	fungi	missing value	1368614|Ganoderma stipitatum	gas chromatography (NOS)	sample	Ganoderma Stipitatum
+MSV000097443	48_51468.mzXML	fungi	missing value	5314|Ganoderma	gas chromatography (NOS)	sample	Ganoderma ecuadoriense
+MSV000097443	50_QC.mzXML	pool_QC	pool_QC	missing value	gas chromatography (NOS)	QC	QC

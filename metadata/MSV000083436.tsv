@@ -1,0 +1,26 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	sample_ID	sample_group
+MSV000083436	PD17.4_RD4_01_20408.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD17.4	Vehicle
+MSV000083436	PD18.4_RC6_01_20391.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD18.4	Vehicle
+MSV000083436	PD19.4_RC7_01_20392.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD19.4	Vehicle
+MSV000083436	PD20.4_RC9_01_20396.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD20.4	Vehicle
+MSV000083436	PD21.4_RC3_01_20387.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD21.4	Glycocholic acid
+MSV000083436	PD22.4_RD6_01_20410.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD22.4	Glycocholic acid
+MSV000083436	PD23.4_RD7_01_20411.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD23.4	Glycocholic acid
+MSV000083436	PD24.4_RC10_01_20397.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD24.4	Glycocholic acid
+MSV000083436	PD25.4_RB11_01_20384.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD25.4	Taurocholc acid
+MSV000083436	PD26.4_RC8_01_20393.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD26.4	Taurocholc acid
+MSV000083436	PD27.4_RC5_01_20390.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD27.4	Taurocholc acid
+MSV000083436	PD28.4_RD5_01_20409.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD28.4	Taurocholc acid
+MSV000083436	PD29.4_RD2_01_20400.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD29.4	Phenylalanocholic acid;Leuchocholic acid;Tyrosocholic acid
+MSV000083436	PD30.4_RC2_01_20386.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD30.4	Phenylalanocholic acid;Leuchocholic acid;Tyrosocholic acid
+MSV000083436	PD31.4_RC11_01_20398.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD31.4	Phenylalanocholic acid;Leuchocholic acid;Tyrosocholic acid
+MSV000083436	PD32.4_RB10_01_20383.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD32.4	Phenylalanocholic acid;Leuchocholic acid;Tyrosocholic acid
+MSV000083436	PD33.4_RD3_01_20407.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD33.4	Tyrosocholic acid
+MSV000083436	PD34.4_RC1_01_20385.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD34.4	Tyrosocholic acid
+MSV000083436	PD35.4_RD1_01_20399.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD35.4	Tyrosocholic acid
+MSV000083436	PD36.4_RC4_01_20389.mzXML	animal	tissue	10090|Mus musculus	liver	maXis|MS:1001541	PD36.4	Tyrosocholic acid
+MSV000083436	Solvent_Blank16A_RA12_01_20406.mzXML	blank_analysis	blank_analysis	missing value	missing value	maXis|MS:1001541	Solvent blank	not applicable
+MSV000083436	Solvent_Blank17A_RB12_01_20382.mzXML	blank_analysis	blank_analysis	missing value	missing value	maXis|MS:1001541	Solvent blank	not applicable
+MSV000083436	Solvent_Blank17B_RB12_01_20388.mzXML	blank_analysis	blank_analysis	missing value	missing value	maXis|MS:1001541	Solvent blank	not applicable
+MSV000083436	Solvent_Blank18A_RC12_01_20395.mzXML	blank_analysis	blank_analysis	missing value	missing value	maXis|MS:1001541	Solvent blank	not applicable
+MSV000083436	Solvent_Blank18B_RC12_01_20401.mzXML	blank_analysis	blank_analysis	missing value	missing value	maXis|MS:1001541	Solvent blank	not applicable

@@ -1,0 +1,7 @@
+MassiveID	filename	SampleType	SampleTypeSub1	FoodOntologyTerm	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	Organism	analysis
+MSV000101228	54_SSPU_neg.mzXML	food	food_source_plant	sweet potato	4120|Ipomoea batatas	Q Exactive Focus|MS:1002993	electrospray ionization (negative)	sweet potato pulp	negative mode
+MSV000101228	53_SSP_neg.mzXML	food	food_source_plant	sweet potato	4120|Ipomoea batatas	Q Exactive Focus|MS:1002993	electrospray ionization (negative)	sweet potato peel	negative mode
+MSV000101228	55_SPPC_neg.mzXML	food	food_source_plant	sweet potato	4120|Ipomoea batatas	Q Exactive Focus|MS:1002993	electrospray ionization (negative)	sweet potato processed	negative mode
+MSV000101228	54_SSPU_pos.mzXML	food	food_source_plant	sweet potato	4120|Ipomoea batatas	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	sweet potato pulp	positive mode
+MSV000101228	53_SSP_pos.mzXML	food	food_source_plant	sweet potato	4120|Ipomoea batatas	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	sweet potato peel	positive mode
+MSV000101228	55_SPPC_pos.mzXML	food	food_source_plant	sweet potato	4120|Ipomoea batatas	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	sweet potato processed	positive mode

@@ -1,0 +1,214 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	Sample	Figure
+MSV000096254	dapE1_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	dapE1	Figure3
+MSV000096254	dapE2_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	dapE2	Figure3
+MSV000096254	dapE3_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	dapE3	Figure3
+MSV000096254	dxr1_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	dxr1	Figure3
+MSV000096254	dxr2_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	dxr2	Figure3
+MSV000096254	dxr3_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	dxr3	Figure3
+MSV000096254	H21_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	H21	Figure3
+MSV000096254	H22_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	H22	Figure3
+MSV000096254	H23_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	H23	Figure3
+MSV000096254	HisD1_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	HisD1	Figure3
+MSV000096254	HisD2_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	HisD2	Figure3
+MSV000096254	HisD3_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	HisD3	Figure3
+MSV000096254	icd1_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	icd1	Figure3
+MSV000096254	icd2_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	icd2	Figure3
+MSV000096254	icd3_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	icd3	Figure3
+MSV000096254	leuB1_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	leuB1	Figure3
+MSV000096254	leuB2_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	leuB2	Figure3
+MSV000096254	leuB3_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	leuB3	Figure3
+MSV000096254	ThrC1_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	ThrC1	Figure3
+MSV000096254	ThrC2_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	ThrC2	Figure3
+MSV000096254	ThrC3_pos.mzML	culture_bacterial	culture_bacterial	562|Escherichia coli	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	ThrC3	Figure3
+MSV000096254	P1-A1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A1	Figure4
+MSV000096254	P1-A2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A2	Figure4
+MSV000096254	P1-A3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A3	Figure4
+MSV000096254	P1-A4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A4	Figure4
+MSV000096254	P1-A5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A5	Figure4
+MSV000096254	P1-A6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A6	Figure4
+MSV000096254	P1-A7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A7	Figure4
+MSV000096254	P1-A8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A8	Figure4
+MSV000096254	P1-A9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A9	Figure4
+MSV000096254	P1-A10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A10	Figure4
+MSV000096254	P1-A11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A11	Figure4
+MSV000096254	P1-A12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well A12	Figure4
+MSV000096254	P1-B1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B1	Figure4
+MSV000096254	P1-B2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B2	Figure4
+MSV000096254	P1-B3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B3	Figure4
+MSV000096254	P1-B4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B4	Figure4
+MSV000096254	P1-B5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B5	Figure4
+MSV000096254	P1-B6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B6	Figure4
+MSV000096254	P1-B7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B7	Figure4
+MSV000096254	P1-B8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B8	Figure4
+MSV000096254	P1-B9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B9	Figure4
+MSV000096254	P1-B10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B10	Figure4
+MSV000096254	P1-B11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B11	Figure4
+MSV000096254	P1-B12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well B12	Figure4
+MSV000096254	P1-C1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C1	Figure4
+MSV000096254	P1-C2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C2	Figure4
+MSV000096254	P1-C3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C3	Figure4
+MSV000096254	P1-C4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C4	Figure4
+MSV000096254	P1-C5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C5	Figure4
+MSV000096254	P1-C6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C6	Figure4
+MSV000096254	P1-C7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C7	Figure4
+MSV000096254	P1-C8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C8	Figure4
+MSV000096254	P1-C9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C9	Figure4
+MSV000096254	P1-C10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C10	Figure4
+MSV000096254	P1-C11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C11	Figure4
+MSV000096254	P1-C12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well C12	Figure4
+MSV000096254	P1-D1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D1	Figure4
+MSV000096254	P1-D2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D2	Figure4
+MSV000096254	P1-D3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D3	Figure4
+MSV000096254	P1-D4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D4	Figure4
+MSV000096254	P1-D5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D5	Figure4
+MSV000096254	P1-D6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D6	Figure4
+MSV000096254	P1-D7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D7	Figure4
+MSV000096254	P1-D8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D8	Figure4
+MSV000096254	P1-D9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D9	Figure4
+MSV000096254	P1-D10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D10	Figure4
+MSV000096254	P1-D11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D11	Figure4
+MSV000096254	P1-D12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well D12	Figure4
+MSV000096254	P1-E1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E1	Figure4
+MSV000096254	P1-E2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E2	Figure4
+MSV000096254	P1-E3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E3	Figure4
+MSV000096254	P1-E4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E4	Figure4
+MSV000096254	P1-E5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E5	Figure4
+MSV000096254	P1-E6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E6	Figure4
+MSV000096254	P1-E7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E7	Figure4
+MSV000096254	P1-E8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E8	Figure4
+MSV000096254	P1-E9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E9	Figure4
+MSV000096254	P1-E10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E10	Figure4
+MSV000096254	P1-E11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E11	Figure4
+MSV000096254	P1-E12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well E12	Figure4
+MSV000096254	P1-F1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F1	Figure4
+MSV000096254	P1-F2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F2	Figure4
+MSV000096254	P1-F3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F3	Figure4
+MSV000096254	P1-F4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F4	Figure4
+MSV000096254	P1-F5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F5	Figure4
+MSV000096254	P1-F6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F6	Figure4
+MSV000096254	P1-F7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F7	Figure4
+MSV000096254	P1-F8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F8	Figure4
+MSV000096254	P1-F9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F9	Figure4
+MSV000096254	P1-F10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F10	Figure4
+MSV000096254	P1-F11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F11	Figure4
+MSV000096254	P1-F12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well F12	Figure4
+MSV000096254	P1-G1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G1	Figure4
+MSV000096254	P1-G2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G2	Figure4
+MSV000096254	P1-G3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G3	Figure4
+MSV000096254	P1-G4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G4	Figure4
+MSV000096254	P1-G5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G5	Figure4
+MSV000096254	P1-G6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G6	Figure4
+MSV000096254	P1-G7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G7	Figure4
+MSV000096254	P1-G8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G8	Figure4
+MSV000096254	P1-G9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G9	Figure4
+MSV000096254	P1-G10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G10	Figure4
+MSV000096254	P1-G11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G11	Figure4
+MSV000096254	P1-G12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well G12	Figure4
+MSV000096254	P1-H1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H1	Figure4
+MSV000096254	P1-H2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H2	Figure4
+MSV000096254	P1-H3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H3	Figure4
+MSV000096254	P1-H4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H4	Figure4
+MSV000096254	P1-H5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H5	Figure4
+MSV000096254	P1-H6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H6	Figure4
+MSV000096254	P1-H7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H7	Figure4
+MSV000096254	P1-H8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H8	Figure4
+MSV000096254	P1-H9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H9	Figure4
+MSV000096254	P1-H10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H10	Figure4
+MSV000096254	P1-H11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H11	Figure4
+MSV000096254	P1-H12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P1 Well H12	Figure4
+MSV000096254	P2-A1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A1	Figure4
+MSV000096254	P2-A2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A2	Figure4
+MSV000096254	P2-A3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A3	Figure4
+MSV000096254	P2-A4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A4	Figure4
+MSV000096254	P2-A5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A5	Figure4
+MSV000096254	P2-A6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A6	Figure4
+MSV000096254	P2-A7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A7	Figure4
+MSV000096254	P2-A8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A8	Figure4
+MSV000096254	P2-A9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A9	Figure4
+MSV000096254	P2-A10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A10	Figure4
+MSV000096254	P2-A11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A11	Figure4
+MSV000096254	P2-A12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well A12	Figure4
+MSV000096254	P2-B1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B1	Figure4
+MSV000096254	P2-B2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B2	Figure4
+MSV000096254	P2-B3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B3	Figure4
+MSV000096254	P2-B4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B4	Figure4
+MSV000096254	P2-B5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B5	Figure4
+MSV000096254	P2-B6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B6	Figure4
+MSV000096254	P2-B7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B7	Figure4
+MSV000096254	P2-B8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B8	Figure4
+MSV000096254	P2-B9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B9	Figure4
+MSV000096254	P2-B10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B10	Figure4
+MSV000096254	P2-B11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B11	Figure4
+MSV000096254	P2-B12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well B12	Figure4
+MSV000096254	P2-C1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C1	Figure4
+MSV000096254	P2-C2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C2	Figure4
+MSV000096254	P2-C3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C3	Figure4
+MSV000096254	P2-C4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C4	Figure4
+MSV000096254	P2-C5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C5	Figure4
+MSV000096254	P2-C6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C6	Figure4
+MSV000096254	P2-C7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C7	Figure4
+MSV000096254	P2-C8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C8	Figure4
+MSV000096254	P2-C9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C9	Figure4
+MSV000096254	P2-C10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C10	Figure4
+MSV000096254	P2-C11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C11	Figure4
+MSV000096254	P2-C12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well C12	Figure4
+MSV000096254	P2-D1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D1	Figure4
+MSV000096254	P2-D2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D2	Figure4
+MSV000096254	P2-D3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D3	Figure4
+MSV000096254	P2-D4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D4	Figure4
+MSV000096254	P2-D5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D5	Figure4
+MSV000096254	P2-D6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D6	Figure4
+MSV000096254	P2-D7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D7	Figure4
+MSV000096254	P2-D8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D8	Figure4
+MSV000096254	P2-D9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D9	Figure4
+MSV000096254	P2-D10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D10	Figure4
+MSV000096254	P2-D11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D11	Figure4
+MSV000096254	P2-D12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well D12	Figure4
+MSV000096254	P2-E1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E1	Figure4
+MSV000096254	P2-E2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E2	Figure4
+MSV000096254	P2-E3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E3	Figure4
+MSV000096254	P2-E4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E4	Figure4
+MSV000096254	P2-E5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E5	Figure4
+MSV000096254	P2-E6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E6	Figure4
+MSV000096254	P2-E7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E7	Figure4
+MSV000096254	P2-E8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E8	Figure4
+MSV000096254	P2-E9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E9	Figure4
+MSV000096254	P2-E10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E10	Figure4
+MSV000096254	P2-E11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E11	Figure4
+MSV000096254	P2-E12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well E12	Figure4
+MSV000096254	P2-F1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F1	Figure4
+MSV000096254	P2-F2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F2	Figure4
+MSV000096254	P2-F3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F3	Figure4
+MSV000096254	P2-F4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F4	Figure4
+MSV000096254	P2-F5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F5	Figure4
+MSV000096254	P2-F6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F6	Figure4
+MSV000096254	P2-F7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F7	Figure4
+MSV000096254	P2-F8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F8	Figure4
+MSV000096254	P2-F9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F9	Figure4
+MSV000096254	P2-F10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F10	Figure4
+MSV000096254	P2-F11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F11	Figure4
+MSV000096254	P2-F12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well F12	Figure4
+MSV000096254	P2-G1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G1	Figure4
+MSV000096254	P2-G2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G2	Figure4
+MSV000096254	P2-G3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G3	Figure4
+MSV000096254	P2-G4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G4	Figure4
+MSV000096254	P2-G5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G5	Figure4
+MSV000096254	P2-G6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G6	Figure4
+MSV000096254	P2-G7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G7	Figure4
+MSV000096254	P2-G8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G8	Figure4
+MSV000096254	P2-G9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G9	Figure4
+MSV000096254	P2-G10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G10	Figure4
+MSV000096254	P2-G11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G11	Figure4
+MSV000096254	P2-G12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well G12	Figure4
+MSV000096254	P2-H1_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H1	Figure4
+MSV000096254	P2-H2_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H2	Figure4
+MSV000096254	P2-H3_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H3	Figure4
+MSV000096254	P2-H4_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H4	Figure4
+MSV000096254	P2-H5_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H5	Figure4
+MSV000096254	P2-H6_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H6	Figure4
+MSV000096254	P2-H7_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H7	Figure4
+MSV000096254	P2-H8_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H8	Figure4
+MSV000096254	P2-H9_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H9	Figure4
+MSV000096254	P2-H10_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H10	Figure4
+MSV000096254	P2-H11_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H11	Figure4
+MSV000096254	P2-H12_pos.mzML	missing value	missing value	missing value	6546 Q-TOF LC/MS|MS:1003536	electrospray ionization (positive)	flow injection analysis	Plate P2 Well H12	Figure4

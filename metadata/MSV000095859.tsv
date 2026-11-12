@@ -1,0 +1,49 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	groups	metadata_table
+MSV000095859	Blanc_CYE-1_0.5mg.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CF	311
+MSV000095859	Blanc_CYE-2_0.5mg.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CF	311
+MSV000095859	Blanc_CYE-3_0.5mg.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CF	311
+MSV000095859	Blanc_CYE-4_0.5mg.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CF	311
+MSV000095859	D4_MXP-1_0.5mg.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	D4_MXP	311
+MSV000095859	D4_MXP-2_0.5mg.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	D4_MXP	311
+MSV000095859	D4_MXP-3_0.5mg.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	D4_MXP	311
+MSV000095859	D4_MXP-5_0.5mg.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	D4_MXP	311
+MSV000095859	MeOH-1.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-2.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-3.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-4.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-5.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-6.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-7.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-8.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-9.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-10.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	MeOH-11.mzXML	blank_analysis	blank_analysis	missing value	impact II|MS:1002666	MeOH	311
+MSV000095859	Blanc_CTT-1_5mg.ml_(01-12-22)_BB4_1_6497.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CTT	823_435
+MSV000095859	Blanc_CTT-2_5mg.ml_(01-12-22)_BB4_1_6507.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CTT	823_435
+MSV000095859	Blanc_CTT-3_5mg.ml_(01-12-22)_BB4_1_6513.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CTT	823_435
+MSV000095859	Blanc_CTT-4_5mg.ml_(01-12-22)_BB4_1_6524.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CTT	823_435
+MSV000095859	Blanc_CYE-1_5mg.ml_(23-11-22)_BB2_1_6495.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CYE	823_435
+MSV000095859	Blanc_CYE-2_5mg.ml_(23-11-22)_BB2_1_6508.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CYE	823_435
+MSV000095859	Blanc_CYE-3_5mg.ml_(23-11-22)_BB2_1_6512.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CYE	823_435
+MSV000095859	Blanc_CYE-4_5mg.ml_(23-11-22)_BB2_1_6521.mzXML	blank_culturemedia	blank_culturemedia	missing value	impact II|MS:1002666	CYE	823_435
+MSV000095859	D4_CF-1_5mg.ml_(23-11-22)_BB6_1_6499.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	D4_CF	823_435
+MSV000095859	D4_CF-3_5mg.ml_(23-11-22)_BC2_1_6505.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	D4_CF	823_435
+MSV000095859	D4_CF-4_5mg.ml_(23-11-22)_BC6_1_6515.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	D4_CF	823_435
+MSV000095859	D4_CF-5_5mg.ml_(23-11-22)_RE5_1_6522.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	D4_CF	823_435
+MSV000095859	WT_CF-1_5mg.ml_(23-11-22)_BB3_1_6496.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	WT_CF	823_435
+MSV000095859	WT_CF-2_5mg.ml_(23-11-22)_BB8_1_6503.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	WT_CF	823_435
+MSV000095859	WT_CF-3_5mg.ml_(23-11-22)_BC7_1_6516.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	WT_CF	823_435
+MSV000095859	WT_CF-5_5mg.ml_(23-11-22)_RE4_1_6523.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	WT_CF	823_435
+MSV000095859	WT_CTT-1_5mg.ml_(01-12-22)_BB5_1_6498.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	WT_CTT	823_435
+MSV000095859	WT_CTT-3_5mg.ml_(01-12-22)_BC1_1_6504.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	WT_CTT	823_435
+MSV000095859	WT_CTT-4_5mg.ml_(01-12-22)_BC5_1_6514.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	WT_CTT	823_435
+MSV000095859	WT_CTT-6_5mg.ml_(01-12-22)_BD1_1_6520.mzXML	culture_bacterial	culture_bacterial	1198133|Myxococcus xanthus DZ2	impact II|MS:1002666	WT_CTT	823_435
+MSV000095859	Pool1-Q2-1_(01-12-22)_BA8_1_6485.mzXML	pool_QC	pool_QC	missing value	impact II|MS:1002666	missing value	missing value
+MSV000095859	Pool1-Q2-2_(01-12-22)_BA8_1_6486.mzXML	pool_QC	pool_QC	missing value	impact II|MS:1002666	missing value	missing value
+MSV000095859	Pool1-Q2-3_(01-12-22)_BA8_1_6487.mzXML	pool_QC	pool_QC	missing value	impact II|MS:1002666	missing value	missing value
+MSV000095859	Pool1-Q2-4_(01-12-22)_BA8_1_6488.mzXML	pool_QC	pool_QC	missing value	impact II|MS:1002666	missing value	missing value
+MSV000095859	Pool1-Q2-5_(01-12-22)_BA8_1_6489.mzXML	pool_QC	pool_QC	missing value	impact II|MS:1002666	missing value	missing value
+MSV000095859	Pool1-Q2-6_(01-12-22)_BA8_1_6501.mzXML	pool_QC	pool_QC	missing value	impact II|MS:1002666	missing value	missing value
+MSV000095859	Pool1-Q2-7_(01-12-22)_BA8_1_6509.mzXML	pool_QC	pool_QC	missing value	impact II|MS:1002666	missing value	missing value
+MSV000095859	Pool1-Q2-8_(01-12-22)_BA8_1_6517.mzXML	pool_QC	pool_QC	missing value	impact II|MS:1002666	missing value	missing value
+MSV000095859	Pool1-Q2-9_(01-12-22)_BA8_1_6525.mzXML	pool_QC	pool_QC	missing value	impact II|MS:1002666	missing value	missing value

@@ -1,0 +1,8 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	Country	MassSpectrometer	IonizationSourceAndPolarity	code	Type_propolis	Species_as_recorded	Locality
+MSV000096871	BRANCO SPE_POS_3_1-16_01_13655.mzXML	blank_extraction	blank_extraction	missing value	missing value	micrOTOF-Q II|MS:1000704	electrospray ionization (positive)	Blank	Blank	Blank	Blank
+MSV000096871	2B_1-18_01_13657.mzXML	animal	missing value	166423|Melipona quadrifasciata	Brazil	micrOTOF-Q II|MS:1000704	electrospray ionization (positive)	2B	Geopropolis	Melipona_quadrifasciata	Bandeirantes_PR_BRA
+MSV000096871	6B_1-22_01_13661.mzXML	animal	missing value	596866|Tetragona clavipes	Brazil	micrOTOF-Q II|MS:1000704	electrospray ionization (positive)	6B	Propolis	Tetragona_clavipes	Bandeirantes_PR_BRA
+MSV000096871	7B_1-23_01_13662.mzXML	animal	missing value	166444|Plebeia droryana	Brazil	micrOTOF-Q II|MS:1000704	electrospray ionization (positive)	7B	Propolis	Plebeia_droryana	Bandeirantes_PR_BRA
+MSV000096871	15B_1-27_01_13666.mzXML	animal	missing value	166442|Tetragonisca angustula	Brazil	micrOTOF-Q II|MS:1000704	electrospray ionization (positive)	15B	Propolis	Tetragonisca_angustula	Bandeirantes_PR_BRA
+MSV000096871	17B_1-29_01_13668.mzXML	animal	missing value	7460|Apis mellifera	Brazil	micrOTOF-Q II|MS:1000704	electrospray ionization (positive)	17B	Green_propolis	Apis_mellifera	Commercial_sample_BRA
+MSV000096871	18B_1-30_01_13669.mzXML	animal	missing value	7460|Apis mellifera	Brazil	micrOTOF-Q II|MS:1000704	electrospray ionization (positive)	18B	Red_propolis	Apis_mellifera	Commercial_sample_BRA

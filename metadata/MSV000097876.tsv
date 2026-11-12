@@ -1,0 +1,21 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	TimePointHoursRelativeToEvent	MassSpectrometer	SampleName	SampleType_source	Days
+MSV000097876	2.5 % CCA_7days_17_1_8804.mzML	blank_culturemedia	blank_culturemedia	missing value	missing value	timsTOF fleX MALDI-2|MS:1003397	CCA_7days	Blank	Blank
+MSV000097876	2.5% CCA_12 days_5_1_8784.mzML	blank_culturemedia	blank_culturemedia	missing value	missing value	timsTOF fleX MALDI-2|MS:1003397	CCA_12days	Blank	Blank
+MSV000097876	Awest+_7days_1_8_1_8789.mzML	culture_fungal	culture_fungal	357447|Aspergillus westerdijkiae	168	timsTOF fleX MALDI-2|MS:1003397	Awest+_7days_1	Awest+	7days
+MSV000097876	Awest+_7days_2_12_1_8795.mzML	culture_fungal	culture_fungal	357447|Aspergillus westerdijkiae	168	timsTOF fleX MALDI-2|MS:1003397	Awest+_7days_2	Awest+	7days
+MSV000097876	Awest+_12days_3_7_1_8786.mzML	culture_fungal	culture_fungal	357447|Aspergillus westerdijkiae	288	timsTOF fleX MALDI-2|MS:1003397	Awest+_12days_3	Awest+	12days
+MSV000097876	Awest+_12days_4_16_1_8801.mzML	culture_fungal	culture_fungal	357447|Aspergillus westerdijkiae	288	timsTOF fleX MALDI-2|MS:1003397	Awest+_12days_4	Awest+	12days
+MSV000097876	AwestxBrachy_FBI_7days_1_18_1_8805.mzML	culture_multiplespecies	culture_multiplespecies	357447|Aspergillus westerdijkiae||47845|Brachybacterium alimentarium	168	timsTOF fleX MALDI-2|MS:1003397	AwestxBrachy_FBI_7days_1	AwestxBrachy_FBI	7days
+MSV000097876	AwestxBrachy_FBI_7days_2_15_1_8800.mzML	culture_multiplespecies	culture_multiplespecies	357447|Aspergillus westerdijkiae||47845|Brachybacterium alimentarium	168	timsTOF fleX MALDI-2|MS:1003397	AwestxBrachy_FBI_7days_2	AwestxBrachy_FBI	7days
+MSV000097876	AwestxBrachy_FBI_12days_3_9_1_8790.mzML	culture_multiplespecies	culture_multiplespecies	357447|Aspergillus westerdijkiae||47845|Brachybacterium alimentarium	288	timsTOF fleX MALDI-2|MS:1003397	AwestxBrachy_FBI_12days_3	AwestxBrachy_FBI	12days
+MSV000097876	AwestxBrachy_FBI_12days_4_14_1_8799.mzML	culture_multiplespecies	culture_multiplespecies	357447|Aspergillus westerdijkiae||47845|Brachybacterium alimentarium	288	timsTOF fleX MALDI-2|MS:1003397	AwestxBrachy_FBI_12days_4	AwestxBrachy_FBI	12days
+MSV000097876	Blank_03_1_1_8782.mzML	blank_analysis	blank_analysis	missing value	missing value	timsTOF fleX MALDI-2|MS:1003397	Blank_1	Blank	Blank
+MSV000097876	Blank_04_1_1_8783.mzML	blank_analysis	blank_analysis	missing value	missing value	timsTOF fleX MALDI-2|MS:1003397	Blank_2	Blank	Blank
+MSV000097876	Brachy_BI_7days_1_10_1_8791.mzML	missing value	missing value	missing value	168	timsTOF fleX MALDI-2|MS:1003397	Brachy_BI_7days_7days_1	Brachy_BI	7days
+MSV000097876	Brachy_BI_7days_2_6_1_8785.mzML	missing value	missing value	missing value	168	timsTOF fleX MALDI-2|MS:1003397	Brachy_BI_7days_7days_2	Brachy_BI	7days
+MSV000097876	Brachy_BI_12days_3_13_1_8796.mzML	missing value	missing value	missing value	288	timsTOF fleX MALDI-2|MS:1003397	Brachy_BI_12days_12days_3	Brachy_BI	12days
+MSV000097876	Brachy_BI_12days_4_3_1_8780.mzML	missing value	missing value	missing value	288	timsTOF fleX MALDI-2|MS:1003397	Brachy_BI_12days_12days_4	Brachy_BI	12days
+MSV000097876	Brachy+_7days_1_11_1_8794.mzML	culture_bacterial	culture_bacterial	47845|Brachybacterium alimentarium	168	timsTOF fleX MALDI-2|MS:1003397	Brachy+_7days_1	Brachy+	7days
+MSV000097876	Brachy+_7days_2_19_1_8806.mzML	culture_bacterial	culture_bacterial	47845|Brachybacterium alimentarium	168	timsTOF fleX MALDI-2|MS:1003397	Brachy+_7days_2	Brachy+	7days
+MSV000097876	Brachy+_12days_3_2_1_8779.mzML	culture_bacterial	culture_bacterial	47845|Brachybacterium alimentarium	288	timsTOF fleX MALDI-2|MS:1003397	Brachy+_12days_3	Brachy+	12days
+MSV000097876	Brachy+_12days_4_4_1_8781.mzML	culture_bacterial	culture_bacterial	47845|Brachybacterium alimentarium	288	timsTOF fleX MALDI-2|MS:1003397	Brachy+_12days_4	Brachy+	12days

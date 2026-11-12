@@ -1,0 +1,72 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	Country	MassSpectrometer	SampleID	SampleType_recorded	Location	SamplingSite	Species
+MSV000087294	BLANK_LCMS_MeOH.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	micrOTOF II|MS:1001540	BLANK_LCMS_MeOH	BLANK	missing value	missing value	missing value
+MSV000087294	Blank1.mzXML	blank_analysis	blank_analysis	missing value	missing value	missing value	micrOTOF II|MS:1001540	Blank1	BLANK	missing value	missing value	missing value
+MSV000087294	Phpu15Bu-3.mzXML	animal	marine_invertebrates	2724330|Phyllidiella zeylanica	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-3	crude	Bunaken	CelaCela	Phyllidiella_zeylanica
+MSV000087294	Phpu15Bu-4.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-4	crude	Bunaken	Mamaling	Phyllidiella_pustulosa
+MSV000087294	Phpu15Bu-7.mzXML	animal	marine_invertebrates	1881994|Phyllidiella nigra	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-7	crude	Bunaken	AirSlobar	Phyllidiella_nigra
+MSV000087294	Phpu15Bu-8.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-8	crude	Bunaken	AirSlobar	Phyllidiella_pustulosa
+MSV000087294	Phpu15Bu-9.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-9	crude	Bunaken	PasirPanjang	Phyllidiella_pustulosa
+MSV000087294	Phpu15Bu-10.mzXML	animal	marine_invertebrates	1881994|Phyllidiella nigra	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-10	crude	Bunaken	PasirPanjang	Phyllidiella_nigra
+MSV000087294	Phpu15Bu-11.mzXML	animal	marine_invertebrates	2724330|Phyllidiella zeylanica	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-11	crude	Bunaken	PasirPanjang	Phyllidiella_zeylanica
+MSV000087294	Phpu15Bu-14.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-14	crude	Bunaken	ManadoTua	Phyllidiella_pustulosa
+MSV000087294	Phpu15Bu-18.mzXML	animal	marine_invertebrates	1881994|Phyllidiella nigra	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-18	crude	Bunaken	Siladen	Phyllidiella_nigra
+MSV000087294	Phpu15Bu-19.mzXML	animal	marine_invertebrates	1881994|Phyllidiella nigra	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-19	crude	Bunaken	Siladen	Phyllidiella_nigra
+MSV000087294	Phpu15Bu-21.mzXML	animal	marine_invertebrates	2873954|Phyllidiella albonigra	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-21	crude	Bunaken	Johnson	Phyllidiella_albonigra
+MSV000087294	Phpu15Bu-25.mzXML	animal	marine_invertebrates	2724330|Phyllidiella zeylanica	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-25	crude	Bunaken	Mamaling	Phyllidiella_zeylanica
+MSV000087294	Phpu15Bu-27.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-27	crude	Bunaken	ManadoTua	Phyllidiella_sp_c2
+MSV000087294	Phpu15Bu-35.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-35	crude	Bunaken	AirSlobar	Phyllidiella_sp_c1
+MSV000087294	Phpu15Bu-37.mzXML	animal	marine_invertebrates	1881997|Phyllidiopsis krempfi	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu15Bu-37	crude	Bunaken	MainLand	Phyllidiopsis_krempfi
+MSV000087294	Phpu16Bu-8.mzXML	animal	marine_invertebrates	2873954|Phyllidiella albonigra	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Bu-8	crude	Bunaken	MikesPoint	Phyllidiella_albonigra
+MSV000087294	Phpu16Sa-1+2.mzXML	animal	marine_invertebrates	2724330|Phyllidiella zeylanica	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-1+2	crude	Sangihe	Mendaku	Phyllidiella_zeylanica
+MSV000087294	Phpu16Sa-3.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-3	crude	Sangihe	TahunaBayWreck	Phyllidiella_pustulosa
+MSV000087294	Phpu16Sa-4.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-4	crude	Sangihe	TahunaBayWreck	Phyllidiella_pustulosa
+MSV000087294	Phpu16Sa-5.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-5	crude	Sangihe	TahunaBayWreck	Phyllidiella_pustulosa
+MSV000087294	Phpu16Sa-6.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-6	crude	Sangihe	TahunaBayWreck	Phyllidiella_pustulosa
+MSV000087294	Phpu16Sa-7.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-7	crude	Sangihe	TahunaBaySouth	Phyllidiella_sp_b
+MSV000087294	Phpu16Sa-9.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-9	crude	Sangihe	TahunaBaySouth	Phyllidiella_sp_a
+MSV000087294	Phpu16Sa-14.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-14	crude	Sangihe	TahunaBaySouth	Phyllidiella_sp_c1
+MSV000087294	Phpu16Sa-19.mzXML	animal	marine_invertebrates	2873291|Phyllidiopsis burni	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-19	crude	Sangihe	TahunaBaySouth	Phyllidiopsis_burni
+MSV000087294	Phpu16Sa-24.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-24	crude	Sangihe	TahunaBaySouth	Phyllidiella_sp_a
+MSV000087294	Phpu16Sa-25.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-25	crude	Sangihe	TahunaBaySouth	Phyllidiella_sp_b
+MSV000087294	Phpu16Sa-26.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-26	crude	Sangihe	TahunaBaySouth	Phyllidiella_sp_a
+MSV000087294	Phpu16Sa-27.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-27	crude	Sangihe	TahunaBaySouth	Phyllidiella_sp_b
+MSV000087294	Phpu16Sa-32.mzXML	animal	marine_invertebrates	2873954|Phyllidiella albonigra	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-32	crude	Sangihe	TalengenBay	Phyllidiella_albonigra
+MSV000087294	Phpu16Sa-37.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-37	crude	Sangihe	TalengenBay	Phyllidiella_sp_c1
+MSV000087294	Phpu16Sa-39.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-39	crude	Sangihe	TalengenBay	Phyllidiella_sp_b
+MSV000087294	Phpu16Sa-50.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-50	crude	Sangihe	Manalu	Phyllidiella_sp_e
+MSV000087294	Phpu16Sa-52.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-52	crude	Sangihe	Manalu	Phyllidiella_pustulosa
+MSV000087294	Phpu16Sa-55.mzXML	animal	marine_invertebrates	2873291|Phyllidiopsis burni	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-55	crude	Sangihe	Manalu	Phyllidiopsis_burni
+MSV000087294	Phpu16Sa-58.mzXML	animal	marine_invertebrates	1881997|Phyllidiopsis krempfi	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-58	crude	Sangihe	Saipang	Phyllidiopsis_krempfi
+MSV000087294	Phpu16Sa-60.mzXML	animal	marine_invertebrates	2724330|Phyllidiella zeylanica	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-60	crude	Sangihe	Saipang	Phyllidiella_zeylanica
+MSV000087294	Phpu16Sa-66.mzXML	animal	marine_invertebrates	1881997|Phyllidiopsis krempfi	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-66	crude	Sangihe	Saipang	Phyllidiopsis_krempfi
+MSV000087294	Phpu16Sa-68.mzXML	animal	marine_invertebrates	154616|Phyllidiella pustulosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-68	crude	Sangihe	Saipang	Phyllidiella_pustulosa
+MSV000087294	Phpu16Sa-70.mzXML	animal	marine_invertebrates	2724330|Phyllidiella zeylanica	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-70	crude	Sangihe	Saipang	Phyllidiella_zeylanica
+MSV000087294	Phpu16Sa-76.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-76	crude	Sangihe	Saipang	Phyllidiella_cf_pustulosa
+MSV000087294	Phpu16Sa-79.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-79	crude	Sangihe	Palahanaeng	Phyllidiella_cf_pustulosa
+MSV000087294	Phpu16Sa-84.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-84	crude	Sangihe	Palahanaeng	Phyllidiella_sp_b
+MSV000087294	Phpu16Sa-90.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-90	crude	Sangihe	Palahanaeng	Phyllidiella_sp_a
+MSV000087294	Phpu16Sa-92.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-92	crude	Sangihe	Palahanaeng	Phyllidiella_sp_c1
+MSV000087294	Phpu16Sa-93.mzXML	animal	marine_invertebrates	2873291|Phyllidiopsis burni	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu16Sa-93	crude	Sangihe	Palahanaeng	Phyllidiopsis_burni
+MSV000087294	Phpu17Ba-4.mzXML	animal	marine_invertebrates	2873954|Phyllidiella albonigra	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpu17Ba-4	crude	Bangka	BatuBelah	Phyllidiella_albonigra
+MSV000087294	Phli16Sa-5.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phli16Sa-5	crude	Sangihe	TahunaBaySouth	Phyllidiella_sp_c2
+MSV000087294	Phli16Sa-7.mzXML	animal	marine_invertebrates	2724330|Phyllidiella zeylanica	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phli16Sa-7	crude	Sangihe	Saipang	Phyllidiella_zeylanica
+MSV000087294	Phco15Bu-1.mzXML	animal	marine_invertebrates	2872737|Phyllidia haegeli	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phco15Bu-1	crude	Bunaken	CelaCela	Phyllidia_haegeli
+MSV000087294	Phco15Bu-2.mzXML	animal	marine_invertebrates	157139|Phyllidia coelestis	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phco15Bu-2	crude	Bunaken	Mamaling	Phyllidia_coelestis
+MSV000087294	Phco15Bu-3.mzXML	animal	marine_invertebrates	157139|Phyllidia coelestis	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phco15Bu-3	crude	Bunaken	Mamaling	Phyllidia_coelestis
+MSV000087294	Phco15Bu-5.mzXML	animal	marine_invertebrates	157139|Phyllidia coelestis	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phco15Bu-5	crude	Bunaken	Siladen	Phyllidia_coelestis
+MSV000087294	Phco15Bu-6.mzXML	animal	marine_invertebrates	157139|Phyllidia coelestis	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phco15Bu-6	crude	Bunaken	Siladen	Phyllidia_coelestis
+MSV000087294	Phel15Bu-2.mzXML	animal	marine_invertebrates	71379|Phyllidia elegans	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phel15Bu-2	crude	Bunaken	Siladen	Phyllidia_elegans
+MSV000087294	Phel15Bu-5.mzXML	animal	marine_invertebrates	71379|Phyllidia elegans	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phel15Bu-5	crude	Bunaken	Siladen	Phyllidia_elegans
+MSV000087294	Phel15Bu-8.mzXML	animal	marine_invertebrates	71379|Phyllidia elegans	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phel15Bu-8	crude	Bunaken	Johnson	Phyllidia_elegans
+MSV000087294	Phel15Bu-9.mzXML	animal	marine_invertebrates	71379|Phyllidia elegans	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phel15Bu-9	crude	Bunaken	Mamaling	Phyllidia_elegans
+MSV000087294	Phel15Bu-10.mzXML	animal	marine_invertebrates	71379|Phyllidia elegans	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phel15Bu-10	crude	Bunaken	Mamaling	Phyllidia_elegans
+MSV000087294	Phoc16Sa-3.mzXML	animal	marine_invertebrates	1881990|Phyllidia babai	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phoc16Sa-3	crude	Sangihe	Manalu	Phyllidia_babai
+MSV000087294	Phoc16Sa-7.mzXML	animal	marine_invertebrates	190925|Phyllidia ocellata	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phoc16Sa-7	crude	Sangihe	Manalu	Phyllidia_ocellata
+MSV000087294	Phpi15Bu-2.mzXML	animal	marine_invertebrates	1881995|Phyllidiella rudmani	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phpi15Bu-2	crude	Bunaken	AirSlobar	Phyllidiella_rudmani
+MSV000087294	Phsh16Sa-1.mzXML	animal	marine_invertebrates	154615|Phyllidiella	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phsh16Sa-1	crude	Sangihe	Manalu	Phyllidiella_sp_d
+MSV000087294	Phsh16Sa-2.mzXML	animal	marine_invertebrates	1881998|Phyllidiopsis shireenae	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phsh16Sa-2	crude	Sangihe	Saipang	Phyllidiopsis_shireenae
+MSV000087294	Phsh18Le-1.mzXML	animal	marine_invertebrates	1881998|Phyllidiopsis shireenae	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phsh18Le-1	crude	Lembeh	LembehStrait	Phyllidiopsis_shireenae
+MSV000087294	Phva15Bu-5.mzXML	animal	marine_invertebrates	190926|Phyllidia varicosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phva15Bu-5	crude	Bunaken	AirSlobar	Phyllidia_varicosa
+MSV000087294	Phva15Bu-7.mzXML	animal	marine_invertebrates	190926|Phyllidia varicosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phva15Bu-7	crude	Bunaken	AirSlobar	Phyllidia_varicosa
+MSV000087294	Phva15Bu-8.mzXML	animal	marine_invertebrates	190926|Phyllidia varicosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phva15Bu-8	crude	Bunaken	PantaiParigi	Phyllidia_varicosa
+MSV000087294	Phva15Bu-9.mzXML	animal	marine_invertebrates	190926|Phyllidia varicosa	multicellular organism	Indonesia	micrOTOF II|MS:1001540	Phva15Bu-9	crude	Bunaken	PantaiParigi	Phyllidia_varicosa

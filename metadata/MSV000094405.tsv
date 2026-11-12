@@ -1,0 +1,80 @@
+MassiveID	filename	SampleType	SampleTypeSub1	MassSpectrometer	OrganismID	Day
+MSV000094405	SCCe0064.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day1
+MSV000094405	SCCe0065.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day1
+MSV000094405	SCCe0066.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day1
+MSV000094405	SCCe0067.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day1
+MSV000094405	SCCe0068.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day1
+MSV000094405	SCCe0069.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day1
+MSV000094405	SCCe0070.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day1
+MSV000094405	SCCe0071.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day1
+MSV000094405	SCCe0072.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day1
+MSV000094405	SCCe0073.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day1
+MSV000094405	SCCe0074.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day1
+MSV000094405	SCCe0075.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day1
+MSV000094405	SCCe0076.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day1
+MSV000094405	SCCe0077.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day1
+MSV000094405	SCCe0078.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day1
+MSV000094405	SCCe0079.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S764	Day1
+MSV000094405	SCCe0080.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S763	Day1
+MSV000094405	SCCe0081.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S757	Day1
+MSV000094405	SCCe0082.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S749	Day1
+MSV000094405	SCCe0083.mzML	blank_analysis	blank_analysis	6545 Q-TOF LC/MS|MS:1002791	BEADS_BLANK	blank
+MSV000094405	SCCe0084.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day3
+MSV000094405	SCCe0085.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day3
+MSV000094405	SCCe0086.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day3
+MSV000094405	SCCe0087.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day3
+MSV000094405	SCCe0088.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day3
+MSV000094405	SCCe0089.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day3
+MSV000094405	SCCe0090.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day3
+MSV000094405	SCCe0091.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day3
+MSV000094405	SCCe0092.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day3
+MSV000094405	SCCe0093.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day3
+MSV000094405	SCCe0094.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day3
+MSV000094405	SCCe0095.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day3
+MSV000094405	SCCe0096.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day3
+MSV000094405	SCCe0097.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day3
+MSV000094405	SCCe0098.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day3
+MSV000094405	SCCe0099.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S764	Day3
+MSV000094405	SCCe0100.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S763	Day3
+MSV000094405	SCCe0101.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S757	Day3
+MSV000094405	SCCe0102.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S749	Day3
+MSV000094405	SCCe0103.mzML	blank_analysis	blank_analysis	6545 Q-TOF LC/MS|MS:1002791	BEADS_BLANK	blank
+MSV000094405	SCCe0104.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day6
+MSV000094405	SCCe0105.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day6
+MSV000094405	SCCe0106.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day6
+MSV000094405	SCCe0107.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day6
+MSV000094405	SCCe0108.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day6
+MSV000094405	SCCe0109.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day6
+MSV000094405	SCCe0110.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day6
+MSV000094405	SCCe0111.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day6
+MSV000094405	SCCe0112.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day6
+MSV000094405	SCCe0113.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day6
+MSV000094405	SCCe0114.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day6
+MSV000094405	SCCe0115.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day6
+MSV000094405	SCCe0116.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day6
+MSV000094405	SCCe0117.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day6
+MSV000094405	SCCe0118.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day6
+MSV000094405	SCCe0119.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S764	Day6
+MSV000094405	SCCe0120.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S763	Day6
+MSV000094405	SCCe0121.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S757	Day6
+MSV000094405	SCCe0122.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S749	Day6
+MSV000094405	SCCe0123.mzML	blank_analysis	blank_analysis	6545 Q-TOF LC/MS|MS:1002791	BEADS_BLANK	blank
+MSV000094405	SCCe0124.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day9
+MSV000094405	SCCe0125.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day9
+MSV000094405	SCCe0126.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5	Day9
+MSV000094405	SCCe0127.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day9
+MSV000094405	SCCe0128.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day9
+MSV000094405	SCCe0129.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1	Day9
+MSV000094405	SCCe0130.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day9
+MSV000094405	SCCe0131.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day9
+MSV000094405	SCCe0132.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 sfp	Day9
+MSV000094405	SCCe0133.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day9
+MSV000094405	SCCe0134.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day9
+MSV000094405	SCCe0135.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 srfAC	Day9
+MSV000094405	SCCe0136.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day9
+MSV000094405	SCCe0137.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day9
+MSV000094405	SCCe0138.mzML	culture_multiplespecies	culture_multiplespecies	6545 Q-TOF LC/MS|MS:1002791	Syncom P5 + B. subtilis P5_B1 ppsC	Day9
+MSV000094405	SCCe0139.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S764	Day9
+MSV000094405	SCCe0140.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S763	Day9
+MSV000094405	SCCe0141.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S757	Day9
+MSV000094405	SCCe0142.mzML	culture_bacterial	culture_bacterial	6545 Q-TOF LC/MS|MS:1002791	S749	Day9

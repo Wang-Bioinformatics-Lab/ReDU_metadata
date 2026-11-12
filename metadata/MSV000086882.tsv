@@ -1,0 +1,48 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	Exposure	MassSpectrometer	Sample_ID	Cell_type	Treatment
+MSV000086882	CI_29.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_29	Islet	No treatment
+MSV000086882	CI_22.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_22	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_15.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_15	Islet	monomethylated arsenic
+MSV000086882	CI_33.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_33	Islet	No treatment
+MSV000086882	CI_14.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_14	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_20.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_20	Islet	dimethylated arsenic
+MSV000086882	CI_17.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_17	Islet	No treatment
+MSV000086882	CI_19.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_19	Islet	monomethylated arsenic
+MSV000086882	CI_36.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_36	Islet	dimethylated arsenic
+MSV000086882	CI_21.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_21	Islet	No treatment
+MSV000086882	CI_8.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_8	Islet	dimethylated arsenic
+MSV000086882	CI_39.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_39	Islet	monomethylated arsenic
+MSV000086882	CI_38.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_38	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_3.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_3	Islet	monomethylated arsenic
+MSV000086882	CI_40.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_40	Islet	dimethylated arsenic
+MSV000086882	CI_27.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_27	Islet	monomethylated arsenic
+MSV000086882	CI_6.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_6	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_9.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_9	Islet	No treatment
+MSV000086882	CI_18.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_18	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_35.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_35	Islet	monomethylated arsenic
+MSV000086882	CI_23.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_23	Islet	monomethylated arsenic
+MSV000086882	CI_25.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_25	Islet	No treatment
+MSV000086882	CI_32.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_32	Islet	dimethylated arsenic
+MSV000086882	CI_13.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_13	Islet	No treatment
+MSV000086882	CI_37.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_37	Islet	No treatment
+MSV000086882	CI_26.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_26	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_2.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_2	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_12.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_12	Islet	dimethylated arsenic
+MSV000086882	CI_11.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_11	Islet	monomethylated arsenic
+MSV000086882	CI_34.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_34	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_31.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_31	Islet	monomethylated arsenic
+MSV000086882	CI_10.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_10	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_28.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_28	Islet	dimethylated arsenic
+MSV000086882	CI_1.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_1	Islet	No treatment
+MSV000086882	CI_24.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_24	Islet	dimethylated arsenic
+MSV000086882	CI_5.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	CI_5	Islet	No treatment
+MSV000086882	CI_30.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to sodium arsenite	Q Exactive HF|MS:1002523	CI_30	Islet	inorganic arsenic (sodium arsenite)
+MSV000086882	CI_16.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_16	Islet	dimethylated arsenic
+MSV000086882	CI_7.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_7	Islet	monomethylated arsenic
+MSV000086882	CI_4.mzML	animal	tissue	10090|Mus musculus	islet of Langerhans	exposure to organoarsenic compound	Q Exactive HF|MS:1002523	CI_4	Islet	dimethylated arsenic
+MSV000086882	SP_CL_1_1.mzML	pool_QC	pool_QC	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	SP_CL_1_1	Islet sample pool	Islet sample pool
+MSV000086882	SP_CL_1_2.mzML	pool_QC	pool_QC	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	SP_CL_1_2	Islet sample pool	Islet sample pool
+MSV000086882	SP_CL_2_1.mzML	pool_QC	pool_QC	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	SP_CL_2_1	Islet sample pool	Islet sample pool
+MSV000086882	SP_CL_2_2.mzML	pool_QC	pool_QC	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	SP_CL_2_2	Islet sample pool	Islet sample pool
+MSV000086882	SP_CL_3_1.mzML	pool_QC	pool_QC	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	SP_CL_3_1	Islet sample pool	Islet sample pool
+MSV000086882	SP_CL_3_2.mzML	pool_QC	pool_QC	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	SP_CL_3_2	Islet sample pool	Islet sample pool
+MSV000086882	SP_CL_4.mzML	pool_QC	pool_QC	10090|Mus musculus	islet of Langerhans	missing value	Q Exactive HF|MS:1002523	SP_CL_4	Islet sample pool	Islet sample pool

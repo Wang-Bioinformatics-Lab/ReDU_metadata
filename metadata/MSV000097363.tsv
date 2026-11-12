@@ -1,0 +1,8 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	Sample_type_recorded
+MSV000097363	Blank2.mzML	blank_extraction	blank_extraction	missing value	Orbitrap Exploris 120|MS:1003095	missing value	blank_extraction
+MSV000097363	F4.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 120|MS:1003095	missing value	blank
+MSV000097363	F4_F7.mzML	blank_analysis	blank_analysis	missing value	Orbitrap Exploris 120|MS:1003095	missing value	blank
+MSV000097363	F5ddMS2_NEG.mzML	microalgae	missing value	176852|Amphidinium eilatiense	Orbitrap Exploris 120|MS:1003095	electrospray ionization (negative)	non-polar fraction 5 in negative ionization mode
+MSV000097363	F5ddMS2_POS.mzML	microalgae	missing value	176852|Amphidinium eilatiense	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	non-polar fraction 5 in positive ionization mode
+MSV000097363	F6ddMS2_NEG.mzML	microalgae	missing value	176852|Amphidinium eilatiense	Orbitrap Exploris 120|MS:1003095	electrospray ionization (negative)	non-polar fraction 6 in negative ionization mode
+MSV000097363	F6ddMS2_POS.mzML	microalgae	missing value	176852|Amphidinium eilatiense	Orbitrap Exploris 120|MS:1003095	electrospray ionization (positive)	non-polar fraction 6 in positive ionization mode

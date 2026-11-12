@@ -1,0 +1,31 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	Exposure	TIME	XENOBIOTIC	GROUPS
+MSV000094929	Imd24_2.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	24	Imidazole	Imidazole_24
+MSV000094929	Imd24_1.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	24	Imidazole	Imidazole_24
+MSV000094929	Imd24_3.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	24	Imidazole	Imidazole_24
+MSV000094929	AS0_1.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to asulam	1	Asulam	Asulam_1
+MSV000094929	Gly24_3.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to glyphosate	24	Glyphosate	Glyphosate_24
+MSV000094929	Imd0_3.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	1	Imidazole	Imidazole_1
+MSV000094929	Imd0_2.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	1	Imidazole	Imidazole_1
+MSV000094929	Gly24_2.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to glyphosate	24	Glyphosate	Glyphosate_24
+MSV000094929	F24_3.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	24	Fosfomycin	Fosfomycin_24
+MSV000094929	F0_3.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	1	Fosfomycin	Fosfomycin_1
+MSV000094929	F0_1.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	1	Fosfomycin	Fosfomycin_1
+MSV000094929	Imd0_1.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	1	Imidazole	Imidazole_1
+MSV000094929	Gly24_1.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to glyphosate	24	Glyphosate	Glyphosate_24
+MSV000094929	AS0_2.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to asulam	1	Asulam	Asulam_1
+MSV000094929	F24_2.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	24	Fosfomycin	Fosfomycin_24
+MSV000094929	F24_1.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	24	Fosomycin	Fosfomycin_24
+MSV000094929	Gly0_1.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to glyphosate	1	Glyphosate	Glyphosate_1
+MSV000094929	F0_2.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	missing value	1	Fosfomycin	Fosfomycin_1
+MSV000094929	AS24_3.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to asulam	24	Asulam	Asulam_24
+MSV000094929	AS24_2.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to asulam	24	Asulam	Asulam_24
+MSV000094929	AS24_1.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to asulam	24	Asulam	Asulam_24
+MSV000094929	Gly0_2.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to glyphosate	1	Glyphosate	Glyphosate_1
+MSV000094929	AS0_3.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to asulam	1	Asulam	Asulam_1
+MSV000094929	Gly0_3.mzML	culture_bacterial	culture_bacterial	367830|Staphylococcus aureus subsp. aureus USA300	Q Exactive HF|MS:1002523	exposure to glyphosate	1	Glyphosate	Glyphosate_1
+MSV000094929	con_1.mzML	missing value	missing value	missing value	Q Exactive HF|MS:1002523	missing value	24	Control	Control_24
+MSV000094929	con_2.mzML	missing value	missing value	missing value	Q Exactive HF|MS:1002523	missing value	24	Control	Control_24
+MSV000094929	con_3.mzML	missing value	missing value	missing value	Q Exactive HF|MS:1002523	missing value	24	Control	Control_24
+MSV000094929	Blank_1.mzML	blank_analysis	blank_analysis	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value	missing value
+MSV000094929	Blank_2.mzML	blank_analysis	blank_analysis	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value	missing value
+MSV000094929	Blank_3.mzML	blank_analysis	blank_analysis	missing value	Q Exactive HF|MS:1002523	missing value	missing value	missing value	missing value

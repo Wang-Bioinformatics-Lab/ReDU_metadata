@@ -1,0 +1,9 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	ChromatographyAndPhase	FileLabel	CellPopulation
+ST000248	ST000248/Data/raw_files/neg/QE2_SBS_21_1[BLANK].mzXML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	electrospray ionization (negative)	reverse phase (NOS)	BLANK	missing value
+ST000248	ST000248/Data/raw_files/neg/QE2_SBS_21_2[BLANK].mzXML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	electrospray ionization (negative)	reverse phase (NOS)	BLANK	missing value
+ST000248	ST000248/Data/raw_files/neg/QE2_SBS_21_3[BLANK].mzXML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	electrospray ionization (negative)	reverse phase (NOS)	BLANK	missing value
+ST000248	ST000248/Data/raw_files/neg/QE2_SBS_21_5[POOLED_QC].mzXML	pool_QC	pool_QC	9606|Homo sapiens	Q Exactive|MS:1001911	electrospray ionization (negative)	reverse phase (NOS)	POOLED_QC	pool of the study samples
+ST000248	ST000248/Data/raw_files/pos/QE2_SBS_21_1[BLANK].mzXML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (NOS)	BLANK	missing value
+ST000248	ST000248/Data/raw_files/pos/QE2_SBS_21_2[BLANK].mzXML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (NOS)	BLANK	missing value
+ST000248	ST000248/Data/raw_files/pos/QE2_SBS_21_3[BLANK].mzXML	blank_analysis	blank_analysis	missing value	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (NOS)	BLANK	missing value
+ST000248	ST000248/Data/raw_files/pos/QE2_SBS_21_5[POOLED_QC].mzXML	pool_QC	pool_QC	9606|Homo sapiens	Q Exactive|MS:1001911	electrospray ionization (positive)	reverse phase (NOS)	POOLED_QC	pool of the study samples

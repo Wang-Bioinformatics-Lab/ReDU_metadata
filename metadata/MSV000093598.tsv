@@ -1,0 +1,10 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	Exposure	MassSpectrometer	Treatment
+MSV000093598	DMSO_1.mzXML	culture_bacterial	culture_bacterial	652611|Pseudomonas aeruginosa PA14	missing value	Orbitrap Exploris 480|MS:1003028	DMSO
+MSV000093598	DMSO_2.mzXML	culture_bacterial	culture_bacterial	652611|Pseudomonas aeruginosa PA14	missing value	Orbitrap Exploris 480|MS:1003028	DMSO
+MSV000093598	DMSO_3.mzXML	culture_bacterial	culture_bacterial	652611|Pseudomonas aeruginosa PA14	missing value	Orbitrap Exploris 480|MS:1003028	DMSO
+MSV000093598	IRS143_1.mzXML	culture_bacterial	culture_bacterial	652611|Pseudomonas aeruginosa PA14	missing value	Orbitrap Exploris 480|MS:1003028	fluorofolin
+MSV000093598	IRS143_2.mzXML	culture_bacterial	culture_bacterial	652611|Pseudomonas aeruginosa PA14	missing value	Orbitrap Exploris 480|MS:1003028	fluorofolin
+MSV000093598	IRS143_3.mzXML	culture_bacterial	culture_bacterial	652611|Pseudomonas aeruginosa PA14	missing value	Orbitrap Exploris 480|MS:1003028	fluorofolin
+MSV000093598	trimethoprim_1.mzXML	culture_bacterial	culture_bacterial	652611|Pseudomonas aeruginosa PA14	exposure to trimethoprim	Orbitrap Exploris 480|MS:1003028	trimethoprim
+MSV000093598	trimethoprim_2.mzXML	culture_bacterial	culture_bacterial	652611|Pseudomonas aeruginosa PA14	exposure to trimethoprim	Orbitrap Exploris 480|MS:1003028	trimethoprim
+MSV000093598	trimethoprim_3.mzXML	culture_bacterial	culture_bacterial	652611|Pseudomonas aeruginosa PA14	exposure to trimethoprim	Orbitrap Exploris 480|MS:1003028	trimethoprim

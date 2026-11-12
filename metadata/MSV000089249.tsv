@@ -1,0 +1,26 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	IonizationSourceAndPolarity	species	condition
+MSV000089249	171103_PMA_TK_M1_01.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	M1
+MSV000089249	171103_PMA_TK_M1_02.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	M1
+MSV000089249	171103_PMA_TK_M1_03.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	M1
+MSV000089249	171103_PMA_TK_M1_04.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	M1
+MSV000089249	171103_PMA_TK_M1_05.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	M1
+MSV000089249	171103_PMA_TK_M1_06.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	M1
+MSV000089249	171103_PMA_TK_PA14_01.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	PA14
+MSV000089249	171103_PMA_TK_PA14_02.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	PA14
+MSV000089249	171103_PMA_TK_PA14_03.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	PA14
+MSV000089249	171103_PMA_TK_PA14_04.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	PA14
+MSV000089249	171103_PMA_TK_PA14_05.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	PA14
+MSV000089249	171103_PMA_TK_PA14_06.mzML	culture_bacterial	culture_bacterial	208963|Pseudomonas aeruginosa UCBPP-PA14	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	Pseudomonas aeruginosa	PA14
+MSV000089249	171103_PMA_TK_QC_03.mzML	pool_QC	pool_QC	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	QC
+MSV000089249	171103_PMA_TK_QC_04.mzML	pool_QC	pool_QC	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	QC
+MSV000089249	171103_PMA_TK_QC_05.mzML	pool_QC	pool_QC	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	QC
+MSV000089249	171103_PMA_TK_QC_06.mzML	pool_QC	pool_QC	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	QC
+MSV000089249	171103_PMA_TK_QC_07.mzML	pool_QC	pool_QC	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	QC
+MSV000089249	171103_PMA_TK_QC_08.mzML	pool_QC	pool_QC	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	QC
+MSV000089249	171103_PMA_TK_media_02.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	media
+MSV000089249	171103_PMA_TK_media_03.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	media
+MSV000089249	171103_PMA_TK_media_04.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	media
+MSV000089249	171103_PMA_TK_media_05.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	media
+MSV000089249	171103_PMA_TK_media_06.mzML	blank_culturemedia	blank_culturemedia	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	nd	media
+MSV000089249	171103_PMA_TK_QC_01.mzML	pool_QC	pool_QC	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	missing value	missing value
+MSV000089249	171103_PMA_TK_QC_02.mzML	pool_QC	pool_QC	missing value	Q Exactive Focus|MS:1002993	electrospray ionization (positive)	missing value	missing value

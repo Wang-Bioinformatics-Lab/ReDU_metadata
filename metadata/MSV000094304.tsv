@@ -1,0 +1,6 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	MassSpectrometer	SampleType_AsRecorded	StandardMix	Concentration	InjectionVolume
+MSV000094304	ATX_CYN_2_200ppb_10uL.mzXML	molecular_standards	defined_standards	not applicable	impact II|MS:1002666	std	13C4(+)-Anatoxin-a, Homoanatoxin-a, CYN, 7-epi-CYN, 7-deoxy-CYN	200ppb	10uL
+MSV000094304	ATX_CYN_1_200ppb_10uL.mzXML	molecular_standards	defined_standards	not applicable	impact II|MS:1002666	std	13C4(+)-Anatoxin-a, Homoanatoxin-a, CYN, 7-epi-CYN, 7-deoxy-CYN	200ppb	10uL
+MSV000094304	STD_deMCs_1_200ppb_10uL.mzXML	molecular_standards	defined_standards	not applicable	impact II|MS:1002666	std	[D-Asp3] Microcystin-LR, [D-Asp3] Microcystin-RR, Microcystin-HilR	200ppb	10uL
+MSV000094304	STD_deMCs_2_200ppb_10uL.mzXML	molecular_standards	defined_standards	not applicable	impact II|MS:1002666	std	[D-Asp3] Microcystin-LR, [D-Asp3] Microcystin-RR, Microcystin-HilR	200ppb	10uL
+MSV000094304	Blank_30MeOH_1.mzXML	blank_analysis	blank_analysis	not applicable	impact II|MS:1002666	blank	missing value	missing value	missing value

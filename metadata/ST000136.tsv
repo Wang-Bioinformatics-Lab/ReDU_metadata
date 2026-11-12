@@ -1,0 +1,25 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	ChromatographyAndPhase	SampleID	DietFactor	Injection
+ST000136	QE1_REP_34_1a_10.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 1_A	control	10
+ST000136	QE1_REP_34_1a_44.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 1_A	control	44
+ST000136	QE1_REP_34_1b_04.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 1_B	control	04
+ST000136	QE1_REP_34_1b_43.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 1_B	control	43
+ST000136	QE1_REP_34_1c_05.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 1_C	control	05
+ST000136	QE1_REP_34_1c_40.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 1_C	control	40
+ST000136	QE1_REP_34_3a_11.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 3_A	fish oil	11
+ST000136	QE1_REP_34_3a_46.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 3_A	fish oil	46
+ST000136	QE1_REP_34_3b_03.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 3_B	fish oil	03
+ST000136	QE1_REP_34_3b_38.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 3_B	fish oil	38
+ST000136	QE1_REP_34_3c_06.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 3_C	fish oil	06
+ST000136	QE1_REP_34_3c_45.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 3_C	fish oil	45
+ST000136	QE1_REP_34_2a_08.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 2_A	flax seed	08
+ST000136	QE1_REP_34_2a_39.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 2_A	flax seed	39
+ST000136	QE1_REP_34_2b_09.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 2_B	flax seed	09
+ST000136	QE1_REP_34_2b_42.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 2_B	flax seed	42
+ST000136	QE1_REP_34_2c_07.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 2_C	flax seed	07
+ST000136	QE1_REP_34_2c_41.mzXML	reference material	reference material_NIST SRM 2378	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	SRM2378 2_C	flax seed	41
+ST000136	QE1_REP_34_QC1_02.mzXML	reference material	reference material_NIST SRM 1950	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	missing value	QC	02
+ST000136	QE1_REP_34_QC1_26.mzXML	reference material	reference material_NIST SRM 1950	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	missing value	QC	26
+ST000136	QE1_REP_34_QC1_28.mzXML	reference material	reference material_NIST SRM 1950	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	missing value	QC	28
+ST000136	QE1_REP_34_QC1_37.mzXML	reference material	reference material_NIST SRM 1950	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	missing value	QC	37
+ST000136	QE1_REP_34_QC2_47.mzXML	reference material	reference material_NIST SRM 1950	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	missing value	QC	47
+ST000136	QE1_REP_34_QC2_48.mzXML	reference material	reference material_NIST SRM 1950	9606|Homo sapiens	blood plasma	Q Exactive|MS:1001911	reverse phase (C18)	missing value	QC	48

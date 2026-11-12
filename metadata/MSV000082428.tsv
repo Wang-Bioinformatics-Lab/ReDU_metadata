@@ -1,0 +1,53 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	UBERONBodyPartName	MassSpectrometer	sample_name	ms_sample_type	resuspension_solvent_concentration	solvent_used
+MSV000082428	50_ACN_1_1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_ACN_1_1	fecal_sample	50_ACN	ACN
+MSV000082428	50_ACN_1_2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_ACN_1_2	fecal_sample	50_ACN	ACN
+MSV000082428	50_ACN_1_3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_ACN_1_3	fecal_sample	50_ACN	ACN
+MSV000082428	50_ACN_2_1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_ACN_2_1	fecal_sample	50_ACN	ACN
+MSV000082428	50_ACN_2_2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_ACN_2_2	fecal_sample	50_ACN	ACN
+MSV000082428	50_ACN_2_3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_ACN_2_3	fecal_sample	50_ACN	ACN
+MSV000082428	50_ACN_IS1_1.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	50_ACN_IS1_1	ctrl_resuspension_solvent	50_ACN	ACN
+MSV000082428	50_ACN_IS1_2.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	50_ACN_IS1_2	ctrl_resuspension_solvent	50_ACN	ACN
+MSV000082428	50_ACN_IS1_3.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	50_ACN_IS1_3	ctrl_resuspension_solvent	50_ACN	ACN
+MSV000082428	50_MeOH_1_1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_MeOH_1_1	fecal_sample	50_MeOH	MeOH
+MSV000082428	50_MeOH_1_2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_MeOH_1_2	fecal_sample	50_MeOH	MeOH
+MSV000082428	50_MeOH_1_3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_MeOH_1_3	fecal_sample	50_MeOH	MeOH
+MSV000082428	50_MeOH_2_1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_MeOH_2_1	fecal_sample	50_MeOH	MeOH
+MSV000082428	50_MeOH_2_2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_MeOH_2_2	fecal_sample	50_MeOH	MeOH
+MSV000082428	50_MeOH_2_3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	50_MeOH_2_3	fecal_sample	50_MeOH	MeOH
+MSV000082428	50_MeoH_IS1_1.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	50_MeoH_IS1_1	ctrl_resuspension_solvent	50_MeOH	MeOH
+MSV000082428	50_MeoH_IS1_2.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	50_MeoH_IS1_2	ctrl_resuspension_solvent	50_MeOH	MeOH
+MSV000082428	50_MeoH_IS1_3.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	50_MeoH_IS1_3	ctrl_resuspension_solvent	50_MeOH	MeOH
+MSV000082428	5_ACN_1_1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_ACN_1_1	fecal_sample	5_ACN	ACN
+MSV000082428	5_ACN_1_2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_ACN_1_2	fecal_sample	5_ACN	ACN
+MSV000082428	5_ACN_1_3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_ACN_1_3	fecal_sample	5_ACN	ACN
+MSV000082428	5_ACN_2_1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_ACN_2_1	fecal_sample	5_ACN	ACN
+MSV000082428	5_ACN_2_2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_ACN_2_2	fecal_sample	5_ACN	ACN
+MSV000082428	5_ACN_2_3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_ACN_2_3	fecal_sample	5_ACN	ACN
+MSV000082428	5_ACN_IS1_1.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	5_ACN_IS1_1	ctrl_resuspension_solvent	5_ACN	ACN
+MSV000082428	5_ACN_IS1_2.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	5_ACN_IS1_2	ctrl_resuspension_solvent	5_ACN	ACN
+MSV000082428	5_ACN_IS1_3.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	5_ACN_IS1_3	ctrl_resuspension_solvent	5_ACN	ACN
+MSV000082428	5_MeOH_1_1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_MeOH_1_1	fecal_sample	5_MeOH	MeOH
+MSV000082428	5_MeOH_1_2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_MeOH_1_2	fecal_sample	5_MeOH	MeOH
+MSV000082428	5_MeOH_1_3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_MeOH_1_3	fecal_sample	5_MeOH	MeOH
+MSV000082428	5_MeOH_2_1.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_MeOH_2_1	fecal_sample	5_MeOH	MeOH
+MSV000082428	5_MeOH_2_2.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_MeOH_2_2	fecal_sample	5_MeOH	MeOH
+MSV000082428	5_MeOH_2_3.mzXML	animal	biofluid	9606|Homo sapiens	feces	Q Exactive|MS:1001911	5_MeOH_2_3	fecal_sample	5_MeOH	MeOH
+MSV000082428	5_MeOH_IS1_1.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	5_MeOH_IS1_1	ctrl_resuspension_solvent	5_MeOH	MeOH
+MSV000082428	5_MeOH_IS1_3.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	5_MeOH_IS1_3	ctrl_resuspension_solvent	5_MeOH	MeOH
+MSV000082428	Blk_no_inj_01.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_01	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_02.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_02	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_03.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_03	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_04.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_04	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_05.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_05	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_06.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_06	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_07.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_07	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_08.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_08	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_09.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_09	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_10.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_10	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_11.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_11	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_12.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_12	ctrl_blank_injection	missing value	missing value
+MSV000082428	Blk_no_inj_13.mzXML	blank_analysis	blank_analysis	missing value	missing value	Q Exactive|MS:1001911	Blk_no_inj_13	ctrl_blank_injection	missing value	missing value
+MSV000082428	Std_MIx_01.mzXML	molecular_standards	defined_standards	missing value	missing value	Q Exactive|MS:1001911	Std_MIx_01	ctrl_standard_mix	missing value	missing value
+MSV000082428	Std_MIx_02.mzXML	molecular_standards	defined_standards	missing value	missing value	Q Exactive|MS:1001911	Std_MIx_02	ctrl_standard_mix	missing value	missing value
+MSV000082428	Std_MIx_03.mzXML	molecular_standards	defined_standards	missing value	missing value	Q Exactive|MS:1001911	Std_MIx_03	ctrl_standard_mix	missing value	missing value
+MSV000082428	Std_MIx_04.mzXML	molecular_standards	defined_standards	missing value	missing value	Q Exactive|MS:1001911	Std_MIx_04	ctrl_standard_mix	missing value	missing value

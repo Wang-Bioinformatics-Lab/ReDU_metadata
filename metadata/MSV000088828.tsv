@@ -1,0 +1,53 @@
+MassiveID	filename	SampleType	SampleTypeSub1	NCBITaxonomy	SampleCollectionMethod	MassSpectrometer	UBERONBodyPartName	DOIDCommonName	IonizationSourceAndPolarity	polarity	AKI
+MSV000088828	Neg_ExtractionBlank-1.mzXML.mzML	blank_extraction	blank_extraction	missing value	missing value	TripleTOF 5600|MS:1000932	missing value	missing value	electrospray ionization (negative)	Negative	Blank
+MSV000088828	Neg_ExtractionBlank-2.mzXML.mzML	blank_extraction	blank_extraction	missing value	missing value	TripleTOF 5600|MS:1000932	missing value	missing value	electrospray ionization (negative)	Negative	Blank
+MSV000088828	Neg_ExtractionBlank-3.mzXML.mzML	blank_extraction	blank_extraction	missing value	missing value	TripleTOF 5600|MS:1000932	missing value	missing value	electrospray ionization (negative)	Negative	Blank
+MSV000088828	Neg_NRSP_01.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_02.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_03.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_04.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_05.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_06.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_07.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_08.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_09.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_10.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_11.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_12.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_13.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_14.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_15.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_16.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_17.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_18.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_19.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_20.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_21.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_22.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_23.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_24.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_25.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_26.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	no_AKI
+MSV000088828	Neg_NRSP_27.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_NRSP_28.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (negative)	Negative	AKI
+MSV000088828	Neg_PooledSample_1.mzXML.mzML	pool_QC	pool_QC	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	missing value	electrospray ionization (negative)	Negative	Pool
+MSV000088828	Neg_PooledSample_2.mzXML.mzML	pool_QC	pool_QC	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	missing value	electrospray ionization (negative)	Negative	Pool
+MSV000088828	Neg_PooledSample_3.mzXML.mzML	pool_QC	pool_QC	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	missing value	electrospray ionization (negative)	Negative	Pool
+MSV000088828	Neg_PooledSample_NEW MSMS repeat.mzML	pool_QC	pool_QC	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	missing value	electrospray ionization (negative)	Negative	Pool
+MSV000088828	Pos_NRSP_04.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	AKI
+MSV000088828	Pos_NRSP_05.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	AKI
+MSV000088828	Pos_NRSP_06.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	no_AKI
+MSV000088828	Pos_NRSP_07.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	AKI
+MSV000088828	Pos_NRSP_08.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	AKI
+MSV000088828	Pos_NRSP_10.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	no_AKI
+MSV000088828	Pos_NRSP_11.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	no_AKI
+MSV000088828	Pos_NRSP_12.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	AKI
+MSV000088828	Pos_NRSP_13.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	AKI
+MSV000088828	Pos_NRSP_24.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	no_AKI
+MSV000088828	Pos_NRSP_25.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	AKI
+MSV000088828	Pos_NRSP_26.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	no_AKI
+MSV000088828	Pos_NRSP_27.mzXML.mzML	animal	biofluid	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	COVID-19	electrospray ionization (positive)	Positive	AKI
+MSV000088828	Pos_PooledSample_1.mzXML.mzML	pool_QC	pool_QC	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	missing value	electrospray ionization (positive)	Positive	Pool
+MSV000088828	Pos_PooledSample_2.mzXML.mzML	pool_QC	pool_QC	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	missing value	electrospray ionization (positive)	Positive	Pool
+MSV000088828	Pos_PooledSample_3.mzXML.mzML	pool_QC	pool_QC	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	missing value	electrospray ionization (positive)	Positive	Pool
+MSV000088828	Pos_PooledSample MSMS_1.mzML	pool_QC	pool_QC	9606|Homo sapiens	urine, NOS	TripleTOF 5600|MS:1000932	urine	missing value	electrospray ionization (positive)	Positive	Pool
